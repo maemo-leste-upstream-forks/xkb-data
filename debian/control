@@ -2,7 +2,6 @@ Source: xkeyboard-config
 Section: x11
 Priority: extra
 Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
-Uploaders: Cyril Brulebois <kibi@debian.org>
 Build-Depends:
  debhelper (>= 8),
  dh-autoreconf,
