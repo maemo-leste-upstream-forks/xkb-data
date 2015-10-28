@@ -1,11 +1,12 @@
-xkeyboard-config (2.16-1) UNRELEASED; urgency=medium
+xkeyboard-config (2.16-1) unstable; urgency=medium
 
+  * Team upload.
   * New upstream release.
   * Bump debhelper compat to 9, Standards-Version to 3.9.6, and update Vcs-*
     control fields.
   * Drop dh_builddeb override, xz is the default since dpkg 1.17.0.
 
- -- Julien Cristau <jcristau@debian.org>  Wed, 28 Oct 2015 15:24:12 +0000
+ -- Julien Cristau <jcristau@debian.org>  Wed, 28 Oct 2015 15:39:42 +0000
 
 xkeyboard-config (2.14-1) unstable; urgency=medium
 
