@@ -1,3 +1,9 @@
+xkeyboard-config (2.16-1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Julien Cristau <jcristau@debian.org>  Wed, 28 Oct 2015 15:24:12 +0000
+
 xkeyboard-config (2.14-1) unstable; urgency=medium
 
   * New upstream release (closes: #776817).
