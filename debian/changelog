@@ -1,4 +1,6 @@
-xkeyboard-config (2.18-1) UNRELEASED; urgency=medium
+xkeyboard-config (2.18-1) unstable; urgency=medium
+
+  * Team upload.
 
   [ Timo Aaltonen ]
   * New upstream release.
@@ -6,7 +8,7 @@ xkeyboard-config (2.18-1) UNRELEASED; urgency=medium
   [ Julien Cristau ]
   * Update upstream URLs in packaging to use https.
 
- -- Timo Aaltonen <tjaalton@debian.org>  Mon, 01 Aug 2016 20:11:55 +0300
+ -- Julien Cristau <jcristau@debian.org>  Sat, 24 Sep 2016 15:07:03 +0200
 
 xkeyboard-config (2.17-1) unstable; urgency=medium
 
