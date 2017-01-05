@@ -1039,6 +1039,12 @@
       <variantList>
         <variant>
           <configItem>
+            <name>acc</name>
+            <description>Slovak (ACC layout, only accented letters)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>sun_type6</name>
             <description>Slovak (Sun Type 6/7)</description>
           </configItem>
