@@ -560,8 +560,7 @@ xkb_symbols "phonetic_azerty" {
 };
 
 // Russian dvorak phonetic layout
-// 2016-06-15 by Mart Lubbers
-// contact: <mart@martlubbers.net>
+// Oleg Zalizniak <ramaloke at gmail.com>
 partial alphanumeric_keys
 xkb_symbols "phonetic_dvorak" {
     include "level3(ralt_switch)"
