@@ -829,6 +829,15 @@
             <_description>Swedish (Sun Type 6/7)</_description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>ovd</name>
+            <_description>Elfdalian (Swedish, with combining ogonek)</_description>
+            <languageList>
+              <iso639Id>ovd</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
