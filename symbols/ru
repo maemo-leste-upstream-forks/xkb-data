@@ -647,7 +647,7 @@ xkb_symbols "rulemak" {
     key <AE05> { [               5,         percent,        EuroSign                  ] };
     key <AE06> { [               6,     asciicircum,           U0306                  ] };
     key <AE07> { [               7,       ampersand,           U0307                  ] };
-    key <AE08> { [               8,        asterisk,           U0308                  ] };
+    key <AE08> { [               8,        asterisk,           U20BD                  ] };
     key <AE09> { [               9,       parenleft,     bracketleft                  ] };
     key <AE10> { [               0,      parenright,    bracketright                  ] };
     key <AE11> { [           minus,      underscore,          endash,          emdash ] };
