@@ -1,6 +1,7 @@
 xkeyboard-config (2.19-1) UNRELEASED; urgency=medium
 
   * New upstream release.
+  * Bump Standards-Version to 3.9.8.
 
  -- Andreas Boll <andreas.boll.dev@gmail.com>  Thu, 12 Jan 2017 11:40:48 +0100
 
