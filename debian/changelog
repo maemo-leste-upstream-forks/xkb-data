@@ -1,4 +1,4 @@
-xkeyboard-config (2.19-1) UNRELEASED; urgency=medium
+xkeyboard-config (2.19-1) unstable; urgency=medium
 
   * New upstream release.
   * Bump Standards-Version to 3.9.8.
