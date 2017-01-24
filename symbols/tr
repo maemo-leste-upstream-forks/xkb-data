@@ -24,7 +24,7 @@ xkb_symbols "basic" {
 
     key <AD02>  { [         w,          W,    VoidSymbol,    VoidSymbol ] };
     key <AD03>  { [         e,          E,      EuroSign,    VoidSymbol ] };
-    key <AD05>  { [         t,          T,     trademark,    VoidSymbol ] };
+    key <AD05>  { [         t,          T,         U20BA,    VoidSymbol ] };
     key <AD07>  { [         u,          U,   ucircumflex,   Ucircumflex ] };
     key <AD08>  { type[group1] = "FOUR_LEVEL_ALPHABETIC",
                   [  idotless,          I,   icircumflex,   Icircumflex ] };
@@ -235,7 +235,7 @@ xkb_symbols "intl" {
 
     key <AD02>  { [         w,          W,     VoidSymbol,    VoidSymbol ] };
     key <AD03>  { [         e,          E,       EuroSign,          cent ] };
-    key <AD05>  { [         t,          T,      trademark,    VoidSymbol ] };
+    key <AD05>  { [         t,          T,          U20BA,    VoidSymbol ] };
     key <AD07>  { [         u,          U,    ucircumflex,   Ucircumflex ] };
     key <AD08>  { [  idotless,          I,    icircumflex,   Icircumflex ] };
     key <AD09>  { [         o,          O,    ocircumflex,   Ocircumflex ] };
