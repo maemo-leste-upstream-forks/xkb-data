@@ -97,7 +97,7 @@ xkb_symbols "f" {
     key <AC03>  { [         e,          E,      EuroSign,    VoidSymbol ] };
     key <AC04>  { [         a,          A,   acircumflex,   Acircumflex ] };
     key <AC05>  { [udiaeresis, Udiaeresis,   ucircumflex,   Ucircumflex ] };
-    key <AC06>  { [         t,          T,     trademark,    VoidSymbol ] };
+    key <AC06>  { [         t,          T,         U20BA,    VoidSymbol ] };
     key <AC07>  { [         k,          K,    VoidSymbol,    VoidSymbol ] };
     key <AC08>  { [         m,          M,            mu,    VoidSymbol ] };
     key <AC09>  { [         l,          L,    VoidSymbol,    VoidSymbol ] };
