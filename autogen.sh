@@ -11,5 +11,5 @@ AUTOPOINT='intltoolize --automake --copy' autoreconf -v --install --force || exi
 
 cd $ORIGDIR || exit $?
 if test -z "$NOCONFIGURE"; then
-    $srcdir/configure "$@"
+    exec $srcdir/configure "$@"
 fi
