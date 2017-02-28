@@ -721,6 +721,15 @@
             <_description>Italian (Sun Type 6/7)</_description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>fur</name>
+            <_description>Friulian (Italy)</_description>
+            <languageList>
+              <iso639Id>fur</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
