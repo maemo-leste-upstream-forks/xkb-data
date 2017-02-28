@@ -375,9 +375,8 @@ xkb_symbols "aplx" {
 // the alphabet and similar. If this keyboard is placed as the 2nd layout then it can
 // be reached with a latching shift to increase group by one.
 
-partial hidden alphanumeric_keys
+partial alphanumeric_keys
 xkb_symbols "dyalog_base" {
-
 
 // ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━┓
 // │ ⌺   │ ⌶   │ ⍫   │ ⍒   │ ⍋   │ ⌽   │ ⍉   │ ⊖   │ ⍟   │ ⍱   │ ⍲   │ !   │ ⌹   ┃         ┃
@@ -397,9 +396,9 @@ xkb_symbols "dyalog_base" {
 // ┗━━━━━━━┻━━━━━━━┻━━━━━━━┹───────────────────────────────────┺━━━━━━━┻━━━━━━━┻━━━━━━━┛
 
 
-	key <AB01> { [ U2282			] };	// subset of
+	key <AB01> { [ U2282,		U2286	] };	// subset of, enclose if simple
 	key <AB02> { [ U2283			] };	// superset of
-	key <AB03> { [ U2229		U2286	] };	// intersection, enclose if simple
+	key <AB03> { [ U2229			] };	// intersection
 	key <AB04> { [ U222A			] };	// union
 	key <AB05> { [ U22a5,		U236d	] };	// up tack, stile tide
 	key <AB06> { [ U22a4,		U2361	] };	// down tack, down tack diaeresis
@@ -447,7 +446,7 @@ xkb_symbols "dyalog_base" {
 	key <TLDE> { [ U22c4,		U233a	] };	// diamond, quad diamond
 };
 
-partial hidden keypad_keys
+partial keypad_keys
 xkb_symbols "dyalog_box" {
 
 // ┌───┬───┬───┬───┐
@@ -476,7 +475,7 @@ xkb_symbols "dyalog_box" {
 
 }; 
 
-hidden xkb_symbols "dyalog_codes" {
+xkb_symbols "dyalog_codes" {
 
 //	Layout of private use area for this. In the style of the Unicode book
 //
