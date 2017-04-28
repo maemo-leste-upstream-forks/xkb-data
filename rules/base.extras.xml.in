@@ -1272,6 +1272,17 @@
         </variant>
         <variant>
           <configItem>
+            <name>tel-sarala</name>
+            <!-- Keyboard indicator for Telugu layouts -->
+            <_shortDescription>te</_shortDescription>
+            <_description>Telugu (Sarala)</_description>
+            <languageList>
+              <iso639Id>tel</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>bolnagri</name>
             <!-- Keyboard indicator for Hindi layouts -->
             <_shortDescription>hi</_shortDescription>
