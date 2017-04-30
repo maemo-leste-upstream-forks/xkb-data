@@ -32,7 +32,7 @@ msgid "(Legacy) Alternative, Sun dead keys"
 msgstr "(Qadim) Alternativ, Sun ölü tuşlar"
 
 #: ../rules/base.xml.in.h:4
-msgid "(Legacy) Alternative, no dead keys"
+msgid "(Legacy) Alternative, eliminate dead keys"
 msgstr "(Qadim) Alternativ, ölü tuşsuz"
 
 #: ../rules/base.xml.in.h:5
@@ -149,7 +149,7 @@ msgid "Acer Ferrari 4000"
 msgstr "Acer Ferrari 4000"
 
 #: ../rules/base.xml.in.h:33
-msgid "Acer laptop"
+msgid "Acer Laptop"
 msgstr "Acer Tizüstü"
 
 #: ../rules/base.xml.in.h:34
@@ -189,7 +189,7 @@ msgid "Albania"
 msgstr "Arnavutlıq"
 
 #: ../rules/base.xml.in.h:43
-msgid "Alt and Meta are on Alt"
+msgid "Alt and Meta are on Alt keys"
 msgstr "Alt ve Meta, Alt tuşlarındadır"
 
 #: ../rules/base.xml.in.h:44
@@ -241,7 +241,7 @@ msgid "Alternative, Sun dead keys"
 msgstr "Alternativ, Sun ölü tuşlar"
 
 #: ../rules/base.xml.in.h:56
-msgid "Alternative, no dead keys"
+msgid "Alternative, eliminate dead keys"
 msgstr "Alternativ, ölü tuşsuz"
 
 #: ../rules/base.xml.in.h:57
@@ -257,16 +257,16 @@ msgid "Andorra"
 msgstr "Andora"
 
 #: ../rules/base.xml.in.h:60
-msgid "Any Alt"
+msgid "Any Alt key"
 msgstr "Er angi Alt tuşu"
 
 #: ../rules/base.xml.in.h:61
-msgid "Any Win"
+msgid "Any Win key"
 msgstr "Er angi Pencereler (Win) tuşu"
 
 # tüklü
 #: ../rules/base.xml.in.h:62
-msgid "Any Win (while pressed)"
+msgid "Any Win key (while pressed)"
 msgstr "Er angi Pencereler (Win) tuşu (basıq olğanda)"
 
 #: ../rules/base.xml.in.h:63
@@ -278,7 +278,7 @@ msgid "Apple"
 msgstr "Apple"
 
 #: ../rules/base.xml.in.h:65
-msgid "Apple laptop"
+msgid "Apple Laptop"
 msgstr "Apple Tizüstü"
 
 #: ../rules/base.xml.in.h:66
@@ -302,7 +302,7 @@ msgid "Asturian variant with bottom-dot H and bottom-dot L"
 msgstr "Alt-noqtalı H ve alt-noqatlı L ile Asturian variant"
 
 #: ../rules/base.xml.in.h:71
-msgid "Asus laptop"
+msgid "Asus Laptop"
 msgstr "Asus Tizüstü"
 
 #: ../rules/base.xml.in.h:72
@@ -323,7 +323,7 @@ msgstr "Azerbaycan"
 
 # tüklü
 #: ../rules/base.xml.in.h:76
-msgid "Azona RF2300 wireless Internet"
+msgid "Azona RF2300 wireless Internet Keyboard"
 msgstr "Azona RF2300 telsiz İnternet Klavyesi"
 
 #: ../rules/base.xml.in.h:77
@@ -444,15 +444,15 @@ msgid "Bosnia and Herzegovina"
 msgstr "Bosna-Hersek"
 
 #: ../rules/base.xml.in.h:106
-msgid "Both Alt together"
+msgid "Both Alt keys together"
 msgstr "Alt tuşlarınıñ ekisi de"
 
 #: ../rules/base.xml.in.h:107
-msgid "Both Ctrl together"
+msgid "Both Ctrl keys together"
 msgstr "Ctrl tuşlarınıñ ekisi de"
 
 #: ../rules/base.xml.in.h:108
-msgid "Both Shift together"
+msgid "Both Shift keys together"
 msgstr "Shift tuşlarınıñ ekisi de"
 
 #: ../rules/base.xml.in.h:109
@@ -478,7 +478,7 @@ msgid "Brl"
 msgstr "Brl"
 
 #: ../rules/base.xml.in.h:114
-msgid "Brother Internet"
+msgid "Brother Internet Keyboard"
 msgstr "Brother İnternet Klavyesi"
 
 #: ../rules/base.xml.in.h:115
@@ -528,7 +528,7 @@ msgid "CapsLock acts as Shift with locking. Shift \"pauses\" CapsLock"
 msgstr "CapsLock kilitlemeli Shift kibi çalışır. Shift ise CapsLock tuşunı \"tınışlar\""
 
 #: ../rules/base.xml.in.h:126
-msgid "CapsLock acts as Shift with locking. Shift does not affect CapsLock"
+msgid "CapsLock acts as Shift with locking. Shift doesn't affect CapsLock"
 msgstr "CapsLock kilitlemeli Shift kibi çalışır. Shift tuşu Caps Lock davranışına tesirlemez."
 
 #: ../rules/base.xml.in.h:127
@@ -554,7 +554,7 @@ msgid "CapsLock uses internal capitalization. Shift \"pauses\" CapsLock"
 msgstr "CapsLock içki başlaştırmanı qullanır. Shift CapsLock tuşunı \"tınışlar\""
 
 #: ../rules/base.xml.in.h:132
-msgid "CapsLock uses internal capitalization. Shift does not affect CapsLock"
+msgid "CapsLock uses internal capitalization. Shift doesn't affect CapsLock"
 msgstr "CapsLock içki başlaştırmanı qullanır. Shift CapsLock davranışına tesirlemez."
 
 #: ../rules/base.xml.in.h:133
@@ -582,7 +582,7 @@ msgid "Cherry Blue Line CyBo@rd"
 msgstr "Cherry Blue Line CyBo@rd"
 
 #: ../rules/base.xml.in.h:139
-msgid "Cherry Blue Line CyBo@rd (alt.)"
+msgid "Cherry Blue Line CyBo@rd (alternate option)"
 msgstr "Cherry Blue Line CyBo@rd (diğer seçenek)"
 
 #: ../rules/base.xml.in.h:140
@@ -602,7 +602,7 @@ msgid "Cherry CyMotion Master XPress"
 msgstr "Cherry CyMotion Master XPress"
 
 #: ../rules/base.xml.in.h:144
-msgid "Chicony Internet"
+msgid "Chicony Internet Keyboard"
 msgstr "Chicony İnternet Klavyesi"
 
 #: ../rules/base.xml.in.h:145
@@ -650,23 +650,23 @@ msgid "Colemak"
 msgstr "Colemak"
 
 #: ../rules/base.xml.in.h:156
-msgid "Compaq Easy Access"
+msgid "Compaq Easy Access Keyboard"
 msgstr "Compaq Kolay Erişim Klavyesi"
 
 #: ../rules/base.xml.in.h:157
-msgid "Compaq Internet (13 keys)"
+msgid "Compaq Internet Keyboard (13 keys)"
 msgstr "Compaq İnternet Klavyesi (13 tuşlu)"
 
 #: ../rules/base.xml.in.h:158
-msgid "Compaq Internet (18 keys)"
+msgid "Compaq Internet Keyboard (18 keys)"
 msgstr "Compaq İnternet Klavyesi (18 tuşlu)"
 
 #: ../rules/base.xml.in.h:159
-msgid "Compaq Internet (7 keys)"
+msgid "Compaq Internet Keyboard (7 keys)"
 msgstr "İnternet Klavyesi (7 tuşlu)"
 
 #: ../rules/base.xml.in.h:160
-msgid "Compaq iPaq"
+msgid "Compaq iPaq Keyboard"
 msgstr "Compaq iPaq Klavyesi"
 
 #: ../rules/base.xml.in.h:161
@@ -682,11 +682,11 @@ msgid "Control + Alt + Backspace"
 msgstr "Control + Alt + Kerisilme"
 
 #: ../rules/base.xml.in.h:164
-msgid "Control is mapped to Alt, Alt is mapped to Super"
+msgid "Control is mapped to Alt keys, Alt is mapped to Win keys"
 msgstr "Control (Muraqabe), Alt tuşlarına haritalandırılır, Alt ise Pencereler (Win) tuşlarına haritalandırılır"
 
 #: ../rules/base.xml.in.h:165
-msgid "Control is mapped to Super and the usual Ctrl keys"
+msgid "Control is mapped to Win keys (and the usual Ctrl keys)"
 msgstr "Control (Muraqabe), Pencereler (Win) tuşlarına (ve adetiy Ctrl tuşlarına) haritalandırılır"
 
 #: ../rules/base.xml.in.h:166
@@ -718,7 +718,7 @@ msgid "Croatia"
 msgstr "Hırvatistan"
 
 #: ../rules/base.xml.in.h:173
-msgid "Ctrl position"
+msgid "Ctrl key position"
 msgstr "Ctrl tuşunıñ mevamı"
 
 #: ../rules/base.xml.in.h:174
@@ -782,20 +782,20 @@ msgid "Dell 101-key PC"
 msgstr "Dell 101 tuşlu PC"
 
 #: ../rules/base.xml.in.h:189
-msgid "Dell laptop/notebook Inspiron 6xxx/8xxx"
+msgid "Dell Laptop/notebook Inspiron 6xxx/8xxx"
 msgstr "Tizüstü/defter Dell Inspiron 6xxx/8xxx"
 
 #: ../rules/base.xml.in.h:190
-msgid "Dell Precision M laptop"
+msgid "Dell Laptop/notebook Precision M series"
 msgstr "Dell Tizüstü/defter Precision M series"
 
 #: ../rules/base.xml.in.h:191
-msgid "Dell Latutude laptop"
+msgid "Dell Latitude series laptop"
 msgstr "Dell Latitude serisi Tizüstü"
 
 #: ../rules/base.xml.in.h:192
-msgid "Dell Precision M65 laptop"
-msgstr "Dell Precision M65 laptop"
+msgid "Dell Precision M65"
+msgstr "Dell Precision M65"
 
 #: ../rules/base.xml.in.h:193
 msgid "Dell SK-8125"
@@ -807,7 +807,7 @@ msgstr "Dell SK-8135"
 
 # tüklü
 #: ../rules/base.xml.in.h:195
-msgid "Dell USB Multimedia"
+msgid "Dell USB Multimedia Keyboard"
 msgstr "Dell USB Çoqluvasat Klavyesi"
 
 #: ../rules/base.xml.in.h:196
@@ -819,11 +819,11 @@ msgid "Deu"
 msgstr "Alm"
 
 #: ../rules/base.xml.in.h:198
-msgid "Dexxa Wireless Desktop"
+msgid "Dexxa Wireless Desktop Keyboard"
 msgstr "Dexxa Kablosuz Masaüstü Klavyesi"
 
 #: ../rules/base.xml.in.h:199
-msgid "Diamond 9801/9802"
+msgid "Diamond 9801 / 9802 series"
 msgstr "Diamond 9801 / 9802 serileri"
 
 #: ../rules/base.xml.in.h:200
@@ -1007,11 +1007,11 @@ msgid "French, Sun dead keys"
 msgstr "Fransızca, Sun ölü tuşlar"
 
 #: ../rules/base.xml.in.h:246
-msgid "French, no dead keys"
+msgid "French, eliminate dead keys"
 msgstr "Fransızca, ölü tuşsuz"
 
 #: ../rules/base.xml.in.h:247
-msgid "Fujitsu-Siemens Amilo laptop"
+msgid "Fujitsu-Siemens Computers AMILO laptop"
 msgstr "Fujitsu-Siemens Bilgisayarları AMILO tizüstü"
 
 #: ../rules/base.xml.in.h:248
@@ -1031,7 +1031,7 @@ msgid "Generic 101-key PC"
 msgstr "Soysal 101 tuşlu PC"
 
 #: ../rules/base.xml.in.h:252
-msgid "Generic 101-key PC (intl.)"
+msgid "Generic 102-key (Intl) PC"
 msgstr "Soysal 102 tuşlu (Uluslararası) PC"
 
 #: ../rules/base.xml.in.h:253
@@ -1039,7 +1039,7 @@ msgid "Generic 104-key PC"
 msgstr "Soysal 104 tuşlu PC"
 
 #: ../rules/base.xml.in.h:254
-msgid "Generic 105-key PC (intl.)"
+msgid "Generic 105-key (Intl) PC"
 msgstr "Soysal 105 tuşlu (uluslararası) PC"
 
 #: ../rules/base.xml.in.h:255
@@ -1047,8 +1047,8 @@ msgid "Genius Comfy KB-12e"
 msgstr "Genius Comfy KB-12e"
 
 #: ../rules/base.xml.in.h:256
-msgid "Genius Comfy KB-16M/Multimedia KWD-910"
-msgstr "Genius Comfy KB-16M/Multimedia KWD-910"
+msgid "Genius Comfy KB-16M / Genius MM Keyboard KWD-910"
+msgstr "Genius Comfy KB-16M / Genius MM Keyboard KWD-910"
 
 #: ../rules/base.xml.in.h:257
 msgid "Genius Comfy KB-21e-Scroll"
@@ -1087,7 +1087,7 @@ msgid "German, Sun dead keys"
 msgstr "Almanca, Sun ölü tuşlar"
 
 #: ../rules/base.xml.in.h:266
-msgid "German, no dead keys"
+msgid "German, eliminate dead keys"
 msgstr "Almanca, ölü tuşsuz"
 
 #: ../rules/base.xml.in.h:267
@@ -1139,11 +1139,11 @@ msgid "Gyration"
 msgstr "Çekimsel"
 
 #: ../rules/base.xml.in.h:279
-msgid "Happy Hacking"
+msgid "Happy Hacking Keyboard"
 msgstr "Happy Hacking Klavyesi"
 
 #: ../rules/base.xml.in.h:280
-msgid "Happy Hacking for Mac"
+msgid "Happy Hacking Keyboard for Mac"
 msgstr "Mac içün Happy Hacking Klavyesi"
 
 #: ../rules/base.xml.in.h:281
@@ -1151,11 +1151,11 @@ msgid "Hausa"
 msgstr "Havza"
 
 #: ../rules/base.xml.in.h:282
-msgid "Hewlett-Packard Internet"
+msgid "Hewlett-Packard Internet Keyboard"
 msgstr "Hewlett-Packard İnternet Klavyesi"
 
 #: ../rules/base.xml.in.h:283
-msgid "Hewlett-Packard Mini 110 laptop"
+msgid "Hewlett-Packard Mini 110 Notebook"
 msgstr "Hewlett-Packard Mini 110 Tizüstü"
 
 #: ../rules/base.xml.in.h:284
@@ -1163,8 +1163,8 @@ msgid "Hewlett-Packard Omnibook 500 FA"
 msgstr "Hewlett-Packard Omnibook 500 FA"
 
 #: ../rules/base.xml.in.h:285
-msgid "Hewlett-Packard Omnibook 500"
-msgstr "Hewlett-Packard Omnibook 500"
+msgid "Hewlett-Packard Omnibook 5xx"
+msgstr "Hewlett-Packard Omnibook 5xx"
 
 #: ../rules/base.xml.in.h:286
 msgid "Hewlett-Packard Omnibook 6000/6100"
@@ -1183,15 +1183,15 @@ msgid "Hewlett-Packard Omnibook XT1000"
 msgstr "Hewlett-Packard Omnibook XT1000"
 
 #: ../rules/base.xml.in.h:290
-msgid "Hewlett-Packard Pavilion ZT1100"
-msgstr "Hewlett-Packard Pavilion ZT1100"
+msgid "Hewlett-Packard Pavilion ZT11xx"
+msgstr "Hewlett-Packard Pavilion ZT11xx"
 
 #: ../rules/base.xml.in.h:291
 msgid "Hewlett-Packard Pavilion dv5"
 msgstr "Hewlett-Packard Pavilion dv5"
 
 #: ../rules/base.xml.in.h:292
-msgid "Hewlett-Packard SK-250x Multimedia"
+msgid "Hewlett-Packard SK-250x Multimedia Keyboard"
 msgstr "Hewlett-Packard SK-250x Çoqluvasat Klavyesi"
 
 #: ../rules/base.xml.in.h:293
@@ -1348,8 +1348,8 @@ msgid "Japan"
 msgstr "Japonya"
 
 #: ../rules/base.xml.in.h:331
-msgid "Japan (PC-98)"
-msgstr "Japon (PC-98)"
+msgid "Japan (PC-98xx Series)"
+msgstr "Japon (PC-98xx Series)"
 
 #: ../rules/base.xml.in.h:332
 msgid "Japanese keyboard options"
@@ -1397,7 +1397,7 @@ msgid "Key sequence to kill the X server"
 msgstr "X sunucısını öldürmek içün tuş silsilesi"
 
 #: ../rules/base.xml.in.h:343
-msgid "Key to choose the 3rd level"
+msgid "Key to choose 3rd level"
 msgstr "3. seviyeni saylaycaq tuş"
 
 #: ../rules/base.xml.in.h:344
@@ -1475,15 +1475,15 @@ msgid "Laos"
 msgstr "Laos"
 
 #: ../rules/base.xml.in.h:362
-msgid "Compaq Armada laptop"
+msgid "Laptop/notebook Compaq (eg. Armada) Laptop Keyboard"
 msgstr "Tizüstü/defter Compaq (örn. Armada) Tizüstü Klavyesi"
 
 #: ../rules/base.xml.in.h:363
-msgid "Compaq Presario laptop"
+msgid "Laptop/notebook Compaq (eg. Presario) Internet Keyboard"
 msgstr "Tizüstü/defter Compaq (örn. Presario) İnternet Klavyesi"
 
 #: ../rules/base.xml.in.h:364
-msgid "eMachines m6800 laptop"
+msgid "Laptop/notebook eMachines m68xx"
 msgstr "Tizüstü/defter eMachines m68xx"
 
 #: ../rules/base.xml.in.h:365
@@ -1543,7 +1543,7 @@ msgid "Left Ctrl"
 msgstr "Sol Ctrl"
 
 #: ../rules/base.xml.in.h:379
-msgid "Left Ctrl to first layout; Right Ctrl to last layout"
+msgid "Left Ctrl (to first layout), Right Ctrl (to last layout)"
 msgstr "Sol Ctrl (birinci tizilimge almaştırır), Oñ Ctrl (soñkisine)"
 
 #: ../rules/base.xml.in.h:380
@@ -1559,7 +1559,7 @@ msgid "Left Win"
 msgstr "Sol Win"
 
 #: ../rules/base.xml.in.h:383
-msgid "Left Win to first layout; Right Win/Menu to last layout"
+msgid "Left Win (to first layout), Right Win/Menu (to last layout)"
 msgstr "Sol Pencereler (Win) (birinci tizilimge almaştırır), Sağ Pencereler/Menü (soñkisine)"
 
 #: ../rules/base.xml.in.h:384
@@ -1600,8 +1600,8 @@ msgid "Lithuania"
 msgstr "Litvanya"
 
 #: ../rules/base.xml.in.h:394
-msgid "Logitech Access"
-msgstr "Logitech Access"
+msgid "Logitech Access Keyboard"
+msgstr "Logitech Access Keyboard"
 
 #: ../rules/base.xml.in.h:395
 msgid "Logitech Cordless Desktop"
@@ -1609,7 +1609,7 @@ msgstr "Logitech Kabelsiz Masaüstü"
 
 # tüklü
 #: ../rules/base.xml.in.h:396
-msgid "Logitech Cordless Desktop (alt.)"
+msgid "Logitech Cordless Desktop (alternate option)"
 msgstr "Logitech Kabelsiz Masaüstü (alternativ ihtiyariyat)"
 
 #: ../rules/base.xml.in.h:397
@@ -1629,7 +1629,7 @@ msgid "Logitech Cordless Desktop Optical"
 msgstr "Logitech Kablosuz Masaüstü Optik"
 
 #: ../rules/base.xml.in.h:401
-msgid "Logitech Cordless Desktop Pro (2nd alt.)"
+msgid "Logitech Cordless Desktop Pro (alternate option 2)"
 msgstr "Logitech Kabelsiz Masaüstü Pro (almaşıq ihtiyar 2)"
 
 #: ../rules/base.xml.in.h:402
@@ -1645,39 +1645,39 @@ msgid "Logitech G15 extra keys via G15daemon"
 msgstr "Logitech G15, G15daemon üzerinden ek tuşlu"
 
 #: ../rules/base.xml.in.h:405
-msgid "Logitech"
+msgid "Logitech Generic Keyboard"
 msgstr "Logitech Umumiy Klavyesi"
 
 #: ../rules/base.xml.in.h:406
-msgid "Logitech Internet 350"
+msgid "Logitech Internet 350 Keyboard"
 msgstr "Logitech İnternet 350 Klavyesi"
 
 #: ../rules/base.xml.in.h:407
-msgid "Logitech Internet"
+msgid "Logitech Internet Keyboard"
 msgstr "Logitech İnternet Klavyesi"
 
 #: ../rules/base.xml.in.h:408
-msgid "Logitech Internet Navigator"
+msgid "Logitech Internet Navigator Keyboard"
 msgstr "Logitech İnternet Yürsetici Klavyesi"
 
 #: ../rules/base.xml.in.h:409
-msgid "Logitech Internet 350"
+msgid "Logitech Media Elite Keyboard"
 msgstr "Logitech Vasta Elit Klavye"
 
 #: ../rules/base.xml.in.h:410
-msgid "Logitech Ultra-X Cordless Media Desktop"
+msgid "Logitech Ultra-X Cordless Media Desktop Keyboard"
 msgstr "Logitech Ultra-X Kabelsiz Vasta Masaüstü Klavyesi"
 
 #: ../rules/base.xml.in.h:411
-msgid "Logitech Ultra-X"
-msgstr "Logitech Ultra-X"
+msgid "Logitech Ultra-X Keyboard"
+msgstr "Logitech Ultra-X Keyboard"
 
 #: ../rules/base.xml.in.h:412
-msgid "Logitech diNovo Edge"
+msgid "Logitech diNovo Edge Keyboard"
 msgstr "Logitech diNovo Edge Klavyesi"
 
 #: ../rules/base.xml.in.h:413
-msgid "Logitech diNovo"
+msgid "Logitech diNovo Keyboard"
 msgstr "Logitech Access Klavye"
 
 #: ../rules/base.xml.in.h:414
@@ -1685,15 +1685,15 @@ msgid "Logitech iTouch"
 msgstr "Logitech iTouch"
 
 #: ../rules/base.xml.in.h:415
-msgid "Logitech iTouch Cordless Y-RB6"
+msgid "Logitech iTouch Cordless Keyboard (model Y-RB6)"
 msgstr "Logitech iTouch Kablosuz Klavyesi (model Y-RB6)"
 
 #: ../rules/base.xml.in.h:416
-msgid "Logitech iTouch Internet Navigator SE"
+msgid "Logitech iTouch Internet Navigator Keyboard SE"
 msgstr "Logitech iTouch İnternet Yürsetici Klavyesi SE"
 
 #: ../rules/base.xml.in.h:417
-msgid "Logitech iTouch Internet Navigator SE USB"
+msgid "Logitech iTouch Internet Navigator Keyboard SE (USB)"
 msgstr "Logitech iTouch İnternet Yürsetici Klavyesi SE (USB)"
 
 # tüklü
@@ -1702,8 +1702,8 @@ msgid "Lower Sorbian"
 msgstr "Alt Sorbian"
 
 #: ../rules/base.xml.in.h:419
-msgid "Lower Sorbian (QWERTZ)"
-msgstr "Alt Sorbian (QWERTZ)"
+msgid "Lower Sorbian (qwertz)"
+msgstr "Alt Sorbian (qwertz)"
 
 #: ../rules/base.xml.in.h:420
 msgid "Ltu"
@@ -1723,7 +1723,7 @@ msgid "MacBook/MacBook Pro"
 msgstr "MacBook/MacBook Pro"
 
 #: ../rules/base.xml.in.h:424
-msgid "MacBook/MacBook Pro (intl.)"
+msgid "MacBook/MacBook Pro (Intl)"
 msgstr "MacBook/MacBook Pro (Milletlerara)"
 
 #: ../rules/base.xml.in.h:425
@@ -1743,7 +1743,7 @@ msgid "Macintosh, Sun dead keys"
 msgstr "Makintoş, Sun ölü tuşlar"
 
 #: ../rules/base.xml.in.h:429
-msgid "Macintosh, no dead keys"
+msgid "Macintosh, eliminate dead keys"
 msgstr "Makintoş, ölü tuşsuz"
 
 #: ../rules/base.xml.in.h:430
@@ -1755,7 +1755,7 @@ msgid "Make CapsLock an additional Ctrl"
 msgstr "CapsLock tuşunı ek bir Ctrl yap"
 
 #: ../rules/base.xml.in.h:432
-msgid "Make CapsLock an additional Esc"
+msgid "Make CapsLock an additional ESC"
 msgstr "CapsLock tuşunı ek bir ESC yap"
 
 #: ../rules/base.xml.in.h:433
@@ -1807,7 +1807,7 @@ msgid "Memorex MX1998"
 msgstr "Memorex MX1998"
 
 #: ../rules/base.xml.in.h:445
-msgid "Memorex MX2500 EZ-Access"
+msgid "Memorex MX2500 EZ-Access Keyboard"
 msgstr "Memorex MX2500 EZ Erişim Klavyesi"
 
 #: ../rules/base.xml.in.h:446
@@ -1823,19 +1823,19 @@ msgid "Meta is mapped to Left Win"
 msgstr "Meta, sol Pencereler tuşuna (Win) haritalandırılır"
 
 #: ../rules/base.xml.in.h:449
-msgid "Meta is mapped to Win"
+msgid "Meta is mapped to Win keys"
 msgstr "Meta, Pencereler tuşlarına (Win) haritalandırılır"
 
 #: ../rules/base.xml.in.h:450
-msgid "Microsoft Comfort Curve 2000"
-msgstr "Microsoft Comfort Curve 2000"
+msgid "Microsoft Comfort Curve Keyboard 2000"
+msgstr "Microsoft Comfort Curve Keyboard 2000"
 
 #: ../rules/base.xml.in.h:451
-msgid "Microsoft Internet"
+msgid "Microsoft Internet Keyboard"
 msgstr "Microsoft İnternet Klavyesi"
 
 #: ../rules/base.xml.in.h:452
-msgid "Microsoft Internet Pro (Swedish)"
+msgid "Microsoft Internet Keyboard Pro, Swedish"
 msgstr "Microsoft İnternet Klavyesi Pro, İsveçce"
 
 #: ../rules/base.xml.in.h:453
@@ -1843,23 +1843,23 @@ msgid "Microsoft Natural"
 msgstr "Microsoft Basit"
 
 #: ../rules/base.xml.in.h:454
-msgid "Microsoft Natural Elite"
+msgid "Microsoft Natural Keyboard Elite"
 msgstr "Microsoft Tabiiy Klavye Elit"
 
 #: ../rules/base.xml.in.h:455
-msgid "Microsoft Natural Pro/Internet Pro"
+msgid "Microsoft Natural Keyboard Pro / Microsoft Internet Keyboard Pro"
 msgstr "Microsoft Basit Klavye Pro / Microsoft İnternet Klavyesi Pro"
 
 #: ../rules/base.xml.in.h:456
-msgid "Microsoft Natural Pro OEM"
+msgid "Microsoft Natural Keyboard Pro OEM"
 msgstr "Microsoft Basit Klavye Pro OEM"
 
 #: ../rules/base.xml.in.h:457
-msgid "Microsoft Natural Pro USB/Internet Pro"
-msgstr "Microsoft Natural Pro USB/Internet Pro"
+msgid "Microsoft Natural Keyboard Pro USB / Microsoft Internet Keyboard Pro"
+msgstr "Microsoft Natural Keyboard Pro USB / Microsoft Internet Keyboard Pro"
 
 #: ../rules/base.xml.in.h:458
-msgid "Microsoft Natural Wireless Ergonomic 7000"
+msgid "Microsoft Natural Wireless Ergonomic Keyboard 7000"
 msgstr "Microsoft Tabiiy Telsiz Ergonomik Klavye 7000"
 
 #: ../rules/base.xml.in.h:459
@@ -1867,8 +1867,8 @@ msgid "Microsoft Office Keyboard"
 msgstr "Microsoft Ofis Klavyesi"
 
 #: ../rules/base.xml.in.h:460
-msgid "Microsoft Wireless Multimedia 1.0A"
-msgstr "Microsoft Wireless Multimedia 1.0A"
+msgid "Microsoft Wireless Multimedia Keyboard 1.0A"
+msgstr "Microsoft Wireless Multimedia Keyboard 1.0A"
 
 #: ../rules/base.xml.in.h:461
 msgid "Miscellaneous compatibility options"
@@ -1972,31 +1972,31 @@ msgid "Nld"
 msgstr "Hol"
 
 #: ../rules/base.xml.in.h:486
-msgid "Non-breaking space at the 4th lever"
+msgid "Non-breakable space character at fourth level"
 msgstr "Dördünci seviyede qırılalmaz boşluq remzi"
 
 #: ../rules/base.xml.in.h:487
-msgid "Non-breaking space at the 4th lever, thin non-breaking space at the 6th level"
+msgid "Non-breakable space character at fourth level, thin non-breakable space character at sixth level"
 msgstr "Dördünci seviyede qırılalmaz boşluq remzi, altıncı seviyede ise ince qırılalmaz boşluq remzi"
 
 #: ../rules/base.xml.in.h:488
-msgid "Non-breaking space at the 4th lever, thin non-breaking space at the 6th level (via Ctrl+Shift)"
+msgid "Non-breakable space character at fourth level, thin non-breakable space character at sixth level (via Ctrl+Shift)"
 msgstr "Dördünci seviyede qırılalmaz boşluq remzi, altıncı seviyede ise ince qırılalmaz boşluq remzi (Ctrl+Shift vastasınen)"
 
 #: ../rules/base.xml.in.h:489
-msgid "Non-breaking space at the 2nd level"
+msgid "Non-breakable space character at second level"
 msgstr "Ekinci seviyede qırılalmaz boşluq remzi"
 
 #: ../rules/base.xml.in.h:490
-msgid "Non-breaking space at the 3rd level"
+msgid "Non-breakable space character at third level"
 msgstr "Üçünci seviyede qırılalmaz boşluq remzi"
 
 #: ../rules/base.xml.in.h:491
-msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
+msgid "Non-breakable space character at third level, nothing at fourth level"
 msgstr "Üçünci seviyede qırılalmaz boşluq remzi, dördünci seviyede iç bir şey"
 
 #: ../rules/base.xml.in.h:492
-msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgid "Non-breakable space character at third level, thin non-breakable space character at fourth level"
 msgstr "Dördünci seviyede qırılalmaz boşluq remzi, dördünci seviyede ise ince qırılalmaz boşluq remzi"
 
 #: ../rules/base.xml.in.h:493
@@ -2008,7 +2008,7 @@ msgid "Northern Saami"
 msgstr "Kuzey Sami"
 
 #: ../rules/base.xml.in.h:495
-msgid "Northern Saami, no dead keys"
+msgid "Northern Saami, eliminate dead keys"
 msgstr "Kuzey Sami, ölü tuşsuz"
 
 #: ../rules/base.xml.in.h:496
@@ -2025,7 +2025,7 @@ msgid "NumLock"
 msgstr "NumLock"
 
 #: ../rules/base.xml.in.h:499
-msgid "Numeric keypad Delete behaviour"
+msgid "Numeric keypad delete key behaviour"
 msgstr "Sayısal tuştaqımı sil tuşu davranışı"
 
 #: ../rules/base.xml.in.h:500
@@ -2073,7 +2073,7 @@ msgid "Oriya"
 msgstr "Orissa dili"
 
 #: ../rules/base.xml.in.h:511
-msgid "Ortek Multimedia/Internet MCK-800"
+msgid "Ortek MCK-800 MM/Internet keyboard"
 msgstr "Oretec MCK-800 MM/İnternet Klavyesi"
 
 #: ../rules/base.xml.in.h:512
@@ -2089,7 +2089,7 @@ msgid "Ossetian, legacy"
 msgstr "Osetçe, qadim"
 
 #: ../rules/base.xml.in.h:515
-msgid "PC-98"
+msgid "PC-98xx Series"
 msgstr "PC-98xx Serisi"
 
 #: ../rules/base.xml.in.h:516
@@ -2141,12 +2141,12 @@ msgid "Probhat"
 msgstr "Probat"
 
 #: ../rules/base.xml.in.h:528
-msgid "programmer Dvorak"
+msgid "Programmer Dvorak"
 msgstr "Programcı Dvorak"
 
 #: ../rules/base.xml.in.h:529
-msgid "Propeller Voyager KTEZ-1000"
-msgstr "Propeller Voyager KTEZ-1000"
+msgid "Propeller Voyager (KTEZ-1000)"
+msgstr "Propeller Voyager (KTEZ-1000)"
 
 #: ../rules/base.xml.in.h:530
 msgid "Prt"
@@ -2165,7 +2165,7 @@ msgid "Right Alt (while pressed)"
 msgstr "Sağ Alt (basıq olğanda)"
 
 #: ../rules/base.xml.in.h:534
-msgid "Right Alt never chooses 3rd level"
+msgid "Right Alt key never chooses 3rd level"
 msgstr "Sağ Alt tuşu 3. seviyeni asla saylamaz"
 
 #: ../rules/base.xml.in.h:535
@@ -2197,7 +2197,7 @@ msgid "Right Win"
 msgstr "Sağ Pencereler (Win)"
 
 #: ../rules/base.xml.in.h:542
-msgid "Left Win (while pressed)"
+msgid "Right Win (while pressed)"
 msgstr "Sağ Pencereler (Win) (basıq olğanda)"
 
 #: ../rules/base.xml.in.h:543
@@ -2217,7 +2217,7 @@ msgid "Romanian keyboard with German letters"
 msgstr "Alman harfleriyle Romanya klavyesi"
 
 #: ../rules/base.xml.in.h:547
-msgid "Romanian keyboard with German letters, no dead keys"
+msgid "Romanian keyboard with German letters, eliminate dead keys"
 msgstr "Alman harfleriyle Romanya klavyesi, ölü tuşsuz"
 
 #: ../rules/base.xml.in.h:548
@@ -2245,7 +2245,7 @@ msgid "Russian phonetic Dvorak"
 msgstr "Rusça fonetik Dvorak"
 
 #: ../rules/base.xml.in.h:554
-msgid "Russian phonetic, no dead keys"
+msgid "Russian phonetic, eliminate dead keys"
 msgstr "Rusça fonetik, ölü tuşsuz"
 
 #: ../rules/base.xml.in.h:555
@@ -2253,24 +2253,24 @@ msgid "Russian with Kazakh"
 msgstr "Rusça (kazak)"
 
 #: ../rules/base.xml.in.h:556
-msgid "Silvercrest Multimedia Wireless"
-msgstr "Silvercrest Çokluortam Kablosuz Klavyesi"
+msgid "SILVERCREST Multimedia Wireless Keyboard"
+msgstr "SILVERCREST Çokluortam Kablosuz Klavyesi"
 
 #: ../rules/base.xml.in.h:557
-msgid "NEC SK-1300"
-msgstr "NEC SK-1300"
+msgid "SK-1300"
+msgstr "SK-1300"
 
 #: ../rules/base.xml.in.h:558
-msgid "NEC SK-2500"
-msgstr "NEC SK-2500"
+msgid "SK-2500"
+msgstr "SK-2500"
 
 #: ../rules/base.xml.in.h:559
-msgid "NEC SK-6200"
-msgstr "NEC SK-6200"
+msgid "SK-6200"
+msgstr "SK-6200"
 
 #: ../rules/base.xml.in.h:560
-msgid "NEC SK-7100"
-msgstr "NEC SK-7100"
+msgid "SK-7100"
+msgstr "SK-7100"
 
 # tüklü
 #: ../rules/base.xml.in.h:561 ../rules/base.extras.xml.in.h:7
@@ -2394,8 +2394,8 @@ msgid "Sun dead keys"
 msgstr "Sun ölü tuşlar"
 
 #: ../rules/base.xml.in.h:592
-msgid "Super Power Multimedia"
-msgstr "Super Power Multimedia"
+msgid "Super Power Multimedia Keyboard"
+msgstr "Super Power Multimedia Keyboard"
 
 #: ../rules/base.xml.in.h:593
 msgid "Svdvorak"
@@ -2430,8 +2430,8 @@ msgid "Switzerland"
 msgstr "İsviçre"
 
 #: ../rules/base.xml.in.h:601
-msgid "Symplon PaceBook tablet"
-msgstr "Symplon PaceBook tablet"
+msgid "Symplon PaceBook (tablet PC)"
+msgstr "Symplon PaceBook (tablet PC)"
 
 #: ../rules/base.xml.in.h:602
 msgid "Syr"
@@ -2550,7 +2550,7 @@ msgid "Traditional phonetic"
 msgstr "Ananeviy fonetik"
 
 #: ../rules/base.xml.in.h:631
-msgid "Trust Direct Access"
+msgid "Trust Direct Access Keyboard"
 msgstr "Trust Doğrudan İrişim Klavyesi"
 
 #: ../rules/base.xml.in.h:632
@@ -2558,7 +2558,7 @@ msgid "Trust Slimline"
 msgstr "Trust Slimline"
 
 #: ../rules/base.xml.in.h:633
-msgid "Trust Wireless Classic"
+msgid "Trust Wireless Keyboard Classic"
 msgstr "Trust Telsiz Klassik Klavye"
 
 #: ../rules/base.xml.in.h:634
@@ -2587,11 +2587,11 @@ msgid "UCW layout (accented letters only)"
 msgstr "UCW tizilimi (ancaq urğulı arifler)"
 
 #: ../rules/base.xml.in.h:640
-msgid "US, with Bosnian digraphs"
+msgid "US keyboard with Bosnian digraphs"
 msgstr "Bosna ikil harfleriyle amerikan klavyesi"
 
 #: ../rules/base.xml.in.h:641
-msgid "US, with Bosnian letters"
+msgid "US keyboard with Bosnian letters"
 msgstr "Bosna harfleriyle amerikan klavyesi"
 
 #: ../rules/base.xml.in.h:642
@@ -2684,7 +2684,7 @@ msgid "Use keyboard LED to show alternative layout"
 msgstr "Alternativ tizilimni köstermek içün klavye LED'ini qullan"
 
 #: ../rules/base.xml.in.h:664
-msgid "Using space key to input non-breaking space"
+msgid "Using space key to input non-breakable space character"
 msgstr "Qırılmaz boşluq remzini kirdilemek içün boşluq tuşu qullanımı"
 
 #: ../rules/base.xml.in.h:665
@@ -2704,7 +2704,7 @@ msgid "Vietnam"
 msgstr "Vietnam"
 
 #: ../rules/base.xml.in.h:669
-msgid "ViewSonic KU-306 Internet"
+msgid "ViewSonic KU-306 Internet Keyboard"
 msgstr "ViewSonic KU-306 İnternet Klavyesi"
 
 #: ../rules/base.xml.in.h:670
@@ -2749,7 +2749,7 @@ msgid "With guillemets"
 msgstr "Açılı ayraçlarla"
 
 #: ../rules/base.xml.in.h:680
-msgid "Yahoo! Internet"
+msgid "Yahoo! Internet Keyboard"
 msgstr "Yahoo! İnternet Klavyesi"
 
 #: ../rules/base.xml.in.h:681
@@ -2862,7 +2862,7 @@ msgstr "Milletlerara (AltGr Unikod qoşumı, alternativ)"
 #~ msgid "Korean 106-key"
 #~ msgstr "Korece 106 tuşlu"
 
-#~ msgid "Super is mapped to Super"
+#~ msgid "Super is mapped to Win keys"
 #~ msgstr "Super, Pencereler (Win) tuşlarına haritalandırılır"
 
 #~ msgid "US keyboard with Slovenian digraphs"
