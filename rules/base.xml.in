@@ -5401,6 +5401,23 @@
         <_description>French (Togo)</_description>
         <languageList>
           <iso639Id>fra</iso639Id>
+          <iso639Id>ajg</iso639Id>
+          <iso639Id>blo</iso639Id>
+          <iso639Id>kpo</iso639Id>
+          <iso639Id>ewe</iso639Id>
+          <iso639Id>fon</iso639Id>
+          <iso639Id>fue</iso639Id>
+          <iso639Id>gej</iso639Id>
+          <iso639Id>ife</iso639Id>
+          <iso639Id>kbp</iso639Id>
+          <iso639Id>las</iso639Id>
+          <iso639Id>dop</iso639Id>
+          <iso639Id>mfg</iso639Id>
+          <iso639Id>nmz</iso639Id>
+          <iso639Id>bud</iso639Id>
+          <iso639Id>gng</iso639Id>
+          <iso639Id>kdh</iso639Id>
+          <iso639Id>soy</iso639Id>
         </languageList>
       </configItem>
     </layout>
