@@ -45,7 +45,7 @@ msgid "Acts as Shift with locking. Shift cancels Caps."
 msgstr "Tree op as Shift met sluit-aksie. Shift kanseleer Caps."
 
 #: xfree86.xml.in.h:8
-msgid "Acts as Shift with locking. Shift doesn't cancel Caps."
+msgid "Acts as Shift with locking. Shift does not cancel Caps."
 msgstr "Tree op as Shift met sluiting.  Shift kanseleer nie Caps nie."
 
 #: xfree86.xml.in.h:9
@@ -65,7 +65,7 @@ msgid "Albanian"
 msgstr "Albanies"
 
 #: xfree86.xml.in.h:13
-msgid "Alt and Meta on the Alt keys (default)."
+msgid "Alt and Meta on the Alt (default)."
 msgstr "Alt en Meta op die Alt sleutels (verstek)."
 
 #: xfree86.xml.in.h:14
@@ -173,15 +173,15 @@ msgid "Bosnian"
 msgstr "Bosnies"
 
 #: xfree86.xml.in.h:40
-msgid "Both Alt keys together change group"
+msgid "Both Alt together change group"
 msgstr "Beide Alt-sleutels tesame verander groep"
 
 #: xfree86.xml.in.h:41
-msgid "Both Ctrl keys together change group"
+msgid "Both Ctrl together change group"
 msgstr "Beide Ctrl-sleutels tesame verander groep"
 
 #: xfree86.xml.in.h:42
-msgid "Both Shift keys together change group"
+msgid "Both Shift together change group"
 msgstr "Beide Shift-sleutels tesame verander groep"
 
 #: xfree86.xml.in.h:43
@@ -201,7 +201,7 @@ msgid "Brazilian ABNT2"
 msgstr "Braziliaans ABNT2"
 
 #: xfree86.xml.in.h:47
-msgid "Brother Internet Keyboard"
+msgid "Brother Internet"
 msgstr "Brother Internetsleutelbord"
 
 #: xfree86.xml.in.h:48
@@ -221,7 +221,7 @@ msgid "Canadian"
 msgstr "Kanadees"
 
 #: xfree86.xml.in.h:52
-msgid "Caps Lock key changes group"
+msgid "Caps Lock changes group"
 msgstr "CapsLock-sleutel verander groep"
 
 #: xfree86.xml.in.h:53
@@ -237,11 +237,11 @@ msgid "Cherry Blue Line CyBo@rd"
 msgstr "Cherry Blue Line CyBo@rd"
 
 #: xfree86.xml.in.h:56
-msgid "Cherry Blue Line CyBo@rd (alternate option)"
+msgid "Cherry Blue Line CyBo@rd (alt.)"
 msgstr "Cherry Blue Line CyBo@rd (alternatief)"
 
 #: xfree86.xml.in.h:57
-msgid "Chicony Internet Keyboard"
+msgid "Chicony Internet"
 msgstr "Chicony Internetsleutelbord"
 
 #: xfree86.xml.in.h:58
@@ -253,28 +253,28 @@ msgid "CloGaelach"
 msgstr "CloGaelach"
 
 #: xfree86.xml.in.h:60
-msgid "CloGaelach Laptop"
+msgid "CloGaelach laptop"
 msgstr "CloGaelach Skootrekenaar"
 
 #: xfree86.xml.in.h:61
-msgid "Compaq Easy Access Keyboard"
-msgstr "Compaq Easy Access Keyboard"
+msgid "Compaq Easy Access"
+msgstr "Compaq Easy Access"
 
 #: xfree86.xml.in.h:62
-msgid "Compaq Internet Keyboard (13 keys)"
-msgstr "Compaq Internet Keyboard (13 sleutels)"
+msgid "Compaq Internet (13 keys)"
+msgstr "Compaq Internet (13 sleutels)"
 
 #: xfree86.xml.in.h:63
-msgid "Compaq Internet Keyboard (18 keys)"
-msgstr "Compaq Internet Keyboard (18 sleutels)"
+msgid "Compaq Internet (18 keys)"
+msgstr "Compaq Internet (18 sleutels)"
 
 #: xfree86.xml.in.h:64
-msgid "Compaq Internet Keyboard (7 keys)"
-msgstr "Compaq Internet Keyboard (7 sleutels)"
+msgid "Compaq Internet (7 keys)"
+msgstr "Compaq Internet (7 sleutels)"
 
 #: xfree86.xml.in.h:65
-msgid "Compaq iPaq Keyboard"
-msgstr "Compaq iPaq Keyboard"
+msgid "Compaq iPaq"
+msgstr "Compaq iPaq"
 
 #: xfree86.xml.in.h:66
 msgid "Control Key Position"
@@ -309,8 +309,8 @@ msgid "Czech"
 msgstr "Tsjeggies"
 
 #: xfree86.xml.in.h:74
-msgid "Czech (qwerty)"
-msgstr "Tsjeggies (qwerty)"
+msgid "Czech (QWERTY)"
+msgstr "Tsjeggies (QWERTY)"
 
 #: xfree86.xml.in.h:75
 msgid "Danish"
@@ -337,12 +337,12 @@ msgid "Deu"
 msgstr "Deu"
 
 #: xfree86.xml.in.h:81
-msgid "Dexxa Wireless Desktop Keyboard"
-msgstr "Dexxa Wireless Desktop Keyboard"
+msgid "Dexxa Wireless Desktop"
+msgstr "Dexxa Wireless Desktop"
 
 #: xfree86.xml.in.h:82
-msgid "Diamond 9801 / 9802 series"
-msgstr "Diamond 9801 / 9802 series"
+msgid "Diamond 9801/9802"
+msgstr "Diamond 9801/9802"
 
 #: xfree86.xml.in.h:83
 msgid "Dnk"
@@ -417,7 +417,7 @@ msgid "French"
 msgstr "Frans"
 
 #: xfree86.xml.in.h:101
-msgid "French (alternative)"
+msgid "French (alt.)"
 msgstr "Frans (alternatief)"
 
 #: xfree86.xml.in.h:102
@@ -433,7 +433,7 @@ msgid "Generic 101-key PC"
 msgstr "Generies 101-sleutel PC"
 
 #: xfree86.xml.in.h:105
-msgid "Generic 102-key (Intl) PC"
+msgid "Generic 101-key PC (intl.)"
 msgstr "Generies 102-sleutel (Intl) PC"
 
 #: xfree86.xml.in.h:106
@@ -441,12 +441,12 @@ msgid "Generic 104-key PC"
 msgstr "Generies 104-sleutel PC"
 
 #: xfree86.xml.in.h:107
-msgid "Generic 105-key (Intl) PC"
+msgid "Generic 105-key PC (intl.)"
 msgstr "Generies 105-sleutel (Intl) PC"
 
 #: xfree86.xml.in.h:108
-msgid "Genius Comfy KB-16M / Genius MM Keyboard KWD-910"
-msgstr "Genius Comfy KB-16M / Genius MM Keyboard KWD-910"
+msgid "Genius Comfy KB-16M/Multimedia KWD-910"
+msgstr "Genius Comfy KB-16M/Multimedia KWD-910"
 
 #: xfree86.xml.in.h:109
 msgid "Geo"
@@ -489,16 +489,16 @@ msgid "Gurmukhi"
 msgstr "Gurmukhi"
 
 #: xfree86.xml.in.h:119
-msgid "Hewlett-Packard Internet Keyboard"
-msgstr "Hewlett-Packard Internet Keyboard"
+msgid "Hewlett-Packard Internet"
+msgstr "Hewlett-Packard Internet"
 
 #: xfree86.xml.in.h:120
 msgid "Hewlett-Packard Omnibook 500 FA"
 msgstr "Hewlett-Packard Omnibook 500 FA"
 
 #: xfree86.xml.in.h:121
-msgid "Hewlett-Packard Omnibook 5xx"
-msgstr "Hewlett-Packard Omnibook 5xx"
+msgid "Hewlett-Packard Omnibook 500"
+msgstr "Hewlett-Packard Omnibook 500"
 
 #: xfree86.xml.in.h:122
 msgid "Hewlett-Packard Omnibook 6000/6100"
@@ -517,16 +517,16 @@ msgid "Hewlett-Packard Omnibook XT1000"
 msgstr "Hewlett-Packard Omnibook XT1000"
 
 #: xfree86.xml.in.h:126
-msgid "Hewlett-Packard Pavilion ZT11xx"
-msgstr "Hewlett-Packard Pavilion ZT11xx"
+msgid "Hewlett-Packard Pavilion ZT1100"
+msgstr "Hewlett-Packard Pavilion ZT1100"
 
 #: xfree86.xml.in.h:127
-msgid "Hewlett-Packard SK-2501 Multimedia Keyboard"
-msgstr "Hewlett-Packard SK-2501 Multimedia Keyboard"
+msgid "Hewlett-Packard SK-2501 Multimedia"
+msgstr "Hewlett-Packard SK-2501 Multimedia"
 
 #: xfree86.xml.in.h:128
-msgid "Hewlett-Packard SK-2505 Internet Keyboard"
-msgstr "Hewlett-Packard SK-2505 Internet Keyboard"
+msgid "Hewlett-Packard SK-2505 Internet"
+msgstr "Hewlett-Packard SK-2505 Internet"
 
 #: xfree86.xml.in.h:129
 msgid "Hin"
@@ -553,8 +553,8 @@ msgid "Hungarian"
 msgstr "Hongaars"
 
 #: xfree86.xml.in.h:135
-msgid "Hungarian (qwerty)"
-msgstr "Hongaars (qwerty)"
+msgid "Hungarian (QWERTY)"
+msgstr "Hongaars (QWERTY)"
 
 #: xfree86.xml.in.h:136
 msgid "Hyper is mapped to the Win-keys."
@@ -669,12 +669,12 @@ msgid "Laptop"
 msgstr "Skootrekenaar"
 
 #: xfree86.xml.in.h:164
-msgid "Laptop/notebook Compaq (eg. Armada) Laptop Keyboard"
-msgstr "Laptop/notebook Compaq (eg. Armada) Laptop Keyboard"
+msgid "Compaq Armada laptop"
+msgstr "Compaq Armada laptop"
 
 #: xfree86.xml.in.h:165
-msgid "Laptop/notebook Compaq (eg. Presario) Internet Keyboard"
-msgstr "Laptop/notebook Compaq (eg. Presario) Internet Keyboard"
+msgid "Compaq Presario laptop"
+msgstr "Compaq Presario laptop"
 
 #: xfree86.xml.in.h:166
 msgid "Laptop/notebook Dell Inspiron 8xxx"
@@ -693,11 +693,11 @@ msgid "Latvian"
 msgstr "Latvies"
 
 #: xfree86.xml.in.h:170
-msgid "Left Alt key changes group"
+msgid "Left Alt changes group"
 msgstr "Linkerkant Alt-sleutel verander groep"
 
 #: xfree86.xml.in.h:171
-msgid "Left Ctrl key changes group"
+msgid "Left Ctrl changes group"
 msgstr "Linkerkant Ctrl-sleutel verander groep"
 
 #: xfree86.xml.in.h:172
@@ -757,20 +757,20 @@ msgid "Logitech Deluxe Access Keyboard"
 msgstr "Logitech Deluxe Access Keyboard"
 
 #: xfree86.xml.in.h:186
-msgid "Logitech Internet Keyboard"
-msgstr "Logitech Internet Keyboard"
+msgid "Logitech Internet"
+msgstr "Logitech Internet"
 
 #: xfree86.xml.in.h:187
-msgid "Logitech Internet Navigator Keyboard"
-msgstr "Logitech Internet Navigator Keyboard"
+msgid "Logitech Internet Navigator"
+msgstr "Logitech Internet Navigator"
 
 #: xfree86.xml.in.h:188
 msgid "Logitech iTouch"
 msgstr "Logitech iTouch"
 
 #: xfree86.xml.in.h:189
-msgid "Logitech iTouch Cordless Keyboard (model Y-RB6)"
-msgstr "Logitech iTouch Cordless Keyboard (model Y-RB6)"
+msgid "Logitech iTouch Cordless Y-RB6"
+msgstr "Logitech iTouch Cordless Y-RB6"
 
 #: xfree86.xml.in.h:190
 msgid "Logitech iTouch keyboard Internet Navigator"
@@ -821,8 +821,8 @@ msgid "Memorex MX1998"
 msgstr "Memorex MX1998"
 
 #: xfree86.xml.in.h:202
-msgid "Memorex MX2500 EZ-Access Keyboard"
-msgstr "Memorex MX2500 EZ-Access Keyboard"
+msgid "Memorex MX2500 EZ-Access"
+msgstr "Memorex MX2500 EZ-Access"
 
 #: xfree86.xml.in.h:203
 msgid "Memorex MX2750"
@@ -845,24 +845,24 @@ msgid "Meta is mapped to the left Win-key."
 msgstr "Meta is verbind aan die linkerkantste Win-sleutel."
 
 #: xfree86.xml.in.h:208
-msgid "Microsoft Internet Keyboard"
+msgid "Microsoft Internet"
 msgstr "Microsoft Internetsleutelbord"
 
 #: xfree86.xml.in.h:209
-msgid "Microsoft Internet Keyboard Pro, Swedish"
-msgstr "Microsoft Internet Keyboard Pro, Sweeds"
+msgid "Microsoft Internet Pro (Swedish)"
+msgstr "Microsoft Internet Pro, Sweeds"
 
 #: xfree86.xml.in.h:210
 msgid "Microsoft Natural"
 msgstr "Microsoft Natuurlik"
 
 #: xfree86.xml.in.h:211
-msgid "Microsoft Natural Keyboard Pro / Microsoft Internet Keyboard Pro"
-msgstr "Microsoft Natural Keyboard Pro / Microsoft Internet Keyboard Pro"
+msgid "Microsoft Natural Pro/Internet Pro"
+msgstr "Microsoft Natural Pro/Internet Pro"
 
 #: xfree86.xml.in.h:212
-msgid "Microsoft Natural Keyboard Pro OEM"
-msgstr "Microsoft Natural Keyboard Pro OEM"
+msgid "Microsoft Natural Pro OEM"
+msgstr "Microsoft Natural Pro OEM"
 
 #: xfree86.xml.in.h:213
 msgid "Microsoft Office Keyboard"
@@ -945,7 +945,7 @@ msgid "Oriya"
 msgstr "Oriya"
 
 #: xfree86.xml.in.h:233
-msgid "PC-98xx Series"
+msgid "PC-98"
 msgstr "PC-98xx Reeks"
 
 #: xfree86.xml.in.h:234
@@ -969,8 +969,8 @@ msgid "Polish"
 msgstr "Pools"
 
 #: xfree86.xml.in.h:239
-msgid "Polish (qwertz)"
-msgstr "Pools (qwertz)"
+msgid "Polish (QWERTZ)"
+msgstr "Pools (QWERTZ)"
 
 #: xfree86.xml.in.h:240
 msgid "Polytonic"
@@ -1005,8 +1005,8 @@ msgid "Press any of Win-keys to choose 3rd level"
 msgstr "Druk enige van die Win-sleutels om die 3de vlak te kies"
 
 #: xfree86.xml.in.h:248
-msgid "Propeller Voyager (KTEZ-1000)"
-msgstr "Propeller Voyager (KTEZ-1000)"
+msgid "Propeller Voyager KTEZ-1000"
+msgstr "Propeller Voyager KTEZ-1000"
 
 #: xfree86.xml.in.h:249
 msgid "Prt"
@@ -1033,7 +1033,7 @@ msgid "Right Control key works as Right Alt"
 msgstr "Regterkant Ctrl-sleutel werk soos Regterkant Alt"
 
 #: xfree86.xml.in.h:255
-msgid "Right Ctrl key changes group"
+msgid "Right Ctrl changes group"
 msgstr "Regterkant Ctrl-sleutel verander groep"
 
 #: xfree86.xml.in.h:256
@@ -1069,20 +1069,20 @@ msgid "Russian"
 msgstr "Russies"
 
 #: xfree86.xml.in.h:264
-msgid "SK-1300"
-msgstr "SK-1300"
+msgid "NEC SK-1300"
+msgstr "NEC SK-1300"
 
 #: xfree86.xml.in.h:265
-msgid "SK-2500"
-msgstr "SK-2500"
+msgid "NEC SK-2500"
+msgstr "NEC SK-2500"
 
 #: xfree86.xml.in.h:266
-msgid "SK-6200"
-msgstr "SK-6200"
+msgid "NEC SK-6200"
+msgstr "NEC SK-6200"
 
 #: xfree86.xml.in.h:267
-msgid "SK-7100"
-msgstr "SK-7100"
+msgid "NEC SK-7100"
+msgstr "NEC SK-7100"
 
 #: xfree86.xml.in.h:268
 msgid "SVEN Ergonomic 2500"
@@ -1121,8 +1121,8 @@ msgid "Slovak"
 msgstr "Slovaaks"
 
 #: xfree86.xml.in.h:277
-msgid "Slovak (qwerty)"
-msgstr "Slovaaks (qwerty)"
+msgid "Slovak (QWERTY)"
+msgstr "Slovaaks (QWERTY)"
 
 #: xfree86.xml.in.h:278
 msgid "Slovenian"
@@ -1185,8 +1185,8 @@ msgid "Swiss German"
 msgstr "Switserse Duits"
 
 #: xfree86.xml.in.h:293
-msgid "Symplon PaceBook (tablet PC)"
-msgstr "Symplon PaceBook (tablet PC)"
+msgid "Symplon PaceBook tablet"
+msgstr "Symplon PaceBook tablet"
 
 #: xfree86.xml.in.h:294
 msgid "Syr"
@@ -1245,12 +1245,12 @@ msgid "Toshiba Satellite S3000"
 msgstr "Toshiba Satellite S3000"
 
 #: xfree86.xml.in.h:308
-msgid "Trust Direct Access Keyboard"
-msgstr "Trust Direct Access Keyboard"
+msgid "Trust Direct Access"
+msgstr "Trust Direct Access"
 
 #: xfree86.xml.in.h:309
-msgid "Trust Wireless Keyboard Classic"
-msgstr "Trust Wireless Keyboard Classic"
+msgid "Trust Wireless Classic"
+msgstr "Trust Wireless Classic"
 
 #: xfree86.xml.in.h:310
 msgid "Tur"
@@ -1317,7 +1317,7 @@ msgid "Uses internal capitalization. Shift cancels Caps."
 msgstr "Gebruik interne bokas. Shift kanseleer Caps."
 
 #: xfree86.xml.in.h:326
-msgid "Uses internal capitalization. Shift doesn't cancel Caps."
+msgid "Uses internal capitalization. Shift does not cancel Caps."
 msgstr "Gebruik interne bokas.  Shift kanseleer nie Caps nie."
 
 #: xfree86.xml.in.h:327
@@ -1345,7 +1345,7 @@ msgid "Winkeys"
 msgstr "Winkeys"
 
 #: xfree86.xml.in.h:333
-msgid "Yahoo! Internet Keyboard"
+msgid "Yahoo! Internet"
 msgstr "Yahoo! Internetsleutelbord"
 
 #: xfree86.xml.in.h:334

@@ -24,7 +24,7 @@ msgid "Generic 101-key PC"
 msgstr "Τυπικός υπολογιστής 101-πλήκτρων"
 
 #: ../rules/base.xml.in.h:2
-msgid "Generic 102-key (Intl) PC"
+msgid "Generic 101-key PC (intl.)"
 msgstr "Τυπικός υπολογιστής 102-πλήκτρων (Διεθνής)"
 
 #: ../rules/base.xml.in.h:3
@@ -32,7 +32,7 @@ msgid "Generic 104-key PC"
 msgstr "Τυπικός υπολογιστής 104-πλήκτρων"
 
 #: ../rules/base.xml.in.h:4
-msgid "Generic 105-key (Intl) PC"
+msgid "Generic 105-key PC (intl.)"
 msgstr "Τυπικός υπολογιστής 105-πλήκτρων (Διεθνής)"
 
 #: ../rules/base.xml.in.h:5
@@ -40,12 +40,12 @@ msgid "Dell 101-key PC"
 msgstr "Dell PC 101-πλήκτρων"
 
 #: ../rules/base.xml.in.h:6
-msgid "Dell Latitude series laptop"
+msgid "Dell Latutude laptop"
 msgstr "Dell φορητός υπολογιστής σειράς Latitude"
 
 #: ../rules/base.xml.in.h:7
-msgid "Dell Precision M65"
-msgstr "Dell Precision M65"
+msgid "Dell Precision M65 laptop"
+msgstr "Dell Precision M65 laptop"
 
 #: ../rules/base.xml.in.h:8
 msgid "Everex STEPnote"
@@ -68,7 +68,7 @@ msgid "Winbook Model XP5"
 msgstr "Winbook Model XP5"
 
 #: ../rules/base.xml.in.h:13
-msgid "PC-98xx Series"
+msgid "PC-98"
 msgstr "Σειρά PC-98xx"
 
 #: ../rules/base.xml.in.h:14
@@ -88,7 +88,7 @@ msgid "Acer AirKey V"
 msgstr "Acer AirKey V"
 
 #: ../rules/base.xml.in.h:18
-msgid "Azona RF2300 wireless Internet Keyboard"
+msgid "Azona RF2300 wireless Internet"
 msgstr "Ασύρματο πληκτρολόγιο διαδικτύου Azona RF2300"
 
 #: ../rules/base.xml.in.h:19
@@ -96,7 +96,7 @@ msgid "Advance Scorpius KI"
 msgstr "Advance Scorpius KI"
 
 #: ../rules/base.xml.in.h:20
-msgid "Brother Internet Keyboard"
+msgid "Brother Internet"
 msgstr "Πληκτρολόγιο Διαδικτύου Brother"
 
 #: ../rules/base.xml.in.h:21
@@ -144,7 +144,7 @@ msgid "Cherry CyMotion Master XPress"
 msgstr "Cherry CyMotion Master XPress"
 
 #: ../rules/base.xml.in.h:32
-msgid "Cherry Blue Line CyBo@rd (alternate option)"
+msgid "Cherry Blue Line CyBo@rd (alt.)"
 msgstr "Cherry Blue Line CyBo@rd (εναλλακτική επιλογή)"
 
 #: ../rules/base.xml.in.h:33
@@ -160,8 +160,8 @@ msgid "Cherry B.UNLIMITED"
 msgstr "Cherry B.UNLIMITED"
 
 #: ../rules/base.xml.in.h:36
-msgid "Chicony Internet Keyboard"
-msgstr "Chicony Internet Keyboard"
+msgid "Chicony Internet"
+msgstr "Chicony Internet"
 
 #: ../rules/base.xml.in.h:37
 msgid "Chicony KU-0108"
@@ -176,19 +176,19 @@ msgid "Chicony KB-9885"
 msgstr "Chicony KB-9885"
 
 #: ../rules/base.xml.in.h:40
-msgid "Compaq Easy Access Keyboard"
+msgid "Compaq Easy Access"
 msgstr "Πληκτρολόγιο εύκολης πρόσβασης Compaq"
 
 #: ../rules/base.xml.in.h:41
-msgid "Compaq Internet Keyboard (7 keys)"
+msgid "Compaq Internet (7 keys)"
 msgstr "Πληκτρολόγιο διαδικτύου Compaq (7 πλήκτρα)"
 
 #: ../rules/base.xml.in.h:42
-msgid "Compaq Internet Keyboard (13 keys)"
+msgid "Compaq Internet (13 keys)"
 msgstr "Πληκτρολόγιο διαδικτύου Compaq (13 πλήκτρα)"
 
 #: ../rules/base.xml.in.h:43
-msgid "Compaq Internet Keyboard (18 keys)"
+msgid "Compaq Internet (18 keys)"
 msgstr "Πληκτρολόγιο διαδικτύου Compaq (18 πλήκτρα)"
 
 #: ../rules/base.xml.in.h:44
@@ -196,15 +196,15 @@ msgid "Cherry CyMotion Master Linux"
 msgstr "Cherry CyMotion Master Linux"
 
 #: ../rules/base.xml.in.h:45
-msgid "Laptop/notebook Compaq (eg. Armada) Laptop Keyboard"
+msgid "Compaq Armada laptop"
 msgstr "Πληκτρολόγιο φορητού υπολογιστή/σημειωματαρίου Compaq (πχ. Armada)"
 
 #: ../rules/base.xml.in.h:46
-msgid "Laptop/notebook Compaq (eg. Presario) Internet Keyboard"
+msgid "Compaq Presario laptop"
 msgstr "Πληκτρολόγιο διαδικτύου φορητού υπολογιστή/σημειωματαρίου (πχ. Presario)"
 
 #: ../rules/base.xml.in.h:47
-msgid "Compaq iPaq Keyboard"
+msgid "Compaq iPaq"
 msgstr "Πληκτρολόγιο iPaq Compaq"
 
 #: ../rules/base.xml.in.h:48
@@ -220,23 +220,23 @@ msgid "Dell SK-8135"
 msgstr "Dell SK-8135"
 
 #: ../rules/base.xml.in.h:51
-msgid "Dell USB Multimedia Keyboard"
+msgid "Dell USB Multimedia"
 msgstr "Πληκτρολόγιο πολυμέσων USB Dell"
 
 #: ../rules/base.xml.in.h:52
-msgid "Dell Laptop/notebook Inspiron 6xxx/8xxx"
+msgid "Dell laptop/notebook Inspiron 6xxx/8xxx"
 msgstr "Dell φορητός υπολογιστής/σημειωματάριο Inspiron 6xxx/8xxx"
 
 #: ../rules/base.xml.in.h:53
-msgid "Dell Laptop/notebook Precision M series"
+msgid "Dell Precision M laptop"
 msgstr "Dell φορητός υπολογιστής/σημειωματαρίου Precision M series"
 
 #: ../rules/base.xml.in.h:54
-msgid "Dexxa Wireless Desktop Keyboard"
+msgid "Dexxa Wireless Desktop"
 msgstr "Ασύρματο πληκτρολόγιο επιφάνειας εργασίας Dexxa"
 
 #: ../rules/base.xml.in.h:55
-msgid "Diamond 9801 / 9802 series"
+msgid "Diamond 9801/9802"
 msgstr "Diamond σειρές 9801 / 9802"
 
 #: ../rules/base.xml.in.h:56
@@ -248,11 +248,11 @@ msgid "Ennyah DKB-1008"
 msgstr "Ennyah DKB-1008"
 
 #: ../rules/base.xml.in.h:58
-msgid "Fujitsu-Siemens Computers AMILO laptop"
+msgid "Fujitsu-Siemens Amilo laptop"
 msgstr "φορητός υπολογιστής AMILO Fujitsu-Siemens"
 
 #: ../rules/base.xml.in.h:59
-msgid "Genius Comfy KB-16M / Genius MM Keyboard KWD-910"
+msgid "Genius Comfy KB-16M/Multimedia KWD-910"
 msgstr "Genius Comfy KB-16M / Genius MM πληκτρολόγιο KWD-910"
 
 #: ../rules/base.xml.in.h:60
@@ -284,7 +284,7 @@ msgid "Kinesis"
 msgstr "Kinesis"
 
 #: ../rules/base.xml.in.h:67
-msgid "Logitech Generic Keyboard"
+msgid "Logitech"
 msgstr "Τυπικό πληκτρολόγιο Logitech"
 
 #: ../rules/base.xml.in.h:68
@@ -292,11 +292,11 @@ msgid "Logitech G15 extra keys via G15daemon"
 msgstr "Logitech G15 πρόσθετα πλήκτρα μέσα από G15daemon"
 
 #: ../rules/base.xml.in.h:69
-msgid "Hewlett-Packard Internet Keyboard"
+msgid "Hewlett-Packard Internet"
 msgstr "Hewlett-Packard πληκτρολόγιο διαδικτύου"
 
 #: ../rules/base.xml.in.h:70
-msgid "Hewlett-Packard SK-250x Multimedia Keyboard"
+msgid "Hewlett-Packard SK-250x Multimedia"
 msgstr "Hewlett-Packard SK-250x πληκτρολόγιο πολυμέσων"
 
 #: ../rules/base.xml.in.h:71
@@ -316,16 +316,16 @@ msgid "Hewlett-Packard Pavilion dv5"
 msgstr "Hewlett-Packard Pavilion dv5"
 
 #: ../rules/base.xml.in.h:75
-msgid "Hewlett-Packard Pavilion ZT11xx"
-msgstr "Hewlett-Packard Pavilion ZT11xx"
+msgid "Hewlett-Packard Pavilion ZT1100"
+msgstr "Hewlett-Packard Pavilion ZT1100"
 
 #: ../rules/base.xml.in.h:76
 msgid "Hewlett-Packard Omnibook 500 FA"
 msgstr "Hewlett-Packard Omnibook 500 FA"
 
 #: ../rules/base.xml.in.h:77
-msgid "Hewlett-Packard Omnibook 5xx"
-msgstr "Hewlett-Packard Omnibook 5xx"
+msgid "Hewlett-Packard Omnibook 500"
+msgstr "Hewlett-Packard Omnibook 500"
 
 #: ../rules/base.xml.in.h:78
 msgid "Hewlett-Packard nx9020"
@@ -340,8 +340,8 @@ msgid "Honeywell Euroboard"
 msgstr "Honeywell Euroboard"
 
 #: ../rules/base.xml.in.h:81
-msgid "Hewlett-Packard Mini 110 Notebook"
-msgstr "Hewlett-Packard Mini 110 Notebook"
+msgid "Hewlett-Packard Mini 110 laptop"
+msgstr "Hewlett-Packard Mini 110 laptop"
 
 #: ../rules/base.xml.in.h:82
 msgid "IBM Rapid Access"
@@ -368,19 +368,19 @@ msgid "IBM Space Saver"
 msgstr "IBM Space Saver"
 
 #: ../rules/base.xml.in.h:88
-msgid "Logitech Access Keyboard"
-msgstr "Logitech Access Keyboard"
+msgid "Logitech Access"
+msgstr "Logitech Access"
 
 #: ../rules/base.xml.in.h:89
 msgid "Logitech Cordless Desktop LX-300"
 msgstr "Logitech ασύρματο επιφάνειας εργασίας LX-300"
 
 #: ../rules/base.xml.in.h:90
-msgid "Logitech Internet 350 Keyboard"
+msgid "Logitech Internet 350"
 msgstr "Πληκτρολόγιο διαδικτύου 350 Logitech"
 
 #: ../rules/base.xml.in.h:91
-msgid "Logitech Media Elite Keyboard"
+msgid "Logitech Internet 350"
 msgstr "Πληκτρολόγιο Elite πολυμέσων Logitech"
 
 #: ../rules/base.xml.in.h:92
@@ -400,11 +400,11 @@ msgid "Logitech Cordless Desktop Optical"
 msgstr "Logitech Cordless Desktop Optical"
 
 #: ../rules/base.xml.in.h:96
-msgid "Logitech Cordless Desktop (alternate option)"
+msgid "Logitech Cordless Desktop (alt.)"
 msgstr "Logitech Cordless Desktop (εναλλακτική επιλογή)"
 
 #: ../rules/base.xml.in.h:97
-msgid "Logitech Cordless Desktop Pro (alternate option 2)"
+msgid "Logitech Cordless Desktop Pro (2nd alt.)"
 msgstr "Logitech Cordless Desktop Pro (εναλλακτική επιλογή 2)"
 
 #: ../rules/base.xml.in.h:98
@@ -412,47 +412,47 @@ msgid "Logitech Cordless Freedom/Desktop Navigator"
 msgstr "Logitech Cordless Freedom/Desktop Navigator"
 
 #: ../rules/base.xml.in.h:99
-msgid "Logitech iTouch Cordless Keyboard (model Y-RB6)"
+msgid "Logitech iTouch Cordless Y-RB6"
 msgstr "Logitech iTouch Cordless Keyboard (μοντέλο Y-RB6)"
 
 #: ../rules/base.xml.in.h:100
-msgid "Logitech Internet Keyboard"
-msgstr "Logitech Internet Keyboard"
+msgid "Logitech Internet"
+msgstr "Logitech Internet"
 
 #: ../rules/base.xml.in.h:101
 msgid "Logitech iTouch"
 msgstr "Logitech iTouch"
 
 #: ../rules/base.xml.in.h:102
-msgid "Logitech Internet Navigator Keyboard"
-msgstr "Logitech Internet Navigator Keyboard"
+msgid "Logitech Internet Navigator"
+msgstr "Logitech Internet Navigator"
 
 #: ../rules/base.xml.in.h:103
 msgid "Logitech Cordless Desktop EX110"
 msgstr "Logitech Cordless Desktop EX110"
 
 #: ../rules/base.xml.in.h:104
-msgid "Logitech iTouch Internet Navigator Keyboard SE"
+msgid "Logitech iTouch Internet Navigator SE"
 msgstr "πληκτρολόγιο περιηγητή διαδικτύου Logitech iTouch SE"
 
 #: ../rules/base.xml.in.h:105
-msgid "Logitech iTouch Internet Navigator Keyboard SE (USB)"
+msgid "Logitech iTouch Internet Navigator SE USB"
 msgstr "Πληκτρολόγιο περιηγητή διαδικτύου Logitech iTouch SE (USB)"
 
 #: ../rules/base.xml.in.h:106
-msgid "Logitech Ultra-X Keyboard"
+msgid "Logitech Ultra-X"
 msgstr "Logitech πληκτρολόγιο Ultra-X"
 
 #: ../rules/base.xml.in.h:107
-msgid "Logitech Ultra-X Cordless Media Desktop Keyboard"
+msgid "Logitech Ultra-X Cordless Media Desktop"
 msgstr "Ασύρματο πληκτρολόγιο επιφάνειας εργασίας πολυμέσων Logitech Ultra-X"
 
 #: ../rules/base.xml.in.h:108
-msgid "Logitech diNovo Keyboard"
+msgid "Logitech diNovo"
 msgstr "Πληκτρολόγιο Logitech diNovo"
 
 #: ../rules/base.xml.in.h:109
-msgid "Logitech diNovo Edge Keyboard"
+msgid "Logitech diNovo Edge"
 msgstr "Πληκτρολόγιο Logitech diNovo Edge"
 
 #: ../rules/base.xml.in.h:110
@@ -460,43 +460,43 @@ msgid "Memorex MX1998"
 msgstr "Memorex MX1998"
 
 #: ../rules/base.xml.in.h:111
-msgid "Memorex MX2500 EZ-Access Keyboard"
-msgstr "Memorex MX2500 EZ-Access Keyboard"
+msgid "Memorex MX2500 EZ-Access"
+msgstr "Memorex MX2500 EZ-Access"
 
 #: ../rules/base.xml.in.h:112
 msgid "Memorex MX2750"
 msgstr "Memorex MX2750"
 
 #: ../rules/base.xml.in.h:113
-msgid "Microsoft Natural Wireless Ergonomic Keyboard 4000"
+msgid "Microsoft Natural Wireless Ergonomic 4000"
 msgstr "Ασύρματο εργονομικό πληκτρολόγιο Microsoft Natural 4000"
 
 #: ../rules/base.xml.in.h:114
-msgid "Microsoft Natural Wireless Ergonomic Keyboard 7000"
+msgid "Microsoft Natural Wireless Ergonomic 7000"
 msgstr "Ασύρματο εργονομικό πληκτρολόγιο Microsoft Natural 7000"
 
 #: ../rules/base.xml.in.h:115
-msgid "Microsoft Internet Keyboard"
+msgid "Microsoft Internet"
 msgstr "Πληκτρολόγιο διαδικτύου Microsoft"
 
 #: ../rules/base.xml.in.h:116
-msgid "Microsoft Natural Keyboard Pro / Microsoft Internet Keyboard Pro"
+msgid "Microsoft Natural Pro/Internet Pro"
 msgstr "Πληκτρολόγιο Microsoft Natural Pro / Microsoft Internet Pro"
 
 #: ../rules/base.xml.in.h:117
-msgid "Microsoft Natural Keyboard Pro USB / Microsoft Internet Keyboard Pro"
+msgid "Microsoft Natural Pro USB/Internet Pro"
 msgstr "Πληκτρολόγιο Microsoft Natural Pro USB/ Microsoft Internet Pro"
 
 #: ../rules/base.xml.in.h:118
-msgid "Microsoft Natural Keyboard Pro OEM"
+msgid "Microsoft Natural Pro OEM"
 msgstr "Πληκτρολόγιο Microsoft Natural Pro OEM"
 
 #: ../rules/base.xml.in.h:119
-msgid "ViewSonic KU-306 Internet Keyboard"
+msgid "ViewSonic KU-306 Internet"
 msgstr "Πληκτρολόγιο διαδικτύου ViewSonic KU-306"
 
 #: ../rules/base.xml.in.h:120
-msgid "Microsoft Internet Keyboard Pro, Swedish"
+msgid "Microsoft Internet Pro (Swedish)"
 msgstr "Πληκτρολόγιο Microsoft Internet Pro, σουηδικό"
 
 #: ../rules/base.xml.in.h:121
@@ -504,24 +504,24 @@ msgid "Microsoft Office Keyboard"
 msgstr "Πληκτρολόγιο γραφείου Microsoft"
 
 #: ../rules/base.xml.in.h:122
-msgid "Microsoft Wireless Multimedia Keyboard 1.0A"
+msgid "Microsoft Wireless Multimedia 1.0A"
 msgstr "Ασύρματο πληκτρολόγιο πολυμέσων Microsoft 1.0A"
 
 #: ../rules/base.xml.in.h:123
-msgid "Microsoft Natural Keyboard Elite"
+msgid "Microsoft Natural Elite"
 msgstr "Πληκτρολόγιο Microsoft Natural Elite"
 
 #: ../rules/base.xml.in.h:124
-msgid "Microsoft Comfort Curve Keyboard 2000"
+msgid "Microsoft Comfort Curve 2000"
 msgstr "Πληκτρολόγιο άνετης καμπύλης Microsoft 2000"
 
 #: ../rules/base.xml.in.h:125
-msgid "Ortek MCK-800 MM/Internet keyboard"
+msgid "Ortek Multimedia/Internet MCK-800"
 msgstr "Ortek MCK-800 MM/Πληκτρολόγιο διαδικτύου"
 
 #: ../rules/base.xml.in.h:126
-msgid "Propeller Voyager (KTEZ-1000)"
-msgstr "Propeller Voyager (KTEZ-1000)"
+msgid "Propeller Voyager KTEZ-1000"
+msgstr "Propeller Voyager KTEZ-1000"
 
 #: ../rules/base.xml.in.h:127
 msgid "QTronix Scorpius 98N+"
@@ -540,24 +540,24 @@ msgid "Sanwa Supply SKB-KG3"
 msgstr "Sanwa Supply SKB-KG3"
 
 #: ../rules/base.xml.in.h:131
-msgid "SK-1300"
-msgstr "SK-1300"
+msgid "NEC SK-1300"
+msgstr "NEC SK-1300"
 
 #: ../rules/base.xml.in.h:132
-msgid "SK-2500"
-msgstr "SK-2500"
+msgid "NEC SK-2500"
+msgstr "NEC SK-2500"
 
 #: ../rules/base.xml.in.h:133
-msgid "SK-6200"
-msgstr "SK-6200"
+msgid "NEC SK-6200"
+msgstr "NEC SK-6200"
 
 #: ../rules/base.xml.in.h:134
-msgid "SK-7100"
-msgstr "SK-7100"
+msgid "NEC SK-7100"
+msgstr "NEC SK-7100"
 
 #: ../rules/base.xml.in.h:135
-msgid "Super Power Multimedia Keyboard"
-msgstr "Super Power Multimedia Keyboard"
+msgid "Super Power Multimedia"
+msgstr "Super Power Multimedia"
 
 #: ../rules/base.xml.in.h:136
 msgid "SVEN Ergonomic 2500"
@@ -568,19 +568,19 @@ msgid "SVEN Slim 303"
 msgstr "SVEN Slim 303"
 
 #: ../rules/base.xml.in.h:138
-msgid "Symplon PaceBook (tablet PC)"
-msgstr "Symplon PaceBook (tablet PC)"
+msgid "Symplon PaceBook tablet"
+msgstr "Symplon PaceBook tablet"
 
 #: ../rules/base.xml.in.h:139
 msgid "Toshiba Satellite S3000"
 msgstr "Toshiba Satellite S3000"
 
 #: ../rules/base.xml.in.h:140
-msgid "Trust Wireless Keyboard Classic"
+msgid "Trust Wireless Classic"
 msgstr "Κλασικό ασύρματο πληκτρολόγιο Trust"
 
 #: ../rules/base.xml.in.h:141
-msgid "Trust Direct Access Keyboard"
+msgid "Trust Direct Access"
 msgstr "Πληκτρολόγιο άμεσης πρόσβασης Trust"
 
 #: ../rules/base.xml.in.h:142
@@ -608,16 +608,16 @@ msgid "TypeMatrix EZ-Reach 2030 USB (106:JP mode)"
 msgstr "TypeMatrix EZ-Reach 2030 USB (106:JP mode)"
 
 #: ../rules/base.xml.in.h:148
-msgid "Yahoo! Internet Keyboard"
-msgstr "Yahoo! Internet Keyboard"
+msgid "Yahoo! Internet"
+msgstr "Yahoo! Internet"
 
 #: ../rules/base.xml.in.h:149
 msgid "MacBook/MacBook Pro"
 msgstr "MacBook/MacBook Pro"
 
 #: ../rules/base.xml.in.h:150
-msgid "MacBook/MacBook Pro (Intl)"
-msgstr "MacBook/MacBook Pro (Intl)"
+msgid "MacBook/MacBook Pro (intl.)"
+msgstr "MacBook/MacBook Pro (intl.)"
 
 #: ../rules/base.xml.in.h:151
 msgid "Macintosh"
@@ -628,8 +628,8 @@ msgid "Macintosh Old"
 msgstr "Macintosh Παλαιό"
 
 #: ../rules/base.xml.in.h:153
-msgid "Happy Hacking Keyboard for Mac"
-msgstr "Happy Hacking Keyboard for Mac"
+msgid "Happy Hacking for Mac"
+msgstr "Happy Hacking for Mac"
 
 #: ../rules/base.xml.in.h:154
 msgid "Acer C300"
@@ -640,11 +640,11 @@ msgid "Acer Ferrari 4000"
 msgstr "Acer Ferrari 4000"
 
 #: ../rules/base.xml.in.h:156
-msgid "Acer Laptop"
+msgid "Acer laptop"
 msgstr "Φορητός Acer"
 
 #: ../rules/base.xml.in.h:157
-msgid "Asus Laptop"
+msgid "Asus laptop"
 msgstr "Φορητός Asus"
 
 #: ../rules/base.xml.in.h:158
@@ -652,27 +652,27 @@ msgid "Apple"
 msgstr "Apple"
 
 #: ../rules/base.xml.in.h:159
-msgid "Apple Laptop"
+msgid "Apple laptop"
 msgstr "Φορητός Apple"
 
 #: ../rules/base.xml.in.h:160
-msgid "Apple Aluminium Keyboard (ANSI)"
+msgid "Apple Aluminium (ANSI)"
 msgstr "Πληκτρολόγιο Apple Aluminium (ANSI)"
 
 #: ../rules/base.xml.in.h:161
-msgid "Apple Aluminium Keyboard (ISO)"
+msgid "Apple Aluminium (ISO)"
 msgstr "Πληκτρολόγιο Apple Aluminium (ISO)"
 
 #: ../rules/base.xml.in.h:162
-msgid "Apple Aluminium Keyboard (JIS)"
+msgid "Apple Aluminium (JIS)"
 msgstr "Πληκτρολόγιο Apple Aluminium (JIS)"
 
 #: ../rules/base.xml.in.h:163
-msgid "SILVERCREST Multimedia Wireless Keyboard"
-msgstr "Ασύρματο πληκτρολόγιο πολυμέσων SILVERCREST"
+msgid "Silvercrest Multimedia Wireless"
+msgstr "Ασύρματο πληκτρολόγιο πολυμέσων Silvercrest"
 
 #: ../rules/base.xml.in.h:164
-msgid "Laptop/notebook eMachines m68xx"
+msgid "eMachines m6800 laptop"
 msgstr "Φορητός υπολογιστής/σημειωματάριο eMachines m68xx"
 
 #: ../rules/base.xml.in.h:165
@@ -688,7 +688,7 @@ msgid "BenQ X-Touch 800"
 msgstr "BenQ X-Touch 800"
 
 #: ../rules/base.xml.in.h:168
-msgid "Happy Hacking Keyboard"
+msgid "Happy Hacking"
 msgstr "Πληκτρολόγιο Happy Hacking"
 
 #: ../rules/base.xml.in.h:169
@@ -704,15 +704,15 @@ msgid "Sun Type 7 USB"
 msgstr "Sun Type 7 USB"
 
 #: ../rules/base.xml.in.h:172
-msgid "Sun Type 7 USB (European layout)"
+msgid "Sun Type 7 USB (European)"
 msgstr "Sun Type 7 USB (ευρωπαϊκή διάταξη)"
 
 #: ../rules/base.xml.in.h:173
-msgid "Sun Type 7 USB (Unix layout)"
+msgid "Sun Type 7 USB (Unix)"
 msgstr "Sun Type 7 USB (διάταξη Γιούνιξ)"
 
 #: ../rules/base.xml.in.h:174
-msgid "Sun Type 7 USB (Japanese layout) / Japanese 106-key"
+msgid "Sun Type 7 USB (Japanese)/Japanese 106-key"
 msgstr "Sun Type 7 USB (ιαπωνική διάταξη) / Japanese 106-πλήκτρων"
 
 #: ../rules/base.xml.in.h:175
@@ -720,19 +720,19 @@ msgid "Sun Type 6/7 USB"
 msgstr "Sun Type 6/7 USB"
 
 #: ../rules/base.xml.in.h:176
-msgid "Sun Type 6/7 USB (European layout)"
+msgid "Sun Type 6/7 USB (European)"
 msgstr "Sun Type 6/7 USB (ευρωπαϊκή διάταξη)"
 
 #: ../rules/base.xml.in.h:177
-msgid "Sun Type 6 USB (Unix layout)"
+msgid "Sun Type 6 USB (Unix)"
 msgstr "Sun Type 6 USB (διάταξη Γιούνιξ)"
 
 #: ../rules/base.xml.in.h:178
-msgid "Sun Type 6 USB (Japanese layout)"
+msgid "Sun Type 6 USB (Japanese)"
 msgstr "Sun Type 6 USB (ιαπωνική διάταξη)"
 
 #: ../rules/base.xml.in.h:179
-msgid "Sun Type 6 (Japanese layout)"
+msgid "Sun Type 6 (Japanese)"
 msgstr "Sun Type 6 (ιαπωνική διάταξη)"
 
 #: ../rules/base.xml.in.h:180
@@ -774,15 +774,15 @@ msgid "Cherokee"
 msgstr "Τσερόκι"
 
 #: ../rules/base.xml.in.h:191
-msgid "English (US, with euro on 5)"
+msgid "English (US, euro on 5)"
 msgstr "Αγγλικό (US, με ευρώ στο 5)"
 
 #: ../rules/base.xml.in.h:192
-msgid "English (US, international with dead keys)"
+msgid "English (US, intl., with dead keys)"
 msgstr "Αγγλικό (US, διεθνές με νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:193
-msgid "English (US, alternative international)"
+msgid "English (US, alt. intl.)"
 msgstr "Αγγλικό (US, εναλλακτικό διεθνές)"
 
 #: ../rules/base.xml.in.h:194
@@ -794,19 +794,19 @@ msgid "English (Dvorak)"
 msgstr "Αγγλικά (Dvorak)"
 
 #: ../rules/base.xml.in.h:196
-msgid "English (Dvorak, international with dead keys)"
+msgid "English (Dvorak, intl., with dead keys)"
 msgstr "Αγγλικό (Dvorak, διεθνές με νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:197
-msgid "English (Dvorak alternative international no dead keys)"
+msgid "English (Dvorak, alt. intl.)"
 msgstr "Αγγλικό (Dvorak, εναλλακτικό διεθνές χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:198
-msgid "English (left handed Dvorak)"
+msgid "English (Dvorak, left-handed)"
 msgstr "Αγγλικό (αριστερόχειρες Dvorak)"
 
 #: ../rules/base.xml.in.h:199
-msgid "English (right handed Dvorak)"
+msgid "English (Dvorak, right-handed)"
 msgstr "Αγγλικό (δεξιόχειρες Dvorak)"
 
 #: ../rules/base.xml.in.h:200
@@ -831,7 +831,7 @@ msgid "English (Macintosh)"
 msgstr "Αγγλικό (Macintosh)"
 
 #: ../rules/base.xml.in.h:206
-msgid "English (international AltGr dead keys)"
+msgid "English (intl., with dead keys)"
 msgstr "Αγγλικό (διεθνές AltGr με νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:207
@@ -847,7 +847,7 @@ msgid "English (Workman)"
 msgstr "Αγγλικό (Workman)"
 
 #: ../rules/base.xml.in.h:210
-msgid "English (Workman, international with dead keys)"
+msgid "English (Workman, intl., with dead keys)"
 msgstr "Αγγλικό (Workman, διεθνές με νεκρά πλήκτρα)"
 
 #. Keyboard indicator for Persian layouts
@@ -899,20 +899,20 @@ msgid "Arabic"
 msgstr "Αραβικό"
 
 #: ../rules/base.xml.in.h:226
-msgid "Arabic (azerty)"
-msgstr "Αραβικό (azerty)"
+msgid "Arabic (AZERTY)"
+msgstr "Αραβικό (AZERTY)"
 
 #: ../rules/base.xml.in.h:227
-msgid "Arabic (azerty/digits)"
-msgstr "Αραβικό (azerty/digits)"
+msgid "Arabic (AZERTY/digits)"
+msgstr "Αραβικό (AZERTY/digits)"
 
 #: ../rules/base.xml.in.h:228
 msgid "Arabic (digits)"
 msgstr "Αραβικό (ψηφία)"
 
 #: ../rules/base.xml.in.h:229
-msgid "Arabic (qwerty)"
-msgstr "Αραβικό (qwerty)"
+msgid "Arabic (QWERTY)"
+msgstr "Αραβικό (QWERTY)"
 
 #: ../rules/base.xml.in.h:230
 msgid "Arabic (qwerty/digits)"
@@ -945,7 +945,7 @@ msgid "Armenian (phonetic)"
 msgstr "Αρμενικό (φωνητικό)"
 
 #: ../rules/base.xml.in.h:239
-msgid "Armenian (alternative phonetic)"
+msgid "Armenian (alt. phonetic)"
 msgstr "Αρμενικό (εναλλακτικό φωνητικό)"
 
 #: ../rules/base.xml.in.h:240
@@ -957,7 +957,7 @@ msgid "Armenian (western)"
 msgstr "Αρμενικό (δυτικό)"
 
 #: ../rules/base.xml.in.h:242
-msgid "Armenian (alternative eastern)"
+msgid "Armenian (alt. eastern)"
 msgstr "Αρμενικό (εναλλακτικό ανατολικό)"
 
 #. Keyboard indicator for German layouts
@@ -970,11 +970,11 @@ msgid "German (Austria)"
 msgstr "Γερμανικό (Αυστρία)"
 
 #: ../rules/base.xml.in.h:246
-msgid "German (Austria, eliminate dead keys)"
+msgid "German (Austria, no dead keys)"
 msgstr "Γερμανικό (Αυστρία, αποκλεισμός νεκρών πλήκτρων)"
 
 #: ../rules/base.xml.in.h:247
-msgid "German (Austria, Sun dead keys)"
+msgid "German (Austria, with Sun dead keys)"
 msgstr "Γερμανικό (Αυστρία, νεκρά πλήκτρα Sun)"
 
 #: ../rules/base.xml.in.h:248
@@ -1021,31 +1021,31 @@ msgid "Belgian"
 msgstr "Βελγικό"
 
 #: ../rules/base.xml.in.h:261
-msgid "Belgian (alternative)"
+msgid "Belgian (alt.)"
 msgstr "Βελγικό (εναλλακτικό)"
 
 #: ../rules/base.xml.in.h:262
-msgid "Belgian (alternative, Latin-9 only)"
+msgid "Belgian (alt., Latin-9 only)"
 msgstr "Βελγικό (εναλλακτικό, μόνο latin-9)"
 
 #: ../rules/base.xml.in.h:263
-msgid "Belgian (alternative, Sun dead keys)"
+msgid "Belgian (alt., with Sun dead keys)"
 msgstr "Βελγικό (εναλλακτικό, Sun με νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:264
-msgid "Belgian (ISO alternate)"
+msgid "Belgian (alt. ISO)"
 msgstr "Βελγικό (εναλλακτικό ISO)"
 
 #: ../rules/base.xml.in.h:265
-msgid "Belgian (eliminate dead keys)"
+msgid "Belgian (no dead keys)"
 msgstr "Βελγικό (χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:266
-msgid "Belgian (Sun dead keys)"
+msgid "Belgian (with Sun dead keys)"
 msgstr "Βελγικό (νεκρά πλήκτρα Sun)"
 
 #: ../rules/base.xml.in.h:267
-msgid "Belgian (Wang model 724 azerty)"
+msgid "Belgian (Wang 724 AZERTY)"
 msgstr "Βελγικό (Wang model 724 azerty)"
 
 #. Keyboard indicator for Bangla layouts
@@ -1203,11 +1203,11 @@ msgid "Urdu (phonetic)"
 msgstr "Ούρντου (φωνητικό)"
 
 #: ../rules/base.xml.in.h:314
-msgid "Urdu (alternative phonetic)"
+msgid "Urdu (alt. phonetic)"
 msgstr "Ούρντου (εναλλακτικό φωνητικό)"
 
 #: ../rules/base.xml.in.h:315
-msgid "Urdu (WinKeys)"
+msgid "Urdu (Win keys)"
 msgstr "Ούρντου (πλήκτρα Win)"
 
 #. Keyboard indicator for Hindi layouts
@@ -1267,11 +1267,11 @@ msgid "Bosnian (use Bosnian digraphs)"
 msgstr "Βοσνιακό (χρήση βοσνιακών διγραμμάτων)"
 
 #: ../rules/base.xml.in.h:333
-msgid "Bosnian (US keyboard with Bosnian digraphs)"
+msgid "Bosnian (US, with Bosnian digraphs)"
 msgstr "Βοσνιακό (πληκτρολόγιο US με βοσνιακά διγράμματα)"
 
 #: ../rules/base.xml.in.h:334
-msgid "Bosnian (US keyboard with Bosnian letters)"
+msgid "Bosnian (US, with Bosnian letters)"
 msgstr "Βοσνιακό (πληκτρολόγιο US με βοσνιακά γράμματα)"
 
 #. Keyboard indicator for Portuguese layouts
@@ -1284,7 +1284,7 @@ msgid "Portuguese (Brazil)"
 msgstr "Πορτογαλικό (Βραζιλίας)"
 
 #: ../rules/base.xml.in.h:338
-msgid "Portuguese (Brazil, eliminate dead keys)"
+msgid "Portuguese (Brazil, no dead keys)"
 msgstr "Πορτογαλικό (Βραζιλίας, χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:339
@@ -1343,11 +1343,11 @@ msgid "Berber (Morocco, Tifinagh)"
 msgstr "Βερβερικό (Μαρόκο, Τιφινάγκ)"
 
 #: ../rules/base.xml.in.h:355
-msgid "Berber (Morocco, Tifinagh alternative)"
+msgid "Berber (Morocco, Tifinagh alt.)"
 msgstr "Βερβερικό (Μαρόκο, εναλλακτικό Τιφινάγκ)"
 
 #: ../rules/base.xml.in.h:356
-msgid "Berber (Morocco, Tifinagh alternative phonetic)"
+msgid "Berber (Morocco, Tifinagh alt. phonetic)"
 msgstr "Βερβερικό (Μαρόκο, εναλλακτικό φωνητικό Τιφινάγκ)"
 
 #: ../rules/base.xml.in.h:357
@@ -1376,12 +1376,12 @@ msgid "French (Cameroon)"
 msgstr "Γαλλικό (Καμερούν)"
 
 #: ../rules/base.xml.in.h:364
-msgid "Cameroon Multilingual (qwerty)"
-msgstr "Πολυγλωσσικό Καμερούν (qwerty)"
+msgid "Cameroon Multilingual (QWERTY)"
+msgstr "Πολυγλωσσικό Καμερούν (QWERTY)"
 
 #: ../rules/base.xml.in.h:365
-msgid "Cameroon Multilingual (azerty)"
-msgstr "Πολυγλωσσικό Καμερούν (azerty)"
+msgid "Cameroon Multilingual (AZERTY)"
+msgstr "Πολυγλωσσικό Καμερούν (AZERTY)"
 
 #: ../rules/base.xml.in.h:366
 msgid "Cameroon Multilingual (Dvorak)"
@@ -1413,11 +1413,11 @@ msgid "Canadian Multilingual"
 msgstr "Πολυγλωσσικό καναδικό"
 
 #: ../rules/base.xml.in.h:374
-msgid "Canadian Multilingual (first part)"
+msgid "Canadian Multilingual (1st part)"
 msgstr "Πολυγλωσσικό καναδικό (πρώτο μέρος)"
 
 #: ../rules/base.xml.in.h:375
-msgid "Canadian Multilingual (second part)"
+msgid "Canadian Multilingual (2nd part)"
 msgstr "Πολυγλωσσικό καναδικό (δεύτερο μέρος)"
 
 #. Keyboard indicator for Inuktikut layouts
@@ -1480,11 +1480,11 @@ msgid "Croatian (use Croatian digraphs)"
 msgstr "Κροατικό (χρήση κροατικών διγραμμάτων)"
 
 #: ../rules/base.xml.in.h:393
-msgid "Croatian (US keyboard with Croatian digraphs)"
+msgid "Croatian (US, with Croatian digraphs)"
 msgstr "Κροατικό (πληκτρολόγιο US με κροατικά διγράμματα)"
 
 #: ../rules/base.xml.in.h:394
-msgid "Croatian (US keyboard with Croatian letters)"
+msgid "Croatian (US, with Croatian letters)"
 msgstr "Κροατικό (πληκτρολόγιο US με κροατικά γράμματα)"
 
 #. Keyboard indicator for Chech layouts
@@ -1501,19 +1501,19 @@ msgid "Czech (with &lt;\\|&gt; key)"
 msgstr "Τσεχικό (με πλήκτρο &lt;\\|&gt;)"
 
 #: ../rules/base.xml.in.h:399
-msgid "Czech (qwerty)"
-msgstr "Τσεχικό (qwerty)"
+msgid "Czech (QWERTY)"
+msgstr "Τσεχικό (QWERTY)"
 
 #: ../rules/base.xml.in.h:400
-msgid "Czech (qwerty, extended Backslash)"
+msgid "Czech (QWERTY, extended backslash)"
 msgstr "Τσεχικό (qwerty, εκτεταμένη ανάποδη πλαγιοκάθετος)"
 
 #: ../rules/base.xml.in.h:401
-msgid "Czech (UCW layout, accented letters only)"
+msgid "Czech (UCW, only accented letters)"
 msgstr "Τσεχικό (διάταξη UCW, μόνο τονισμένα γράμματα)"
 
 #: ../rules/base.xml.in.h:402
-msgid "Czech (US Dvorak with CZ UCW support)"
+msgid "Czech (US, Dvorak, UCW support)"
 msgstr "Τσέχικο (US Dvorak με υποστήριξη UCW τσέχικων)"
 
 #. Keyboard indicator for Danish layouts
@@ -1526,7 +1526,7 @@ msgid "Danish"
 msgstr "Δανικό"
 
 #: ../rules/base.xml.in.h:406
-msgid "Danish (eliminate dead keys)"
+msgid "Danish (no dead keys)"
 msgstr "Δανικό (χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:407
@@ -1534,7 +1534,7 @@ msgid "Danish (Macintosh)"
 msgstr "Δανικό (Macintosh)"
 
 #: ../rules/base.xml.in.h:408
-msgid "Danish (Macintosh, eliminate dead keys)"
+msgid "Danish (Macintosh, no dead keys)"
 msgstr "Δανικό (Macintosh, χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:409
@@ -1551,7 +1551,7 @@ msgid "Dutch"
 msgstr "Ολλανδικό"
 
 #: ../rules/base.xml.in.h:413
-msgid "Dutch (Sun dead keys)"
+msgid "Dutch (with Sun dead keys)"
 msgstr "Ολλανδικό (νεκρά πλήκτρα Sun)"
 
 #: ../rules/base.xml.in.h:414
@@ -1581,7 +1581,7 @@ msgid "Estonian"
 msgstr "Εσθονικό"
 
 #: ../rules/base.xml.in.h:422
-msgid "Estonian (eliminate dead keys)"
+msgid "Estonian (no dead keys)"
 msgstr "Εσθονικό (χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:423
@@ -1589,7 +1589,7 @@ msgid "Estonian (Dvorak)"
 msgstr "Εσθονικό (Dvorak)"
 
 #: ../rules/base.xml.in.h:424
-msgid "Estonian (US keyboard with Estonian letters)"
+msgid "Estonian (US, with Estonian letters)"
 msgstr "Εσθονικό (πληκτρολόγιο US με εσθονικά γράμματα)"
 
 #: ../rules/base.xml.in.h:425 ../rules/base.extras.xml.in.h:16
@@ -1651,7 +1651,7 @@ msgid "Faroese"
 msgstr "Φερόες"
 
 #: ../rules/base.xml.in.h:441
-msgid "Faroese (eliminate dead keys)"
+msgid "Faroese (no dead keys)"
 msgstr "Φερόες (χωρίς νεκρά πλήκτρα)"
 
 #. Keyboard indicator for Finnish layouts
@@ -1668,7 +1668,7 @@ msgid "Finnish (classic)"
 msgstr "Φινλανδικό (κλασικό)"
 
 #: ../rules/base.xml.in.h:446
-msgid "Finnish (classic, eliminate dead keys)"
+msgid "Finnish (classic, no dead keys)"
 msgstr "Φινλανδικό (κλασικό, χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:447
@@ -1684,39 +1684,39 @@ msgid "French"
 msgstr "Γαλλικά"
 
 #: ../rules/base.xml.in.h:450
-msgid "French (eliminate dead keys)"
+msgid "French (no dead keys)"
 msgstr "Γαλλικό (χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:451
-msgid "French (Sun dead keys)"
+msgid "French (with Sun dead keys)"
 msgstr "Γαλλικό (νεκρά πλήκτρα Sun)"
 
 #: ../rules/base.xml.in.h:452
-msgid "French (alternative)"
+msgid "French (alt.)"
 msgstr "Γαλλικό (εναλλακτικό)"
 
 #: ../rules/base.xml.in.h:453
-msgid "French (alternative, Latin-9 only)"
+msgid "French (alt., Latin-9 only)"
 msgstr "Γαλλικό (εναλλακτικό, μόνο latin-9)"
 
 #: ../rules/base.xml.in.h:454
-msgid "French (alternative, eliminate dead keys)"
+msgid "French (alt., no dead keys)"
 msgstr "Γαλλικό (εναλλακτικό, χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:455
-msgid "French (alternative, Sun dead keys)"
+msgid "French (alt., with Sun dead keys)"
 msgstr "Γαλλικό (εναλλακτικό, με νεκρά πλήκτρα Sun)"
 
 #: ../rules/base.xml.in.h:456
-msgid "French (legacy, alternative)"
+msgid "French (legacy, alt.)"
 msgstr "Γαλλικό (παλιό εναλλακτικό)"
 
 #: ../rules/base.xml.in.h:457
-msgid "French (legacy, alternative, eliminate dead keys)"
+msgid "French (legacy, alt., no dead keys)"
 msgstr "Γαλλικό (παλιό, εναλλακτικό, χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:458
-msgid "French (legacy, alternative, Sun dead keys)"
+msgid "French (legacy, alt., with Sun dead keys)"
 msgstr "Γαλλικό (παλιό, εναλλακτικό, με νεκρά πλήκτρα Sun)"
 
 #: ../rules/base.xml.in.h:459
@@ -1855,7 +1855,7 @@ msgid "German (dead grave acute)"
 msgstr "Γερμανικά (νεκρή βαρεία)"
 
 #: ../rules/base.xml.in.h:498
-msgid "German (eliminate dead keys)"
+msgid "German (no dead keys)"
 msgstr "Γερμανικό (χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:499
@@ -1867,7 +1867,7 @@ msgid "Romanian (Germany)"
 msgstr "Ρουμανικό (Γερμανία)"
 
 #: ../rules/base.xml.in.h:501
-msgid "Romanian (Germany, eliminate dead keys)"
+msgid "Romanian (Germany, no dead keys)"
 msgstr "Ρουμανικό (Γερμανία, χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:502
@@ -1875,7 +1875,7 @@ msgid "German (Dvorak)"
 msgstr "Γερμανικό (Dvorak)"
 
 #: ../rules/base.xml.in.h:503
-msgid "German (Sun dead keys)"
+msgid "German (with Sun dead keys)"
 msgstr "Γερμανικό (νεκρά πλήκτρα Sun)"
 
 #: ../rules/base.xml.in.h:504
@@ -1887,7 +1887,7 @@ msgid "German (Macintosh)"
 msgstr "Γερμανικό (Macintosh)"
 
 #: ../rules/base.xml.in.h:506
-msgid "German (Macintosh, eliminate dead keys)"
+msgid "German (Macintosh, no dead keys)"
 msgstr "Γερμανικό (Macintosh, χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:507
@@ -1895,12 +1895,12 @@ msgid "Lower Sorbian"
 msgstr "Κάτω Σορβικά"
 
 #: ../rules/base.xml.in.h:508
-msgid "Lower Sorbian (qwertz)"
-msgstr "Κάτω σορβικά (qwertz)"
+msgid "Lower Sorbian (QWERTZ)"
+msgstr "Κάτω σορβικά (QWERTZ)"
 
 #: ../rules/base.xml.in.h:509
-msgid "German (qwerty)"
-msgstr "Γερμανικό (qwerty)"
+msgid "German (QWERTY)"
+msgstr "Γερμανικό (QWERTY)"
 
 #: ../rules/base.xml.in.h:510
 msgid "Russian (Germany, phonetic)"
@@ -1928,7 +1928,7 @@ msgid "Greek (extended)"
 msgstr "Ελληνικό (εκτεταμένο)"
 
 #: ../rules/base.xml.in.h:517
-msgid "Greek (eliminate dead keys)"
+msgid "Greek (no dead keys)"
 msgstr "Ελληνικό (χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:518
@@ -1949,76 +1949,76 @@ msgid "Hungarian (standard)"
 msgstr "Ουγγρικό (τυπικό)"
 
 #: ../rules/base.xml.in.h:523
-msgid "Hungarian (eliminate dead keys)"
+msgid "Hungarian (no dead keys)"
 msgstr "Ουγγρικό (χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:524
-msgid "Hungarian (qwerty)"
-msgstr "Ουγγρικό (qwerty)"
+msgid "Hungarian (QWERTY)"
+msgstr "Ουγγρικό (QWERTY)"
 
 #: ../rules/base.xml.in.h:525
-msgid "Hungarian (101/qwertz/comma/dead keys)"
-msgstr "Ουγγρικό (101/qwertz/κόμμα/νεκρά πλήκτρα)"
+msgid "Hungarian (101/QWERTZ/comma/dead keys)"
+msgstr "Ουγγρικό (101/QWERTZ/κόμμα/νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:526
-msgid "Hungarian (101/qwertz/comma/eliminate dead keys)"
-msgstr "Ουγγρικό (101/qwertz/κόμμα/χωρίς νεκρά πλήκτρα)"
+msgid "Hungarian (101/QWERTZ/comma/no dead keys)"
+msgstr "Ουγγρικό (101/QWERTZ/κόμμα/χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:527
-msgid "Hungarian (101/qwertz/dot/dead keys)"
-msgstr "Ουγγρικό (101/qwertz/κουκκίδα/νεκρά πλήκτρα)"
+msgid "Hungarian (101/QWERTZ/dot/dead keys)"
+msgstr "Ουγγρικό (101/QWERTZ/κουκκίδα/νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:528
-msgid "Hungarian (101/qwertz/dot/eliminate dead keys)"
-msgstr "Ουγγρικό (101/qwertz/κουκκίδα/χωρίς νεκρά κλειδιά)"
+msgid "Hungarian (101/QWERTZ/dot/no dead keys)"
+msgstr "Ουγγρικό (101/QWERTZ/κουκκίδα/χωρίς νεκρά κλειδιά)"
 
 #: ../rules/base.xml.in.h:529
-msgid "Hungarian (101/qwerty/comma/dead keys)"
-msgstr "Ουγγρικό (101/qwerty/κόμμα/νεκρά πλήκτρα)"
+msgid "Hungarian (101/QWERTY/comma/dead keys)"
+msgstr "Ουγγρικό (101/QWERTY/κόμμα/νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:530
-msgid "Hungarian (101/qwerty/comma/eliminate dead keys)"
-msgstr "Ουγγρικό (101/qwerty/κόμμα/χωρίς νεκρά κλειδιά)"
+msgid "Hungarian (101/QWERTY/comma/no dead keys)"
+msgstr "Ουγγρικό (101/QWERTY/κόμμα/χωρίς νεκρά κλειδιά)"
 
 #: ../rules/base.xml.in.h:531
-msgid "Hungarian (101/qwerty/dot/dead keys)"
-msgstr "Ουγγρικό (101/qwerty/κουκκίδα/νεκρά πλήκτρα)"
+msgid "Hungarian (101/QWERTY/dot/dead keys)"
+msgstr "Ουγγρικό (101/QWERTY/κουκκίδα/νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:532
-msgid "Hungarian (101/qwerty/dot/eliminate dead keys)"
-msgstr "Ουγγρικό (101/qwerty/κουκκίδα/χωρίς νεκρά κλειδιά)"
+msgid "Hungarian (101/QWERTY/dot/no dead keys)"
+msgstr "Ουγγρικό (101/QWERTY/κουκκίδα/χωρίς νεκρά κλειδιά)"
 
 #: ../rules/base.xml.in.h:533
-msgid "Hungarian (102/qwertz/comma/dead keys)"
-msgstr "Ουγγρικό (102/qwertz/κόμμα/νεκρά πλήκτρα)"
+msgid "Hungarian (102/QWERTZ/comma/dead keys)"
+msgstr "Ουγγρικό (102/QWERTZ/κόμμα/νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:534
-msgid "Hungarian (102/qwertz/comma/eliminate dead keys)"
-msgstr "Ουγγρικό (102/qwertz/κόμμα/χωρίς νεκρά κλειδιά)"
+msgid "Hungarian (102/QWERTZ/comma/no dead keys)"
+msgstr "Ουγγρικό (102/QWERTZ/κόμμα/χωρίς νεκρά κλειδιά)"
 
 #: ../rules/base.xml.in.h:535
-msgid "Hungarian (102/qwertz/dot/dead keys)"
-msgstr "Ουγγρικό (102/qwertz/κουκκίδα/νεκρά πλήκτρα)"
+msgid "Hungarian (102/QWERTZ/dot/dead keys)"
+msgstr "Ουγγρικό (102/QWERTZ/κουκκίδα/νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:536
-msgid "Hungarian (102/qwertz/dot/eliminate dead keys)"
-msgstr "Ουγγρικό (102/qwertz/κουκκίδα/χωρίς νεκρά κλειδιά)"
+msgid "Hungarian (102/QWERTZ/dot/no dead keys)"
+msgstr "Ουγγρικό (102/QWERTZ/κουκκίδα/χωρίς νεκρά κλειδιά)"
 
 #: ../rules/base.xml.in.h:537
-msgid "Hungarian (102/qwerty/comma/dead keys)"
-msgstr "Ουγγρικό (102/qwerty/κόμμα/νεκρά πλήκτρα)"
+msgid "Hungarian (102/QWERTY/comma/dead keys)"
+msgstr "Ουγγρικό (102/QWERTY/κόμμα/νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:538
-msgid "Hungarian (102/qwerty/comma/eliminate dead keys)"
-msgstr "Ουγγρικό (102/qwerty/κόμμα/χωρίς νεκρά κλειδιά)"
+msgid "Hungarian (102/QWERTY/comma/no dead keys)"
+msgstr "Ουγγρικό (102/QWERTY/κόμμα/χωρίς νεκρά κλειδιά)"
 
 #: ../rules/base.xml.in.h:539
-msgid "Hungarian (102/qwerty/dot/dead keys)"
-msgstr "Ουγγρικό (102/qwerty/κουκκίδα/νεκρά πλήκτρα)"
+msgid "Hungarian (102/QWERTY/dot/dead keys)"
+msgstr "Ουγγρικό (102/QWERTY/κουκκίδα/νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:540
-msgid "Hungarian (102/qwerty/dot/eliminate dead keys)"
-msgstr "Ουγγρικό (102/qwerty/κουκκίδα/χωρίς νεκρά κλειδιά)"
+msgid "Hungarian (102/QWERTY/dot/no dead keys)"
+msgstr "Ουγγρικό (102/QWERTY/κουκκίδα/χωρίς νεκρά κλειδιά)"
 
 #. Keyboard indicator for Icelandic layouts
 #: ../rules/base.xml.in.h:542
@@ -2030,11 +2030,11 @@ msgid "Icelandic"
 msgstr "Ισλανδικό"
 
 #: ../rules/base.xml.in.h:544
-msgid "Icelandic (Sun dead keys)"
+msgid "Icelandic (with Sun dead keys)"
 msgstr "Ισλανδικό (νεκρά πλήκτρα Sun)"
 
 #: ../rules/base.xml.in.h:545
-msgid "Icelandic (eliminate dead keys)"
+msgid "Icelandic (no dead keys)"
 msgstr "Ισλανδικό (χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:546
@@ -2076,7 +2076,7 @@ msgid "Italian"
 msgstr "Ιταλικό"
 
 #: ../rules/base.xml.in.h:557
-msgid "Italian (eliminate dead keys)"
+msgid "Italian (no dead keys)"
 msgstr "Ιταλικό (χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:558
@@ -2084,7 +2084,7 @@ msgid "Italian (Macintosh)"
 msgstr "Ιταλικό (Macintosh)"
 
 #: ../rules/base.xml.in.h:559
-msgid "Italian (US keyboard with Italian letters)"
+msgid "Italian (US, with Italian letters)"
 msgstr "Ιταλικά (πληκτρολόγιο ΗΠΑ με ιταλικά γράμματα)"
 
 #: ../rules/base.xml.in.h:560
@@ -2095,7 +2095,7 @@ msgstr "Γεωργιανό (Ιταλία)"
 msgid "Italian (IBM 142)"
 msgstr "Ιταλικό (IBM 142)"
 
-#. Keyboard indicator for Japanese layouts
+#. Keyboard indicator for Japaneses
 #: ../rules/base.xml.in.h:563 ../rules/base.extras.xml.in.h:97
 msgid "ja"
 msgstr "ja"
@@ -2186,15 +2186,15 @@ msgid "Spanish (Latin American)"
 msgstr "Ισπανικά (Λατινική Αμερική)"
 
 #: ../rules/base.xml.in.h:589
-msgid "Spanish (Latin American, eliminate dead keys)"
+msgid "Spanish (Latin American, no dead keys)"
 msgstr "Ισπανικό (λατινοαμερικάνικο, χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:590
-msgid "Spanish (Latin American, include dead tilde)"
+msgid "Spanish (Latin American, dead tilde)"
 msgstr "Ισπανικό (λατινοαμερικάνικο, με νεκρό tilde)"
 
 #: ../rules/base.xml.in.h:591
-msgid "Spanish (Latin American, Sun dead keys)"
+msgid "Spanish (Latin American, with Sun dead keys)"
 msgstr "Ισπανικό (λατινοαμερικάνικο, με νεκρά πλήκτρα Sun)"
 
 #. Keyboard indicator for Lithuanian layouts
@@ -2211,7 +2211,7 @@ msgid "Lithuanian (standard)"
 msgstr "Λιθουανικό (τυπικό)"
 
 #: ../rules/base.xml.in.h:596
-msgid "Lithuanian (US keyboard with Lithuanian letters)"
+msgid "Lithuanian (US, with Lithuanian letters)"
 msgstr "Λιθουανικό (πληκτρολόγιο ΗΠΑ με λιθουανικά γράμματα)"
 
 #: ../rules/base.xml.in.h:597
@@ -2236,15 +2236,15 @@ msgid "Latvian"
 msgstr "Λετονικό"
 
 #: ../rules/base.xml.in.h:603
-msgid "Latvian (apostrophe variant)"
+msgid "Latvian (apostrophe)"
 msgstr "Λετονικό (παραλλαγή αποστρόφου)"
 
 #: ../rules/base.xml.in.h:604
-msgid "Latvian (tilde variant)"
+msgid "Latvian (tilde)"
 msgstr "Λετονικό (παραλλαγή tilde)"
 
 #: ../rules/base.xml.in.h:605
-msgid "Latvian (F variant)"
+msgid "Latvian (F)"
 msgstr "Λετονικό (παραλλαγή F)"
 
 #: ../rules/base.xml.in.h:606
@@ -2286,15 +2286,15 @@ msgid "Montenegrin (Cyrillic, Z and ZHE swapped)"
 msgstr "Μαυροβουνιακό (κυριλλικό, Z και ZHE εναλλαγμένα)"
 
 #: ../rules/base.xml.in.h:617
-msgid "Montenegrin (Latin Unicode)"
+msgid "Montenegrin (Latin, Unicode)"
 msgstr "Μαυροβουνιακό (λατινικό Unicode)"
 
 #: ../rules/base.xml.in.h:618
-msgid "Montenegrin (Latin qwerty)"
+msgid "Montenegrin (Latin, QWERTY)"
 msgstr "Μαυροβουνιακό (λατινικό qwerty)"
 
 #: ../rules/base.xml.in.h:619
-msgid "Montenegrin (Latin Unicode qwerty)"
+msgid "Montenegrin (Latin, Unicode, QWERTY)"
 msgstr "Μαυροβουνιακό (λατινικό qwerty Unicode)"
 
 #: ../rules/base.xml.in.h:620
@@ -2315,7 +2315,7 @@ msgid "Macedonian"
 msgstr "ΦΥΡΟΜ"
 
 #: ../rules/base.xml.in.h:625
-msgid "Macedonian (eliminate dead keys)"
+msgid "Macedonian (no dead keys)"
 msgstr "ΦΥΡΟΜ (χωρίς νεκρά πλήκτρα)"
 
 #. Keyboard indicator for Maltese layouts
@@ -2350,7 +2350,7 @@ msgid "Norwegian"
 msgstr "Νορβηγικό"
 
 #: ../rules/base.xml.in.h:636
-msgid "Norwegian (eliminate dead keys)"
+msgid "Norwegian (no dead keys)"
 msgstr "Νορβηγικό (χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:637
@@ -2362,7 +2362,7 @@ msgid "Northern Saami (Norway)"
 msgstr "Βόρειο σαάμι (Νορβηγία)"
 
 #: ../rules/base.xml.in.h:639
-msgid "Northern Saami (Norway, eliminate dead keys)"
+msgid "Northern Saami (Norway, no dead keys)"
 msgstr "Βόρειο σαάμι (Νορβηγία, χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:640
@@ -2370,7 +2370,7 @@ msgid "Norwegian (Macintosh)"
 msgstr "Νορβηγικό (Macintosh)"
 
 #: ../rules/base.xml.in.h:641
-msgid "Norwegian (Macintosh, eliminate dead keys)"
+msgid "Norwegian (Macintosh, no dead keys)"
 msgstr "Νορβηγικό (Macintosh, χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:642
@@ -2391,19 +2391,19 @@ msgid "Polish (legacy)"
 msgstr "Πολωνικό (παλιό)"
 
 #: ../rules/base.xml.in.h:647
-msgid "Polish (qwertz)"
-msgstr "Πολωνικό (qwertz)"
+msgid "Polish (QWERTZ)"
+msgstr "Πολωνικό (QWERTZ)"
 
 #: ../rules/base.xml.in.h:648
 msgid "Polish (Dvorak)"
 msgstr "Πολωνικό (Ντβόρακ)"
 
 #: ../rules/base.xml.in.h:649
-msgid "Polish (Dvorak, Polish quotes on quotemark key)"
+msgid "Polish (Dvorak, with Polish quotes on quotemark key)"
 msgstr "Πολωνικό (Ντβόρακ, πολωνικά εισαγωγικά σε πλήκτρα με σημάδι εισαγωγικών)"
 
 #: ../rules/base.xml.in.h:650
-msgid "Polish (Dvorak, Polish quotes on key 1)"
+msgid "Polish (Dvorak, with Polish quotes on key 1)"
 msgstr "Πολωνικό (Ντβόρακ, πολωνικά εισαγωγικά στο πλήκτρο 1)"
 
 #: ../rules/base.xml.in.h:651
@@ -2423,11 +2423,11 @@ msgid "Portuguese"
 msgstr "Πορτογαλικό"
 
 #: ../rules/base.xml.in.h:655
-msgid "Portuguese (eliminate dead keys)"
+msgid "Portuguese (no dead keys)"
 msgstr "Πορτογαλικό (χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:656
-msgid "Portuguese (Sun dead keys)"
+msgid "Portuguese (with Sun dead keys)"
 msgstr "Πορτογαλικό (νεκρά πλήκτρα Sun)"
 
 #: ../rules/base.xml.in.h:657
@@ -2435,11 +2435,11 @@ msgid "Portuguese (Macintosh)"
 msgstr "Πορτογαλικό (Macintosh)"
 
 #: ../rules/base.xml.in.h:658
-msgid "Portuguese (Macintosh, eliminate dead keys)"
+msgid "Portuguese (Macintosh, no dead keys)"
 msgstr "Πορτογαλικό (Macintosh, χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:659
-msgid "Portuguese (Macintosh, Sun dead keys)"
+msgid "Portuguese (Macintosh, with Sun dead keys)"
 msgstr "Πορτογαλικό (Macintosh, με νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:660
@@ -2476,7 +2476,7 @@ msgid "Romanian (standard cedilla)"
 msgstr "Ρουμανικό (τυπικό cedilla)"
 
 #: ../rules/base.xml.in.h:669
-msgid "Romanian (WinKeys)"
+msgid "Romanian (Win keys)"
 msgstr "Ρουμανικό (πλήκτρα Win)"
 
 #: ../rules/base.xml.in.h:670 ../rules/base.extras.xml.in.h:56
@@ -2488,7 +2488,7 @@ msgid "Russian (phonetic)"
 msgstr "Ρωσικό (φωνητικό)"
 
 #: ../rules/base.xml.in.h:672
-msgid "Russian (phonetic WinKeys)"
+msgid "Russian (phonetic, with Win keys)"
 msgstr "Ρωσικό (φωνητικό πλήκτρα Win)"
 
 #: ../rules/base.xml.in.h:673
@@ -2512,7 +2512,7 @@ msgid "Ossetian (legacy)"
 msgstr "Οσετιανό (παλιό)"
 
 #: ../rules/base.xml.in.h:678
-msgid "Ossetian (WinKeys)"
+msgid "Ossetian (Win keys)"
 msgstr "Οσετιανό (πλήκτρα Win)"
 
 #: ../rules/base.xml.in.h:679
@@ -2572,15 +2572,15 @@ msgid "Serbian (Latin)"
 msgstr "Σέρβικο (λατινικά)"
 
 #: ../rules/base.xml.in.h:693
-msgid "Serbian (Latin Unicode)"
+msgid "Serbian (Latin, Unicode)"
 msgstr "Σερβικό (λατινικό Unicode)"
 
 #: ../rules/base.xml.in.h:694
-msgid "Serbian (Latin qwerty)"
+msgid "Serbian (Latin, QWERTY)"
 msgstr "Σερβικό (λατινικό qwerty)"
 
 #: ../rules/base.xml.in.h:695
-msgid "Serbian (Latin Unicode qwerty)"
+msgid "Serbian (Latin, Unicode, QWERTY)"
 msgstr "Σερβικό (λατινικό Unicode qwerty)"
 
 #: ../rules/base.xml.in.h:696
@@ -2609,7 +2609,7 @@ msgid "Slovenian (use guillemets for quotes)"
 msgstr "Σλοβενιακό (χρήση γαλλικών εισαγωγικών για εισαγωγικά)"
 
 #: ../rules/base.xml.in.h:703
-msgid "Slovenian (US keyboard with Slovenian letters)"
+msgid "Slovenian (US, with Slovenian letters)"
 msgstr "Σλοβενιακό (πληκτρολόγιο US με σλοβενικά γράμματα)"
 
 #. Keyboard indicator for Slovak layouts
@@ -2622,15 +2622,15 @@ msgid "Slovak"
 msgstr "Σλοβακικό"
 
 #: ../rules/base.xml.in.h:707
-msgid "Slovak (extended Backslash)"
+msgid "Slovak (extended backslash)"
 msgstr "Σλοβακικό (εκτεταμένη ανάποδη πλαγιοκάθετος)"
 
 #: ../rules/base.xml.in.h:708
-msgid "Slovak (qwerty)"
-msgstr "Σλοβακικό (qwerty)"
+msgid "Slovak (QWERTY)"
+msgstr "Σλοβακικό (QWERTY)"
 
 #: ../rules/base.xml.in.h:709
-msgid "Slovak (qwerty, extended Backslash)"
+msgid "Slovak (QWERTY, extended backslash)"
 msgstr "Σλοβακικό (qwerty, εκτεταμένη ανάποδη πλαγιοκάθετος)"
 
 #: ../rules/base.xml.in.h:710 ../rules/base.extras.xml.in.h:111
@@ -2638,15 +2638,15 @@ msgid "Spanish"
 msgstr "Ισπανικό"
 
 #: ../rules/base.xml.in.h:711
-msgid "Spanish (eliminate dead keys)"
+msgid "Spanish (no dead keys)"
 msgstr "Ισπανικό (χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:712
-msgid "Spanish (include dead tilde)"
+msgid "Spanish (dead tilde)"
 msgstr "Ισπανικό (περιλαμβάνει νεκρή tilde)"
 
 #: ../rules/base.xml.in.h:713
-msgid "Spanish (Sun dead keys)"
+msgid "Spanish (with Sun dead keys)"
 msgstr "Ισπανικό (νεκρά πλήκτρα Sun)"
 
 #: ../rules/base.xml.in.h:714
@@ -2675,7 +2675,7 @@ msgid "Swedish"
 msgstr "Σουηδικό"
 
 #: ../rules/base.xml.in.h:721
-msgid "Swedish (eliminate dead keys)"
+msgid "Swedish (no dead keys)"
 msgstr "Σουηδικό (χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:722
@@ -2687,7 +2687,7 @@ msgid "Russian (Sweden, phonetic)"
 msgstr "Ρωσικό (Σουηδία, φωνητικό)"
 
 #: ../rules/base.xml.in.h:724
-msgid "Russian (Sweden, phonetic, eliminate dead keys)"
+msgid "Russian (Sweden, phonetic, no dead keys)"
 msgstr "Ρωσικό (Σουηδία, φωνητικό, χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:725
@@ -2715,11 +2715,11 @@ msgid "German (Switzerland, legacy)"
 msgstr "Γερμανικό (Ελβετία, παλιό)"
 
 #: ../rules/base.xml.in.h:731
-msgid "German (Switzerland, eliminate dead keys)"
+msgid "German (Switzerland, no dead keys)"
 msgstr "Γερμανικό (Ελβετία, χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:732
-msgid "German (Switzerland, Sun dead keys)"
+msgid "German (Switzerland, with Sun dead keys)"
 msgstr "Γερμανικό (Ελβετία, νεκρά πλήκτρα Sun)"
 
 #: ../rules/base.xml.in.h:733
@@ -2727,11 +2727,11 @@ msgid "French (Switzerland)"
 msgstr "Γαλλικό (Ελβετία)"
 
 #: ../rules/base.xml.in.h:734
-msgid "French (Switzerland, eliminate dead keys)"
+msgid "French (Switzerland, no dead keys)"
 msgstr "Γαλλικό (Ελβετία, χωρίς νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:735
-msgid "French (Switzerland, Sun dead keys)"
+msgid "French (Switzerland, with Sun dead keys)"
 msgstr "Γαλλικό (Ελβετία, νεκρά πλήκτρα Sun)"
 
 #: ../rules/base.xml.in.h:736
@@ -2836,7 +2836,7 @@ msgid "Turkish (Alt-Q)"
 msgstr "Τουρκικό (Alt-Q)"
 
 #: ../rules/base.xml.in.h:765
-msgid "Turkish (Sun dead keys)"
+msgid "Turkish (with Sun dead keys)"
 msgstr "Τουρκικό (νεκρά πλήκτρα Sun)"
 
 #: ../rules/base.xml.in.h:766
@@ -2852,7 +2852,7 @@ msgid "Kurdish (Turkey, Latin Alt-Q)"
 msgstr "Κουρδικό (Τουρκία, λατινικό Alt-Q)"
 
 #: ../rules/base.xml.in.h:769
-msgid "Turkish (international with dead keys)"
+msgid "Turkish (intl., with dead keys)"
 msgstr "Τουρκικό (διεθνές με νεκρά πλήκτρα)"
 
 #. Keyboard indicator for Crimean Tatar layouts
@@ -2907,7 +2907,7 @@ msgid "Ukrainian (typewriter)"
 msgstr "Ουκρανικό (γραφομηχανής)"
 
 #: ../rules/base.xml.in.h:785
-msgid "Ukrainian (WinKeys)"
+msgid "Ukrainian (Win keys)"
 msgstr "Ουκρανικό (πλήκτρα Win)"
 
 #: ../rules/base.xml.in.h:786
@@ -2931,11 +2931,11 @@ msgid "English (UK)"
 msgstr "Αγγλικό (Ενωμένο Βασίλειο)"
 
 #: ../rules/base.xml.in.h:791
-msgid "English (UK, extended WinKeys)"
+msgid "English (UK, extended, with Win keys)"
 msgstr "Αγγλικό (Ενωμένο Βασίλειο, εκτεταμένα πλήκτρα Win)"
 
 #: ../rules/base.xml.in.h:792
-msgid "English (UK, international with dead keys)"
+msgid "English (UK, intl., with dead keys)"
 msgstr "Αγγλικό (Ενωμένο Βασίλειο, διεθνές με νεκρά πλήκτρα)"
 
 #: ../rules/base.xml.in.h:793
@@ -2943,7 +2943,7 @@ msgid "English (UK, Dvorak)"
 msgstr "Αγγλικό (Ενωμένο Βασίλειο, Ντβόρακ)"
 
 #: ../rules/base.xml.in.h:794
-msgid "English (UK, Dvorak with UK punctuation)"
+msgid "English (UK, Dvorak, with UK punctuation)"
 msgstr "Αγγλικό (Ενωμένο Βασίλειο, Ντβόρακ με σημεία στίξης UK)"
 
 #: ../rules/base.xml.in.h:795
@@ -2951,7 +2951,7 @@ msgid "English (UK, Macintosh)"
 msgstr "Αγγλικό (Ενωμένο Βασίλειο, Macintosh)"
 
 #: ../rules/base.xml.in.h:796
-msgid "English (UK, Macintosh international)"
+msgid "English (UK, intl., Macintosh)"
 msgstr "Αγγλικό (Ενωμένο Βασίλειο, διεθνές Macintosh)"
 
 #: ../rules/base.xml.in.h:797
@@ -2989,7 +2989,7 @@ msgid "Korean (101/104 key compatible)"
 msgstr "Κορεατικό (101/104 πλήκτρα συμβατό)"
 
 #: ../rules/base.xml.in.h:807
-msgid "Japanese (PC-98xx Series)"
+msgid "Japanese (PC-98)"
 msgstr "Ιαπωνικό (Σειρά PC-98xx)"
 
 #. Keyboard indicator for Irish layouts
@@ -3127,11 +3127,11 @@ msgid "Braille"
 msgstr "Μπράιγ"
 
 #: ../rules/base.xml.in.h:849
-msgid "Braille (left hand)"
+msgid "Braille (left-handed)"
 msgstr "Μπράιγ (αριστερόχειρες)"
 
 #: ../rules/base.xml.in.h:850
-msgid "Braille (right hand)"
+msgid "Braille (right-handed)"
 msgstr "Μπράιγ (δεξιόχειρες)"
 
 #. Keyboard indicator for Turkmen layouts
@@ -3157,15 +3157,15 @@ msgid "Bambara"
 msgstr "Μπαμπάρα"
 
 #: ../rules/base.xml.in.h:858
-msgid "French (Mali, alternative)"
+msgid "French (Mali, alt.)"
 msgstr "Γαλλικό (Μαλί, εναλλακτικό)"
 
 #: ../rules/base.xml.in.h:859
-msgid "English (Mali, US Macintosh)"
+msgid "English (Mali, US, Macintosh)"
 msgstr "Αγγλικό (Μαλί, Macintosh ΗΠΑ)"
 
 #: ../rules/base.xml.in.h:860
-msgid "English (Mali, US international)"
+msgid "English (Mali, US, intl.)"
 msgstr "Αγγλικό (Μαλί, διεθνές ΗΠΑ)"
 
 #. Keyboard indicator for Swahili layouts
@@ -3204,39 +3204,39 @@ msgid "Filipino"
 msgstr "Φιλιπινέζικο"
 
 #: ../rules/base.xml.in.h:872
-msgid "Filipino (QWERTY Baybayin)"
+msgid "Filipino (QWERTY, Baybayin)"
 msgstr "Φιλιπινέζικο (QWERTY Baybayin)"
 
 #: ../rules/base.xml.in.h:873
-msgid "Filipino (Capewell-Dvorak Latin)"
+msgid "Filipino (Capewell-Dvorak, Latin)"
 msgstr "Φιλιπινέζικο (Κέιπγουελ-Ντβόρακ λατινικό)"
 
 #: ../rules/base.xml.in.h:874
-msgid "Filipino (Capewell-Dvorak Baybayin)"
+msgid "Filipino (Capewell-Dvorak, Baybayin)"
 msgstr "Φιλιπινέζικο (Κέιπγουελ-Ντβόρακ Μπαεμπάεγιν)"
 
 #: ../rules/base.xml.in.h:875
-msgid "Filipino (Capewell-QWERF 2006 Latin)"
+msgid "Filipino (Capewell-QWERF 2006, Latin)"
 msgstr "Φιλιπινέζικο (Κέιπγουελ-QWERF 2006 λατινικό)"
 
 #: ../rules/base.xml.in.h:876
-msgid "Filipino (Capewell-QWERF 2006 Baybayin)"
+msgid "Filipino (Capewell-QWERF 2006, Baybayin)"
 msgstr "Φιλιπινέζικο (Κέιπγουελ-QWERF 2006 Μπαεμπάεγιν)"
 
 #: ../rules/base.xml.in.h:877
-msgid "Filipino (Colemak Latin)"
+msgid "Filipino (Colemak, Latin)"
 msgstr "Φιλιπινέζικο (Colemak λατινικό)"
 
 #: ../rules/base.xml.in.h:878
-msgid "Filipino (Colemak Baybayin)"
+msgid "Filipino (Colemak, Baybayin)"
 msgstr "Φιλιπινέζικο (Colemak Μπαμπάεγιν)"
 
 #: ../rules/base.xml.in.h:879
-msgid "Filipino (Dvorak Latin)"
+msgid "Filipino (Dvorak, Latin)"
 msgstr "Φιλιπινέζικο (Ντβόρακ λατινικό)"
 
 #: ../rules/base.xml.in.h:880
-msgid "Filipino (Dvorak Baybayin)"
+msgid "Filipino (Dvorak, Baybayin)"
 msgstr "Φιλιπινέζικο (Ντβόρακ Μπαεμπάεγιν)"
 
 #: ../rules/base.xml.in.h:881
@@ -3272,15 +3272,15 @@ msgid "Left Win (while pressed)"
 msgstr "Αριστερό Win (ενώ είναι πατημένο)"
 
 #: ../rules/base.xml.in.h:889
-msgid "Right Win (while pressed)"
+msgid "Left Win (while pressed)"
 msgstr "Δεξιό Win (ενώ είναι πατημένο)"
 
 #: ../rules/base.xml.in.h:890
-msgid "Any Win key (while pressed)"
+msgid "Any Win (while pressed)"
 msgstr "Οποιοδήποτε πλήκτρο Win (ενώ είναι πατημένο)"
 
 #: ../rules/base.xml.in.h:891
-msgid "Caps Lock (while pressed), Alt+Caps Lock does the original capslock action"
+msgid "Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
 msgstr "Κλείδωμα κεφαλαίων (Caps Lock)(ενώ είναι πατημένο), Alt+Caps Lock κάνει την αρχική ενέργεια capslock"
 
 #: ../rules/base.xml.in.h:892
@@ -3304,15 +3304,15 @@ msgid "Shift+Caps Lock"
 msgstr "Shift+Caps Lock"
 
 #: ../rules/base.xml.in.h:897
-msgid "Caps Lock (to first layout), Shift+Caps Lock (to last layout)"
+msgid "Caps Lock to first layout; Shift+Caps Lock to last layout"
 msgstr "Caps Lock (στην πρώτη διάταξη), Shift+Caps Lock (στην τελευταία διάταξη)"
 
 #: ../rules/base.xml.in.h:898
-msgid "Left Win (to first layout), Right Win/Menu (to last layout)"
+msgid "Left Win to first layout; Right Win/Menu to last layout"
 msgstr "Αριστερό Win (στην πρώτη διάταξη), δεξιό Win/μενού (στην τελευταία διάταξη)"
 
 #: ../rules/base.xml.in.h:899
-msgid "Left Ctrl (to first layout), Right Ctrl (to last layout)"
+msgid "Left Ctrl to first layout; Right Ctrl to last layout"
 msgstr "Αριστερό Ctrl (στην πρώτη διάταξη), δεξιό Ctrl (στην τελευταία διάταξη)"
 
 #: ../rules/base.xml.in.h:900
@@ -3320,15 +3320,15 @@ msgid "Alt+Caps Lock"
 msgstr "Alt+Caps Lock"
 
 #: ../rules/base.xml.in.h:901
-msgid "Both Shift keys together"
+msgid "Both Shift together"
 msgstr "Και τα δύο πλήκτρα Shift μαζί"
 
 #: ../rules/base.xml.in.h:902
-msgid "Both Alt keys together"
+msgid "Both Alt together"
 msgstr "Και τα δύο πλήκτρα Alt μαζί"
 
 #: ../rules/base.xml.in.h:903
-msgid "Both Ctrl keys together"
+msgid "Both Ctrl together"
 msgstr "Και τα δύο πλήκτρα Ctrl μαζί"
 
 #: ../rules/base.xml.in.h:904
@@ -3392,27 +3392,27 @@ msgid "Scroll Lock"
 msgstr "Scroll Lock (κλείδωμα κύλισης)"
 
 #: ../rules/base.xml.in.h:919
-msgid "LeftCtrl+LeftWin (to first layout), RightCtrl+Menu (to second layout)"
+msgid "Left Ctrl+Left Win to first layout; Right Ctrl+Menu to second layout"
 msgstr "Αριστερό Ctrl+Αριστερό Win (στην πρώτη διάταξη), δεξιό Ctrl+μενού (στην δεύτερη διάταξη)"
 
 #: ../rules/base.xml.in.h:920
-msgid "Key to choose 3rd level"
+msgid "Key to choose the 3rd level"
 msgstr "Πλήκτρο για επιλογή 3ου επιπέδου"
 
 #: ../rules/base.xml.in.h:921
-msgid "Any Win key"
+msgid "Any Win"
 msgstr "Οποιοδήποτε πλήκτρο Win"
 
 #: ../rules/base.xml.in.h:922
-msgid "Any Alt key"
+msgid "Any Alt"
 msgstr "Οποιοδήποτε πλήκτρο Alt"
 
 #: ../rules/base.xml.in.h:923
-msgid "Right Alt, Shift+Right Alt key is Compose"
+msgid "Right Alt; Shift+Right Alt as Compose"
 msgstr "Δεξιό Alt, Shift+δεξιό Alt το πλήκτρο είναι σύνθετο"
 
 #: ../rules/base.xml.in.h:924
-msgid "Right Alt key never chooses 3rd level"
+msgid "Right Alt never chooses 3rd level"
 msgstr "Το δεξιό πλήκτρο Alt δεν επιλέγει ποτέ 3ο επίπεδο"
 
 #: ../rules/base.xml.in.h:925
@@ -3428,19 +3428,19 @@ msgid "&lt;Less/Greater&gt;"
 msgstr "&lt;μικρότερο/μεγαλύτερο&gt;"
 
 #: ../rules/base.xml.in.h:928
-msgid "Caps Lock chooses 3rd level, acts as onetime lock when pressed together with another 3rd-level-chooser"
+msgid "Caps Lock; acts as onetime lock when pressed together with another 3rd-level chooser"
 msgstr "Το Caps Lock επιλέγει 3ο επίπεδο, δρα ως κλείδωμα μιας φοράς όταν πατιέται μαζί με ένα άλλο επιλογέα 3ου επιπέδου"
 
 #: ../rules/base.xml.in.h:929
-msgid "Backslash chooses 3rd level, acts as onetime lock when pressed together with another 3rd-level-chooser"
+msgid "Backslash; acts as onetime lock when pressed together with another 3rd level chooser"
 msgstr "Το Backslash (ανάποδη πλαγιοκάθετος) επιλέγει το 3ο επίπεδο, δρα ως κλείδωμα μιας φοράς όταν πατιέται μαζί με έναν άλλο επιλογέα 3ου επιπέδου"
 
 #: ../rules/base.xml.in.h:930
-msgid "&lt;Less/Greater&gt; chooses 3rd level, acts as onetime lock when pressed together with another 3rd-level-chooser"
+msgid "&lt;Less/Greater&gt; chooses 3rd level, acts as onetime lock when pressed together with another 3rd level chooser"
 msgstr "Το &lt;μικρότερο.μεγαλύτερο&gt; επιλέγει το 3ο επίπεδο, δρα ως κλείδωμα μιας φοράς όταν πατιέται μαζί με έναν άλλο επιλογέα 3ου επιπέδου"
 
 #: ../rules/base.xml.in.h:931
-msgid "Ctrl key position"
+msgid "Ctrl position"
 msgstr "Θέση πλήκτρου Ctrl"
 
 #: ../rules/base.xml.in.h:932
@@ -3476,15 +3476,15 @@ msgid "Right Alt as Right Ctrl"
 msgstr "Δεξιό Alt ως δεξιό Ctrl"
 
 #: ../rules/base.xml.in.h:940
-msgid "Swap Left Alt key with Left Ctrl key"
+msgid "Swap Left Alt with Left Ctrl"
 msgstr "Εναλλαγή αριστερού πλήκτρου Alt με αριστερό πλήκτρο Ctrl"
 
 #: ../rules/base.xml.in.h:941
-msgid "Swap Left Win key with Left Ctrl key"
+msgid "Swap Left Win with Left Ctrl"
 msgstr "Εναλλαγή αριστερού πλήκτρου Win με αριστερό πλήκτρο Ctrl"
 
 #: ../rules/base.xml.in.h:942
-msgid "Left Alt as Ctrl, Left Ctrl as Win, Left Win as Alt"
+msgid "Left Alt as Ctrl, Left Ctrl as Win, Left Win as Left Alt"
 msgstr "Αριστερό Alt ως Ctrl, αριστερό Ctrl ως Win, αριστερό Win ως Alt"
 
 #: ../rules/base.xml.in.h:943
@@ -3532,7 +3532,7 @@ msgid "ATM/phone-style"
 msgstr "ATM/τεχνοτροπία τηλεφώνου"
 
 #: ../rules/base.xml.in.h:954
-msgid "Numeric keypad delete key behaviour"
+msgid "Numeric keypad Delete behaviour"
 msgstr "Συμπεριφορά πλήκτρου διαγραφής του αριθμητικού πληκτρολογίου"
 
 #: ../rules/base.xml.in.h:955
@@ -3571,7 +3571,7 @@ msgid "Semicolon on third level"
 msgstr "; στο τρίτο επίπεδο"
 
 #: ../rules/base.xml.in.h:966
-msgid "Caps Lock key behavior"
+msgid "Caps Lock behavior"
 msgstr "Συμπεριφορά πλήκτρου Caps Lock"
 
 #: ../rules/base.xml.in.h:967
@@ -3579,7 +3579,7 @@ msgid "Caps Lock uses internal capitalization; Shift \"pauses\" Caps Lock"
 msgstr "Το CapsLock χρησιμοποιεί εσωτερική κεφαλαιοποίηση· το Shift \"παύει\" το CapsLock."
 
 #: ../rules/base.xml.in.h:968
-msgid "Caps Lock uses internal capitalization; Shift doesn't affect Caps Lock"
+msgid "Caps Lock uses internal capitalization; Shift does not affect Caps Lock"
 msgstr "Το CapsLock χρησιμοποιεί εσωτερική κεφαλαιοποίηση· το Shift δεν επηρεάζει το CapsLock."
 
 #: ../rules/base.xml.in.h:969
@@ -3587,7 +3587,7 @@ msgid "Caps Lock acts as Shift with locking; Shift \"pauses\" Caps Lock"
 msgstr "Το Caps Lock συμπεριφέρεται όπως και το Shift με το κλείδωμα· το Shift \"παύει\" το Caps Lock"
 
 #: ../rules/base.xml.in.h:970
-msgid "Caps Lock acts as Shift with locking; Shift doesn't affect Caps Lock"
+msgid "Caps Lock acts as Shift with locking; Shift does not affect Caps Lock"
 msgstr "Το Caps Lock συμπεριφέρεται ως Shift με το κλείδωμα· το Shift δεν επηρεάζει το Caps Lock."
 
 #: ../rules/base.xml.in.h:971
@@ -3603,7 +3603,7 @@ msgid "Swap ESC and Caps Lock"
 msgstr "Εναλλαγή ESC και Caps Lock"
 
 #: ../rules/base.xml.in.h:974
-msgid "Make Caps Lock an additional ESC"
+msgid "Make Caps Lock an additional Esc"
 msgstr "Το Caps Lock γίνεται ένα επιπλέον ESC."
 
 #: ../rules/base.xml.in.h:975
@@ -3639,23 +3639,23 @@ msgid "Add the standard behavior to Menu key"
 msgstr "Προσθήκη της τυπικής συμπεριφοράς στο πλήκτρο Menu."
 
 #: ../rules/base.xml.in.h:983
-msgid "Alt and Meta are on Alt keys"
+msgid "Alt and Meta are on Alt"
 msgstr "Τα Alt και Meta είναι στα πλήκτρα Alt"
 
 #: ../rules/base.xml.in.h:984
-msgid "Alt is mapped to Win keys (and the usual Alt keys)"
+msgid "Alt is mapped to Win and the usual Alt"
 msgstr "Το Alt αντιστοιχίζεται στα πλήκτρα Win (και τα συνήθη πλήκτρα Alt)"
 
 #: ../rules/base.xml.in.h:985
-msgid "Ctrl is mapped to Win keys (and the usual Ctrl keys)"
+msgid "Ctrl is mapped to Win and the usual Ctrl keys"
 msgstr "Το Ctrl αντιστοιχίζεται στα πλήκτρα Win (και τα συνήθη πλήκτρα Ctrl)"
 
 #: ../rules/base.xml.in.h:986
-msgid "Ctrl is mapped to Alt keys, Alt is mapped to Win keys"
+msgid "Ctrl is mapped to Alt; Alt is mapped to Win"
 msgstr "Το Ctrl αντιστοιχίζεται σε πλήκτρα Alt, το Alt αντιστοιχίζεται σε πλήκτρα Win"
 
 #: ../rules/base.xml.in.h:987
-msgid "Meta is mapped to Win keys"
+msgid "Meta is mapped to Win"
 msgstr "Το Meta αντιστοιχίζεται στα πλήκτρα Win."
 
 #: ../rules/base.xml.in.h:988
@@ -3723,7 +3723,7 @@ msgid "Default numeric keypad keys"
 msgstr "Προεπιλεγμένα πλήκτρα αριθμητικού υποπληκτρολογίου"
 
 #: ../rules/base.xml.in.h:1004
-msgid "Numeric keypad keys always enter digits (as in Mac OS)"
+msgid "Numeric keypad always enters digits (as in macOS)"
 msgstr "Τα πλήκτρα του αριθμητικού υποπληκτρολογίου εισάγουν πάντα ψηφία (όπως στο Mac OS)"
 
 #: ../rules/base.xml.in.h:1005
@@ -3739,7 +3739,7 @@ msgid "Special keys (Ctrl+Alt+&lt;key&gt;) handled in a server"
 msgstr "Ειδικά πλήκτρα (Ctrl+Alt+&lt;key&gt;) χειριζόμενα σε έναν διακομιστή."
 
 #: ../rules/base.xml.in.h:1008
-msgid "Apple Aluminium Keyboard: emulate PC keys (Print, Scroll Lock, Pause, Num Lock)"
+msgid "Apple Aluminium: emulate PC keys (PrtSc, Scroll Lock, Pause, Num Lock)"
 msgstr "Πληκτρολόγιο Apple Aluminium: απομίμηση πλήκτρων υπολογιστή (εκτύπωση, κλείδωμα κύλισης, παύση, κλείδωμα αριθμών)"
 
 #: ../rules/base.xml.in.h:1009
@@ -3751,19 +3751,19 @@ msgid "Enable extra typographic characters"
 msgstr "Ενεργοποίηση πρόσθετων τυπογραφικών χαρακτήρων"
 
 #: ../rules/base.xml.in.h:1011
-msgid "Both Shift keys together toggle Caps Lock"
+msgid "Both Shift together enable Caps Lock"
 msgstr "Και τα δύο πλήκτρα Shift μαζί εναλλάσσουν το Caps Lock"
 
 #: ../rules/base.xml.in.h:1012
-msgid "Both Shift keys together activate Caps Lock, one Shift key deactivates"
+msgid "Both Shift together enable Caps Lock; one Shift key disables it"
 msgstr "Και τα δυο πλήκτρα Shift ενεργοποιούν το Caps Lock, ένα πλήκτρο Shift απενεργοποιεί"
 
 #: ../rules/base.xml.in.h:1013
-msgid "Both Shift keys together toggle ShiftLock"
+msgid "Both Shift together enable Shift Lock"
 msgstr "Και τα δύο πλήκτρα Shift μαζί εναλλάσσουν το ShiftLock"
 
 #: ../rules/base.xml.in.h:1014
-msgid "Shift + NumLock toggles PointerKeys"
+msgid "Shift + Num Lock enables PointerKeys"
 msgstr "Shift + NumLock εναλλάσσει τα PointerKeys"
 
 #: ../rules/base.xml.in.h:1015
@@ -3803,23 +3803,23 @@ msgid "Key to choose 5th level"
 msgstr "Πλήκτρο για επιλογή 5του επιπέδου"
 
 #: ../rules/base.xml.in.h:1024
-msgid "&lt;Less/Greater&gt; chooses 5th level, locks when pressed together with another 5th-level-chooser"
+msgid "&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
 msgstr "Το &lt;μικρότερο/μεγαλύτερο&gt; επιλέγει 5ο επίπεδο, κλειδώνει όταν πατιέται μαζί με μια άλλη επιλογή 5ου επιπέδου"
 
 #: ../rules/base.xml.in.h:1025
-msgid "Right Alt chooses 5th level, locks when pressed together with another 5th-level-chooser"
+msgid "Right Alt chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
 msgstr "Το δεξιό Alt επιλέγει 5ο επίπεδο, κλειδώνει όταν πατιέται μαζί με μια άλλη επιλογή 5ου επιπέδου"
 
 #: ../rules/base.xml.in.h:1026
-msgid "Left Win chooses 5th level, locks when pressed together with another 5th-level-chooser"
+msgid "Left Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
 msgstr "Το αριστερό Win επιλέγει 5ο επίπεδο, κλειδώνει όταν πατιέται μαζί με μια άλλη επιλογή 5ου επιπέδου"
 
 #: ../rules/base.xml.in.h:1027
-msgid "Right Win chooses 5th level, locks when pressed together with another 5th-level-chooser"
+msgid "Right Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
 msgstr "Το δεξιό Win επιλέγει 5ο επίπεδο, κλειδώνει όταν πατιέται μαζί με μια άλλη επιλογή 5ου επιπέδου"
 
 #: ../rules/base.xml.in.h:1028
-msgid "Using space key to input non-breakable space character"
+msgid "Using space key to input non-breaking space"
 msgstr "Χρήση πλήκτρου διαστήματος για εισαγωγή μη-διασπώμενου χαρακτήρα διαστήματος"
 
 #: ../rules/base.xml.in.h:1029
@@ -3827,63 +3827,63 @@ msgid "Usual space at any level"
 msgstr "Συνηθισμένο διάστημα σε κάθε επίπεδο"
 
 #: ../rules/base.xml.in.h:1030
-msgid "Non-breakable space character at second level"
+msgid "Non-breaking space at the 2nd level"
 msgstr "Χαρακτήρας αδιαχώριστου κενού στο δεύτερο επίπεδο"
 
 #: ../rules/base.xml.in.h:1031
-msgid "Non-breakable space character at third level"
+msgid "Non-breaking space at the 3rd level"
 msgstr "Χαρακτήρας αδιαχώριστου κενού στο τρίτο επίπεδο"
 
 #: ../rules/base.xml.in.h:1032
-msgid "Non-breakable space character at third level, nothing at fourth level"
+msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
 msgstr "Χαρακτήρας αδιαχώριστου κενού στο τρίτο επίπεδο, τίποτα στο τέταρτο επίπεδο"
 
 #: ../rules/base.xml.in.h:1033
-msgid "Non-breakable space character at third level, thin non-breakable space character at fourth level"
+msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
 msgstr "Χαρακτήρας αδιαχώριστου κενού στο τρίτο επίπεδο, λεπτός χαρακτήρας αδιαχώριστου κενού στο τέταρτο επίπεδο"
 
 #: ../rules/base.xml.in.h:1034
-msgid "Non-breakable space character at fourth level"
+msgid "Non-breaking space at the 4th lever"
 msgstr "Χαρακτήρας αδιαχώριστου κενού στο τέταρτο επίπεδο"
 
 #: ../rules/base.xml.in.h:1035
-msgid "Non-breakable space character at fourth level, thin non-breakable space character at sixth level"
+msgid "Non-breaking space at the 4th lever, thin non-breaking space at the 6th level"
 msgstr "Χαρακτήρας αδιαχώριστου κενού στο τέταρτο επίπεδο, λεπτός χαρακτήρας αδιαχώριστου κενού στο έκτο επίπεδο"
 
 #: ../rules/base.xml.in.h:1036
-msgid "Non-breakable space character at fourth level, thin non-breakable space character at sixth level (via Ctrl+Shift)"
+msgid "Non-breaking space at the 4th lever, thin non-breaking space at the 6th level (via Ctrl+Shift)"
 msgstr "Χαρακτήρας αδιαχώριστου κενού στο τέταρτο επίπεδο, λεπτός χαρακτήρας αδιαχώριστου κενού στο έκτο επίπεδο (μέσα από Ctrl+Shift)"
 
 #: ../rules/base.xml.in.h:1037
-msgid "Zero-width non-joiner character at second level"
+msgid "Zero-width non-joiner at the 2nd level"
 msgstr "Χαρακτήρας διαχωριστικού μηδενικού πλάτους στο δεύτερο επίπεδο"
 
 #: ../rules/base.xml.in.h:1038
-msgid "Zero-width non-joiner character at second level, zero-width joiner character at third level"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
 msgstr "Χαρακτήρας διαχωριστικού μηδενικού πλάτους στο δεύτερο επίπεδο, χαρακτήρας ενωτικού μηδενικού πλάτους στο τρίτο επίπεδο"
 
 #: ../rules/base.xml.in.h:1039
-msgid "Zero-width non-joiner character at second level, zero-width joiner character at third level, non-breakable space character at fourth level"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, non-breaking space at the 4th level"
 msgstr "Χαρακτήρας διαχωριστικού μηδενικού πλάτους στο δεύτερο επίπεδο, χαρακτήρας ενωτικού μηδενικού πλάτους στο τρίτο επίπεδο, χαρακτήρας αχώριστου διαστήματος στο τέταρτο επίπεδο"
 
 #: ../rules/base.xml.in.h:1040
-msgid "Zero-width non-joiner character at second level, non-breakable space character at third level"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
 msgstr "Χαρακτήρας διαχωριστικού μηδενικού πλάτους στο δεύτερο επίπεδο, χαρακτήρας αδιαχώριστου κενού στο τρίτο επίπεδο"
 
 #: ../rules/base.xml.in.h:1041
-msgid "Zero-width non-joiner character at second level, non-breakable space character at third level, nothing at fourth level"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, nothing at the 4th level"
 msgstr "Χαρακτήρας διαχωριστικού μηδενικού πλάτους στο δεύτερο επίπεδο, χαρακτήρας αδιαχώριστου κενού στο τρίτο επίπεδο, τίποτα στο τέταρτο επίπεδο"
 
 #: ../rules/base.xml.in.h:1042
-msgid "Zero-width non-joiner character at second level, non-breakable space character at third level, zero-width joiner at fourth level"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, zero-width joiner at the 4th level"
 msgstr "Χαρακτήρας διαχωριστικού μηδενικού πλάτους στο δεύτερο επίπεδο, χαρακτήρας αδιαχώριστου κενού στο τρίτο επίπεδο, τίποτα στο τέταρτο επίπεδο"
 
 #: ../rules/base.xml.in.h:1043
-msgid "Zero-width non-joiner character at second level, non-breakable space character at third level, thin non-breakable space at fourth level"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breakable space at the 4th level"
 msgstr "Χαρακτήρας διαχωριστικού μηδενικού πλάτους στο δεύτερο επίπεδο, χαρακτήρας αδιαχώριστου κενού στο τρίτο επίπεδο, λεπτό αδιαχώριστο διάστημα στο τέταρτο επίπεδο"
 
 #: ../rules/base.xml.in.h:1044
-msgid "Zero-width non-joiner character at third level, zero-width joiner at fourth level"
+msgid "Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
 msgstr "Χαρακτήρας διαχωριστικού μηδενικού πλάτους στο τρίτο επίπεδο, ενωτικό μηδενικού πλάτους στο τέταρτο επίπεδο"
 
 #: ../rules/base.xml.in.h:1045
@@ -3899,7 +3899,7 @@ msgid "NICOLA-F style Backspace"
 msgstr "Οπισθοδρόμηση τεχνοτροπίας NICOLA-F"
 
 #: ../rules/base.xml.in.h:1048
-msgid "Make Zenkaku Hankaku an additional ESC"
+msgid "Make Zenkaku Hankaku an additional Esc"
 msgstr "Να γίνει το Zenkaku Hankaku ένα πρόσθετο ESC"
 
 #: ../rules/base.xml.in.h:1049
@@ -3907,7 +3907,7 @@ msgid "Adding Esperanto supersigned letters"
 msgstr "Προσθήκη γραμμάτων εσπεράντο supersigned"
 
 #: ../rules/base.xml.in.h:1050
-msgid "To the corresponding key in a Qwerty layout"
+msgid "To the corresponding key in a QWERTY layout"
 msgstr "Στο αντίστοιχο πλήκτρο σε μια διάταξη qwerty"
 
 #: ../rules/base.xml.in.h:1051
@@ -3931,8 +3931,8 @@ msgid "Key sequence to kill the X server"
 msgstr "Συνδυασμός πλήκτρων για τερματισμό του εξυπηρετητή X"
 
 #: ../rules/base.xml.in.h:1056
-msgid "Ctrl + Alt + Backspace"
-msgstr "Ctrl + Alt + Backspace"
+msgid "Ctrl+Alt+Backspace"
+msgstr "Ctrl+Alt+Backspace"
 
 #: ../rules/base.extras.xml.in.h:1
 msgid "apl"
@@ -3963,7 +3963,7 @@ msgid "Multilingual (Canada, Sun Type 6/7)"
 msgstr "Πολυγλωσσικό (Καναδάς, τύπος Sun 6/7)"
 
 #: ../rules/base.extras.xml.in.h:12
-msgid "German (US keyboard with German letters)"
+msgid "German (US, with German letters)"
 msgstr "Γερμανικό (πληκτρολόγιο ΗΠΑ με γερμανικά γράμματα)"
 
 #: ../rules/base.extras.xml.in.h:13
@@ -4047,7 +4047,7 @@ msgid "English (Norman)"
 msgstr "Αγγλικό (Νόρμαν)"
 
 #: ../rules/base.extras.xml.in.h:43
-msgid "Polish (international with dead keys)"
+msgid "Polish (intl., with dead keys)"
 msgstr "Πολωνικό (διεθνές με νεκρά πλήκτρα)"
 
 #: ../rules/base.extras.xml.in.h:44

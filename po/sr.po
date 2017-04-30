@@ -149,7 +149,7 @@ msgid "Albania"
 msgstr "Албанија"
 
 #: ../rules/base.xml.in.h:34
-msgid "Alt and Meta are on the Alt keys (default)."
+msgid "Alt and Meta are on the Alt (default)."
 msgstr "Alt и Meta су на Alt тастерима (подразумевано)."
 
 #: ../rules/base.xml.in.h:35
@@ -186,7 +186,7 @@ msgid "Alternative, Sun dead keys"
 msgstr "Допунска, Sun-ови акценти"
 
 #: ../rules/base.xml.in.h:43
-msgid "Alternative, eliminate dead keys"
+msgid "Alternative, no dead keys"
 msgstr "Допунска, без акцената"
 
 #: ../rules/base.xml.in.h:44
@@ -226,7 +226,7 @@ msgid "Azerbaijan"
 msgstr "Азербејџан"
 
 #: ../rules/base.xml.in.h:53
-msgid "Azona RF2300 wireless Internet Keyboard"
+msgid "Azona RF2300 wireless Internet"
 msgstr "Azona RF2300 бежична Интернет тастатура"
 
 #: ../rules/base.xml.in.h:54
@@ -306,15 +306,15 @@ msgid "Bosnia and Herzegovina"
 msgstr "Босна и Херцеговина"
 
 #: ../rules/base.xml.in.h:73
-msgid "Both Alt keys together change group."
+msgid "Both Alt together change group."
 msgstr "Оба Alt тастера мењају групу."
 
 #: ../rules/base.xml.in.h:74
-msgid "Both Ctrl keys together change group."
+msgid "Both Ctrl together change group."
 msgstr "Оба Ctrl тастера мењају групу."
 
 #: ../rules/base.xml.in.h:75
-msgid "Both Shift keys together change group."
+msgid "Both Shift together change group."
 msgstr "Оба Shift тастера мењају групу."
 
 #: ../rules/base.xml.in.h:76
@@ -334,7 +334,7 @@ msgid "Brazilian ABNT2"
 msgstr "бразилска ABNT2"
 
 #: ../rules/base.xml.in.h:80
-msgid "Brother Internet Keyboard"
+msgid "Brother Internet"
 msgstr "Brother Интернет тастатура"
 
 #: ../rules/base.xml.in.h:81
@@ -366,7 +366,7 @@ msgid "CapsLock acts as Shift with locking. Shift cancels CapsLock."
 msgstr "CapsLock се понаша као трајни Shift. Shift укида Caps."
 
 #: ../rules/base.xml.in.h:88
-msgid "CapsLock acts as Shift with locking. Shift doesn't cancel CapsLock."
+msgid "CapsLock acts as Shift with locking. Shift does not cancel CapsLock."
 msgstr "CapsLock се понаша као трајни Shift. Shift не укида Caps."
 
 #: ../rules/base.xml.in.h:89
@@ -394,7 +394,7 @@ msgid "CapsLock uses internal capitalization. Shift cancels CapsLock."
 msgstr "CapsLock користи унутрашњу величину слова. Shift укида Caps Lock."
 
 #: ../rules/base.xml.in.h:95
-msgid "CapsLock uses internal capitalization. Shift doesn't cancel CapsLock."
+msgid "CapsLock uses internal capitalization. Shift does not cancel CapsLock."
 msgstr "CapsLock користи унутрашњу величину слова. Shift не укида Caps Lock."
 
 #: ../rules/base.xml.in.h:96
@@ -410,7 +410,7 @@ msgid "Cherry Blue Line CyBo@rd"
 msgstr "Cherry Blue Line CyBo@rd"
 
 #: ../rules/base.xml.in.h:99
-msgid "Cherry Blue Line CyBo@rd (alternate option)"
+msgid "Cherry Blue Line CyBo@rd (alt.)"
 msgstr "Cherry Blue Line CyBo@rd (друга могућност)"
 
 #: ../rules/base.xml.in.h:100
@@ -422,7 +422,7 @@ msgid "Cherry CyMotion Master Linux"
 msgstr "Cherry CyMotion Master Linux"
 
 #: ../rules/base.xml.in.h:102
-msgid "Chicony Internet Keyboard"
+msgid "Chicony Internet"
 msgstr "Chicony Интернет тастатура"
 
 #: ../rules/base.xml.in.h:103
@@ -434,23 +434,23 @@ msgid "CloGaelach"
 msgstr "CloGaelach"
 
 #: ../rules/base.xml.in.h:105
-msgid "Compaq Easy Access Keyboard"
+msgid "Compaq Easy Access"
 msgstr "Compaq тастатура за лак приступ"
 
 #: ../rules/base.xml.in.h:106
-msgid "Compaq Internet Keyboard (13 keys)"
+msgid "Compaq Internet (13 keys)"
 msgstr "Compaq Интернет тастатура (13 тастера)"
 
 #: ../rules/base.xml.in.h:107
-msgid "Compaq Internet Keyboard (18 keys)"
+msgid "Compaq Internet (18 keys)"
 msgstr "Compaq Интернет тастатура (18 тастера)"
 
 #: ../rules/base.xml.in.h:108
-msgid "Compaq Internet Keyboard (7 keys)"
+msgid "Compaq Internet (7 keys)"
 msgstr "Compaq Интернет тастатура (7 тастера)"
 
 #: ../rules/base.xml.in.h:109
-msgid "Compaq iPaq Keyboard"
+msgid "Compaq iPaq"
 msgstr "Compaq iPaq тастатура"
 
 #: ../rules/base.xml.in.h:110
@@ -470,7 +470,7 @@ msgid "Ctrl key at left of 'A'"
 msgstr "Тастер Ctrl је у лево од „А“"
 
 #: ../rules/base.xml.in.h:114
-msgid "Ctrl key position"
+msgid "Ctrl position"
 msgstr "Положај тастера Ctrl"
 
 #: ../rules/base.xml.in.h:115
@@ -522,11 +522,11 @@ msgid "Deu"
 msgstr "нем"
 
 #: ../rules/base.xml.in.h:127
-msgid "Dexxa Wireless Desktop Keyboard"
+msgid "Dexxa Wireless Desktop"
 msgstr "Dexxa бежична тастатура"
 
 #: ../rules/base.xml.in.h:128
-msgid "Diamond 9801 / 9802 series"
+msgid "Diamond 9801/9802"
 msgstr "Diamond 9801 / 9802 серија"
 
 #: ../rules/base.xml.in.h:129
@@ -634,7 +634,7 @@ msgid "French, Sun dead keys"
 msgstr "француски, Sun-ови акценти"
 
 #: ../rules/base.xml.in.h:155
-msgid "French, eliminate dead keys"
+msgid "French, no dead keys"
 msgstr "Француски, без акцената"
 
 #: ../rules/base.xml.in.h:156
@@ -654,7 +654,7 @@ msgid "Generic 101-key PC"
 msgstr "Обична са 101 тастером"
 
 #: ../rules/base.xml.in.h:160
-msgid "Generic 102-key (Intl) PC"
+msgid "Generic 101-key PC (intl.)"
 msgstr "Обична са 102 тастера (међунар.)"
 
 #: ../rules/base.xml.in.h:161
@@ -662,7 +662,7 @@ msgid "Generic 104-key PC"
 msgstr "Обична са 104 тастера"
 
 #: ../rules/base.xml.in.h:162
-msgid "Generic 105-key (Intl) PC"
+msgid "Generic 105-key PC (intl.)"
 msgstr "Обична са 105 тастера (међунар.)"
 
 #: ../rules/base.xml.in.h:163
@@ -670,7 +670,7 @@ msgid "Genius Comfy KB-12e"
 msgstr "Genius Comfy KB-12e"
 
 #: ../rules/base.xml.in.h:164
-msgid "Genius Comfy KB-16M / Genius MM Keyboard KWD-910"
+msgid "Genius Comfy KB-16M/Multimedia KWD-910"
 msgstr "Genius Comfy KB-16M / Genius ММ тастатура KWD-910"
 
 #: ../rules/base.xml.in.h:165
@@ -690,7 +690,7 @@ msgid "German, Sun dead keys"
 msgstr "немачки, Sun-ови акценти"
 
 #: ../rules/base.xml.in.h:169
-msgid "German, eliminate dead keys"
+msgid "German, no dead keys"
 msgstr "немачки, без акцената"
 
 #: ../rules/base.xml.in.h:170
@@ -734,7 +734,7 @@ msgid "Hausa"
 msgstr "Хауса"
 
 #: ../rules/base.xml.in.h:180
-msgid "Hewlett-Packard Internet Keyboard"
+msgid "Hewlett-Packard Internet"
 msgstr "Hewlett-Packard Интернет тастатура"
 
 #: ../rules/base.xml.in.h:181
@@ -742,8 +742,8 @@ msgid "Hewlett-Packard Omnibook 500 FA"
 msgstr "Hewlett-Packard Omnibook 500 FA"
 
 #: ../rules/base.xml.in.h:182
-msgid "Hewlett-Packard Omnibook 5xx"
-msgstr "Hewlett-Packard Omnibook 5xx"
+msgid "Hewlett-Packard Omnibook 500"
+msgstr "Hewlett-Packard Omnibook 500"
 
 #: ../rules/base.xml.in.h:183
 msgid "Hewlett-Packard Omnibook 6000/6100"
@@ -762,15 +762,15 @@ msgid "Hewlett-Packard Omnibook XT1000"
 msgstr "Hewlett-Packard Omnibook XT1000"
 
 #: ../rules/base.xml.in.h:187
-msgid "Hewlett-Packard Pavilion ZT11xx"
-msgstr "Hewlett-Packard Pavilion ZT11xx"
+msgid "Hewlett-Packard Pavilion ZT1100"
+msgstr "Hewlett-Packard Pavilion ZT1100"
 
 #: ../rules/base.xml.in.h:188
-msgid "Hewlett-Packard SK-2501 Multimedia Keyboard"
+msgid "Hewlett-Packard SK-2501 Multimedia"
 msgstr "Hewlett-Packard SK-2501 мултимедијална тастатура"
 
 #: ../rules/base.xml.in.h:189
-msgid "Hewlett-Packard SK-2505 Internet Keyboard"
+msgid "Hewlett-Packard SK-2505 Internet"
 msgstr "Hewlett-Packard SK-2505 Интернет тастатура"
 
 #: ../rules/base.xml.in.h:190
@@ -930,11 +930,11 @@ msgid "Laos"
 msgstr "Лаос"
 
 #: ../rules/base.xml.in.h:229
-msgid "Laptop/notebook Compaq (eg. Armada) Laptop Keyboard"
+msgid "Compaq Armada laptop"
 msgstr "Тастатуре преносних рачунара из Compaq-а (нпр. Armada)"
 
 #: ../rules/base.xml.in.h:230
-msgid "Laptop/notebook Compaq (eg. Presario) Internet Keyboard"
+msgid "Compaq Presario laptop"
 msgstr "Тастатуре преносних рачунара из Compaq-а (нпр. Presario)"
 
 #: ../rules/base.xml.in.h:231
@@ -942,7 +942,7 @@ msgid "Laptop/notebook Dell Inspiron 6xxx/8xxx"
 msgstr "Тастатуре преносних рачунара Dell Inspiron 6xxx/8xxx"
 
 #: ../rules/base.xml.in.h:232
-msgid "Laptop/notebook eMachines m68xx"
+msgid "eMachines m6800 laptop"
 msgstr "Преносне eMachines m68xx"
 
 #: ../rules/base.xml.in.h:233
@@ -974,15 +974,15 @@ msgid "Latvia"
 msgstr "Летонија"
 
 #: ../rules/base.xml.in.h:240
-msgid "Left Alt key changes group."
+msgid "Left Alt changes group."
 msgstr "Леви Alt тастер мења групу."
 
 #: ../rules/base.xml.in.h:241
-msgid "Left Alt key switches group while pressed."
+msgid "Left Alt switches group while pressed."
 msgstr "Леви Alt тастер мења групу док је притиснут."
 
 #: ../rules/base.xml.in.h:242
-msgid "Left Ctrl key changes group."
+msgid "Left Ctrl changes group."
 msgstr "Леви Ctrl тастер мења групу."
 
 #: ../rules/base.xml.in.h:243
@@ -1006,7 +1006,7 @@ msgid "Lithuania"
 msgstr "Литванија"
 
 #: ../rules/base.xml.in.h:248
-msgid "Logitech Access Keyboard"
+msgid "Logitech Access"
 msgstr "Logitech Access тастатура"
 
 #: ../rules/base.xml.in.h:249
@@ -1046,15 +1046,15 @@ msgid "Logitech Deluxe Access Keyboard"
 msgstr "Logitech Deluxe Access тастатура"
 
 #: ../rules/base.xml.in.h:258
-msgid "Logitech Internet Keyboard"
+msgid "Logitech Internet"
 msgstr "Logitech Интернет тастатура"
 
 #: ../rules/base.xml.in.h:259
-msgid "Logitech Internet Navigator Keyboard"
+msgid "Logitech Internet Navigator"
 msgstr "Logitech Интернет навигатор тастатура"
 
 #: ../rules/base.xml.in.h:260
-msgid "Logitech Ultra-X Keyboard"
+msgid "Logitech Ultra-X"
 msgstr "Logitech Ultra-X тастатура"
 
 #: ../rules/base.xml.in.h:261
@@ -1062,7 +1062,7 @@ msgid "Logitech iTouch"
 msgstr "Logitech iTouch"
 
 #: ../rules/base.xml.in.h:262
-msgid "Logitech iTouch Cordless Keyboard (model Y-RB6)"
+msgid "Logitech iTouch Cordless Y-RB6"
 msgstr "Logitech iTouch Cordless тастатура (модел Y-RB6)"
 
 #: ../rules/base.xml.in.h:263
@@ -1122,7 +1122,7 @@ msgid "Memorex MX1998"
 msgstr "Memorex MX1998"
 
 #: ../rules/base.xml.in.h:277
-msgid "Memorex MX2500 EZ-Access Keyboard"
+msgid "Memorex MX2500 EZ-Access"
 msgstr "Memorex MX2500 EZ-Access тастатура"
 
 #: ../rules/base.xml.in.h:278
@@ -1146,11 +1146,11 @@ msgid "Meta is mapped to the left Win-key."
 msgstr "Meta је мапиран на леви Windows тастер."
 
 #: ../rules/base.xml.in.h:283
-msgid "Microsoft Internet Keyboard"
+msgid "Microsoft Internet"
 msgstr "Микрософтова Интернет тастатура"
 
 #: ../rules/base.xml.in.h:284
-msgid "Microsoft Internet Keyboard Pro, Swedish"
+msgid "Microsoft Internet Pro (Swedish)"
 msgstr "Микрософтова Интернет Про тастатура, шведски"
 
 #: ../rules/base.xml.in.h:285
@@ -1158,15 +1158,15 @@ msgid "Microsoft Natural"
 msgstr "Микрософт Натурал"
 
 #: ../rules/base.xml.in.h:286
-msgid "Microsoft Natural Keyboard Pro / Microsoft Internet Keyboard Pro"
+msgid "Microsoft Natural Pro/Internet Pro"
 msgstr "Микрософт Натурал тастатура Про / Микрософт Интернет тастатура Про "
 
 #: ../rules/base.xml.in.h:287
-msgid "Microsoft Natural Keyboard Pro OEM"
+msgid "Microsoft Natural Pro OEM"
 msgstr "Микрософт Натурал тастатура Про ОЕМ"
 
 #: ../rules/base.xml.in.h:288
-msgid "Microsoft Natural Keyboard Pro USB / Microsoft Internet Keyboard Pro"
+msgid "Microsoft Natural Pro USB/Internet Pro"
 msgstr ""
 "Микрософтова Натурал тастатура Про УСБ / Микрософт Интернет тастатура Про "
 
@@ -1175,7 +1175,7 @@ msgid "Microsoft Office Keyboard"
 msgstr "Микрософтова канцеларијска тастатура"
 
 #: ../rules/base.xml.in.h:290
-msgid "Microsoft Wireless Multimedia Keyboard 1.0A"
+msgid "Microsoft Wireless Multimedia 1.0A"
 msgstr "Микрософтова бежична мултимедијална тастатура 1.0А"
 
 #: ../rules/base.xml.in.h:291
@@ -1235,7 +1235,7 @@ msgid "Northern Saami"
 msgstr "северносаамски"
 
 #: ../rules/base.xml.in.h:305
-msgid "Northern Saami, eliminate dead keys"
+msgid "Northern Saami, no dead keys"
 msgstr "северносаамски, без акцената"
 
 #: ../rules/base.xml.in.h:306
@@ -1267,7 +1267,7 @@ msgid "Oriya"
 msgstr "орија"
 
 #: ../rules/base.xml.in.h:313
-msgid "PC-98xx Series"
+msgid "PC-98"
 msgstr "PC-98xx серија"
 
 #: ../rules/base.xml.in.h:314
@@ -1316,7 +1316,7 @@ msgid "PowerPC PS/2"
 msgstr "PowerPC PS/2"
 
 #: ../rules/base.xml.in.h:325
-msgid "Press Left Alt key to choose 3rd level."
+msgid "Press Left Alt to choose 3rd level."
 msgstr "Притискање левог Alt тастера за избор 3. нивоа."
 
 #: ../rules/base.xml.in.h:326
@@ -1340,7 +1340,7 @@ msgid "Press Right Win-key to choose 3rd level."
 msgstr "Притискање десног Windows тастера за избор 3. нивоа."
 
 #: ../rules/base.xml.in.h:331
-msgid "Press any of Alt keys to choose 3rd level."
+msgid "Press any of Alt to choose 3rd level."
 msgstr "Притискање било ког Alt тастера за избор 3. нивоа."
 
 #: ../rules/base.xml.in.h:332
@@ -1360,8 +1360,8 @@ msgid "Probhat"
 msgstr "пробат"
 
 #: ../rules/base.xml.in.h:336
-msgid "Propeller Voyager (KTEZ-1000)"
-msgstr "Propeller Voyager (KTEZ-1000)"
+msgid "Propeller Voyager KTEZ-1000"
+msgstr "Propeller Voyager KTEZ-1000"
 
 #: ../rules/base.xml.in.h:337
 msgid "Prt"
@@ -1388,15 +1388,15 @@ msgid "Right Ctrl is Compose."
 msgstr "Десни Ctrl је комбинујући."
 
 #: ../rules/base.xml.in.h:343
-msgid "Right Ctrl key changes group."
+msgid "Right Ctrl changes group."
 msgstr "Десни Ctrl мења групу."
 
 #: ../rules/base.xml.in.h:344
-msgid "Right Ctrl key switches group while pressed."
+msgid "Right Ctrl switches group while pressed."
 msgstr "Десни Ctrl тастер мења групу док је притиснут."
 
 #: ../rules/base.xml.in.h:345
-msgid "Right Ctrl key works as Right Alt."
+msgid "Right Ctrl works as Right Alt."
 msgstr "Десни Ctrl тастер се понаша као десни Alt."
 
 #: ../rules/base.xml.in.h:346
@@ -1428,7 +1428,7 @@ msgid "Romanian keyboard with German letters"
 msgstr "румунска тастатура са немачким словима"
 
 #: ../rules/base.xml.in.h:353
-msgid "Romanian keyboard with German letters, eliminate dead keys"
+msgid "Romanian keyboard with German letters, no dead keys"
 msgstr "румунска тастатура са немачким словима, без акцената"
 
 #: ../rules/base.xml.in.h:354
@@ -1452,7 +1452,7 @@ msgid "Russian phonetic"
 msgstr "руски фонетски"
 
 #: ../rules/base.xml.in.h:359
-msgid "Russian phonetic, eliminate dead keys"
+msgid "Russian phonetic, no dead keys"
 msgstr "руски фонетски, без акцената"
 
 #: ../rules/base.xml.in.h:360
@@ -1464,24 +1464,24 @@ msgid "SCG"
 msgstr "СЦГ"
 
 #: ../rules/base.xml.in.h:362
-msgid "SILVERCREST Multimedia Wireless Keyboard"
-msgstr "SILVERCREST мултимедијална бежична тастатура"
+msgid "Silvercrest Multimedia Wireless"
+msgstr "Silvercrest мултимедијална бежична тастатура"
 
 #: ../rules/base.xml.in.h:363
-msgid "SK-1300"
-msgstr "SK-1300"
+msgid "NEC SK-1300"
+msgstr "NEC SK-1300"
 
 #: ../rules/base.xml.in.h:364
-msgid "SK-2500"
-msgstr "SK-2500"
+msgid "NEC SK-2500"
+msgstr "NEC SK-2500"
 
 #: ../rules/base.xml.in.h:365
-msgid "SK-6200"
-msgstr "SK-6200"
+msgid "NEC SK-6200"
+msgstr "NEC SK-6200"
 
 #: ../rules/base.xml.in.h:366
-msgid "SK-7100"
-msgstr "SK-7100"
+msgid "NEC SK-7100"
+msgstr "NEC SK-7100"
 
 #: ../rules/base.xml.in.h:367
 msgid "SVEN Ergonomic 2500"
@@ -1562,7 +1562,7 @@ msgid "Sun dead keys"
 msgstr "Sun-ови акценти"
 
 #: ../rules/base.xml.in.h:388
-msgid "Super Power Multimedia Keyboard"
+msgid "Super Power Multimedia"
 msgstr "Супер моћна мултимедијална тастатура"
 
 #: ../rules/base.xml.in.h:389
@@ -1594,8 +1594,8 @@ msgid "Switzerland"
 msgstr "Швајцарска"
 
 #: ../rules/base.xml.in.h:396
-msgid "Symplon PaceBook (tablet PC)"
-msgstr "Symplon PaceBook (tablet PC)"
+msgid "Symplon PaceBook tablet"
+msgstr "Symplon PaceBook tablet"
 
 #: ../rules/base.xml.in.h:397
 msgid "Syr"
@@ -1670,11 +1670,11 @@ msgid "Toshiba Satellite S3000"
 msgstr "Toshiba Satellite S3000"
 
 #: ../rules/base.xml.in.h:415
-msgid "Trust Direct Access Keyboard"
+msgid "Trust Direct Access"
 msgstr "Trust Direct Access тастатура"
 
 #: ../rules/base.xml.in.h:416
-msgid "Trust Wireless Keyboard Classic"
+msgid "Trust Wireless Classic"
 msgstr "Trust класична бежична тастатура"
 
 #: ../rules/base.xml.in.h:417
@@ -1694,11 +1694,11 @@ msgid "U.S. English"
 msgstr "амерички енглески"
 
 #: ../rules/base.xml.in.h:421
-msgid "US keyboard with Bosnian digraphs"
+msgid "US, with Bosnian digraphs"
 msgstr "Америчка тастатура са босанским диграфима"
 
 #: ../rules/base.xml.in.h:422
-msgid "US keyboard with Bosnian letters"
+msgid "US, with Bosnian letters"
 msgstr "Америчка тастатура са босанским словима"
 
 #: ../rules/base.xml.in.h:423
@@ -1802,7 +1802,7 @@ msgid "With guillemots"
 msgstr "Са гиљемотима"
 
 #: ../rules/base.xml.in.h:448
-msgid "Yahoo! Internet Keyboard"
+msgid "Yahoo! Internet"
 msgstr "Yahoo! Интернет тастатура"
 
 #: ../rules/base.xml.in.h:449
@@ -1892,11 +1892,11 @@ msgstr "si1452"
 #~ msgid "Burmese"
 #~ msgstr "бурмиски"
 
-#~ msgid "CloGaelach Laptop"
+#~ msgid "CloGaelach laptop"
 #~ msgstr "CloGaelach за преносне рачунаре"
 
-#~ msgid "Czech (qwerty)"
-#~ msgstr "Чешки (qwerty)"
+#~ msgid "Czech (QWERTY)"
+#~ msgstr "Чешки (QWERTY)"
 
 #~ msgid "Danish"
 #~ msgstr "дански"
@@ -1931,8 +1931,8 @@ msgstr "si1452"
 #~ msgid "Hindi"
 #~ msgstr "индијски"
 
-#~ msgid "Hungarian (qwerty)"
-#~ msgstr "Мађарски (qwerty)"
+#~ msgid "Hungarian (QWERTY)"
+#~ msgstr "Мађарски (QWERTY)"
 
 #~ msgid "INSCRIPT layout"
 #~ msgstr "INSCRIPT распоред"
@@ -1976,8 +1976,8 @@ msgstr "si1452"
 #~ msgid "Polish"
 #~ msgstr "пољски"
 
-#~ msgid "Polish (qwertz)"
-#~ msgstr "пољски (qwertz)"
+#~ msgid "Polish (QWERTZ)"
+#~ msgstr "пољски (QWERTZ)"
 
 #~ msgid "Sapmi"
 #~ msgstr "Sapmi"
@@ -1985,8 +1985,8 @@ msgstr "si1452"
 #~ msgid "Scg"
 #~ msgstr "срп"
 
-#~ msgid "Slovak (qwerty)"
-#~ msgstr "словачки (qwerty)"
+#~ msgid "Slovak (QWERTY)"
+#~ msgstr "словачки (QWERTY)"
 
 #~ msgid "Sme"
 #~ msgstr "сме"

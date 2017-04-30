@@ -30,7 +30,7 @@ msgid "(Legacy) Alternative, Sun dead keys"
 msgstr "(Zastaralé) alternatívne, s mŕtvymi klávesmi Sun"
 
 #: ../rules/base.xml.in.h:4
-msgid "(Legacy) Alternative, eliminate dead keys"
+msgid "(Legacy) Alternative, no dead keys"
 msgstr "(Zastaralé) alternatívne, eliminovať mŕtve klávesy"
 
 #: ../rules/base.xml.in.h:5
@@ -187,7 +187,7 @@ msgid "Albania"
 msgstr "Albánsko"
 
 #: ../rules/base.xml.in.h:43
-msgid "Alt and Meta are on the Alt keys."
+msgid "Alt and Meta are on the Alt."
 msgstr "Alt a Meta sú na klávesoch Alt."
 
 #: ../rules/base.xml.in.h:44
@@ -235,7 +235,7 @@ msgid "Alternative, Sun dead keys"
 msgstr "alternatívne, mŕtve klávesy Sun"
 
 #: ../rules/base.xml.in.h:55
-msgid "Alternative, eliminate dead keys"
+msgid "Alternative, no dead keys"
 msgstr "alternatívne, eliminovať mŕtve klávesy"
 
 #: ../rules/base.xml.in.h:56
@@ -259,7 +259,7 @@ msgid "Apple"
 msgstr "Apple"
 
 #: ../rules/base.xml.in.h:61
-msgid "Apple Laptop"
+msgid "Apple laptop"
 msgstr "Apple laptop"
 
 #: ../rules/base.xml.in.h:62
@@ -287,7 +287,7 @@ msgid "Azerbaijan"
 msgstr "Azerbajdžan"
 
 #: ../rules/base.xml.in.h:68
-msgid "Azona RF2300 wireless Internet Keyboard"
+msgid "Azona RF2300 wireless Internet"
 msgstr "Azona RF2300 bezdrôtová internetová klávesnica"
 
 #: ../rules/base.xml.in.h:69
@@ -391,15 +391,15 @@ msgid "Bosnia and Herzegovina"
 msgstr "Bosna a Hercegovina"
 
 #: ../rules/base.xml.in.h:94
-msgid "Both Alt keys together change layout."
+msgid "Both Alt together change layout."
 msgstr "Oba klávesy Alt spolu menia rozloženie."
 
 #: ../rules/base.xml.in.h:95
-msgid "Both Ctrl keys together change layout."
+msgid "Both Ctrl together change layout."
 msgstr "Oba klávesy Ctrl spolu menia rozloženie."
 
 #: ../rules/base.xml.in.h:96
-msgid "Both Shift keys together change layout."
+msgid "Both Shift together change layout."
 msgstr "Oba klávesy Shift spolu menia rozloženie."
 
 #: ../rules/base.xml.in.h:97
@@ -427,8 +427,8 @@ msgid "Brl"
 msgstr "Brl"
 
 #: ../rules/base.xml.in.h:103
-msgid "Brother Internet Keyboard"
-msgstr "Brother Internet Keyboard"
+msgid "Brother Internet"
+msgstr "Brother Internet"
 
 #: ../rules/base.xml.in.h:104
 msgid "Buckwalter"
@@ -463,7 +463,7 @@ msgid "CapsLock acts as Shift with locking. Shift \"pauses\" CapsLock."
 msgstr "Caps Lock funguje ako Shift s uzamknutím. Shift „pozastaví“ Caps Lock."
 
 #: ../rules/base.xml.in.h:112
-msgid "CapsLock acts as Shift with locking. Shift doesn't affect CapsLock."
+msgid "CapsLock acts as Shift with locking. Shift does not affect CapsLock."
 msgstr "Caps Lock funguje ako Shift s uzamknutím. Shift neovplyvňuje Caps Lock."
 
 #: ../rules/base.xml.in.h:113
@@ -491,7 +491,7 @@ msgid "CapsLock uses internal capitalization. Shift \"pauses\" CapsLock."
 msgstr "Caps Lock používa interný prevod na kapitálky. Shift „pozastaví“ Caps Lock."
 
 #: ../rules/base.xml.in.h:119
-msgid "CapsLock uses internal capitalization. Shift doesn't affect CapsLock."
+msgid "CapsLock uses internal capitalization. Shift does not affect CapsLock."
 msgstr "Caps Lock používa interný prevod na kapitálky. Shift neovplyvňuje Caps Lock."
 
 #: ../rules/base.xml.in.h:120
@@ -507,7 +507,7 @@ msgid "Cherry Blue Line CyBo@rd"
 msgstr "Cherry Blue Line CyBo@rd"
 
 #: ../rules/base.xml.in.h:123
-msgid "Cherry Blue Line CyBo@rd (alternate option)"
+msgid "Cherry Blue Line CyBo@rd (alt.)"
 msgstr "Cherry Blue Line CyBo@rd (alternatívna voľba)"
 
 #: ../rules/base.xml.in.h:124
@@ -523,8 +523,8 @@ msgid "Cherry CyMotion Master XPress"
 msgstr "Cherry CyMotion Master XPress"
 
 #: ../rules/base.xml.in.h:127
-msgid "Chicony Internet Keyboard"
-msgstr "Chicony Internet Keyboard"
+msgid "Chicony Internet"
+msgstr "Chicony Internet"
 
 #: ../rules/base.xml.in.h:128
 msgid "Chicony KB-9885"
@@ -547,24 +547,24 @@ msgid "CloGaelach"
 msgstr "CloGaelach"
 
 #: ../rules/base.xml.in.h:133
-msgid "Compaq Easy Access Keyboard"
-msgstr "Compaq Easy Access Keyboard"
+msgid "Compaq Easy Access"
+msgstr "Compaq Easy Access"
 
 #: ../rules/base.xml.in.h:134
-msgid "Compaq Internet Keyboard (13 keys)"
-msgstr "Compaq Internet Keyboard (13 kláves)"
+msgid "Compaq Internet (13 keys)"
+msgstr "Compaq Internet (13 kláves)"
 
 #: ../rules/base.xml.in.h:135
-msgid "Compaq Internet Keyboard (18 keys)"
-msgstr "Compaq Internet Keyboard (18 kláves)"
+msgid "Compaq Internet (18 keys)"
+msgstr "Compaq Internet (18 kláves)"
 
 #: ../rules/base.xml.in.h:136
-msgid "Compaq Internet Keyboard (7 keys)"
-msgstr "Compaq Internet Keyboard (7 kláves)"
+msgid "Compaq Internet (7 keys)"
+msgstr "Compaq Internet (7 kláves)"
 
 #: ../rules/base.xml.in.h:137
-msgid "Compaq iPaq Keyboard"
-msgstr "Compaq iPaq Keyboard"
+msgid "Compaq iPaq"
+msgstr "Compaq iPaq"
 
 #: ../rules/base.xml.in.h:138
 msgid "Compose key position"
@@ -575,7 +575,7 @@ msgid "Congo, Democratic Republic of the"
 msgstr "Konžská demokratická republika"
 
 #: ../rules/base.xml.in.h:140
-msgid "Control is mapped to the Win-keys (and the usual Ctrl keys)."
+msgid "Control is mapped to the Win-keys and the usual Ctrl keys."
 msgstr "Control je mapovaný na klávesy Win (a zvyčajné klávesy Ctrl)."
 
 #: ../rules/base.xml.in.h:141
@@ -591,7 +591,7 @@ msgid "Ctrl key at left of 'A'"
 msgstr "Kláves Ctrl naľavo od „A“"
 
 #: ../rules/base.xml.in.h:144
-msgid "Ctrl key position"
+msgid "Ctrl position"
 msgstr "Pozícia klávesu Ctrl"
 
 #: ../rules/base.xml.in.h:145
@@ -639,15 +639,15 @@ msgid "Dell 101-key PC"
 msgstr "DELL PC 101 kláves"
 
 #: ../rules/base.xml.in.h:156
-msgid "Dell Laptop/notebook Inspiron 6xxx/8xxx"
-msgstr "Dell Laptop/notebook Inspiron 6xxx/8xxx"
+msgid "Dell laptop/notebook Inspiron 6xxx/8xxx"
+msgstr "Dell laptop/notebook Inspiron 6xxx/8xxx"
 
 #: ../rules/base.xml.in.h:157
-msgid "Dell Laptop/notebook Precision M series"
-msgstr "Dell Laptop/notebook Precision série M"
+msgid "Dell Precision M laptop"
+msgstr "Dell laptop/notebook Precision série M"
 
 #: ../rules/base.xml.in.h:158
-msgid "Dell Latitude series laptop"
+msgid "Dell Latutude laptop"
 msgstr "Laptop série Dell Latitude"
 
 #: ../rules/base.xml.in.h:159
@@ -671,11 +671,11 @@ msgid "Deu"
 msgstr "Nem"
 
 #: ../rules/base.xml.in.h:164
-msgid "Dexxa Wireless Desktop Keyboard"
-msgstr "Dexxa Wireless Desktop Keyboard"
+msgid "Dexxa Wireless Desktop"
+msgstr "Dexxa Wireless Desktop"
 
 #: ../rules/base.xml.in.h:165
-msgid "Diamond 9801 / 9802 series"
+msgid "Diamond 9801/9802"
 msgstr "Diamond séria 9801 / 9802"
 
 #: ../rules/base.xml.in.h:166 ../rules/sun.xml.in.h:46
@@ -812,7 +812,7 @@ msgid "French, Sun dead keys"
 msgstr "Francúzske, mŕtve klávesy Sun"
 
 #: ../rules/base.xml.in.h:199
-msgid "French, eliminate dead keys"
+msgid "French, no dead keys"
 msgstr "Francúzske, eliminovať mŕtve klávesy"
 
 #: ../rules/base.xml.in.h:200
@@ -832,7 +832,7 @@ msgid "Generic 101-key PC"
 msgstr "všeobecná PC 101 kláves"
 
 #: ../rules/base.xml.in.h:204
-msgid "Generic 102-key (Intl) PC"
+msgid "Generic 101-key PC (intl.)"
 msgstr "všeobecná PC 102 kláves (medz.)"
 
 #: ../rules/base.xml.in.h:205
@@ -840,7 +840,7 @@ msgid "Generic 104-key PC"
 msgstr "všeobecná PC 104 kláves"
 
 #: ../rules/base.xml.in.h:206
-msgid "Generic 105-key (Intl) PC"
+msgid "Generic 105-key PC (intl.)"
 msgstr "všeobecná 105-kláv. (medzinár.) PC"
 
 #: ../rules/base.xml.in.h:207
@@ -848,8 +848,8 @@ msgid "Genius Comfy KB-12e"
 msgstr "Genius Comfy KB-12e"
 
 #: ../rules/base.xml.in.h:208
-msgid "Genius Comfy KB-16M / Genius MM Keyboard KWD-910"
-msgstr "Genius Comfy KB-16M / Genius MM Keyboard KWD-910"
+msgid "Genius Comfy KB-16M/Multimedia KWD-910"
+msgstr "Genius Comfy KB-16M/Multimedia KWD-910"
 
 #: ../rules/base.xml.in.h:209
 msgid "Genius Comfy KB-21e-Scroll"
@@ -876,7 +876,7 @@ msgid "German, Sun dead keys"
 msgstr "Nemecké, mŕtve klávesy Sun"
 
 #: ../rules/base.xml.in.h:215
-msgid "German, eliminate dead keys"
+msgid "German, no dead keys"
 msgstr "Francúzske, eliminovať mŕtve klávesy"
 
 #: ../rules/base.xml.in.h:216
@@ -917,16 +917,16 @@ msgid "Hausa"
 msgstr "hauské"
 
 #: ../rules/base.xml.in.h:225
-msgid "Hewlett-Packard Internet Keyboard"
-msgstr "Hewlett-Packard Internet Keyboard"
+msgid "Hewlett-Packard Internet"
+msgstr "Hewlett-Packard Internet"
 
 #: ../rules/base.xml.in.h:226
 msgid "Hewlett-Packard Omnibook 500 FA"
 msgstr "Hewlett-Packard Omnibook 500 FA"
 
 #: ../rules/base.xml.in.h:227
-msgid "Hewlett-Packard Omnibook 5xx"
-msgstr "Hewlett-Packard Omnibook 5xx"
+msgid "Hewlett-Packard Omnibook 500"
+msgstr "Hewlett-Packard Omnibook 500"
 
 #: ../rules/base.xml.in.h:228
 msgid "Hewlett-Packard Omnibook 6000/6100"
@@ -945,16 +945,16 @@ msgid "Hewlett-Packard Omnibook XT1000"
 msgstr "Hewlett-Packard Omnibook XT1000"
 
 #: ../rules/base.xml.in.h:232
-msgid "Hewlett-Packard Pavilion ZT11xx"
-msgstr "Hewlett-Packard Pavilion ZT11xx"
+msgid "Hewlett-Packard Pavilion ZT1100"
+msgstr "Hewlett-Packard Pavilion ZT1100"
 
 #: ../rules/base.xml.in.h:233
-msgid "Hewlett-Packard SK-2501 Multimedia Keyboard"
-msgstr "Hewlett-Packard SK-2501 Multimedia Keyboard"
+msgid "Hewlett-Packard SK-2501 Multimedia"
+msgstr "Hewlett-Packard SK-2501 Multimedia"
 
 #: ../rules/base.xml.in.h:234
-msgid "Hewlett-Packard SK-2505 Internet Keyboard"
-msgstr "Hewlett-Packard SK-2505 Internet Keyboard"
+msgid "Hewlett-Packard SK-2505 Internet"
+msgstr "Hewlett-Packard SK-2505 Internet"
 
 # bolnagri je vstupná metóda
 #: ../rules/base.xml.in.h:235
@@ -1082,7 +1082,7 @@ msgid "Japan"
 msgstr "Japonsko"
 
 #: ../rules/base.xml.in.h:266
-msgid "Japan (PC-98xx Series)"
+msgid "Japan (PC-98)"
 msgstr "Japonské (séria PC-98xx)"
 
 #: ../rules/base.xml.in.h:267
@@ -1197,16 +1197,16 @@ msgid "Laos"
 msgstr "Laos"
 
 #: ../rules/base.xml.in.h:294
-msgid "Laptop/notebook Compaq (eg. Armada) Laptop Keyboard"
-msgstr "Laptop/notebook Compaq (napr. Armada) Laptop Keyboard"
+msgid "Compaq Armada laptop"
+msgstr "Laptop/notebook Compaq (napr. Armada) laptop Keyboard"
 
 #: ../rules/base.xml.in.h:295
-msgid "Laptop/notebook Compaq (eg. Presario) Internet Keyboard"
-msgstr "Laptop/notebook Compaq (napr. Presario) Internet Keyboard"
+msgid "Compaq Presario laptop"
+msgstr "Laptop/notebook Compaq (napr. Presario) Internet"
 
 #: ../rules/base.xml.in.h:296
-msgid "Laptop/notebook eMachines m68xx"
-msgstr "Laptop/notebook eMachines m68xx"
+msgid "eMachines m6800 laptop"
+msgstr "eMachines m6800 laptop"
 
 #: ../rules/base.xml.in.h:297
 msgid "Latin"
@@ -1246,15 +1246,15 @@ msgid "Left Alt is swapped with left Win-key."
 msgstr "Ľavý Alt je vymenený s ľavým klávesom Win."
 
 #: ../rules/base.xml.in.h:306
-msgid "Left Alt key changes layout."
+msgid "Left Alt changes layout."
 msgstr "Ľavý kláves Alt mení rozloženie."
 
 #: ../rules/base.xml.in.h:307
-msgid "Left Alt key switches layout while pressed."
+msgid "Left Alt switches layout while pressed."
 msgstr "Ľavý kláves Alt prepína rozloženie pri stlačení."
 
 #: ../rules/base.xml.in.h:308
-msgid "Left Ctrl key changes layout."
+msgid "Left Ctrl changes layout."
 msgstr "Ľavý kláves Ctrl mení rozloženie."
 
 #: ../rules/base.xml.in.h:309
@@ -1286,8 +1286,8 @@ msgid "Lithuania"
 msgstr "Litva"
 
 #: ../rules/base.xml.in.h:316
-msgid "Logitech Access Keyboard"
-msgstr "Logitech Access Keyboard"
+msgid "Logitech Access"
+msgstr "Logitech Access"
 
 #: ../rules/base.xml.in.h:317
 msgid "Logitech Cordless Desktop"
@@ -1330,36 +1330,36 @@ msgid "Logitech G15 extra keys via G15daemon"
 msgstr "Logitech G15 extra klávesy pomocou G15daemon"
 
 #: ../rules/base.xml.in.h:327
-msgid "Logitech Internet Keyboard"
-msgstr "Logitech Internet Keyboard"
+msgid "Logitech Internet"
+msgstr "Logitech Internet"
 
 #: ../rules/base.xml.in.h:328
-msgid "Logitech Internet Navigator Keyboard"
-msgstr "Logitech Internet Navigator Keyboard"
+msgid "Logitech Internet Navigator"
+msgstr "Logitech Internet Navigator"
 
 #: ../rules/base.xml.in.h:329
-msgid "Logitech Ultra-X Keyboard"
-msgstr "Logitech Ultra-X Keyboard"
+msgid "Logitech Ultra-X"
+msgstr "Logitech Ultra-X"
 
 #: ../rules/base.xml.in.h:330
-msgid "Logitech diNovo Keyboard"
-msgstr "Logitech diNovo Keyboard"
+msgid "Logitech diNovo"
+msgstr "Logitech diNovo"
 
 #: ../rules/base.xml.in.h:331
 msgid "Logitech iTouch"
 msgstr "Logitech iTouch"
 
 #: ../rules/base.xml.in.h:332
-msgid "Logitech iTouch Cordless Keyboard (model Y-RB6)"
-msgstr "Logitech iTouch Cordless Keyboard (model Y-RB6)"
+msgid "Logitech iTouch Cordless Y-RB6"
+msgstr "Logitech iTouch Cordless Y-RB6"
 
 #: ../rules/base.xml.in.h:333
-msgid "Logitech iTouch Internet Navigator Keyboard SE"
-msgstr "Logitech iTouch Internet Navigator Keyboard SE"
+msgid "Logitech iTouch Internet Navigator SE"
+msgstr "Logitech iTouch Internet Navigator SE"
 
 #: ../rules/base.xml.in.h:334
-msgid "Logitech iTouch Internet Navigator Keyboard SE (USB)"
-msgstr "Logitech iTouch Internet Navigator Keyboard SE (USB)"
+msgid "Logitech iTouch Internet Navigator SE USB"
+msgstr "Logitech iTouch Internet Navigator SE USB"
 
 #: ../rules/base.xml.in.h:335
 msgid "Ltu"
@@ -1378,7 +1378,7 @@ msgid "MacBook/MacBook Pro"
 msgstr "MacBook/MacBook Pro"
 
 #: ../rules/base.xml.in.h:339
-msgid "MacBook/MacBook Pro (Intl)"
+msgid "MacBook/MacBook Pro (intl.)"
 msgstr "MacBook/MacBook Pro (medzin)"
 
 #: ../rules/base.xml.in.h:340
@@ -1398,7 +1398,7 @@ msgid "Macintosh, Sun dead keys"
 msgstr "Macintosh, mŕtve klávesy Sun"
 
 #: ../rules/base.xml.in.h:344
-msgid "Macintosh, eliminate dead keys"
+msgid "Macintosh, no dead keys"
 msgstr "Macintosh, eliminovať mŕtve klávesy"
 
 #: ../rules/base.xml.in.h:345
@@ -1438,8 +1438,8 @@ msgid "Memorex MX1998"
 msgstr "Memorex MX1998"
 
 #: ../rules/base.xml.in.h:354
-msgid "Memorex MX2500 EZ-Access Keyboard"
-msgstr "Memorex MX2500 EZ-Access Keyboard"
+msgid "Memorex MX2500 EZ-Access"
+msgstr "Memorex MX2500 EZ-Access"
 
 #: ../rules/base.xml.in.h:355
 msgid "Memorex MX2750"
@@ -1462,36 +1462,36 @@ msgid "Meta is mapped to the left Win-key."
 msgstr "Meta je mapovaný na ľavý Win-kláves."
 
 #: ../rules/base.xml.in.h:360
-msgid "Microsoft Internet Keyboard"
-msgstr "Microsoft Internet Keyboard"
+msgid "Microsoft Internet"
+msgstr "Microsoft Internet"
 
 #: ../rules/base.xml.in.h:361
-msgid "Microsoft Internet Keyboard Pro, Swedish"
-msgstr "Microsoft Internet Keyboard Pro, Švédska"
+msgid "Microsoft Internet Pro (Swedish)"
+msgstr "Microsoft Internet Pro, Švédska"
 
 #: ../rules/base.xml.in.h:362
 msgid "Microsoft Natural"
 msgstr "Microsoft Natural"
 
 #: ../rules/base.xml.in.h:363
-msgid "Microsoft Natural Keyboard Pro / Microsoft Internet Keyboard Pro"
-msgstr "Microsoft Natural Keyboard Pro / Microsoft Internet Keyboard Pro"
+msgid "Microsoft Natural Pro/Internet Pro"
+msgstr "Microsoft Natural Pro/Internet Pro"
 
 #: ../rules/base.xml.in.h:364
-msgid "Microsoft Natural Keyboard Pro OEM"
-msgstr "Microsoft Natural Keyboard Pro OEM"
+msgid "Microsoft Natural Pro OEM"
+msgstr "Microsoft Natural Pro OEM"
 
 #: ../rules/base.xml.in.h:365
-msgid "Microsoft Natural Keyboard Pro USB / Microsoft Internet Keyboard Pro"
-msgstr "Microsoft Natural Keyboard Pro USB / Microsoft Internet Keyboard Pro"
+msgid "Microsoft Natural Pro USB/Internet Pro"
+msgstr "Microsoft Natural Pro USB/Internet Pro"
 
 #: ../rules/base.xml.in.h:366
 msgid "Microsoft Office Keyboard"
 msgstr "Microsoft Office Keyboard"
 
 #: ../rules/base.xml.in.h:367
-msgid "Microsoft Wireless Multimedia Keyboard 1.0A"
-msgstr "Microsoft Wireless Multimedia Keyboard 1.0A"
+msgid "Microsoft Wireless Multimedia 1.0A"
+msgstr "Microsoft Wireless Multimedia 1.0A"
 
 #: ../rules/base.xml.in.h:368 ../rules/sun.xml.in.h:72
 msgid "Miscellaneous compatibility options"
@@ -1578,7 +1578,7 @@ msgid "Northern Saami"
 msgstr "severná saamčina"
 
 #: ../rules/base.xml.in.h:389
-msgid "Northern Saami, eliminate dead keys"
+msgid "Northern Saami, no dead keys"
 msgstr "severná saamčina, eliminovať mŕtve klávesy"
 
 #: ../rules/base.xml.in.h:390
@@ -1618,7 +1618,7 @@ msgid "Oriya"
 msgstr "uríjčina"
 
 #: ../rules/base.xml.in.h:399
-msgid "Ortek MCK-800 MM/Internet keyboard"
+msgid "Ortek Multimedia/Internet MCK-800"
 msgstr "Ortek MCK-800 MM/internetová klávesnica"
 
 #: ../rules/base.xml.in.h:400
@@ -1630,7 +1630,7 @@ msgid "Ossetian, Winkeys"
 msgstr "Osetské, klávesy Win"
 
 #: ../rules/base.xml.in.h:402
-msgid "PC-98xx Series"
+msgid "PC-98"
 msgstr "Séria PC-98xx"
 
 #: ../rules/base.xml.in.h:403
@@ -1671,7 +1671,7 @@ msgid "Portugal"
 msgstr "Portugalsko"
 
 #: ../rules/base.xml.in.h:412
-msgid "Press Left Alt key to choose 3rd level."
+msgid "Press Left Alt to choose 3rd level."
 msgstr "Stlačenie ľavého klávesu Alt vyberá 3. úroveň."
 
 #: ../rules/base.xml.in.h:413
@@ -1699,7 +1699,7 @@ msgid "Press Right Win-key to choose 3rd level."
 msgstr "Stlačenie pravého klávesu Win vyberá 3. úroveň."
 
 #: ../rules/base.xml.in.h:419
-msgid "Press any of Alt keys to choose 3rd level."
+msgid "Press any of Alt to choose 3rd level."
 msgstr "Stlačenie ľubovoľného klávesu Alt vyberá 3. úroveň."
 
 #: ../rules/base.xml.in.h:420
@@ -1719,8 +1719,8 @@ msgid "Probhat"
 msgstr "Probhat"
 
 #: ../rules/base.xml.in.h:424
-msgid "Propeller Voyager (KTEZ-1000)"
-msgstr "Propeller Voyager (KTEZ-1000)"
+msgid "Propeller Voyager KTEZ-1000"
+msgstr "Propeller Voyager KTEZ-1000"
 
 #: ../rules/base.xml.in.h:425 ../rules/sun.xml.in.h:88
 msgid "Prt"
@@ -1743,7 +1743,7 @@ msgid "Right Alt key changes layout."
 msgstr "Pravý kláves Alt mení rozloženie."
 
 #: ../rules/base.xml.in.h:430 ../rules/sun.xml.in.h:90
-msgid "Right Alt key never chooses 3rd level."
+msgid "Right Alt never chooses 3rd level."
 msgstr "Pravý kláves Alt nikdy nevyberá 3. úroveň."
 
 #: ../rules/base.xml.in.h:431
@@ -1751,15 +1751,15 @@ msgid "Right Ctrl is Compose."
 msgstr "Pravý Alt je Compose."
 
 #: ../rules/base.xml.in.h:432
-msgid "Right Ctrl key changes layout."
+msgid "Right Ctrl changes layout."
 msgstr "Pravý kláves Ctrl mení rozloženie."
 
 #: ../rules/base.xml.in.h:433
-msgid "Right Ctrl key switches layout while pressed."
+msgid "Right Ctrl switches layout while pressed."
 msgstr "Pravý kláves Win prepína rozloženie pri stlačení."
 
 #: ../rules/base.xml.in.h:434
-msgid "Right Ctrl key works as Right Alt."
+msgid "Right Ctrl works as Right Alt."
 msgstr "Pravý kláves Control funguje ako pravý Alt."
 
 #: ../rules/base.xml.in.h:435
@@ -1795,7 +1795,7 @@ msgid "Romanian keyboard with German letters"
 msgstr "Rumunská klávesnica s nemeckými písmenmi"
 
 #: ../rules/base.xml.in.h:443
-msgid "Romanian keyboard with German letters, eliminate dead keys"
+msgid "Romanian keyboard with German letters, no dead keys"
 msgstr "Rumunská klávesnica s nemeckými písmenami, eliminovať mŕtve klávesy"
 
 #: ../rules/base.xml.in.h:444
@@ -1819,7 +1819,7 @@ msgid "Russian phonetic"
 msgstr "Ruské fonetické"
 
 #: ../rules/base.xml.in.h:449
-msgid "Russian phonetic, eliminate dead keys"
+msgid "Russian phonetic, no dead keys"
 msgstr "Ruské fonetické, eliminovať mrtvé klávesy"
 
 #: ../rules/base.xml.in.h:450
@@ -1831,24 +1831,24 @@ msgid "SCG"
 msgstr "SCG"
 
 #: ../rules/base.xml.in.h:452
-msgid "SILVERCREST Multimedia Wireless Keyboard"
-msgstr "SILVERCREST Multimedia Wireless Keyboard"
+msgid "Silvercrest Multimedia Wireless"
+msgstr "Silvercrest Multimedia Wireless"
 
 #: ../rules/base.xml.in.h:453
-msgid "SK-1300"
-msgstr "SK-1300"
+msgid "NEC SK-1300"
+msgstr "NEC SK-1300"
 
 #: ../rules/base.xml.in.h:454
-msgid "SK-2500"
-msgstr "SK-2500"
+msgid "NEC SK-2500"
+msgstr "NEC SK-2500"
 
 #: ../rules/base.xml.in.h:455
-msgid "SK-6200"
-msgstr "SK-6200"
+msgid "NEC SK-6200"
+msgstr "NEC SK-6200"
 
 #: ../rules/base.xml.in.h:456
-msgid "SK-7100"
-msgstr "SK-7100"
+msgid "NEC SK-7100"
+msgstr "NEC SK-7100"
 
 #: ../rules/base.xml.in.h:457
 msgid "SVEN Ergonomic 2500"
@@ -1895,27 +1895,27 @@ msgid "Southern Uzbek"
 msgstr "južná uzbečtina"
 
 #: ../rules/base.xml.in.h:468
-msgid "Space key outputs non-breakable space character at fourth level, thin non-breakable space character at sixth level"
+msgid "Space key outputs non-breaking space at the 4th level, thin non-breaking space at the 6th level"
 msgstr "Medzerník dáva znak nezalomiteľná medzera na štvrtej úrovni, tenká nezalomiteľná medzera na šiestej úrovni."
 
 #: ../rules/base.xml.in.h:469
-msgid "Space key outputs non-breakable space character at fourth level."
+msgid "Space key outputs non-breaking space at the 4th level."
 msgstr "Medzerník dáva znak nezalomiteľná medzera na štvrtej úrovni."
 
 #: ../rules/base.xml.in.h:470
-msgid "Space key outputs non-breakable space character at second level."
+msgid "Space key outputs non-breaking space at the 2nd level."
 msgstr "Medzerník dáva znak nezalomiteľná medzera na druhej úrovni."
 
 #: ../rules/base.xml.in.h:471
-msgid "Space key outputs non-breakable space character at third level, nothing at fourth level."
+msgid "Space key outputs non-breaking space at the 3rd level, nothing at the 4th level."
 msgstr "Medzerník dáva znak nezalomiteľná medzera na tretej úrovni, nič na štvrtej úrovni."
 
 #: ../rules/base.xml.in.h:472
-msgid "Space key outputs non-breakable space character at third level, thin non-breakable space character at fourth level"
+msgid "Space key outputs non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
 msgstr "Medzerník dáva znak nezalomiteľná medzera na tretej úrovni, tenká nezalomiteľná medzera na štvrtej úrovni."
 
 #: ../rules/base.xml.in.h:473
-msgid "Space key outputs non-breakable space character at third level."
+msgid "Space key outputs non-breaking space at the 3rd level."
 msgstr "Medzerník dáva znak nezalomiteľná medzera na tretej úrovni."
 
 #: ../rules/base.xml.in.h:474
@@ -1957,8 +1957,8 @@ msgid "Sun dead keys"
 msgstr "mŕtve klávesy Sun"
 
 #: ../rules/base.xml.in.h:485
-msgid "Super Power Multimedia Keyboard"
-msgstr "Super Power Multimedia Keyboard"
+msgid "Super Power Multimedia"
+msgstr "Super Power Multimedia"
 
 #: ../rules/base.xml.in.h:486
 msgid "Super is mapped to the Win-keys."
@@ -1997,8 +1997,8 @@ msgid "Switzerland"
 msgstr "Švajčiarsko"
 
 #: ../rules/base.xml.in.h:495
-msgid "Symplon PaceBook (tablet PC)"
-msgstr "Symplon PaceBook (tablet PC)"
+msgid "Symplon PaceBook tablet"
+msgstr "Symplon PaceBook tablet"
 
 #: ../rules/base.xml.in.h:496
 msgid "Syr"
@@ -2103,12 +2103,12 @@ msgid "Toshiba Satellite S3000"
 msgstr "Toshiba Satellite S3000"
 
 #: ../rules/base.xml.in.h:520
-msgid "Trust Direct Access Keyboard"
-msgstr "Trust Direct Access Keyboard"
+msgid "Trust Direct Access"
+msgstr "Trust Direct Access"
 
 #: ../rules/base.xml.in.h:521
-msgid "Trust Wireless Keyboard Classic"
-msgstr "Trust Wireless Keyboard Classic"
+msgid "Trust Wireless Classic"
+msgstr "Trust Wireless Classic"
 
 #: ../rules/base.xml.in.h:522 ../rules/sun.xml.in.h:120
 msgid "Tur"
@@ -2128,12 +2128,12 @@ msgstr "USA anglické"
 
 #: ../rules/base.xml.in.h:526
 #, fuzzy
-msgid "US keyboard with Bosnian digraphs"
+msgid "US, with Bosnian digraphs"
 msgstr "Klávesnica USA s bosniackymi digraphs"
 
 #: ../rules/base.xml.in.h:527
 #, fuzzy
-msgid "US keyboard with Bosnian letters"
+msgid "US, with Bosnian letters"
 msgstr "Klávesnica USA s bosniackymi písmenami"
 
 #: ../rules/base.xml.in.h:528
@@ -2216,7 +2216,7 @@ msgid "Use keypad with unicode additions (arrows and math operators)"
 msgstr "Použiť numerickú klávesnicu s doplnkami Unicode (šípky a matematické operátory)"
 
 #: ../rules/base.xml.in.h:546
-msgid "Using space key to input non-breakable space character"
+msgid "Using space key to input non-breaking space"
 msgstr "Použiť klávesu medzera na zadanie znaku nezalomiteľná medzera"
 
 #: ../rules/base.xml.in.h:547
@@ -2264,8 +2264,8 @@ msgid "With guillemets"
 msgstr "s uhlovými zátvorkami"
 
 #: ../rules/base.xml.in.h:558
-msgid "Yahoo! Internet Keyboard"
-msgstr "Yahoo! Internet Keyboard"
+msgid "Yahoo! Internet"
+msgstr "Yahoo! Internet"
 
 #: ../rules/base.xml.in.h:559
 msgid "Yoruba"
@@ -2324,7 +2324,7 @@ msgid "Acts as Shift with locking. Shift cancels Caps."
 msgstr "Pracuje ako Shift s uzamknutím. Shift ruší Caps."
 
 #: ../rules/sun.xml.in.h:18
-msgid "Acts as Shift with locking. Shift doesn't cancel Caps."
+msgid "Acts as Shift with locking. Shift does not cancel Caps."
 msgstr "Pracuje ako Shift s uzamknutím. Shift neruší Caps."
 
 #: ../rules/sun.xml.in.h:19
@@ -2344,15 +2344,15 @@ msgid "Belgian"
 msgstr "Belgická"
 
 #: ../rules/sun.xml.in.h:25
-msgid "Both Alt keys together change group"
+msgid "Both Alt together change group"
 msgstr "Oba klávesy Alt spolu menia rozloženie"
 
 #: ../rules/sun.xml.in.h:26
-msgid "Both Ctrl keys together change group"
+msgid "Both Ctrl together change group"
 msgstr "Oba klávesy Ctrl spolu menia rozloženie"
 
 #: ../rules/sun.xml.in.h:27
-msgid "Both Shift keys together change group"
+msgid "Both Shift together change group"
 msgstr "Spoločné stlačenie oboch Shift mení rozloženie"
 
 #: ../rules/sun.xml.in.h:28
@@ -2368,7 +2368,7 @@ msgid "Caps Lock is Compose"
 msgstr "Caps Lock je Compose"
 
 #: ../rules/sun.xml.in.h:32
-msgid "Caps Lock key changes group"
+msgid "Caps Lock changes group"
 msgstr "Kláves Caps Lock mení rozloženie"
 
 #: ../rules/sun.xml.in.h:34
@@ -2436,15 +2436,15 @@ msgid "Japanese"
 msgstr "Japonské"
 
 #: ../rules/sun.xml.in.h:67
-msgid "Left Alt key changes group"
+msgid "Left Alt changes group"
 msgstr "Ľavý kláves Alt mení rozloženie"
 
 #: ../rules/sun.xml.in.h:68
-msgid "Left Alt key switches group while pressed"
+msgid "Left Alt switches group while pressed"
 msgstr "Ľavý kláves Alt prepína rozloženie pri stlačení"
 
 #: ../rules/sun.xml.in.h:69
-msgid "Left Ctrl key changes group"
+msgid "Left Ctrl changes group"
 msgstr "Ľavý kláves Ctrl mení rozloženie"
 
 #: ../rules/sun.xml.in.h:70
@@ -2476,7 +2476,7 @@ msgid "Portuguese"
 msgstr "Portugalské"
 
 #: ../rules/sun.xml.in.h:83
-msgid "Press Left Alt key to choose 3rd level"
+msgid "Press Left Alt to choose 3rd level"
 msgstr "Stlačením ľavého klávesu Win vyberiete 3. úroveň"
 
 #: ../rules/sun.xml.in.h:84
@@ -2492,7 +2492,7 @@ msgid "Press Right Control to choose 3rd level"
 msgstr "Stlačenie pravého Control vyberá 3. úroveň"
 
 #: ../rules/sun.xml.in.h:87
-msgid "Press any of Alt keys to choose 3rd level"
+msgid "Press any of Alt to choose 3rd level"
 msgstr "Stlačením ľuboboľného klávesu Alt vyberiete 3. úroveň"
 
 #: ../rules/sun.xml.in.h:89
@@ -2508,7 +2508,7 @@ msgid "Right Control key works as Right Alt"
 msgstr "Kláves pravý Control funguje ako pravý Alt"
 
 #: ../rules/sun.xml.in.h:93
-msgid "Right Ctrl key changes group"
+msgid "Right Ctrl changes group"
 msgstr "Kláves pravý Ctrl mení rozloženie"
 
 #: ../rules/sun.xml.in.h:94
@@ -2608,7 +2608,7 @@ msgid "Uses internal capitalization. Shift cancels Caps."
 msgstr "Používa interný prevod na kapitálky. Shift ruší Caps."
 
 #: ../rules/sun.xml.in.h:130
-msgid "Uses internal capitalization. Shift doesn't cancel Caps."
+msgid "Uses internal capitalization. Shift does not cancel Caps."
 msgstr "Používa interný prevod na kapitálky. Shift neruší Caps."
 
 #: ../rules/sun.xml.in.h:131
@@ -2637,11 +2637,11 @@ msgstr "type4"
 #~ msgid "Burmese"
 #~ msgstr "Burmézsky"
 
-#~ msgid "CloGaelach Laptop"
-#~ msgstr "CloGaelach Laptop"
+#~ msgid "CloGaelach laptop"
+#~ msgstr "CloGaelach laptop"
 
-#~ msgid "Czech (qwerty)"
-#~ msgstr "České (qwerty)"
+#~ msgid "Czech (QWERTY)"
+#~ msgstr "České (QWERTY)"
 
 #~ msgid "Dutch"
 #~ msgstr "Holandské"
@@ -2703,8 +2703,8 @@ msgstr "type4"
 #~ msgid "PC104"
 #~ msgstr "PC104"
 
-#~ msgid "Polish (qwertz)"
-#~ msgstr "Poľské (qwertz)"
+#~ msgid "Polish (QWERTZ)"
+#~ msgstr "Poľské (QWERTZ)"
 
 #~ msgid "PowerPC PS/2"
 #~ msgstr "PowerPC PS/2"
@@ -2715,8 +2715,8 @@ msgstr "type4"
 #~ msgid "Scg"
 #~ msgstr "Scg"
 
-#~ msgid "Slovak (qwerty)"
-#~ msgstr "Slovenské (qwerty)"
+#~ msgid "Slovak (QWERTY)"
+#~ msgstr "Slovenské (QWERTY)"
 
 #~ msgid "Sme"
 #~ msgstr "Sme"

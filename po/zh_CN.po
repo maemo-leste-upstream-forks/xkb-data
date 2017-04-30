@@ -26,19 +26,19 @@ msgid "&lt;Less/Greater&gt;"
 msgstr "&lt;小于/大于&gt;"
 
 #: ../rules/base.xml.in.h:2
-msgid "&lt;Less/Greater&gt; (chooses 3rd level, latches when pressed together with another 3rd-level-chooser)"
+msgid "&lt;Less/Greater&gt; (chooses 3rd level, latches when pressed together with another 3rd level chooser)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:3
-msgid "&lt;Less/Greater&gt; chooses 5th level and activates level5-Lock when pressed together with another 5th-level-chooser, one press releases the lock"
+msgid "&lt;Less/Greater&gt; chooses 5th level and activates level5-Lock when pressed together with another 5th level chooser, one press releases the lock"
 msgstr ""
 
 #: ../rules/base.xml.in.h:4
-msgid "&lt;Less/Greater&gt; chooses 5th level, locks when pressed together with another 5th-level-chooser"
+msgid "&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
 msgstr ""
 
 #: ../rules/base.xml.in.h:5
-msgid "&lt;Less/Greater&gt; chooses 5th level, locks when pressed together with another 5th-level-chooser, one press releases the lock"
+msgid "&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser, one press releases the lock"
 msgstr ""
 
 #: ../rules/base.xml.in.h:6
@@ -71,7 +71,7 @@ msgid "Acer Ferrari 4000"
 msgstr "宏碁法拉利 4000"
 
 #: ../rules/base.xml.in.h:13
-msgid "Acer Laptop"
+msgid "Acer laptop"
 msgstr "宏碁笔记本电脑"
 
 #: ../rules/base.xml.in.h:14
@@ -103,7 +103,7 @@ msgid "Albanian"
 msgstr "阿尔巴尼亚"
 
 #: ../rules/base.xml.in.h:21
-msgid "Alt and Meta are on Alt keys"
+msgid "Alt and Meta are on Alt"
 msgstr "Alt 和 Meta 都是 Alt 键"
 
 #: ../rules/base.xml.in.h:22
@@ -135,15 +135,15 @@ msgid "Amharic"
 msgstr "阿姆哈拉语"
 
 #: ../rules/base.xml.in.h:29
-msgid "Any Alt key"
+msgid "Any Alt"
 msgstr "任意Alt 键"
 
 #: ../rules/base.xml.in.h:30
-msgid "Any Win key"
+msgid "Any Win"
 msgstr "任意Win 键"
 
 #: ../rules/base.xml.in.h:31
-msgid "Any Win key (while pressed)"
+msgid "Any Win (while pressed)"
 msgstr "任意Win 键(按下时)"
 
 #: ../rules/base.xml.in.h:32
@@ -151,23 +151,23 @@ msgid "Apple"
 msgstr "苹果"
 
 #: ../rules/base.xml.in.h:33
-msgid "Apple Aluminium Keyboard (ANSI)"
+msgid "Apple Aluminium (ANSI)"
 msgstr "苹果铝键盘(ANSI)"
 
 #: ../rules/base.xml.in.h:34
-msgid "Apple Aluminium Keyboard (ISO)"
+msgid "Apple Aluminium (ISO)"
 msgstr "苹果铝键盘(ISO)"
 
 #: ../rules/base.xml.in.h:35
-msgid "Apple Aluminium Keyboard (JIS)"
+msgid "Apple Aluminium (JIS)"
 msgstr "苹果铝键盘(JIS)"
 
 #: ../rules/base.xml.in.h:36
-msgid "Apple Aluminium Keyboard: emulate PC keys (Print, Scroll Lock, Pause, Num Lock)"
+msgid "Apple Aluminium: emulate PC keys (PrtSc, Scroll Lock, Pause, Num Lock)"
 msgstr "苹果铝键盘：模拟 PC 键(截屏、滚动锁定、暂停、数字锁定)"
 
 #: ../rules/base.xml.in.h:37
-msgid "Apple Laptop"
+msgid "Apple laptop"
 msgstr "苹果笔记本电脑"
 
 #: ../rules/base.xml.in.h:38
@@ -191,11 +191,11 @@ msgid "Arabic (Syria)"
 msgstr "阿拉伯语(叙利亚)"
 
 #: ../rules/base.xml.in.h:43
-msgid "Arabic (azerty)"
+msgid "Arabic (AZERTY)"
 msgstr "阿拉伯语(azerty)"
 
 #: ../rules/base.xml.in.h:44
-msgid "Arabic (azerty/digits)"
+msgid "Arabic (AZERTY/digits)"
 msgstr "阿拉伯语(azerty/数字)"
 
 #: ../rules/base.xml.in.h:45
@@ -203,7 +203,7 @@ msgid "Arabic (digits)"
 msgstr "阿拉伯语(数字)"
 
 #: ../rules/base.xml.in.h:46
-msgid "Arabic (qwerty)"
+msgid "Arabic (QWERTY)"
 msgstr "阿拉伯语(qwerty)"
 
 #: ../rules/base.xml.in.h:47
@@ -216,11 +216,11 @@ msgstr "亚美尼亚语"
 
 #: ../rules/base.xml.in.h:49
 #, fuzzy
-msgid "Armenian (alternative eastern)"
+msgid "Armenian (alt. eastern)"
 msgstr "法语(替代)"
 
 #: ../rules/base.xml.in.h:50
-msgid "Armenian (alternative phonetic)"
+msgid "Armenian (alt. phonetic)"
 msgstr "亚美尼亚语(替代音标)"
 
 #: ../rules/base.xml.in.h:51
@@ -242,7 +242,7 @@ msgid "Asturian (Spain, with bottom-dot H and bottom-dot L)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:55
-msgid "Asus Laptop"
+msgid "Asus laptop"
 msgstr "华硕笔记本电脑"
 
 #: ../rules/base.xml.in.h:56
@@ -267,7 +267,7 @@ msgstr "阿塞拜疆语(西里尔)"
 
 #: ../rules/base.xml.in.h:61
 #, fuzzy
-msgid "Azona RF2300 wireless Internet Keyboard"
+msgid "Azona RF2300 wireless Internet"
 msgstr "罗技网际键盘"
 
 #: ../rules/base.xml.in.h:62
@@ -311,7 +311,7 @@ msgid "Backslash"
 msgstr "反斜杠"
 
 #: ../rules/base.xml.in.h:72
-msgid "Backslash (chooses 3rd level, latches when pressed together with another 3rd-level-chooser)"
+msgid "Backslash (chooses 3rd level, latches when pressed together with another 3rd level chooser)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:73
@@ -339,31 +339,31 @@ msgid "Belgian"
 msgstr "比利时语"
 
 #: ../rules/base.xml.in.h:79
-msgid "Belgian (ISO alternate)"
+msgid "Belgian (alt. ISO)"
 msgstr "比利时语(ISO 替代)"
 
 #: ../rules/base.xml.in.h:80
-msgid "Belgian (Sun dead keys)"
+msgid "Belgian (with Sun dead keys)"
 msgstr "比利时语(Sun 死键)"
 
 #: ../rules/base.xml.in.h:81
-msgid "Belgian (Wang model 724 azerty)"
+msgid "Belgian (Wang 724 AZERTY)"
 msgstr "比利时语(王安 724 型 azerty)"
 
 #: ../rules/base.xml.in.h:82
-msgid "Belgian (alternative)"
+msgid "Belgian (alt.)"
 msgstr "比利时语(替代)"
 
 #: ../rules/base.xml.in.h:83
-msgid "Belgian (alternative, Sun dead keys)"
+msgid "Belgian (alt., with Sun dead keys)"
 msgstr "比利时语(替代，Sun 死键)"
 
 #: ../rules/base.xml.in.h:84
-msgid "Belgian (alternative, latin-9 only)"
+msgid "Belgian (alt., latin-9 only)"
 msgstr "比利时语(替代，只包含拉丁-9 字符)"
 
 #: ../rules/base.xml.in.h:85
-msgid "Belgian (eliminate dead keys)"
+msgid "Belgian (no dead keys)"
 msgstr "比利时语(除去死键)"
 
 #: ../rules/base.xml.in.h:86
@@ -403,11 +403,11 @@ msgid "Bengali (Uni Gitanjali)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:95
-msgid "Berber (Morocco, Tifinagh alternative phonetic)"
+msgid "Berber (Morocco, Tifinagh alt. phonetic)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:96
-msgid "Berber (Morocco, Tifinagh alternative)"
+msgid "Berber (Morocco, Tifinagh alt.)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:97
@@ -431,11 +431,11 @@ msgid "Bosnian"
 msgstr "波斯尼亚语"
 
 #: ../rules/base.xml.in.h:102
-msgid "Bosnian (US keyboard with Bosnian digraphs)"
+msgid "Bosnian (US, with Bosnian digraphs)"
 msgstr "波斯尼亚语(带罗马尼亚二重字的美国键盘)"
 
 #: ../rules/base.xml.in.h:103
-msgid "Bosnian (US keyboard with Bosnian letters)"
+msgid "Bosnian (US, with Bosnian letters)"
 msgstr "波斯尼亚语(带波斯尼亚字母的美国键盘)"
 
 #: ../rules/base.xml.in.h:104
@@ -447,15 +447,15 @@ msgid "Bosnian (use guillemets for quotes)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:106
-msgid "Both Alt keys together"
+msgid "Both Alt together"
 msgstr "同时按两个 Alt 键"
 
 #: ../rules/base.xml.in.h:107
-msgid "Both Ctrl keys together"
+msgid "Both Ctrl together"
 msgstr "同时按两个 Ctrl 键"
 
 #: ../rules/base.xml.in.h:108
-msgid "Both Shift keys together"
+msgid "Both Shift together"
 msgstr "同时按两个 Shift 键"
 
 #: ../rules/base.xml.in.h:109
@@ -475,15 +475,15 @@ msgid "Braille"
 msgstr ""
 
 #: ../rules/base.xml.in.h:113
-msgid "Braille (left hand)"
+msgid "Braille (left-handed)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:114
-msgid "Braille (right hand)"
+msgid "Braille (right-handed)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:115
-msgid "Brother Internet Keyboard"
+msgid "Brother Internet"
 msgstr "兄弟网际键盘"
 
 #: ../rules/base.xml.in.h:116
@@ -503,11 +503,11 @@ msgid "Burmese"
 msgstr "缅甸"
 
 #: ../rules/base.xml.in.h:120
-msgid "Cameroon Multilingual (azerty)"
+msgid "Cameroon Multilingual (AZERTY)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:121
-msgid "Cameroon Multilingual (qwerty)"
+msgid "Cameroon Multilingual (QWERTY)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:122
@@ -515,11 +515,11 @@ msgid "Canadian Multilingual"
 msgstr ""
 
 #: ../rules/base.xml.in.h:123
-msgid "Canadian Multilingual (first part)"
+msgid "Canadian Multilingual (1st part)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:124
-msgid "Canadian Multilingual (second part)"
+msgid "Canadian Multilingual (2nd part)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:125
@@ -527,15 +527,15 @@ msgid "Caps Lock"
 msgstr "大写锁定"
 
 #: ../rules/base.xml.in.h:126
-msgid "Caps Lock (chooses 3rd level, latches when pressed together with another 3rd-level-chooser)"
+msgid "Caps Lock (chooses 3rd level, latches when pressed together with another 3rd level chooser)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:127
-msgid "Caps Lock (to first layout), Shift+Caps Lock (to last layout)"
+msgid "Caps Lock to first layout; Shift+Caps Lock to last layout"
 msgstr ""
 
 #: ../rules/base.xml.in.h:128
-msgid "Caps Lock (while pressed), Alt+Caps Lock does the original capslock action"
+msgid "Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
 msgstr ""
 
 #: ../rules/base.xml.in.h:129
@@ -545,7 +545,7 @@ msgstr "锁定时和 Shift 功能相同。Shift 取消大写。"
 
 #: ../rules/base.xml.in.h:130
 #, fuzzy
-msgid "Caps Lock acts as Shift with locking. Shift doesn't affect Caps Lock"
+msgid "Caps Lock acts as Shift with locking. Shift does not affect Caps Lock"
 msgstr "锁定时和 Shift 功能相同。Shift 不取消大写。"
 
 #: ../rules/base.xml.in.h:131
@@ -558,7 +558,7 @@ msgid "Caps Lock is disabled"
 msgstr "大写锁定被禁用"
 
 #: ../rules/base.xml.in.h:133
-msgid "Caps Lock key behavior"
+msgid "Caps Lock behavior"
 msgstr "大写锁定键行为"
 
 #: ../rules/base.xml.in.h:134
@@ -576,7 +576,7 @@ msgstr "使用内部大写。Shift 取消大写。"
 
 #: ../rules/base.xml.in.h:137
 #, fuzzy
-msgid "Caps Lock uses internal capitalization. Shift doesn't affect Caps Lock"
+msgid "Caps Lock uses internal capitalization. Shift does not affect Caps Lock"
 msgstr "使用内部大写。Shift 不取消大写。"
 
 #: ../rules/base.xml.in.h:138
@@ -600,7 +600,7 @@ msgid "Cherry Blue Line CyBo@rd"
 msgstr "Cherry Blue Line CyBo@rd"
 
 #: ../rules/base.xml.in.h:143
-msgid "Cherry Blue Line CyBo@rd (alternate option)"
+msgid "Cherry Blue Line CyBo@rd (alt.)"
 msgstr "Cherry Blue Line CyBo@rd (替代选项)"
 
 #: ../rules/base.xml.in.h:144
@@ -621,7 +621,7 @@ msgid "Cherry CyMotion Master XPress"
 msgstr ""
 
 #: ../rules/base.xml.in.h:148
-msgid "Chicony Internet Keyboard"
+msgid "Chicony Internet"
 msgstr "Chicony Internet 键盘"
 
 #: ../rules/base.xml.in.h:149
@@ -659,23 +659,23 @@ msgid "CloGaelach"
 msgstr "CloGaelach"
 
 #: ../rules/base.xml.in.h:157
-msgid "Compaq Easy Access Keyboard"
+msgid "Compaq Easy Access"
 msgstr "康柏 Easy Access 键盘"
 
 #: ../rules/base.xml.in.h:158
-msgid "Compaq Internet Keyboard (13 keys)"
+msgid "Compaq Internet (13 keys)"
 msgstr "康柏网际键盘(13键)"
 
 #: ../rules/base.xml.in.h:159
-msgid "Compaq Internet Keyboard (18 keys)"
+msgid "Compaq Internet (18 keys)"
 msgstr "康柏网际键盘(18键)"
 
 #: ../rules/base.xml.in.h:160
-msgid "Compaq Internet Keyboard (7 keys)"
+msgid "Compaq Internet (7 keys)"
 msgstr "康柏网际键盘(7键)"
 
 #: ../rules/base.xml.in.h:161
-msgid "Compaq iPaq Keyboard"
+msgid "Compaq iPaq"
 msgstr "康柏 iPaq 键盘"
 
 #: ../rules/base.xml.in.h:162
@@ -688,12 +688,12 @@ msgstr "Control + Alt + Backspace"
 
 #: ../rules/base.xml.in.h:164
 #, fuzzy
-msgid "Control is mapped to Alt keys, Alt is mapped to Win keys"
+msgid "Control is mapped to Alt, Alt is mapped to Super"
 msgstr "Meta 被映射到左 Windows 键。"
 
 #: ../rules/base.xml.in.h:165
 #, fuzzy
-msgid "Control is mapped to Win keys (and the usual Ctrl keys)"
+msgid "Control is mapped to Super and the usual Ctrl keys"
 msgstr "Super 被映射到 Windows 键(默认)。"
 
 #: ../rules/base.xml.in.h:166
@@ -720,11 +720,11 @@ msgid "Croatian"
 msgstr "克罗地亚"
 
 #: ../rules/base.xml.in.h:171
-msgid "Croatian (US keyboard with Croatian digraphs)"
+msgid "Croatian (US, with Croatian digraphs)"
 msgstr "克罗地亚(带克罗地亚语二重字的美国键盘)"
 
 #: ../rules/base.xml.in.h:172
-msgid "Croatian (US keyboard with Croatian letters)"
+msgid "Croatian (US, with Croatian letters)"
 msgstr "克罗地亚(带罗马尼亚字母的美国键盘)"
 
 #: ../rules/base.xml.in.h:173
@@ -737,7 +737,7 @@ msgid "Croatian (use guillemets for quotes)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:175
-msgid "Ctrl key position"
+msgid "Ctrl position"
 msgstr "Ctrl 键位置"
 
 #: ../rules/base.xml.in.h:176
@@ -749,19 +749,19 @@ msgid "Czech"
 msgstr "捷克"
 
 #: ../rules/base.xml.in.h:178
-msgid "Czech (UCW layout, accented letters only)"
+msgid "Czech (UCW, only accented letters)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:179
-msgid "Czech (US Dvorak with CZ UCW support)"
+msgid "Czech (US, Dvorak, UCW support)"
 msgstr "捷克(带 CZ UCW 支持的美国Dvorak布局键盘)"
 
 #: ../rules/base.xml.in.h:180
-msgid "Czech (qwerty)"
+msgid "Czech (QWERTY)"
 msgstr "捷克(qwerty)"
 
 #: ../rules/base.xml.in.h:181
-msgid "Czech (qwerty, extended Backslash)"
+msgid "Czech (QWERTY, extended backslash)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:182
@@ -786,11 +786,11 @@ msgstr "丹麦语(Mac)"
 
 #: ../rules/base.xml.in.h:187
 #, fuzzy
-msgid "Danish (Macintosh, eliminate dead keys)"
+msgid "Danish (Macintosh, no dead keys)"
 msgstr "丹麦语(Mac，除去死键)"
 
 #: ../rules/base.xml.in.h:188
-msgid "Danish (eliminate dead keys)"
+msgid "Danish (no dead keys)"
 msgstr "丹麦语(除去死键)"
 
 #: ../rules/base.xml.in.h:189
@@ -806,19 +806,19 @@ msgid "Dell 101-key PC"
 msgstr "Dell 101 键电脑"
 
 #: ../rules/base.xml.in.h:192
-msgid "Dell Laptop/notebook Inspiron 6xxx/8xxx"
+msgid "Dell laptop/notebook Inspiron 6xxx/8xxx"
 msgstr "戴尔笔记本电脑灵越 6xxx/8xxx"
 
 #: ../rules/base.xml.in.h:193
-msgid "Dell Laptop/notebook Precision M series"
+msgid "Dell Precision M laptop"
 msgstr "戴尔笔记本电脑 Precision M 系列"
 
 #: ../rules/base.xml.in.h:194
-msgid "Dell Latitude series laptop"
+msgid "Dell Latutude laptop"
 msgstr "戴尔 Latitude 系列笔记本电脑"
 
 #: ../rules/base.xml.in.h:195
-msgid "Dell Precision M65"
+msgid "Dell Precision M65 laptop"
 msgstr "戴尔 Precision M65"
 
 #: ../rules/base.xml.in.h:196
@@ -830,11 +830,11 @@ msgid "Dell SK-8135"
 msgstr "Dell SK-8135"
 
 #: ../rules/base.xml.in.h:198
-msgid "Dell USB Multimedia Keyboard"
+msgid "Dell USB Multimedia"
 msgstr "戴尔 USB 多媒体键盘"
 
 #: ../rules/base.xml.in.h:199
-msgid "Dexxa Wireless Desktop Keyboard"
+msgid "Dexxa Wireless Desktop"
 msgstr "Dexxa 无线桌面键盘"
 
 #: ../rules/base.xml.in.h:200
@@ -842,7 +842,7 @@ msgid "Dhivehi"
 msgstr "迪维希语"
 
 #: ../rules/base.xml.in.h:201
-msgid "Diamond 9801 / 9802 series"
+msgid "Diamond 9801/9802"
 msgstr "Diamond 9801 / 9802 系列"
 
 #: ../rules/base.xml.in.h:202
@@ -854,7 +854,7 @@ msgid "Dutch (Macintosh)"
 msgstr "荷兰语(Mac)"
 
 #: ../rules/base.xml.in.h:204
-msgid "Dutch (Sun dead keys)"
+msgid "Dutch (with Sun dead keys)"
 msgstr "荷兰(Sun 死键)"
 
 #: ../rules/base.xml.in.h:205
@@ -888,11 +888,11 @@ msgid "English (Colemak)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:212
-msgid "English (Dvorak alternative international no dead keys)"
+msgid "English (Dvorak, alt. intl.)"
 msgstr "英语(Dvorak，替代，国际，无死键)"
 
 #: ../rules/base.xml.in.h:213
-msgid "English (Dvorak international with dead keys)"
+msgid "English (Dvorak intl., with dead keys)"
 msgstr "英语(Dvorak，国际，有死键)"
 
 #: ../rules/base.xml.in.h:214
@@ -921,12 +921,12 @@ msgstr "英语(Macintosh)"
 
 #: ../rules/base.xml.in.h:220
 #, fuzzy
-msgid "English (Mali, US Macintosh)"
+msgid "English (Mali, US, Macintosh)"
 msgstr "英语(马里，美国 Mac)"
 
 #: ../rules/base.xml.in.h:221
 #, fuzzy
-msgid "English (Mali, US international)"
+msgid "English (Mali, US, intl.)"
 msgstr "英语(马里，美国国际键盘)"
 
 #: ../rules/base.xml.in.h:222
@@ -947,7 +947,7 @@ msgstr ""
 
 #: ../rules/base.xml.in.h:226
 #, fuzzy
-msgid "English (UK, Dvorak with UK punctuation)"
+msgid "English (UK, Dvorak, with UK punctuation)"
 msgstr "英语(英国，Mac 国际布局)"
 
 #: ../rules/base.xml.in.h:227
@@ -955,7 +955,7 @@ msgid "English (UK, Dvorak)"
 msgstr "英语(英国，Dvorak 布局)"
 
 #: ../rules/base.xml.in.h:228
-msgid "English (UK, Macintosh international)"
+msgid "English (UK, intl., Macintosh)"
 msgstr "英语(英国，Mac 国际布局)"
 
 #: ../rules/base.xml.in.h:229
@@ -963,11 +963,11 @@ msgid "English (UK, Macintosh)"
 msgstr "英语(英国，Mac)"
 
 #: ../rules/base.xml.in.h:230
-msgid "English (UK, extended WinKeys)"
+msgid "English (UK, extended, with Win keys)"
 msgstr "英语(英国，扩展 Win 键)"
 
 #: ../rules/base.xml.in.h:231
-msgid "English (UK, international with dead keys)"
+msgid "English (UK, intl., with dead keys)"
 msgstr "英语(英国，带死键的国际布局)"
 
 #: ../rules/base.xml.in.h:232 ../rules/base.extras.xml.in.h:8
@@ -975,15 +975,15 @@ msgid "English (US)"
 msgstr "英语(美国)"
 
 #: ../rules/base.xml.in.h:233
-msgid "English (US, alternative international)"
+msgid "English (US, alt. intl.)"
 msgstr "英语(美国，替代，国际)"
 
 #: ../rules/base.xml.in.h:234
-msgid "English (US, international with dead keys)"
+msgid "English (US, intl., with dead keys)"
 msgstr "英语(美国，国际，有死键)"
 
 #: ../rules/base.xml.in.h:235
-msgid "English (US, with euro on 5)"
+msgid "English (US, euro on 5)"
 msgstr "英语(美国，5 键上是欧元符号)"
 
 #: ../rules/base.xml.in.h:236
@@ -991,7 +991,7 @@ msgid "English (classic Dvorak)"
 msgstr "英语(经典Dvorak布局)"
 
 #: ../rules/base.xml.in.h:237
-msgid "English (international AltGr dead keys)"
+msgid "English (intl., with dead keys)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:238
@@ -999,7 +999,7 @@ msgid "English (layout toggle on multiply/divide key)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:239
-msgid "English (left handed Dvorak)"
+msgid "English (Dvorak, left-handed)"
 msgstr "英语(左手 Dvorak 布局)"
 
 #: ../rules/base.xml.in.h:240
@@ -1007,7 +1007,7 @@ msgid "English (programmer Dvorak)"
 msgstr "英语(适合程序员的 Dvorak 布局)"
 
 #: ../rules/base.xml.in.h:241
-msgid "English (right handed Dvorak)"
+msgid "English (Dvorak, right-handed)"
 msgstr "英语(右手 Dvorak 布局)"
 
 #: ../rules/base.xml.in.h:242
@@ -1039,11 +1039,11 @@ msgid "Estonian (Dvorak)"
 msgstr "爱沙尼亚(Dvorak)"
 
 #: ../rules/base.xml.in.h:249
-msgid "Estonian (US keyboard with Estonian letters)"
+msgid "Estonian (US, with Estonian letters)"
 msgstr "爱沙尼亚语(带爱沙尼亚字母的美国键盘)"
 
 #: ../rules/base.xml.in.h:250
-msgid "Estonian (eliminate dead keys)"
+msgid "Estonian (no dead keys)"
 msgstr "爱沙尼亚语(除去死键)"
 
 #: ../rules/base.xml.in.h:251
@@ -1079,7 +1079,7 @@ msgid "Faroese"
 msgstr "法罗"
 
 #: ../rules/base.xml.in.h:259
-msgid "Faroese (eliminate dead keys)"
+msgid "Faroese (no dead keys)"
 msgstr "法罗(除去死键)"
 
 #: ../rules/base.xml.in.h:260
@@ -1087,40 +1087,40 @@ msgid "Filipino"
 msgstr "菲律宾语"
 
 #: ../rules/base.xml.in.h:261
-msgid "Filipino (Capewell-Dvorak Baybayin)"
+msgid "Filipino (Capewell-Dvorak, Baybayin)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:262
-msgid "Filipino (Capewell-Dvorak Latin)"
+msgid "Filipino (Capewell-Dvorak, Latin)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:263
-msgid "Filipino (Capewell-QWERF 2006 Baybayin)"
+msgid "Filipino (Capewell-QWERF 2006, Baybayin)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:264
-msgid "Filipino (Capewell-QWERF 2006 Latin)"
+msgid "Filipino (Capewell-QWERF 2006, Latin)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:265
-msgid "Filipino (Colemak Baybayin)"
+msgid "Filipino (Colemak, Baybayin)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:266
-msgid "Filipino (Colemak Latin)"
+msgid "Filipino (Colemak, Latin)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:267
 #, fuzzy
-msgid "Filipino (Dvorak Baybayin)"
+msgid "Filipino (Dvorak, Baybayin)"
 msgstr "菲律宾语(Dvorak拉丁)"
 
 #: ../rules/base.xml.in.h:268
-msgid "Filipino (Dvorak Latin)"
+msgid "Filipino (Dvorak, Latin)"
 msgstr "菲律宾语(Dvorak拉丁)"
 
 #: ../rules/base.xml.in.h:269
-msgid "Filipino (QWERTY Baybayin)"
+msgid "Filipino (QWERTY, Baybayin)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:270
@@ -1136,7 +1136,7 @@ msgid "Finnish (classic)"
 msgstr "芬兰语(经典)"
 
 #: ../rules/base.xml.in.h:273
-msgid "Finnish (classic, eliminate dead keys)"
+msgid "Finnish (classic, no dead keys)"
 msgstr "芬兰语(经典，除去死键)"
 
 #. This assumes the KP_ abstract symbols are actually useful for some apps
@@ -1214,7 +1214,7 @@ msgid "French (Macintosh)"
 msgstr "法语(Mac)"
 
 #: ../rules/base.xml.in.h:293
-msgid "French (Mali, alternative)"
+msgid "French (Mali, alt.)"
 msgstr "法语(马里，替代)"
 
 #: ../rules/base.xml.in.h:294
@@ -1222,7 +1222,7 @@ msgid "French (Morocco)"
 msgstr "法语(摩洛哥)"
 
 #: ../rules/base.xml.in.h:295
-msgid "French (Sun dead keys)"
+msgid "French (with Sun dead keys)"
 msgstr "法语(Sun 死键)"
 
 #: ../rules/base.xml.in.h:296
@@ -1235,48 +1235,48 @@ msgid "French (Switzerland, Macintosh)"
 msgstr "法语(瑞士，Mac)"
 
 #: ../rules/base.xml.in.h:298
-msgid "French (Switzerland, Sun dead keys)"
+msgid "French (Switzerland, with Sun dead keys)"
 msgstr "法语(瑞士，Sun 死键)"
 
 #: ../rules/base.xml.in.h:299
-msgid "French (Switzerland, eliminate dead keys)"
+msgid "French (Switzerland, no dead keys)"
 msgstr "法语(瑞士，除去死键)"
 
 #: ../rules/base.xml.in.h:300
-msgid "French (alternative)"
+msgid "French (alt.)"
 msgstr "法语(替代)"
 
 #: ../rules/base.xml.in.h:301
-msgid "French (alternative, Sun dead keys)"
+msgid "French (alt., with Sun dead keys)"
 msgstr "法语(替代，Sun 死键)"
 
 #: ../rules/base.xml.in.h:302
-msgid "French (alternative, eliminate dead keys)"
+msgid "French (alt., no dead keys)"
 msgstr "法语(替代，除去死键)"
 
 #: ../rules/base.xml.in.h:303
-msgid "French (alternative, latin-9 only)"
+msgid "French (alt., latin-9 only)"
 msgstr "法语(替代，只有拉丁-9)"
 
 #: ../rules/base.xml.in.h:304
-msgid "French (eliminate dead keys)"
+msgid "French (no dead keys)"
 msgstr "法语(除去死键)"
 
 #: ../rules/base.xml.in.h:305
 #, fuzzy
-msgid "French (legacy, alternative)"
+msgid "French (legacy, alt.)"
 msgstr "法语(传统，替代)"
 
 #: ../rules/base.xml.in.h:306
-msgid "French (legacy, alternative, Sun dead keys)"
+msgid "French (legacy, alt., with Sun dead keys)"
 msgstr "法语(传统，替代，Sun 死键)"
 
 #: ../rules/base.xml.in.h:307
-msgid "French (legacy, alternative, eliminate dead keys)"
+msgid "French (legacy, alt., no dead keys)"
 msgstr "法语(传统，替代，除去死键)"
 
 #: ../rules/base.xml.in.h:308
-msgid "Fujitsu-Siemens Computers AMILO laptop"
+msgid "Fujitsu-Siemens Amilo laptop"
 msgstr "富士通西门子计算机 AMILO 笔记本电脑"
 
 #: ../rules/base.xml.in.h:309
@@ -1292,7 +1292,7 @@ msgid "Generic 101-key PC"
 msgstr "通用 101 键电脑"
 
 #: ../rules/base.xml.in.h:312
-msgid "Generic 102-key (Intl) PC"
+msgid "Generic 101-key PC (intl.)"
 msgstr "通用 102 键(国际)电脑"
 
 #: ../rules/base.xml.in.h:313
@@ -1300,7 +1300,7 @@ msgid "Generic 104-key PC"
 msgstr "通用 104 键电脑"
 
 #: ../rules/base.xml.in.h:314
-msgid "Generic 105-key (Intl) PC"
+msgid "Generic 105-key PC (intl.)"
 msgstr "通用 105 键(国际)电脑"
 
 #: ../rules/base.xml.in.h:315
@@ -1308,7 +1308,7 @@ msgid "Genius Comfy KB-12e"
 msgstr "通用 Comfy KB-12e"
 
 #: ../rules/base.xml.in.h:316
-msgid "Genius Comfy KB-16M / Genius MM Keyboard KWD-910"
+msgid "Genius Comfy KB-16M/Multimedia KWD-910"
 msgstr "通用 Comfy KB-16M / Genius MM 键盘 KWD-910"
 
 #: ../rules/base.xml.in.h:317
@@ -1361,11 +1361,11 @@ msgid "German (Austria, Macintosh)"
 msgstr "德语(奥地利，Mac)"
 
 #: ../rules/base.xml.in.h:328
-msgid "German (Austria, Sun dead keys)"
+msgid "German (Austria, with Sun dead keys)"
 msgstr "德语(奥地利，Sun 死键)"
 
 #: ../rules/base.xml.in.h:329
-msgid "German (Austria, eliminate dead keys)"
+msgid "German (Austria, no dead keys)"
 msgstr "德语(奥地利，除去死键)"
 
 #: ../rules/base.xml.in.h:330
@@ -1379,7 +1379,7 @@ msgstr "德语(Mac)"
 
 #: ../rules/base.xml.in.h:332
 #, fuzzy
-msgid "German (Macintosh, eliminate dead keys)"
+msgid "German (Macintosh, no dead keys)"
 msgstr "德语(Mac，除去死键)"
 
 #: ../rules/base.xml.in.h:333
@@ -1388,7 +1388,7 @@ msgid "German (Neo 2)"
 msgstr "德语"
 
 #: ../rules/base.xml.in.h:334
-msgid "German (Sun dead keys)"
+msgid "German (with Sun dead keys)"
 msgstr "德语(Sun 死键)"
 
 #: ../rules/base.xml.in.h:335
@@ -1402,11 +1402,11 @@ msgid "German (Switzerland, Macintosh)"
 msgstr "德语(瑞士，Mac)"
 
 #: ../rules/base.xml.in.h:337
-msgid "German (Switzerland, Sun dead keys)"
+msgid "German (Switzerland, with Sun dead keys)"
 msgstr "德语(瑞士，Sun 死键)"
 
 #: ../rules/base.xml.in.h:338
-msgid "German (Switzerland, eliminate dead keys)"
+msgid "German (Switzerland, no dead keys)"
 msgstr "德语(瑞士，除去死键)"
 
 #: ../rules/base.xml.in.h:339
@@ -1426,7 +1426,7 @@ msgstr "Dead grave acute"
 
 #: ../rules/base.xml.in.h:342
 #, fuzzy
-msgid "German (eliminate dead keys)"
+msgid "German (no dead keys)"
 msgstr "除去死键"
 
 #: ../rules/base.xml.in.h:343
@@ -1434,7 +1434,7 @@ msgid "Greek"
 msgstr "希腊语"
 
 #: ../rules/base.xml.in.h:344
-msgid "Greek (eliminate dead keys)"
+msgid "Greek (no dead keys)"
 msgstr "希腊语(除去死键)"
 
 #: ../rules/base.xml.in.h:345
@@ -1464,11 +1464,11 @@ msgid "HTC Dream"
 msgstr "HTC Dream(Google G1)"
 
 #: ../rules/base.xml.in.h:351
-msgid "Happy Hacking Keyboard"
+msgid "Happy Hacking"
 msgstr ""
 
 #: ../rules/base.xml.in.h:352
-msgid "Happy Hacking Keyboard for Mac"
+msgid "Happy Hacking for Mac"
 msgstr ""
 
 #: ../rules/base.xml.in.h:353
@@ -1493,11 +1493,11 @@ msgid "Hebrew (phonetic)"
 msgstr "Phonetic"
 
 #: ../rules/base.xml.in.h:358
-msgid "Hewlett-Packard Internet Keyboard"
+msgid "Hewlett-Packard Internet"
 msgstr "惠普网际键盘"
 
 #: ../rules/base.xml.in.h:359
-msgid "Hewlett-Packard Mini 110 Notebook"
+msgid "Hewlett-Packard Mini 110 laptop"
 msgstr "惠普 Mini 110 笔记本电脑"
 
 #: ../rules/base.xml.in.h:360
@@ -1505,7 +1505,7 @@ msgid "Hewlett-Packard Omnibook 500 FA"
 msgstr "惠普 Omnibook 500 FA"
 
 #: ../rules/base.xml.in.h:361
-msgid "Hewlett-Packard Omnibook 5xx"
+msgid "Hewlett-Packard Omnibook 500"
 msgstr "惠普 Omnibook 5xx"
 
 #: ../rules/base.xml.in.h:362
@@ -1525,7 +1525,7 @@ msgid "Hewlett-Packard Omnibook XT1000"
 msgstr "惠普 Omnibook XT1000"
 
 #: ../rules/base.xml.in.h:366
-msgid "Hewlett-Packard Pavilion ZT11xx"
+msgid "Hewlett-Packard Pavilion ZT1100"
 msgstr "惠普 Pavilion ZT11xx"
 
 #: ../rules/base.xml.in.h:367
@@ -1533,7 +1533,7 @@ msgid "Hewlett-Packard Pavilion dv5"
 msgstr "惠普 Pavilion dv5"
 
 #: ../rules/base.xml.in.h:368
-msgid "Hewlett-Packard SK-250x Multimedia Keyboard"
+msgid "Hewlett-Packard SK-250x Multimedia"
 msgstr "惠普 SK-250x 多媒体键盘"
 
 #: ../rules/base.xml.in.h:369
@@ -1566,75 +1566,75 @@ msgid "Hungarian"
 msgstr "匈牙利"
 
 #: ../rules/base.xml.in.h:376
-msgid "Hungarian (101/qwerty/comma/dead keys)"
-msgstr "匈牙利语(101/qwerty/逗号/死键)"
+msgid "Hungarian (101/QWERTY/comma/dead keys)"
+msgstr "匈牙利语(101/QWERTY/逗号/死键)"
 
 #: ../rules/base.xml.in.h:377
-msgid "Hungarian (101/qwerty/comma/eliminate dead keys)"
-msgstr "匈牙利语(101/qwerty/逗号/除去死键)"
+msgid "Hungarian (101/QWERTY/comma/no dead keys)"
+msgstr "匈牙利语(101/QWERTY/逗号/除去死键)"
 
 #: ../rules/base.xml.in.h:378
-msgid "Hungarian (101/qwerty/dot/dead keys)"
-msgstr "匈牙利语(101/qwerty/点/死键)"
+msgid "Hungarian (101/QWERTY/dot/dead keys)"
+msgstr "匈牙利语(101/QWERTY/点/死键)"
 
 #: ../rules/base.xml.in.h:379
-msgid "Hungarian (101/qwerty/dot/eliminate dead keys)"
-msgstr "匈牙利语(101/qwerty/点/除去死键)"
+msgid "Hungarian (101/QWERTY/dot/no dead keys)"
+msgstr "匈牙利语(101/QWERTY/点/除去死键)"
 
 #: ../rules/base.xml.in.h:380
-msgid "Hungarian (101/qwertz/comma/dead keys)"
-msgstr "匈牙利语(101/qwertz/逗号/死键)"
+msgid "Hungarian (101/QWERTZ/comma/dead keys)"
+msgstr "匈牙利语(101/QWERTZ/逗号/死键)"
 
 #: ../rules/base.xml.in.h:381
-msgid "Hungarian (101/qwertz/comma/eliminate dead keys)"
-msgstr "匈牙利语(101/qwertz/逗号/除去死键)"
+msgid "Hungarian (101/QWERTZ/comma/no dead keys)"
+msgstr "匈牙利语(101/QWERTZ/逗号/除去死键)"
 
 #: ../rules/base.xml.in.h:382
-msgid "Hungarian (101/qwertz/dot/dead keys)"
-msgstr "匈牙利语(101/qwertz/点/死键)"
+msgid "Hungarian (101/QWERTZ/dot/dead keys)"
+msgstr "匈牙利语(101/QWERTZ/点/死键)"
 
 #: ../rules/base.xml.in.h:383
-msgid "Hungarian (101/qwertz/dot/eliminate dead keys)"
-msgstr "匈牙利语(101/qwertz/点/除去死键)"
+msgid "Hungarian (101/QWERTZ/dot/no dead keys)"
+msgstr "匈牙利语(101/QWERTZ/点/除去死键)"
 
 #: ../rules/base.xml.in.h:384
-msgid "Hungarian (102/qwerty/comma/dead keys)"
-msgstr "匈牙利语(102/qwerty/逗号/死键)"
+msgid "Hungarian (102/QWERTY/comma/dead keys)"
+msgstr "匈牙利语(102/QWERTY/逗号/死键)"
 
 #: ../rules/base.xml.in.h:385
-msgid "Hungarian (102/qwerty/comma/eliminate dead keys)"
-msgstr "匈牙利语(102/qwerty/逗号/除去死键)"
+msgid "Hungarian (102/QWERTY/comma/no dead keys)"
+msgstr "匈牙利语(102/QWERTY/逗号/除去死键)"
 
 #: ../rules/base.xml.in.h:386
-msgid "Hungarian (102/qwerty/dot/dead keys)"
-msgstr "匈牙利语(102/qwerty/点/死键)"
+msgid "Hungarian (102/QWERTY/dot/dead keys)"
+msgstr "匈牙利语(102/QWERTY/点/死键)"
 
 #: ../rules/base.xml.in.h:387
-msgid "Hungarian (102/qwerty/dot/eliminate dead keys)"
-msgstr "匈牙利语(102/qwerty/点/除去死键)"
+msgid "Hungarian (102/QWERTY/dot/no dead keys)"
+msgstr "匈牙利语(102/QWERTY/点/除去死键)"
 
 #: ../rules/base.xml.in.h:388
-msgid "Hungarian (102/qwertz/comma/dead keys)"
-msgstr "匈牙利语(102/qwertz/逗号/死键)"
+msgid "Hungarian (102/QWERTZ/comma/dead keys)"
+msgstr "匈牙利语(102/QWERTZ/逗号/死键)"
 
 #: ../rules/base.xml.in.h:389
-msgid "Hungarian (102/qwertz/comma/eliminate dead keys)"
-msgstr "匈牙利语(102/qwertz/逗号/除去死键)"
+msgid "Hungarian (102/QWERTZ/comma/no dead keys)"
+msgstr "匈牙利语(102/QWERTZ/逗号/除去死键)"
 
 #: ../rules/base.xml.in.h:390
-msgid "Hungarian (102/qwertz/dot/dead keys)"
-msgstr "匈牙利语(102/qwertz/点/死键)"
+msgid "Hungarian (102/QWERTZ/dot/dead keys)"
+msgstr "匈牙利语(102/QWERTZ/点/死键)"
 
 #: ../rules/base.xml.in.h:391
-msgid "Hungarian (102/qwertz/dot/eliminate dead keys)"
-msgstr "匈牙利语(102/qwertz/点/除去死键)"
+msgid "Hungarian (102/QWERTZ/dot/no dead keys)"
+msgstr "匈牙利语(102/QWERTZ/点/除去死键)"
 
 #: ../rules/base.xml.in.h:392
-msgid "Hungarian (eliminate dead keys)"
+msgid "Hungarian (no dead keys)"
 msgstr "匈牙利语(除去死键)"
 
 #: ../rules/base.xml.in.h:393
-msgid "Hungarian (qwerty)"
+msgid "Hungarian (QWERTY)"
 msgstr "匈牙利(qwerty)"
 
 #: ../rules/base.xml.in.h:394
@@ -1683,11 +1683,11 @@ msgid "Icelandic (Macintosh)"
 msgstr "冰岛(Mac)"
 
 #: ../rules/base.xml.in.h:405
-msgid "Icelandic (Sun dead keys)"
+msgid "Icelandic (with Sun dead keys)"
 msgstr "冰岛(Sun 死键)"
 
 #: ../rules/base.xml.in.h:406
-msgid "Icelandic (eliminate dead keys)"
+msgid "Icelandic (no dead keys)"
 msgstr "冰岛(除去死键)"
 
 #: ../rules/base.xml.in.h:407
@@ -1725,11 +1725,11 @@ msgid "Italian (Macintosh)"
 msgstr "意大利语(Mac)"
 
 #: ../rules/base.xml.in.h:415
-msgid "Italian (US keyboard with Italian letters)"
+msgid "Italian (US, with Italian letters)"
 msgstr "意大利语(带意大利语字母的美国键盘)"
 
 #: ../rules/base.xml.in.h:416
-msgid "Italian (eliminate dead keys)"
+msgid "Italian (no dead keys)"
 msgstr "意大利语(除去死键)"
 
 #: ../rules/base.xml.in.h:417
@@ -1757,7 +1757,7 @@ msgid "Japanese (OADG 109A)"
 msgstr "日语 106 键"
 
 #: ../rules/base.xml.in.h:422
-msgid "Japanese (PC-98xx Series)"
+msgid "Japanese (PC-98)"
 msgstr "日语(PC-98xx 系列)"
 
 #: ../rules/base.xml.in.h:423
@@ -1795,7 +1795,7 @@ msgstr "杀死 X 服务器的按键序列"
 
 #: ../rules/base.xml.in.h:431
 #, fuzzy
-msgid "Key to choose 3rd level"
+msgid "Key to choose the 3rd level"
 msgstr "按菜单键选择第三级"
 
 #: ../rules/base.xml.in.h:432
@@ -1910,15 +1910,15 @@ msgid "Lao (STEA proposed standard layout)"
 msgstr "老挝语()"
 
 #: ../rules/base.xml.in.h:459
-msgid "Laptop/notebook Compaq (eg. Armada) Laptop Keyboard"
+msgid "Compaq Armada laptop"
 msgstr "便携/笔记本 Compaq(如 Armada)便携键盘"
 
 #: ../rules/base.xml.in.h:460
-msgid "Laptop/notebook Compaq (eg. Presario) Internet Keyboard"
+msgid "Compaq Presario laptop"
 msgstr "便携/笔记本 Compaq(如自由人)网际键盘"
 
 #: ../rules/base.xml.in.h:461
-msgid "Laptop/notebook eMachines m68xx"
+msgid "eMachines m6800 laptop"
 msgstr "笔记本电脑 eMachines m68xx"
 
 #: ../rules/base.xml.in.h:462 ../rules/base.extras.xml.in.h:16
@@ -1926,7 +1926,7 @@ msgid "Latvian"
 msgstr "拉脱维亚"
 
 #: ../rules/base.xml.in.h:463
-msgid "Latvian (F variant)"
+msgid "Latvian (F)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:464
@@ -1935,7 +1935,7 @@ msgid "Latvian (adapted)"
 msgstr "立陶宛语(标准)"
 
 #: ../rules/base.xml.in.h:465
-msgid "Latvian (apostrophe variant)"
+msgid "Latvian (apostrophe)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:466
@@ -1949,7 +1949,7 @@ msgid "Latvian (modern)"
 msgstr "拉脱维亚"
 
 #: ../rules/base.xml.in.h:468
-msgid "Latvian (tilde variant)"
+msgid "Latvian (tilde)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:469
@@ -1970,7 +1970,7 @@ msgid "Left Ctrl"
 msgstr "左 Ctrl"
 
 #: ../rules/base.xml.in.h:473
-msgid "Left Ctrl (to first layout), Right Ctrl (to last layout)"
+msgid "Left Ctrl to first layout; Right Ctrl to last layout"
 msgstr ""
 
 #: ../rules/base.xml.in.h:474
@@ -1991,7 +1991,7 @@ msgid "Left Win"
 msgstr "左 Win"
 
 #: ../rules/base.xml.in.h:478
-msgid "Left Win (to first layout), Right Win/Menu (to last layout)"
+msgid "Left Win to first layout; Right Win/Menu to last layout"
 msgstr ""
 
 #: ../rules/base.xml.in.h:479
@@ -2000,15 +2000,15 @@ msgid "Left Win (while pressed)"
 msgstr "按下左 Windows 键切换组"
 
 #: ../rules/base.xml.in.h:480
-msgid "Left Win chooses 5th level, locks when pressed together with another 5th-level-chooser"
+msgid "Left Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
 msgstr ""
 
 #: ../rules/base.xml.in.h:481
-msgid "Left Win chooses 5th level, locks when pressed together with another 5th-level-chooser, one press releases the lock"
+msgid "Left Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser, one press releases the lock"
 msgstr ""
 
 #: ../rules/base.xml.in.h:482
-msgid "LeftCtrl+LeftWin (to first layout), RightCtrl+Menu (to second layout)"
+msgid "Left Ctrl+Left Win to first layout; Right Ctrl+Menu to second layout"
 msgstr ""
 
 #: ../rules/base.xml.in.h:483
@@ -2045,7 +2045,7 @@ msgid "Lithuanian (LEKPa)"
 msgstr "立陶宛语 (LEKPa)"
 
 #: ../rules/base.xml.in.h:492
-msgid "Lithuanian (US keyboard with Lithuanian letters)"
+msgid "Lithuanian (US, with Lithuanian letters)"
 msgstr "立陶宛语(带立陶宛字母的美国键盘)"
 
 #: ../rules/base.xml.in.h:493
@@ -2054,7 +2054,7 @@ msgstr "立陶宛语(标准)"
 
 #: ../rules/base.xml.in.h:494
 #, fuzzy
-msgid "Logitech Access Keyboard"
+msgid "Logitech Access"
 msgstr "罗技强手键盘"
 
 #: ../rules/base.xml.in.h:495
@@ -2062,7 +2062,7 @@ msgid "Logitech Cordless Desktop"
 msgstr "罗技无影手"
 
 #: ../rules/base.xml.in.h:496
-msgid "Logitech Cordless Desktop (alternate option)"
+msgid "Logitech Cordless Desktop (alt.)"
 msgstr "罗技无影手(替代选项)"
 
 #: ../rules/base.xml.in.h:497
@@ -2082,7 +2082,7 @@ msgid "Logitech Cordless Desktop Optical"
 msgstr "罗技无影手光学组合"
 
 #: ../rules/base.xml.in.h:501
-msgid "Logitech Cordless Desktop Pro (alternate option 2)"
+msgid "Logitech Cordless Desktop Pro (2nd alt.)"
 msgstr "罗技无影手专业版(替代选项 2)"
 
 #: ../rules/base.xml.in.h:502
@@ -2099,42 +2099,42 @@ msgid "Logitech G15 extra keys via G15daemon"
 msgstr ""
 
 #: ../rules/base.xml.in.h:505
-msgid "Logitech Generic Keyboard"
+msgid "Logitech"
 msgstr "罗技通用键盘"
 
 #: ../rules/base.xml.in.h:506
-msgid "Logitech Internet 350 Keyboard"
+msgid "Logitech Internet 350"
 msgstr "罗技网际 350 键盘"
 
 #: ../rules/base.xml.in.h:507
-msgid "Logitech Internet Keyboard"
+msgid "Logitech Internet"
 msgstr "罗技网际键盘"
 
 #: ../rules/base.xml.in.h:508
-msgid "Logitech Internet Navigator Keyboard"
+msgid "Logitech Internet Navigator"
 msgstr "罗技网际导航键盘"
 
 #: ../rules/base.xml.in.h:509
-msgid "Logitech Media Elite Keyboard"
+msgid "Logitech Internet 350"
 msgstr "罗技媒体增强键盘"
 
 #: ../rules/base.xml.in.h:510
 #, fuzzy
-msgid "Logitech Ultra-X Cordless Media Desktop Keyboard"
+msgid "Logitech Ultra-X Cordless Media Desktop"
 msgstr "罗技无影手高级版"
 
 #: ../rules/base.xml.in.h:511
-msgid "Logitech Ultra-X Keyboard"
+msgid "Logitech Ultra-X"
 msgstr "罗技 Ultra-X 键盘"
 
 #: ../rules/base.xml.in.h:512
 #, fuzzy
-msgid "Logitech diNovo Edge Keyboard"
+msgid "Logitech diNovo Edge"
 msgstr "罗技网际键盘"
 
 #: ../rules/base.xml.in.h:513
 #, fuzzy
-msgid "Logitech diNovo Keyboard"
+msgid "Logitech diNovo"
 msgstr "罗技网际键盘"
 
 #: ../rules/base.xml.in.h:514
@@ -2142,17 +2142,17 @@ msgid "Logitech iTouch"
 msgstr "罗技 iTouch"
 
 #: ../rules/base.xml.in.h:515
-msgid "Logitech iTouch Cordless Keyboard (model Y-RB6)"
+msgid "Logitech iTouch Cordless Y-RB6"
 msgstr "罗技 iTouch 无影手键盘(型号 Y-RB6)"
 
 #: ../rules/base.xml.in.h:516
 #, fuzzy
-msgid "Logitech iTouch Internet Navigator Keyboard SE"
+msgid "Logitech iTouch Internet Navigator SE"
 msgstr "罗技网际导航键盘"
 
 #: ../rules/base.xml.in.h:517
 #, fuzzy
-msgid "Logitech iTouch Internet Navigator Keyboard SE (USB)"
+msgid "Logitech iTouch Internet Navigator SE USB"
 msgstr "罗技网际导航键盘"
 
 #: ../rules/base.xml.in.h:518
@@ -2162,7 +2162,7 @@ msgstr "乔治亚(俄语)"
 
 #: ../rules/base.xml.in.h:519
 #, fuzzy
-msgid "Lower Sorbian (qwertz)"
+msgid "Lower Sorbian (QWERTZ)"
 msgstr "德语(qwerty)"
 
 #: ../rules/base.xml.in.h:520
@@ -2170,15 +2170,15 @@ msgid "MacBook/MacBook Pro"
 msgstr "MacBook/MacBook Pro"
 
 #: ../rules/base.xml.in.h:521
-msgid "MacBook/MacBook Pro (Intl)"
-msgstr "MacBook/MacBook Pro (Intl)"
+msgid "MacBook/MacBook Pro (intl.)"
+msgstr "MacBook/MacBook Pro (intl.)"
 
 #: ../rules/base.xml.in.h:522
 msgid "Macedonian"
 msgstr "马其顿语"
 
 #: ../rules/base.xml.in.h:523
-msgid "Macedonian (eliminate dead keys)"
+msgid "Macedonian (no dead keys)"
 msgstr "马其顿语(除去死键)"
 
 #: ../rules/base.xml.in.h:524
@@ -2199,7 +2199,7 @@ msgid "Make Caps Lock an additional Control but keep the Caps_Lock keysym"
 msgstr "将 CapsLock 作为额外的 Ctrl"
 
 #: ../rules/base.xml.in.h:528
-msgid "Make Caps Lock an additional ESC"
+msgid "Make Caps Lock an additional Esc"
 msgstr "将 CapsLock 作为额外的 ESC"
 
 #: ../rules/base.xml.in.h:529
@@ -2249,7 +2249,7 @@ msgid "Memorex MX1998"
 msgstr "Memorex MX1998"
 
 #: ../rules/base.xml.in.h:540
-msgid "Memorex MX2500 EZ-Access Keyboard"
+msgid "Memorex MX2500 EZ-Access"
 msgstr "Memorex MX2500 EZ-Access 键盘"
 
 #: ../rules/base.xml.in.h:541
@@ -2270,19 +2270,19 @@ msgid "Meta is mapped to Left Win"
 msgstr "Meta 被映射到左 Win 键。"
 
 #: ../rules/base.xml.in.h:545
-msgid "Meta is mapped to Win keys"
+msgid "Meta is mapped to Win"
 msgstr "Meta 被映射到 Win 键。"
 
 #: ../rules/base.xml.in.h:546
-msgid "Microsoft Comfort Curve Keyboard 2000"
+msgid "Microsoft Comfort Curve 2000"
 msgstr "微软舒适曲线键盘 2000"
 
 #: ../rules/base.xml.in.h:547
-msgid "Microsoft Internet Keyboard"
+msgid "Microsoft Internet"
 msgstr "微软网际键盘"
 
 #: ../rules/base.xml.in.h:548
-msgid "Microsoft Internet Keyboard Pro, Swedish"
+msgid "Microsoft Internet Pro (Swedish)"
 msgstr "微软网际键盘增强版，瑞典"
 
 #: ../rules/base.xml.in.h:549
@@ -2290,29 +2290,29 @@ msgid "Microsoft Natural"
 msgstr "微软自然键盘"
 
 #: ../rules/base.xml.in.h:550
-msgid "Microsoft Natural Keyboard Elite"
+msgid "Microsoft Natural Elite"
 msgstr "微软自然键盘增强版"
 
 #: ../rules/base.xml.in.h:551
-msgid "Microsoft Natural Keyboard Pro / Microsoft Internet Keyboard Pro"
+msgid "Microsoft Natural Pro/Internet Pro"
 msgstr "微软自然键盘增强版/微软网际键盘专业版"
 
 #: ../rules/base.xml.in.h:552
-msgid "Microsoft Natural Keyboard Pro OEM"
+msgid "Microsoft Natural Pro OEM"
 msgstr "微软自然键盘增强版 OEM"
 
 #: ../rules/base.xml.in.h:553
-msgid "Microsoft Natural Keyboard Pro USB / Microsoft Internet Keyboard Pro"
+msgid "Microsoft Natural Pro USB/Internet Pro"
 msgstr "微软自然键盘专业版 USB/微软网际键盘专业版"
 
 #: ../rules/base.xml.in.h:554
 #, fuzzy
-msgid "Microsoft Natural Wireless Ergonomic Keyboard 4000"
+msgid "Microsoft Natural Wireless Ergonomic 4000"
 msgstr "微软自然键盘增强版 OEM"
 
 #: ../rules/base.xml.in.h:555
 #, fuzzy
-msgid "Microsoft Natural Wireless Ergonomic Keyboard 7000"
+msgid "Microsoft Natural Wireless Ergonomic 7000"
 msgstr "微软自然键盘增强版 OEM"
 
 #: ../rules/base.xml.in.h:556
@@ -2320,7 +2320,7 @@ msgid "Microsoft Office Keyboard"
 msgstr "微软 Office 键盘"
 
 #: ../rules/base.xml.in.h:557
-msgid "Microsoft Wireless Multimedia Keyboard 1.0A"
+msgid "Microsoft Wireless Multimedia 1.0A"
 msgstr "微软无线多媒体键盘 1.0A"
 
 #: ../rules/base.xml.in.h:558
@@ -2349,16 +2349,16 @@ msgstr ""
 
 #: ../rules/base.xml.in.h:564
 #, fuzzy
-msgid "Montenegrin (Latin Unicode qwerty)"
+msgid "Montenegrin (Latin, Unicode, QWERTY)"
 msgstr "黑山语(拉丁 unicode qwerty)"
 
 #: ../rules/base.xml.in.h:565
 #, fuzzy
-msgid "Montenegrin (Latin Unicode)"
+msgid "Montenegrin (Latin, Unicode)"
 msgstr "黑山语(拉丁 unicode)"
 
 #: ../rules/base.xml.in.h:566
-msgid "Montenegrin (Latin qwerty)"
+msgid "Montenegrin (Latin, QWERTY)"
 msgstr "黑山语(拉丁 qwerty)"
 
 #: ../rules/base.xml.in.h:567
@@ -2374,31 +2374,31 @@ msgid "Nepali"
 msgstr "尼泊尔语"
 
 #: ../rules/base.xml.in.h:570
-msgid "Non-breakable space character at fourth level"
+msgid "Non-breaking space at the 4th lever"
 msgstr "第四层的不可打断空白字符"
 
 #: ../rules/base.xml.in.h:571
-msgid "Non-breakable space character at fourth level, thin non-breakable space character at sixth level"
+msgid "Non-breaking space at the 4th lever, thin non-breaking space at the 6th level"
 msgstr ""
 
 #: ../rules/base.xml.in.h:572
-msgid "Non-breakable space character at fourth level, thin non-breakable space character at sixth level (via Ctrl+Shift)"
+msgid "Non-breaking space at the 4th lever, thin non-breaking space at the 6th level (via Ctrl+Shift)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:573
-msgid "Non-breakable space character at second level"
+msgid "Non-breaking space at the 2nd level"
 msgstr "第二层的不可打断空白字符"
 
 #: ../rules/base.xml.in.h:574
-msgid "Non-breakable space character at third level"
+msgid "Non-breaking space at the 3rd level"
 msgstr "第三层的不可打断空白字符"
 
 #: ../rules/base.xml.in.h:575
-msgid "Non-breakable space character at third level, nothing at fourth level"
+msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
 msgstr ""
 
 #: ../rules/base.xml.in.h:576
-msgid "Non-breakable space character at third level, thin non-breakable space character at fourth level"
+msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
 msgstr ""
 
 #: ../rules/base.xml.in.h:577
@@ -2411,7 +2411,7 @@ msgstr ""
 
 #: ../rules/base.xml.in.h:579
 #, fuzzy
-msgid "Northern Saami (Norway, eliminate dead keys)"
+msgid "Northern Saami (Norway, no dead keys)"
 msgstr "挪威语(Mac，除去死键)"
 
 #: ../rules/base.xml.in.h:580
@@ -2435,11 +2435,11 @@ msgid "Norwegian (Macintosh)"
 msgstr "挪威语(Mac)"
 
 #: ../rules/base.xml.in.h:585
-msgid "Norwegian (Macintosh, eliminate dead keys)"
+msgid "Norwegian (Macintosh, no dead keys)"
 msgstr "挪威语(Mac，除去死键)"
 
 #: ../rules/base.xml.in.h:586
-msgid "Norwegian (eliminate dead keys)"
+msgid "Norwegian (no dead keys)"
 msgstr "挪威语(除去死键)"
 
 #: ../rules/base.xml.in.h:587
@@ -2447,7 +2447,7 @@ msgid "Num Lock"
 msgstr "数字锁定"
 
 #: ../rules/base.xml.in.h:588
-msgid "Numeric keypad delete key behaviour"
+msgid "Numeric keypad Delete behaviour"
 msgstr "数字小键盘上删除键的行为"
 
 #: ../rules/base.xml.in.h:589
@@ -2482,7 +2482,7 @@ msgstr "Oriya"
 
 #: ../rules/base.xml.in.h:596
 #, fuzzy
-msgid "Ortek MCK-800 MM/Internet keyboard"
+msgid "Ortek Multimedia/Internet MCK-800"
 msgstr "Oretec MCK-800 MM/网际键盘"
 
 #: ../rules/base.xml.in.h:597
@@ -2492,7 +2492,7 @@ msgstr "俄语(传统)"
 
 #: ../rules/base.xml.in.h:598
 #, fuzzy
-msgid "Ossetian (WinKeys)"
+msgid "Ossetian (Win keys)"
 msgstr "罗马尼亚"
 
 #: ../rules/base.xml.in.h:599
@@ -2501,7 +2501,7 @@ msgid "Ossetian (legacy)"
 msgstr "俄语(传统)"
 
 #: ../rules/base.xml.in.h:600
-msgid "PC-98xx Series"
+msgid "PC-98"
 msgstr "PC-98xx 系列"
 
 #: ../rules/base.xml.in.h:601
@@ -2542,12 +2542,12 @@ msgstr "波兰语(Dvorak)"
 
 #: ../rules/base.xml.in.h:610
 #, fuzzy
-msgid "Polish (Dvorak, Polish quotes on key 1)"
+msgid "Polish (Dvorak, with Polish quotes on key 1)"
 msgstr "波兰语(Dvorak，波兰语引号在 1 键上)"
 
 #: ../rules/base.xml.in.h:611
 #, fuzzy
-msgid "Polish (Dvorak, Polish quotes on quotemark key)"
+msgid "Polish (Dvorak, with Polish quotes on quotemark key)"
 msgstr "波兰语(Dvorak，波兰语引号在标记为引号的键上)"
 
 #: ../rules/base.xml.in.h:612
@@ -2555,7 +2555,7 @@ msgid "Polish (programmer Dvorak)"
 msgstr "波兰语(适合程序员的Dvorak)"
 
 #: ../rules/base.xml.in.h:613
-msgid "Polish (qwertz)"
+msgid "Polish (QWERTZ)"
 msgstr "波兰(qwertz)"
 
 #: ../rules/base.xml.in.h:614
@@ -2571,7 +2571,7 @@ msgid "Portuguese (Brazil, Dvorak)"
 msgstr "葡萄牙语(巴西，Dvorak)"
 
 #: ../rules/base.xml.in.h:617
-msgid "Portuguese (Brazil, eliminate dead keys)"
+msgid "Portuguese (Brazil, no dead keys)"
 msgstr "葡萄牙语(巴西，除去死键)"
 
 #: ../rules/base.xml.in.h:618
@@ -2591,11 +2591,11 @@ msgid "Portuguese (Macintosh)"
 msgstr "葡萄牙语(Mac)"
 
 #: ../rules/base.xml.in.h:622
-msgid "Portuguese (Macintosh, Sun dead keys)"
+msgid "Portuguese (Macintosh, with Sun dead keys)"
 msgstr "葡萄牙语(Mac，Sun 死键)"
 
 #: ../rules/base.xml.in.h:623
-msgid "Portuguese (Macintosh, eliminate dead keys)"
+msgid "Portuguese (Macintosh, no dead keys)"
 msgstr "葡萄牙语(Mac，除去死键)"
 
 #: ../rules/base.xml.in.h:624
@@ -2608,16 +2608,16 @@ msgid "Portuguese (Nativo)"
 msgstr "葡萄牙"
 
 #: ../rules/base.xml.in.h:626
-msgid "Portuguese (Sun dead keys)"
+msgid "Portuguese (with Sun dead keys)"
 msgstr "葡萄牙语(Sun 死键)"
 
 #: ../rules/base.xml.in.h:627
-msgid "Portuguese (eliminate dead keys)"
+msgid "Portuguese (no dead keys)"
 msgstr "葡萄牙语(除去死键)"
 
 #: ../rules/base.xml.in.h:628
-msgid "Propeller Voyager (KTEZ-1000)"
-msgstr "Propeller Voyager (KTEZ-1000)"
+msgid "Propeller Voyager KTEZ-1000"
+msgstr "Propeller Voyager KTEZ-1000"
 
 #: ../rules/base.xml.in.h:629
 msgid "PrtSc"
@@ -2650,20 +2650,20 @@ msgid "Right Alt as Right Ctrl"
 msgstr "右 Ctrl 作为 Alt"
 
 #: ../rules/base.xml.in.h:636
-msgid "Right Alt chooses 5th level and activates level5-Lock when pressed together with another 5th-level-chooser, one press releases the lock"
+msgid "Right Alt chooses 5th level and activates level5-Lock when pressed together with another 5th level chooser, one press releases the lock"
 msgstr ""
 
 #: ../rules/base.xml.in.h:637
-msgid "Right Alt chooses 5th level, locks when pressed together with another 5th-level-chooser"
+msgid "Right Alt chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
 msgstr ""
 
 #: ../rules/base.xml.in.h:638
-msgid "Right Alt chooses 5th level, locks when pressed together with another 5th-level-chooser, one press releases the lock"
+msgid "Right Alt chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser, one press releases the lock"
 msgstr ""
 
 #: ../rules/base.xml.in.h:639
 #, fuzzy
-msgid "Right Alt key never chooses 3rd level"
+msgid "Right Alt never chooses 3rd level"
 msgstr "按右 Windows 键选择第三级"
 
 #: ../rules/base.xml.in.h:640
@@ -2697,15 +2697,15 @@ msgstr "右 Win"
 
 #: ../rules/base.xml.in.h:647
 #, fuzzy
-msgid "Right Win (while pressed)"
+msgid "Left Win (while pressed)"
 msgstr "按下右 Windows 键切换组"
 
 #: ../rules/base.xml.in.h:648
-msgid "Right Win chooses 5th level, locks when pressed together with another 5th-level-chooser"
+msgid "Right Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser"
 msgstr ""
 
 #: ../rules/base.xml.in.h:649
-msgid "Right Win chooses 5th level, locks when pressed together with another 5th-level-chooser, one press releases the lock"
+msgid "Right Win chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser, one press releases the lock"
 msgstr ""
 
 #: ../rules/base.xml.in.h:650 ../rules/base.extras.xml.in.h:30
@@ -2717,11 +2717,11 @@ msgid "Romanian (Germany)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:652
-msgid "Romanian (Germany, eliminate dead keys)"
+msgid "Romanian (Germany, no dead keys)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:653
-msgid "Romanian (WinKeys)"
+msgid "Romanian (Win keys)"
 msgstr "罗马尼亚语(Win 键)"
 
 #: ../rules/base.xml.in.h:654
@@ -2770,7 +2770,7 @@ msgid "Russian (Sweden, phonetic)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:665
-msgid "Russian (Sweden, phonetic, eliminate dead keys)"
+msgid "Russian (Sweden, phonetic, no dead keys)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:666
@@ -2786,7 +2786,7 @@ msgid "Russian (legacy)"
 msgstr "俄语(传统)"
 
 #: ../rules/base.xml.in.h:669
-msgid "Russian (phonetic WinKeys)"
+msgid "Russian (phonetic, with Win keys)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:670
@@ -2802,24 +2802,24 @@ msgid "Russian (typewriter, legacy)"
 msgstr "俄语(打字机，传统)"
 
 #: ../rules/base.xml.in.h:673
-msgid "SILVERCREST Multimedia Wireless Keyboard"
-msgstr "SILVERCREST 多媒体无线键盘"
+msgid "Silvercrest Multimedia Wireless"
+msgstr "Silvercrest 多媒体无线键盘"
 
 #: ../rules/base.xml.in.h:674
-msgid "SK-1300"
-msgstr "SK-1300"
+msgid "NEC SK-1300"
+msgstr "NEC SK-1300"
 
 #: ../rules/base.xml.in.h:675
-msgid "SK-2500"
-msgstr "SK-2500"
+msgid "NEC SK-2500"
+msgstr "NEC SK-2500"
 
 #: ../rules/base.xml.in.h:676
-msgid "SK-6200"
-msgstr "SK-6200"
+msgid "NEC SK-6200"
+msgstr "NEC SK-6200"
 
 #: ../rules/base.xml.in.h:677
-msgid "SK-7100"
-msgstr "SK-7100"
+msgid "NEC SK-7100"
+msgstr "NEC SK-7100"
 
 #: ../rules/base.xml.in.h:678
 msgid "SVEN Ergonomic 2500"
@@ -2858,15 +2858,15 @@ msgid "Serbian"
 msgstr "塞尔维亚"
 
 #: ../rules/base.xml.in.h:687
-msgid "Serbian (Latin Unicode qwerty)"
+msgid "Serbian (Latin, Unicode, QWERTY)"
 msgstr "塞尔维亚(拉丁 Unicode qwerty)"
 
 #: ../rules/base.xml.in.h:688
-msgid "Serbian (Latin Unicode)"
+msgid "Serbian (Latin, Unicode)"
 msgstr "塞尔维亚(拉丁 Unicode)"
 
 #: ../rules/base.xml.in.h:689
-msgid "Serbian (Latin qwerty)"
+msgid "Serbian (Latin, QWERTY)"
 msgstr "塞尔维亚(拉丁 qwerty)"
 
 #: ../rules/base.xml.in.h:690
@@ -2925,15 +2925,15 @@ msgid "Slovak"
 msgstr "斯洛伐克语"
 
 #: ../rules/base.xml.in.h:703
-msgid "Slovak (extended Backslash)"
+msgid "Slovak (extended backslash)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:704
-msgid "Slovak (qwerty)"
+msgid "Slovak (QWERTY)"
 msgstr "斯洛伐克语(qwerty)"
 
 #: ../rules/base.xml.in.h:705
-msgid "Slovak (qwerty, extended Backslash)"
+msgid "Slovak (QWERTY, extended backslash)"
 msgstr "斯洛伐克语(qwerty)"
 
 #: ../rules/base.xml.in.h:706
@@ -2943,7 +2943,7 @@ msgstr "斯洛文尼亚语"
 
 #: ../rules/base.xml.in.h:707
 #, fuzzy
-msgid "Slovenian (US keyboard with Slovenian letters)"
+msgid "Slovenian (US, with Slovenian letters)"
 msgstr "斯洛文尼亚语(带斯洛文尼亚字母的美国键盘)"
 
 #: ../rules/base.xml.in.h:708
@@ -2963,15 +2963,15 @@ msgid "Spanish (Latin American)"
 msgstr "西班牙语(拉丁美洲)"
 
 #: ../rules/base.xml.in.h:712
-msgid "Spanish (Latin American, Sun dead keys)"
+msgid "Spanish (Latin American, with Sun dead keys)"
 msgstr "西班牙语(拉丁美洲，Sun 死键)"
 
 #: ../rules/base.xml.in.h:713
-msgid "Spanish (Latin American, eliminate dead keys)"
+msgid "Spanish (Latin American, no dead keys)"
 msgstr "西班牙语(拉丁美洲，除去死键)"
 
 #: ../rules/base.xml.in.h:714
-msgid "Spanish (Latin American, include dead tilde)"
+msgid "Spanish (Latin American, dead tilde)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:715
@@ -2979,15 +2979,15 @@ msgid "Spanish (Macintosh)"
 msgstr "西班牙语(Mac)"
 
 #: ../rules/base.xml.in.h:716
-msgid "Spanish (Sun dead keys)"
+msgid "Spanish (with Sun dead keys)"
 msgstr "西班牙语(Sun 死键)"
 
 #: ../rules/base.xml.in.h:717
-msgid "Spanish (eliminate dead keys)"
+msgid "Spanish (no dead keys)"
 msgstr "西班牙语(除去死键)"
 
 #: ../rules/base.xml.in.h:718
-msgid "Spanish (include dead tilde)"
+msgid "Spanish (dead tilde)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:719
@@ -3000,7 +3000,7 @@ msgstr "Sun Type 5/6"
 
 #: ../rules/base.xml.in.h:721
 #, fuzzy
-msgid "Super Power Multimedia Keyboard"
+msgid "Super Power Multimedia"
 msgstr "惠普 SK-2501 多媒体键盘"
 
 #: ../rules/base.xml.in.h:722
@@ -3036,7 +3036,7 @@ msgid "Swedish (Svdvorak)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:730
-msgid "Swedish (eliminate dead keys)"
+msgid "Swedish (no dead keys)"
 msgstr "瑞典语(除去死键)"
 
 #: ../rules/base.xml.in.h:731
@@ -3044,7 +3044,7 @@ msgid "Swedish Sign Language"
 msgstr ""
 
 #: ../rules/base.xml.in.h:732
-msgid "Symplon PaceBook (tablet PC)"
+msgid "Symplon PaceBook tablet"
 msgstr "Symplon PaceBook(平板电脑)"
 
 #: ../rules/base.xml.in.h:733
@@ -3149,7 +3149,7 @@ msgid "Toshiba Satellite S3000"
 msgstr "东芝 Satellite S3000"
 
 #: ../rules/base.xml.in.h:758
-msgid "Trust Direct Access Keyboard"
+msgid "Trust Direct Access"
 msgstr "Trust Direct Access 键盘"
 
 #: ../rules/base.xml.in.h:759
@@ -3157,7 +3157,7 @@ msgid "Trust Slimline"
 msgstr ""
 
 #: ../rules/base.xml.in.h:760
-msgid "Trust Wireless Keyboard Classic"
+msgid "Trust Wireless Classic"
 msgstr "Trust 无线经典键盘"
 
 #: ../rules/base.xml.in.h:761
@@ -3177,11 +3177,11 @@ msgid "Turkish (F)"
 msgstr "土耳其(F)"
 
 #: ../rules/base.xml.in.h:765
-msgid "Turkish (Sun dead keys)"
+msgid "Turkish (with Sun dead keys)"
 msgstr "土耳其语(Sun 死键)"
 
 #: ../rules/base.xml.in.h:766
-msgid "Turkish (international with dead keys)"
+msgid "Turkish (intl., with dead keys)"
 msgstr "土耳其语(国际，带死键)"
 
 #: ../rules/base.xml.in.h:767
@@ -3221,7 +3221,7 @@ msgid "Ukrainian"
 msgstr "乌克兰语"
 
 #: ../rules/base.xml.in.h:776
-msgid "Ukrainian (WinKeys)"
+msgid "Ukrainian (Win keys)"
 msgstr "乌克兰语(Win 键)"
 
 #: ../rules/base.xml.in.h:777
@@ -3270,11 +3270,11 @@ msgid "Urdu (Pakistan, NLA)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:788
-msgid "Urdu (WinKeys)"
+msgid "Urdu (Win keys)"
 msgstr ""
 
 #: ../rules/base.xml.in.h:789
-msgid "Urdu (alternative phonetic)"
+msgid "Urdu (alt. phonetic)"
 msgstr "乌尔都语(替代音标)"
 
 #: ../rules/base.xml.in.h:790
@@ -3286,7 +3286,7 @@ msgid "Use keyboard LED to show alternative layout"
 msgstr "使用键盘灯显示替代布局"
 
 #: ../rules/base.xml.in.h:792
-msgid "Using space key to input non-breakable space character"
+msgid "Using space key to input non-breaking space"
 msgstr "使用空格键输入不可打断空白字符"
 
 #: ../rules/base.xml.in.h:793
@@ -3318,7 +3318,7 @@ msgid "Vietnamese"
 msgstr "越南语"
 
 #: ../rules/base.xml.in.h:800
-msgid "ViewSonic KU-306 Internet Keyboard"
+msgid "ViewSonic KU-306 Internet"
 msgstr "优派 KU-306 互联网键盘"
 
 #: ../rules/base.xml.in.h:801
@@ -3340,7 +3340,7 @@ msgid "Wolof"
 msgstr ""
 
 #: ../rules/base.xml.in.h:805
-msgid "Yahoo! Internet Keyboard"
+msgid "Yahoo! Internet"
 msgstr "雅虎网际键盘"
 
 #: ../rules/base.xml.in.h:806
@@ -3352,35 +3352,35 @@ msgid "Yoruba"
 msgstr ""
 
 #: ../rules/base.xml.in.h:808
-msgid "Zero-width non-joiner character at second level"
+msgid "Zero-width non-joiner at the 2nd level"
 msgstr ""
 
 #: ../rules/base.xml.in.h:809
-msgid "Zero-width non-joiner character at second level, non-breakable space character at third level"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
 msgstr ""
 
 #: ../rules/base.xml.in.h:810
-msgid "Zero-width non-joiner character at second level, non-breakable space character at third level, nothing at fourth level"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, nothing at the 4th level"
 msgstr ""
 
 #: ../rules/base.xml.in.h:811
-msgid "Zero-width non-joiner character at second level, non-breakable space character at third level, thin non-breakable space at fourth level"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breakable space at the 4th level"
 msgstr ""
 
 #: ../rules/base.xml.in.h:812
-msgid "Zero-width non-joiner character at second level, non-breakable space character at third level, zero-width joiner at fourth level"
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, zero-width joiner at the 4th level"
 msgstr ""
 
 #: ../rules/base.xml.in.h:813
-msgid "Zero-width non-joiner character at second level, zero-width joiner character at third level"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
 msgstr ""
 
 #: ../rules/base.xml.in.h:814
-msgid "Zero-width non-joiner character at second level, zero-width joiner character at third level, non-breakable space character at fourth level"
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, non-breaking space at the 4th level"
 msgstr ""
 
 #: ../rules/base.xml.in.h:815
-msgid "Zero-width non-joiner character at third level, zero-width joiner at fourth level"
+msgid "Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
 msgstr ""
 
 #: ../rules/base.xml.in.h:816
@@ -3813,7 +3813,7 @@ msgid "English (US, international AltGr Unicode combining, alternative)"
 msgstr "英语(美国，国际，有死键)"
 
 #: ../rules/base.extras.xml.in.h:13
-msgid "German (US keyboard with German letters)"
+msgid "German (US, with German letters)"
 msgstr "德语(带德语字母的美式键盘)"
 
 #: ../rules/base.extras.xml.in.h:14
@@ -3867,7 +3867,7 @@ msgstr "立陶宛语(带立陶宛字母的美国键盘)"
 
 #: ../rules/base.extras.xml.in.h:29
 #, fuzzy
-msgid "Polish (international with dead keys)"
+msgid "Polish (intl., with dead keys)"
 msgstr "土耳其语(国际，带死键)"
 
 #: ../rules/base.extras.xml.in.h:31
@@ -3921,7 +3921,7 @@ msgstr "shs"
 #~ msgid "GBr"
 #~ msgstr "GBr"
 
-#~ msgid "German (Romanian keyboard with German letters, eliminate dead keys)"
+#~ msgid "German (Romanian keyboard with German letters, no dead keys)"
 #~ msgstr "德语(带德语字母的罗马尼亚键盘，除去死键)"
 
 #~ msgid "Kurdish (Iran, latin alt-Q)"

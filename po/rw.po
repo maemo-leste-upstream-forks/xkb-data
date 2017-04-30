@@ -177,7 +177,7 @@ msgstr "Alubaniya"
 
 #: rules/base.xml.in.h:32
 #, fuzzy
-msgid "Alt and Meta are on the Alt keys (default)."
+msgid "Alt and Meta are on the Alt (default)."
 msgstr "Na ku i Utubuto Mburabuzi"
 
 #: rules/base.xml.in.h:33
@@ -220,7 +220,7 @@ msgstr "Utubuto"
 
 #: rules/base.xml.in.h:41
 #, fuzzy
-msgid "Alternative, eliminate dead keys"
+msgid "Alternative, no dead keys"
 msgstr "Utubuto"
 
 #: rules/base.xml.in.h:42
@@ -252,7 +252,7 @@ msgid "Azerbaijan"
 msgstr "Azeribayijani"
 
 #: rules/base.xml.in.h:49
-msgid "Azona RF2300 wireless Internet Keyboard"
+msgid "Azona RF2300 wireless Internet"
 msgstr ""
 
 #: rules/base.xml.in.h:50
@@ -317,17 +317,17 @@ msgstr "Bosiniya na Herizegovina"
 
 #: rules/base.xml.in.h:65
 #, fuzzy
-msgid "Both Alt keys together change group."
+msgid "Both Alt together change group."
 msgstr "Utubuto Guhindura>> Itsinda"
 
 #: rules/base.xml.in.h:66
 #, fuzzy
-msgid "Both Ctrl keys together change group."
+msgid "Both Ctrl together change group."
 msgstr "Utubuto Guhindura>> Itsinda"
 
 #: rules/base.xml.in.h:67
 #, fuzzy
-msgid "Both Shift keys together change group."
+msgid "Both Shift together change group."
 msgstr "Utubuto Guhindura>> Itsinda"
 
 #: rules/base.xml.in.h:68
@@ -348,7 +348,7 @@ msgid "Brazilian ABNT2"
 msgstr ""
 
 #: rules/base.xml.in.h:72
-msgid "Brother Internet Keyboard"
+msgid "Brother Internet"
 msgstr ""
 
 #: rules/base.xml.in.h:73
@@ -375,7 +375,7 @@ msgstr "Nka Na:"
 
 #: rules/base.xml.in.h:78
 #, fuzzy
-msgid "CapsLock acts as Shift with locking. Shift doesn't cancel CapsLock."
+msgid "CapsLock acts as Shift with locking. Shift does not cancel CapsLock."
 msgstr "Nka Na: Kureka"
 
 #: rules/base.xml.in.h:79
@@ -410,7 +410,7 @@ msgstr "By'imbere"
 
 #: rules/base.xml.in.h:85
 #, fuzzy
-msgid "CapsLock uses internal capitalization. Shift doesn't cancel CapsLock."
+msgid "CapsLock uses internal capitalization. Shift does not cancel CapsLock."
 msgstr "By'imbere Kureka"
 
 #: rules/base.xml.in.h:86
@@ -423,11 +423,11 @@ msgstr ""
 
 #: rules/base.xml.in.h:88
 #, fuzzy
-msgid "Cherry Blue Line CyBo@rd (alternate option)"
+msgid "Cherry Blue Line CyBo@rd (alt.)"
 msgstr "Ihitamo"
 
 #: rules/base.xml.in.h:89
-msgid "Chicony Internet Keyboard"
+msgid "Chicony Internet"
 msgstr ""
 
 #: rules/base.xml.in.h:90
@@ -439,30 +439,30 @@ msgid "CloGaelach"
 msgstr ""
 
 #: rules/base.xml.in.h:92
-msgid "CloGaelach Laptop"
+msgid "CloGaelach laptop"
 msgstr ""
 
 #: rules/base.xml.in.h:93
-msgid "Compaq Easy Access Keyboard"
+msgid "Compaq Easy Access"
 msgstr ""
 
 #: rules/base.xml.in.h:94
 #, fuzzy
-msgid "Compaq Internet Keyboard (13 keys)"
+msgid "Compaq Internet (13 keys)"
 msgstr "Utubuto"
 
 #: rules/base.xml.in.h:95
 #, fuzzy
-msgid "Compaq Internet Keyboard (18 keys)"
+msgid "Compaq Internet (18 keys)"
 msgstr "Utubuto"
 
 #: rules/base.xml.in.h:96
 #, fuzzy
-msgid "Compaq Internet Keyboard (7 keys)"
+msgid "Compaq Internet (7 keys)"
 msgstr "7 Utubuto"
 
 #: rules/base.xml.in.h:97
-msgid "Compaq iPaq Keyboard"
+msgid "Compaq iPaq"
 msgstr ""
 
 #: rules/base.xml.in.h:98
@@ -538,12 +538,12 @@ msgid "Devanagari"
 msgstr "Devanagari"
 
 #: rules/base.xml.in.h:115
-msgid "Dexxa Wireless Desktop Keyboard"
+msgid "Dexxa Wireless Desktop"
 msgstr ""
 
 #: rules/base.xml.in.h:116
 #, fuzzy
-msgid "Diamond 9801 / 9802 series"
+msgid "Diamond 9801/9802"
 msgstr "Ibyiciro"
 
 #: rules/base.xml.in.h:117
@@ -658,7 +658,7 @@ msgstr "Utubuto"
 
 #: rules/base.xml.in.h:143
 #, fuzzy
-msgid "French, eliminate dead keys"
+msgid "French, no dead keys"
 msgstr "Utubuto"
 
 #: rules/base.xml.in.h:144
@@ -672,7 +672,7 @@ msgstr "Urufunguzo"
 
 #: rules/base.xml.in.h:146
 #, fuzzy
-msgid "Generic 102-key (Intl) PC"
+msgid "Generic 101-key PC (intl.)"
 msgstr "Urufunguzo"
 
 #: rules/base.xml.in.h:147
@@ -682,11 +682,11 @@ msgstr "Urufunguzo"
 
 #: rules/base.xml.in.h:148
 #, fuzzy
-msgid "Generic 105-key (Intl) PC"
+msgid "Generic 105-key PC (intl.)"
 msgstr "Urufunguzo"
 
 #: rules/base.xml.in.h:149
-msgid "Genius Comfy KB-16M / Genius MM Keyboard KWD-910"
+msgid "Genius Comfy KB-16M/Multimedia KWD-910"
 msgstr ""
 
 #: rules/base.xml.in.h:150
@@ -708,7 +708,7 @@ msgstr "Utubuto"
 
 #: rules/base.xml.in.h:154
 #, fuzzy
-msgid "German, eliminate dead keys"
+msgid "German, no dead keys"
 msgstr "Utubuto"
 
 #: rules/base.xml.in.h:155
@@ -749,7 +749,7 @@ msgid "Gyration"
 msgstr ""
 
 #: rules/base.xml.in.h:164
-msgid "Hewlett-Packard Internet Keyboard"
+msgid "Hewlett-Packard Internet"
 msgstr ""
 
 #: rules/base.xml.in.h:165
@@ -758,7 +758,7 @@ msgid "Hewlett-Packard Omnibook 500 FA"
 msgstr "500"
 
 #: rules/base.xml.in.h:166
-msgid "Hewlett-Packard Omnibook 5xx"
+msgid "Hewlett-Packard Omnibook 500"
 msgstr ""
 
 #: rules/base.xml.in.h:167
@@ -778,15 +778,15 @@ msgid "Hewlett-Packard Omnibook XT1000"
 msgstr ""
 
 #: rules/base.xml.in.h:171
-msgid "Hewlett-Packard Pavilion ZT11xx"
+msgid "Hewlett-Packard Pavilion ZT1100"
 msgstr ""
 
 #: rules/base.xml.in.h:172
-msgid "Hewlett-Packard SK-2501 Multimedia Keyboard"
+msgid "Hewlett-Packard SK-2501 Multimedia"
 msgstr ""
 
 #: rules/base.xml.in.h:173
-msgid "Hewlett-Packard SK-2505 Internet Keyboard"
+msgid "Hewlett-Packard SK-2505 Internet"
 msgstr ""
 
 #: rules/base.xml.in.h:174
@@ -948,11 +948,11 @@ msgid "Laptop"
 msgstr ""
 
 #: rules/base.xml.in.h:212
-msgid "Laptop/notebook Compaq (eg. Armada) Laptop Keyboard"
+msgid "Compaq Armada laptop"
 msgstr ""
 
 #: rules/base.xml.in.h:213
-msgid "Laptop/notebook Compaq (eg. Presario) Internet Keyboard"
+msgid "Compaq Presario laptop"
 msgstr ""
 
 #: rules/base.xml.in.h:214
@@ -990,17 +990,17 @@ msgstr "Lativiya"
 
 #: rules/base.xml.in.h:222
 #, fuzzy
-msgid "Left Alt key changes group."
+msgid "Left Alt changes group."
 msgstr "Urufunguzo Amahinduka Itsinda"
 
 #: rules/base.xml.in.h:223
 #, fuzzy
-msgid "Left Alt key switches group while pressed."
+msgid "Left Alt switches group while pressed."
 msgstr "Urufunguzo Itsinda"
 
 #: rules/base.xml.in.h:224
 #, fuzzy
-msgid "Left Ctrl key changes group."
+msgid "Left Ctrl changes group."
 msgstr "Urufunguzo Amahinduka Itsinda"
 
 #: rules/base.xml.in.h:225
@@ -1023,7 +1023,7 @@ msgid "Lithuania"
 msgstr "Lituwaniya"
 
 #: rules/base.xml.in.h:229
-msgid "Logitech Access Keyboard"
+msgid "Logitech Access"
 msgstr ""
 
 #: rules/base.xml.in.h:230
@@ -1064,11 +1064,11 @@ msgid "Logitech Deluxe Access Keyboard"
 msgstr ""
 
 #: rules/base.xml.in.h:239
-msgid "Logitech Internet Keyboard"
+msgid "Logitech Internet"
 msgstr ""
 
 #: rules/base.xml.in.h:240
-msgid "Logitech Internet Navigator Keyboard"
+msgid "Logitech Internet Navigator"
 msgstr ""
 
 #: rules/base.xml.in.h:241
@@ -1077,7 +1077,7 @@ msgstr ""
 
 #: rules/base.xml.in.h:242
 #, fuzzy
-msgid "Logitech iTouch Cordless Keyboard (model Y-RB6)"
+msgid "Logitech iTouch Cordless Y-RB6"
 msgstr "Urugero"
 
 #: rules/base.xml.in.h:243
@@ -1134,7 +1134,7 @@ msgid "Memorex MX1998"
 msgstr ""
 
 #: rules/base.xml.in.h:256
-msgid "Memorex MX2500 EZ-Access Keyboard"
+msgid "Memorex MX2500 EZ-Access"
 msgstr ""
 
 #: rules/base.xml.in.h:257
@@ -1162,11 +1162,11 @@ msgid "Meta is mapped to the left Win-key."
 msgstr "ni Kuri i Ibumoso: Urufunguzo"
 
 #: rules/base.xml.in.h:262
-msgid "Microsoft Internet Keyboard"
+msgid "Microsoft Internet"
 msgstr ""
 
 #: rules/base.xml.in.h:263
-msgid "Microsoft Internet Keyboard Pro, Swedish"
+msgid "Microsoft Internet Pro (Swedish)"
 msgstr ""
 
 #: rules/base.xml.in.h:264
@@ -1174,15 +1174,15 @@ msgid "Microsoft Natural"
 msgstr ""
 
 #: rules/base.xml.in.h:265
-msgid "Microsoft Natural Keyboard Pro / Microsoft Internet Keyboard Pro"
+msgid "Microsoft Natural Pro/Internet Pro"
 msgstr ""
 
 #: rules/base.xml.in.h:266
-msgid "Microsoft Natural Keyboard Pro OEM"
+msgid "Microsoft Natural Pro OEM"
 msgstr ""
 
 #: rules/base.xml.in.h:267
-msgid "Microsoft Natural Keyboard Pro USB / Microsoft Internet Keyboard Pro"
+msgid "Microsoft Natural Pro USB/Internet Pro"
 msgstr ""
 
 #: rules/base.xml.in.h:268
@@ -1191,7 +1191,7 @@ msgstr ""
 
 #: rules/base.xml.in.h:269
 #, fuzzy
-msgid "Microsoft Wireless Multimedia Keyboard 1.0A"
+msgid "Microsoft Wireless Multimedia 1.0A"
 msgstr "1."
 
 #: rules/base.xml.in.h:270
@@ -1283,7 +1283,7 @@ msgid "Oriya"
 msgstr "Oriya"
 
 #: rules/base.xml.in.h:291
-msgid "PC-98xx Series"
+msgid "PC-98"
 msgstr ""
 
 #: rules/base.xml.in.h:292
@@ -1318,7 +1318,7 @@ msgstr "2."
 
 #: rules/base.xml.in.h:299
 #, fuzzy
-msgid "Press Left Alt key to choose 3rd level."
+msgid "Press Left Alt to choose 3rd level."
 msgstr "Urufunguzo Kuri Guhitamo urwego"
 
 #: rules/base.xml.in.h:300
@@ -1348,7 +1348,7 @@ msgstr "Urufunguzo Kuri Guhitamo urwego"
 
 #: rules/base.xml.in.h:305
 #, fuzzy
-msgid "Press any of Alt keys to choose 3rd level."
+msgid "Press any of Alt to choose 3rd level."
 msgstr "Bya Utubuto Kuri Guhitamo urwego"
 
 #: rules/base.xml.in.h:306
@@ -1362,7 +1362,7 @@ msgstr ""
 
 #: rules/base.xml.in.h:308
 #, fuzzy
-msgid "Propeller Voyager (KTEZ-1000)"
+msgid "Propeller Voyager KTEZ-1000"
 msgstr "1000"
 
 #: rules/base.xml.in.h:309
@@ -1400,12 +1400,12 @@ msgstr "ni"
 
 #: rules/base.xml.in.h:316
 #, fuzzy
-msgid "Right Ctrl key changes group."
+msgid "Right Ctrl changes group."
 msgstr "Urufunguzo Amahinduka Itsinda"
 
 #: rules/base.xml.in.h:317
 #, fuzzy
-msgid "Right Ctrl key switches group while pressed."
+msgid "Right Ctrl switches group while pressed."
 msgstr "Urufunguzo Itsinda"
 
 #: rules/base.xml.in.h:318
@@ -1439,7 +1439,7 @@ msgstr "Mwandikisho Na:"
 
 #: rules/base.xml.in.h:324
 #, fuzzy
-msgid "Romanian keyboard with German letters, eliminate dead keys"
+msgid "Romanian keyboard with German letters, no dead keys"
 msgstr "Mwandikisho Na: Utubuto"
 
 #: rules/base.xml.in.h:325
@@ -1459,19 +1459,19 @@ msgid "Russian"
 msgstr "Ikirusiya"
 
 #: rules/base.xml.in.h:329
-msgid "SK-1300"
+msgid "NEC SK-1300"
 msgstr ""
 
 #: rules/base.xml.in.h:330
-msgid "SK-2500"
+msgid "NEC SK-2500"
 msgstr ""
 
 #: rules/base.xml.in.h:331
-msgid "SK-6200"
+msgid "NEC SK-6200"
 msgstr ""
 
 #: rules/base.xml.in.h:332
-msgid "SK-7100"
+msgid "NEC SK-7100"
 msgstr ""
 
 #: rules/base.xml.in.h:333
@@ -1550,7 +1550,7 @@ msgid "Sun dead keys"
 msgstr "Utubuto"
 
 #: rules/base.xml.in.h:350
-msgid "Super Power Multimedia Keyboard"
+msgid "Super Power Multimedia"
 msgstr ""
 
 #: rules/base.xml.in.h:351
@@ -1584,7 +1584,7 @@ msgid "Switzerland"
 msgstr "Ubusuwisi"
 
 #: rules/base.xml.in.h:358
-msgid "Symplon PaceBook (tablet PC)"
+msgid "Symplon PaceBook tablet"
 msgstr ""
 
 #: rules/base.xml.in.h:359
@@ -1654,11 +1654,11 @@ msgid "Toshiba Satellite S3000"
 msgstr ""
 
 #: rules/base.xml.in.h:373
-msgid "Trust Direct Access Keyboard"
+msgid "Trust Direct Access"
 msgstr ""
 
 #: rules/base.xml.in.h:374
-msgid "Trust Wireless Keyboard Classic"
+msgid "Trust Wireless Classic"
 msgstr ""
 
 #: rules/base.xml.in.h:375
@@ -1782,7 +1782,7 @@ msgid "With guillemots"
 msgstr ""
 
 #: rules/base.xml.in.h:403
-msgid "Yahoo! Internet Keyboard"
+msgid "Yahoo! Internet"
 msgstr ""
 
 #: rules/base.xml.in.h:404

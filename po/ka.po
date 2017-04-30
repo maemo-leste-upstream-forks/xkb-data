@@ -210,7 +210,7 @@ msgid "Albania"
 msgstr "ალბანეთი"
 
 #: ../rules/base.xml.in.h:38
-msgid "Alt and Meta are on the Alt keys (default)."
+msgid "Alt and Meta are on the Alt (default)."
 msgstr ""
 "Alt და Meta, Alt ღილაკზე "
 "(ნაგულისხმევია)."
@@ -258,7 +258,7 @@ msgstr ""
 "კლავიშებით (dead keys)"
 
 #: ../rules/base.xml.in.h:48
-msgid "Alternative, eliminate dead keys"
+msgid "Alternative, no dead keys"
 msgstr ""
 "ალტერნატიული, სპეც "
 "კლავიშების (dead keys) გარეშე"
@@ -280,7 +280,7 @@ msgid "Apple"
 msgstr "Apple"
 
 #: ../rules/base.xml.in.h:53
-msgid "Apple Laptop"
+msgid "Apple laptop"
 msgstr "Apple ლეპტოპი"
 
 #: ../rules/base.xml.in.h:54
@@ -308,8 +308,8 @@ msgid "Azerbaijan"
 msgstr "აზერბაიჯანი"
 
 #: ../rules/base.xml.in.h:60
-msgid "Azona RF2300 wireless Internet Keyboard"
-msgstr "Azona RF2300 wireless Internet Keyboard"
+msgid "Azona RF2300 wireless Internet"
+msgstr "Azona RF2300 wireless Internet"
 
 #: ../rules/base.xml.in.h:61
 msgid "BTC 5090"
@@ -392,19 +392,19 @@ msgid "Bosnia and Herzegovina"
 msgstr "ბოსნია და ჰერცოგოვინა"
 
 #: ../rules/base.xml.in.h:81
-msgid "Both Alt keys together change group."
+msgid "Both Alt together change group."
 msgstr ""
 "ორივე Alt ღილაკი ერთად ცვლის "
 "ჯგუფს."
 
 #: ../rules/base.xml.in.h:82
-msgid "Both Ctrl keys together change group."
+msgid "Both Ctrl together change group."
 msgstr ""
 "ორივე Ctrl ღილაკი ერთად ცვლის "
 "ჯგუფს."
 
 #: ../rules/base.xml.in.h:83
-msgid "Both Shift keys together change group."
+msgid "Both Shift together change group."
 msgstr ""
 "ორივე Shift ღილაკი ერთად ცვლის "
 "ჯგუფს."
@@ -428,8 +428,8 @@ msgid "Brazilian ABNT2"
 msgstr "ბრაზილიური ABNT2"
 
 #: ../rules/base.xml.in.h:88
-msgid "Brother Internet Keyboard"
-msgstr "Brother Internet Keyboard"
+msgid "Brother Internet"
+msgstr "Brother Internet"
 
 #: ../rules/base.xml.in.h:89
 msgid "Bulgaria"
@@ -466,7 +466,7 @@ msgstr ""
 "მოქმედებას."
 
 #: ../rules/base.xml.in.h:96
-msgid "CapsLock acts as Shift with locking. Shift doesn't affect CapsLock."
+msgid "CapsLock acts as Shift with locking. Shift does not affect CapsLock."
 msgstr ""
 "მუშაობს როგორც დაბლოკილი Shift, "
 "ის არ აყოვნებს CapsLock-ის "
@@ -506,7 +506,7 @@ msgstr ""
 "Shift აყოვნებს CapsLock-ს. "
 
 #: ../rules/base.xml.in.h:103
-msgid "CapsLock uses internal capitalization. Shift doesn't affect CapsLock."
+msgid "CapsLock uses internal capitalization. Shift does not affect CapsLock."
 msgstr ""
 "რთავს შიდა კაპიტალიზაციას. "
 "Shift არ ეხება CapsLock-ს. "
@@ -524,7 +524,7 @@ msgid "Cherry Blue Line CyBo@rd"
 msgstr "Cherry Blue Line CyBo@rd"
 
 #: ../rules/base.xml.in.h:107
-msgid "Cherry Blue Line CyBo@rd (alternate option)"
+msgid "Cherry Blue Line CyBo@rd (alt.)"
 msgstr ""
 "Cherry Blue Line CyBo@rd (ალტერნატიული "
 "ვარიანტი)"
@@ -538,8 +538,8 @@ msgid "Cherry CyMotion Master Linux"
 msgstr "Cherry CyMotion Master Linux"
 
 #: ../rules/base.xml.in.h:110
-msgid "Chicony Internet Keyboard"
-msgstr "Chicony Internet Keyboard"
+msgid "Chicony Internet"
+msgstr "Chicony Internet"
 
 #: ../rules/base.xml.in.h:111
 msgid "Chicony KB-9885"
@@ -554,24 +554,24 @@ msgid "CloGaelach"
 msgstr "CloGaelach"
 
 #: ../rules/base.xml.in.h:114
-msgid "Compaq Easy Access Keyboard"
-msgstr "Compaq Easy Access Keyboard"
+msgid "Compaq Easy Access"
+msgstr "Compaq Easy Access"
 
 #: ../rules/base.xml.in.h:115
-msgid "Compaq Internet Keyboard (13 keys)"
-msgstr "Compaq Internet Keyboard (13 ღილაკიანი)"
+msgid "Compaq Internet (13 keys)"
+msgstr "Compaq Internet (13 ღილაკიანი)"
 
 #: ../rules/base.xml.in.h:116
-msgid "Compaq Internet Keyboard (18 keys)"
-msgstr "Compaq Internet Keyboard (18 ღილაკიანი)"
+msgid "Compaq Internet (18 keys)"
+msgstr "Compaq Internet (18 ღილაკიანი)"
 
 #: ../rules/base.xml.in.h:117
-msgid "Compaq Internet Keyboard (7 keys)"
-msgstr "Compaq Internet Keyboard (7 ღილაკიანი)"
+msgid "Compaq Internet (7 keys)"
+msgstr "Compaq Internet (7 ღილაკიანი)"
 
 #: ../rules/base.xml.in.h:118
-msgid "Compaq iPaq Keyboard"
-msgstr "Compaq iPaq Keyboard"
+msgid "Compaq iPaq"
+msgstr "Compaq iPaq"
 
 #: ../rules/base.xml.in.h:119
 msgid "Compose key position"
@@ -596,7 +596,7 @@ msgid "Ctrl key at left of 'A'"
 msgstr "Ctrl ღილაკი A ასოს მარცხნივ"
 
 #: ../rules/base.xml.in.h:124
-msgid "Ctrl key position"
+msgid "Ctrl position"
 msgstr ""
 "Ctrl ღილაკის ადგილმდებარეობა"
 
@@ -647,8 +647,8 @@ msgid "Dell 101-key PC"
 msgstr "Dell 101-კლავიშიანი PC"
 
 #: ../rules/base.xml.in.h:136
-msgid "Dell Latitude series laptop"
-msgstr "Dell Latitude series laptop"
+msgid "Dell Latutude laptop"
+msgstr "Dell Latutude laptop"
 
 #: ../rules/base.xml.in.h:137
 msgid "Dell USB Multimedia Keybard"
@@ -663,12 +663,12 @@ msgid "Deu"
 msgstr "გერ"
 
 #: ../rules/base.xml.in.h:140
-msgid "Dexxa Wireless Desktop Keyboard"
-msgstr "Dexxa Wireless Desktop Keyboard"
+msgid "Dexxa Wireless Desktop"
+msgstr "Dexxa Wireless Desktop"
 
 #: ../rules/base.xml.in.h:141
-msgid "Diamond 9801 / 9802 series"
-msgstr "მოდელები Diamond 9801 / 9802 series"
+msgid "Diamond 9801/9802"
+msgstr "მოდელები Diamond 9801/9802"
 
 #: ../rules/base.xml.in.h:142
 msgid "Dnk"
@@ -789,7 +789,7 @@ msgid "French, Sun dead keys"
 msgstr "ფრანგული, Sun dead keys"
 
 #: ../rules/base.xml.in.h:170
-msgid "French, eliminate dead keys"
+msgid "French, no dead keys"
 msgstr "ფრანგული, dead keys გარეშე"
 
 #: ../rules/base.xml.in.h:171
@@ -809,7 +809,7 @@ msgid "Generic 101-key PC"
 msgstr "სტანდარტული 101-ღილაკიანი PC"
 
 #: ../rules/base.xml.in.h:175
-msgid "Generic 102-key (Intl) PC"
+msgid "Generic 101-key PC (intl.)"
 msgstr ""
 "სტანდარტული 102-ღილაკიანი (Intl) PC"
 
@@ -818,7 +818,7 @@ msgid "Generic 104-key PC"
 msgstr "სტანდარტული 104-ღილაკიანი PC"
 
 #: ../rules/base.xml.in.h:177
-msgid "Generic 105-key (Intl) PC"
+msgid "Generic 105-key PC (intl.)"
 msgstr ""
 "სტანდარტული 105-ღილაკიანი (Intl) PC"
 
@@ -827,8 +827,8 @@ msgid "Genius Comfy KB-12e"
 msgstr "Genius Comfy KB-12e"
 
 #: ../rules/base.xml.in.h:179
-msgid "Genius Comfy KB-16M / Genius MM Keyboard KWD-910"
-msgstr "Genius Comfy KB-16M / Genius MM Keyboard KWD-910"
+msgid "Genius Comfy KB-16M/Multimedia KWD-910"
+msgstr "Genius Comfy KB-16M/Multimedia KWD-910"
 
 #: ../rules/base.xml.in.h:180
 msgid "Genius Comfy KB-21e-Scroll"
@@ -855,7 +855,7 @@ msgid "German, Sun dead keys"
 msgstr "გერმანული, Sun dead keys"
 
 #: ../rules/base.xml.in.h:186
-msgid "German, eliminate dead keys"
+msgid "German, no dead keys"
 msgstr "გერმანული, სპეც dead keys გარეშე"
 
 #: ../rules/base.xml.in.h:187
@@ -900,16 +900,16 @@ msgid "Hausa"
 msgstr "ჰაუსა"
 
 #: ../rules/base.xml.in.h:197
-msgid "Hewlett-Packard Internet Keyboard"
-msgstr "Hewlett-Packard Internet Keyboard"
+msgid "Hewlett-Packard Internet"
+msgstr "Hewlett-Packard Internet"
 
 #: ../rules/base.xml.in.h:198
 msgid "Hewlett-Packard Omnibook 500 FA"
 msgstr "Hewlett-Packard Omnibook 500 FA"
 
 #: ../rules/base.xml.in.h:199
-msgid "Hewlett-Packard Omnibook 5xx"
-msgstr "Hewlett-Packard Omnibook 5xx"
+msgid "Hewlett-Packard Omnibook 500"
+msgstr "Hewlett-Packard Omnibook 500"
 
 #: ../rules/base.xml.in.h:200
 msgid "Hewlett-Packard Omnibook 6000/6100"
@@ -928,16 +928,16 @@ msgid "Hewlett-Packard Omnibook XT1000"
 msgstr "Hewlett-Packard Omnibook XT1000"
 
 #: ../rules/base.xml.in.h:204
-msgid "Hewlett-Packard Pavilion ZT11xx"
-msgstr "Hewlett-Packard Pavilion ZT11xx"
+msgid "Hewlett-Packard Pavilion ZT1100"
+msgstr "Hewlett-Packard Pavilion ZT1100"
 
 #: ../rules/base.xml.in.h:205
-msgid "Hewlett-Packard SK-2501 Multimedia Keyboard"
-msgstr "Hewlett-Packard SK-2501 Multimedia Keyboard"
+msgid "Hewlett-Packard SK-2501 Multimedia"
+msgstr "Hewlett-Packard SK-2501 Multimedia"
 
 #: ../rules/base.xml.in.h:206
-msgid "Hewlett-Packard SK-2505 Internet Keyboard"
-msgstr "Hewlett-Packard SK-2505 Internet Keyboard"
+msgid "Hewlett-Packard SK-2505 Internet"
+msgstr "Hewlett-Packard SK-2505 Internet"
 
 #: ../rules/base.xml.in.h:207
 msgid "Honeywell Euroboard"
@@ -1060,8 +1060,8 @@ msgid "Japan"
 msgstr "იაპონია"
 
 #: ../rules/base.xml.in.h:236
-msgid "Japan (PC-98xx Series)"
-msgstr "Japan (PC-98xx Series)"
+msgid "Japan (PC-98)"
+msgstr "Japan (PC-98)"
 
 #: ../rules/base.xml.in.h:237
 msgid "Japanese 106-key"
@@ -1156,13 +1156,13 @@ msgid "Laos"
 msgstr "ლაოსი"
 
 #: ../rules/base.xml.in.h:260
-msgid "Laptop/notebook Compaq (eg. Armada) Laptop Keyboard"
+msgid "Compaq Armada laptop"
 msgstr ""
 "Compaq ლეპტოპ/ნოუთბუქის "
 "კლავიატურა (მაგ. Armada)"
 
 #: ../rules/base.xml.in.h:261
-msgid "Laptop/notebook Compaq (eg. Presario) Internet Keyboard"
+msgid "Compaq Presario laptop"
 msgstr ""
 "Compaq ლეპტოპ/ნოუთბუქის "
 "კლავიატურა (მაგ. Presario)"
@@ -1172,7 +1172,7 @@ msgid "Laptop/notebook Dell Inspiron 6xxx/8xxx"
 msgstr "ლეპტოპ/ნოუთბუქი Dell Inspiron 6xxx/8xxx"
 
 #: ../rules/base.xml.in.h:263
-msgid "Laptop/notebook eMachines m68xx"
+msgid "eMachines m6800 laptop"
 msgstr "ლეპტოპ/ნოუთბუქი eMachines m68xx"
 
 #: ../rules/base.xml.in.h:264
@@ -1212,19 +1212,19 @@ msgstr ""
 "ღილაკით"
 
 #: ../rules/base.xml.in.h:272
-msgid "Left Alt key changes group."
+msgid "Left Alt changes group."
 msgstr ""
 "მარცხენა Alt ღილაკი ცვლის "
 "ჯგუფს."
 
 #: ../rules/base.xml.in.h:273
-msgid "Left Alt key switches group while pressed."
+msgid "Left Alt switches group while pressed."
 msgstr ""
 "მარცხენა Alt ღილაკი ცვლის "
 "ჯგუფს დაჭერის დროს."
 
 #: ../rules/base.xml.in.h:274
-msgid "Left Ctrl key changes group."
+msgid "Left Ctrl changes group."
 msgstr ""
 "მარცხენა Alt ღილაკი ცვლის "
 "ჯგუფს."
@@ -1262,8 +1262,8 @@ msgid "Lithuania"
 msgstr "ლიტვა"
 
 #: ../rules/base.xml.in.h:281
-msgid "Logitech Access Keyboard"
-msgstr "Logitech Access Keyboard"
+msgid "Logitech Access"
+msgstr "Logitech Access"
 
 #: ../rules/base.xml.in.h:282
 msgid "Logitech Cordless Desktop"
@@ -1306,36 +1306,36 @@ msgid "Logitech Cordless Freedom/Desktop Navigator"
 msgstr "Logitech Cordless Freedom/Desktop Navigator"
 
 #: ../rules/base.xml.in.h:291
-msgid "Logitech Internet Keyboard"
-msgstr "Logitech Internet Keyboard"
+msgid "Logitech Internet"
+msgstr "Logitech Internet"
 
 #: ../rules/base.xml.in.h:292
-msgid "Logitech Internet Navigator Keyboard"
-msgstr "Logitech Internet Navigator Keyboard"
+msgid "Logitech Internet Navigator"
+msgstr "Logitech Internet Navigator"
 
 #: ../rules/base.xml.in.h:293
-msgid "Logitech Ultra-X Keyboard"
-msgstr "Logitech Ultra-X Keyboard"
+msgid "Logitech Ultra-X"
+msgstr "Logitech Ultra-X"
 
 #: ../rules/base.xml.in.h:294
-msgid "Logitech diNovo Keyboard"
-msgstr "Logitech diNovo Keyboard"
+msgid "Logitech diNovo"
+msgstr "Logitech diNovo"
 
 #: ../rules/base.xml.in.h:295
 msgid "Logitech iTouch"
 msgstr "Logitech iTouch"
 
 #: ../rules/base.xml.in.h:296
-msgid "Logitech iTouch Cordless Keyboard (model Y-RB6)"
-msgstr "Logitech iTouch Cordless Keyboard (model Y-RB6)"
+msgid "Logitech iTouch Cordless Y-RB6"
+msgstr "Logitech iTouch Cordless Y-RB6"
 
 #: ../rules/base.xml.in.h:297
-msgid "Logitech iTouch Internet Navigator Keyboard SE"
-msgstr "Logitech iTouch Internet Navigator Keyboard SE"
+msgid "Logitech iTouch Internet Navigator SE"
+msgstr "Logitech iTouch Internet Navigator SE"
 
 #: ../rules/base.xml.in.h:298
-msgid "Logitech iTouch Internet Navigator Keyboard SE (USB)"
-msgstr "Logitech iTouch Internet Navigator Keyboard SE (USB)"
+msgid "Logitech iTouch Internet Navigator SE USB"
+msgstr "Logitech iTouch Internet Navigator SE USB"
 
 #: ../rules/base.xml.in.h:299
 msgid "Ltu"
@@ -1362,7 +1362,7 @@ msgid "Macintosh layout"
 msgstr "Macintosh-ის განლაგება"
 
 #: ../rules/base.xml.in.h:305
-msgid "Macintosh layout, eliminate dead keys"
+msgid "Macintosh layout, no dead keys"
 msgstr ""
 "Macintosh-ის განლაგება, სპეც "
 "კლავიშების (dead keys) გარეშე"
@@ -1408,8 +1408,8 @@ msgid "Memorex MX1998"
 msgstr "Memorex MX1998"
 
 #: ../rules/base.xml.in.h:315
-msgid "Memorex MX2500 EZ-Access Keyboard"
-msgstr "Memorex MX2500 EZ-Access Keyboard"
+msgid "Memorex MX2500 EZ-Access"
+msgstr "Memorex MX2500 EZ-Access"
 
 #: ../rules/base.xml.in.h:316
 msgid "Memorex MX2750"
@@ -1437,36 +1437,36 @@ msgstr ""
 "ღილაკს."
 
 #: ../rules/base.xml.in.h:321
-msgid "Microsoft Internet Keyboard"
-msgstr "Microsoft Internet Keyboard"
+msgid "Microsoft Internet"
+msgstr "Microsoft Internet"
 
 #: ../rules/base.xml.in.h:322
-msgid "Microsoft Internet Keyboard Pro, Swedish"
-msgstr "Microsoft Internet Keyboard Pro, შვედური"
+msgid "Microsoft Internet Pro (Swedish)"
+msgstr "Microsoft Internet Pro, შვედური"
 
 #: ../rules/base.xml.in.h:323
 msgid "Microsoft Natural"
 msgstr "Microsoft Natural"
 
 #: ../rules/base.xml.in.h:324
-msgid "Microsoft Natural Keyboard Pro / Microsoft Internet Keyboard Pro"
-msgstr "Microsoft Natural Keyboard Pro / Microsoft Internet Keyboard Pro"
+msgid "Microsoft Natural Pro/Internet Pro"
+msgstr "Microsoft Natural Pro/Internet Pro"
 
 #: ../rules/base.xml.in.h:325
-msgid "Microsoft Natural Keyboard Pro OEM"
-msgstr "	Microsoft Natural Keyboard Pro OEM"
+msgid "Microsoft Natural Pro OEM"
+msgstr "	Microsoft Natural Pro OEM"
 
 #: ../rules/base.xml.in.h:326
-msgid "Microsoft Natural Keyboard Pro USB / Microsoft Internet Keyboard Pro"
-msgstr "Microsoft Natural Keyboard Pro USB / Microsoft Internet Keyboard Pro"
+msgid "Microsoft Natural Pro USB/Internet Pro"
+msgstr "Microsoft Natural Pro USB/Internet Pro"
 
 #: ../rules/base.xml.in.h:327
 msgid "Microsoft Office Keyboard"
 msgstr "Microsoft Office Keyboard"
 
 #: ../rules/base.xml.in.h:328
-msgid "Microsoft Wireless Multimedia Keyboard 1.0A"
-msgstr "Microsoft Wireless Multimedia Keyboard 1.0A"
+msgid "Microsoft Wireless Multimedia 1.0A"
+msgstr "Microsoft Wireless Multimedia 1.0A"
 
 #: ../rules/base.xml.in.h:329
 msgid "Miscellaneous compatibility options"
@@ -1542,7 +1542,7 @@ msgid "Northern Saami"
 msgstr "ჩრდილოეთ საამური"
 
 #: ../rules/base.xml.in.h:346
-msgid "Northern Saami, eliminate dead keys"
+msgid "Northern Saami, no dead keys"
 msgstr ""
 "ჩრდილოეთ საამური, სპეც "
 "ღილაკების (dead keys) გარეშე"
@@ -1593,8 +1593,8 @@ msgid "Ossetian, Winkeys"
 msgstr "ოსური, Windows კლავიატურა"
 
 #: ../rules/base.xml.in.h:357
-msgid "PC-98xx Series"
-msgstr "PC-98xx Series"
+msgid "PC-98"
+msgstr "PC-98"
 
 #: ../rules/base.xml.in.h:358
 msgid "Pak"
@@ -1637,7 +1637,7 @@ msgid "PowerPC PS/2"
 msgstr "PowerPC PS/2"
 
 #: ../rules/base.xml.in.h:368
-msgid "Press Left Alt key to choose 3rd level."
+msgid "Press Left Alt to choose 3rd level."
 msgstr ""
 "მე-3 საფეხურის "
 "ამორჩევისთვის, დააჭირეთ "
@@ -1688,7 +1688,7 @@ msgstr ""
 "მარჯვენა Win ღილაკის დაჭერით."
 
 #: ../rules/base.xml.in.h:375
-msgid "Press any of Alt keys to choose 3rd level."
+msgid "Press any of Alt to choose 3rd level."
 msgstr ""
 "მე-3 საფეხურის ამორჩევა "
 "ნებისმიერი Alt ღილაკის "
@@ -1714,8 +1714,8 @@ msgid "Probhat"
 msgstr "პრობატი"
 
 #: ../rules/base.xml.in.h:380
-msgid "Propeller Voyager (KTEZ-1000)"
-msgstr "Propeller Voyager (KTEZ-1000)"
+msgid "Propeller Voyager KTEZ-1000"
+msgstr "Propeller Voyager KTEZ-1000"
 
 #: ../rules/base.xml.in.h:381
 msgid "Prt"
@@ -1751,20 +1751,20 @@ msgstr ""
 "შეესაბამება Compose-ს."
 
 #: ../rules/base.xml.in.h:387
-msgid "Right Ctrl key changes group."
+msgid "Right Ctrl changes group."
 msgstr ""
 "მარჯვენა Ctrl ღილაკი ცვლის "
 "ჯგუფს."
 
 #: ../rules/base.xml.in.h:388
-msgid "Right Ctrl key switches group while pressed."
+msgid "Right Ctrl switches group while pressed."
 msgstr ""
 "მარჯვენა Ctrl ღილაკი ცვლის "
 "ჯგუფს დაჭერილ "
 "მდგომარეობაში."
 
 #: ../rules/base.xml.in.h:389
-msgid "Right Ctrl key works as Right Alt."
+msgid "Right Ctrl works as Right Alt."
 msgstr ""
 "მარჯვენა Ctrl ღილაკი მოქმედებს "
 "როგორც მარჯვენა Alt."
@@ -1811,7 +1811,7 @@ msgstr ""
 "გერმანული ასოებით"
 
 #: ../rules/base.xml.in.h:397
-msgid "Romanian keyboard with German letters, eliminate dead keys"
+msgid "Romanian keyboard with German letters, no dead keys"
 msgstr ""
 "რუმინული კლავიატურა "
 "გერმანული ასოებით, dead keys "
@@ -1838,7 +1838,7 @@ msgid "Russian phonetic"
 msgstr "რუსული ფონეტიკური"
 
 #: ../rules/base.xml.in.h:403
-msgid "Russian phonetic, eliminate dead keys"
+msgid "Russian phonetic, no dead keys"
 msgstr ""
 "რუსული ფონეტიკური, სპეც (dead keys) "
 "კლავიშების გარეშე"
@@ -1852,24 +1852,24 @@ msgid "SCG"
 msgstr "SCG"
 
 #: ../rules/base.xml.in.h:406
-msgid "SILVERCREST Multimedia Wireless Keyboard"
-msgstr "SILVERCREST Multimedia Wireless Keyboard"
+msgid "Silvercrest Multimedia Wireless"
+msgstr "Silvercrest Multimedia Wireless"
 
 #: ../rules/base.xml.in.h:407
-msgid "SK-1300"
-msgstr "SK-1300"
+msgid "NEC SK-1300"
+msgstr "NEC SK-1300"
 
 #: ../rules/base.xml.in.h:408
-msgid "SK-2500"
-msgstr "SK-2500"
+msgid "NEC SK-2500"
+msgstr "NEC SK-2500"
 
 #: ../rules/base.xml.in.h:409
-msgid "SK-6200"
-msgstr "SK-6200"
+msgid "NEC SK-6200"
+msgstr "NEC SK-6200"
 
 #: ../rules/base.xml.in.h:410
-msgid "SK-7100"
-msgstr "SK-7100"
+msgid "NEC SK-7100"
+msgstr "NEC SK-7100"
 
 #: ../rules/base.xml.in.h:411
 msgid "SVEN Ergonomic 2500"
@@ -1959,8 +1959,8 @@ msgid "Sun dead keys"
 msgstr "სპეც ღილაკები (dead keys) Sun"
 
 #: ../rules/base.xml.in.h:432
-msgid "Super Power Multimedia Keyboard"
-msgstr "Super Power Multimedia Keyboard"
+msgid "Super Power Multimedia"
+msgstr "Super Power Multimedia"
 
 #: ../rules/base.xml.in.h:433
 msgid "Super is mapped to the Win-keys (default)."
@@ -1993,8 +1993,8 @@ msgid "Switzerland"
 msgstr "შვეიცარია"
 
 #: ../rules/base.xml.in.h:440
-msgid "Symplon PaceBook (tablet PC)"
-msgstr "Symplon PaceBook (tablet PC)"
+msgid "Symplon PaceBook tablet"
+msgstr "Symplon PaceBook tablet"
 
 #: ../rules/base.xml.in.h:441
 msgid "Syr"
@@ -2071,12 +2071,12 @@ msgid "Toshiba Satellite S3000"
 msgstr "Toshiba Satellite S3000"
 
 #: ../rules/base.xml.in.h:459
-msgid "Trust Direct Access Keyboard"
-msgstr "Trust Direct Access Keyboard"
+msgid "Trust Direct Access"
+msgstr "Trust Direct Access"
 
 #: ../rules/base.xml.in.h:460
-msgid "Trust Wireless Keyboard Classic"
-msgstr "Trust Wireless Keyboard Classic"
+msgid "Trust Wireless Classic"
+msgstr "Trust Wireless Classic"
 
 #: ../rules/base.xml.in.h:461
 msgid "Tur"
@@ -2095,13 +2095,13 @@ msgid "U.S. English"
 msgstr "ინგლისუარი ა.შ.შ"
 
 #: ../rules/base.xml.in.h:465
-msgid "US keyboard with Bosnian digraphs"
+msgid "US, with Bosnian digraphs"
 msgstr ""
 "აშშ-ს კლავიატურა ბოსნიური "
 "დიგრაფებით"
 
 #: ../rules/base.xml.in.h:466
-msgid "US keyboard with Bosnian letters"
+msgid "US, with Bosnian letters"
 msgstr ""
 "აშშ-ს კლავიატურა ბოსნიური "
 "ასოებით"
@@ -2228,8 +2228,8 @@ msgid "With guillemets"
 msgstr "გრანგული ბრჭყალებით"
 
 #: ../rules/base.xml.in.h:492
-msgid "Yahoo! Internet Keyboard"
-msgstr "Yahoo! Internet Keyboard"
+msgid "Yahoo! Internet"
+msgstr "Yahoo! Internet"
 
 #: ../rules/base.xml.in.h:493
 msgid "Z and ZHE swapped"
