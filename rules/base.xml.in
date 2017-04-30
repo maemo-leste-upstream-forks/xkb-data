@@ -5649,23 +5649,6 @@
       </configItem>
       <variantList></variantList>
     </layout>
-    <layout>
-      <configItem>
-        <name>bn</name>
-        <shortDescription>ms</shortDescription>
-        <description>Malay (Jawi)</description>
-        <languageList>
-          <iso639Id>ind</iso639Id>
-          <iso639Id>msa</iso639Id>
-          <iso639Id>min</iso639Id>
-          <iso639Id>ace</iso639Id>
-          <iso639Id>bjn</iso639Id>
-          <iso639Id>tsg</iso639Id>
-          <iso639Id>mfa</iso639Id>
-        </languageList>
-      </configItem>
-      <variantList></variantList>
-    </layout>
   </layoutList>
   <optionList>
     <group allowMultipleSelection="true">
