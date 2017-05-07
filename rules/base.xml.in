@@ -2909,7 +2909,7 @@
             <name>hausa</name>
             <!-- Keyboard indicator for Hausa layouts -->
             <_shortDescription>ha</_shortDescription>
-            <_description>Hausa</_description>
+            <_description>Hausa (Ghana)</_description>
             <languageList>
               <iso639Id>hau</iso639Id>
             </languageList>
@@ -5264,7 +5264,7 @@
             <name>hausa</name>
             <!-- Keyboard indicator for Hausa layouts -->
             <_shortDescription>ha</_shortDescription>
-            <_description>Hausa</_description>
+            <_description>Hausa (Nigeria)</_description>
             <languageList>
               <iso639Id>hau</iso639Id>
             </languageList>
