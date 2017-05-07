@@ -141,7 +141,7 @@ xkb_symbols "us" {
 
   key <AC01> { [             a,        aacute,    adiaeresis ] };
   key <AC02> { [             s,    VoidSymbol,    VoidSymbol ] };
-  key <AC03> { [             d,             D,    VoidSymbol ] };
+  key <AC03> { [           eth,           ETH,    VoidSymbol ] };
   key <AC04> { [         thorn,             f,    VoidSymbol ] };
   key <AC05> { [             g,             G,    VoidSymbol ] };
   key <AC06> { [             h,    VoidSymbol,    VoidSymbol ] };
@@ -151,7 +151,7 @@ xkb_symbols "us" {
   key <AC10> { [     semicolon,         colon,    VoidSymbol ] };
   key <AC11> { [    apostrophe,      quotedbl,    VoidSymbol ] };
 
-  key <AD01> { [           eth,           ETH,             q ] };
+  key <AD01> { [             d,             D,             q ] };
   key <AD02> { [            ae,         acute,    VoidSymbol ] };
   key <AD03> { [             e,        eacute,    ediaeresis ] };
   key <AD04> { [             r,   ucircumflex,    VoidSymbol ] };
