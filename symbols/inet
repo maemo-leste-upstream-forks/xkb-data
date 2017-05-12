@@ -184,7 +184,7 @@ xkb_symbols "evdev" {
     key <I218>   {      [ Print                 ]       };
 //  key <I219>   {      [ ]       }; // KEY_HP
     key <I220>   {      [ XF86WebCam            ]       };
-//  key <I221>   {      [ ]       }; // KEY_SOUND
+    key <I221>   {      [ XF86AudioPreset       ]       };
 //  key <I222>   {      [ ]       }; // KEY_QUESTION
     key <I223>   {      [ XF86Mail              ]       };
     key <I224>   {      [ XF86Messenger         ]       }; // KEY_CHAT
