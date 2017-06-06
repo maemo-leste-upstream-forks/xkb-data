@@ -233,4 +233,6 @@ key.type[group1] = "FOUR_LEVEL_ALPHABETIC";
     key <AE10> { [ Cyrillic_ka_descender,   Cyrillic_KA_descender,   0,      parenright ] };
     key <AE11> { [ Cyrillic_o_bar,          Cyrillic_O_bar,          minus,  underscore  ] };
     key <AE12> { [ Cyrillic_shha,           Cyrillic_SHHA,           equal,  plus ] };
+
+   include "level3(ralt_switch)"
 };
