@@ -4426,6 +4426,7 @@
         <variant>
           <configItem>
             <name>ast</name>
+            <_shortDescription>ast</_shortDescription>
             <_description>Asturian (Spain, with bottom-dot H and bottom-dot L)</_description>
             <languageList>
               <iso639Id>ast</iso639Id>
@@ -4435,6 +4436,7 @@
         <variant>
           <configItem>
             <name>cat</name>
+            <_shortDescription>ca</_shortDescription>
             <_description>Catalan (Spain, with middle-dot L)</_description>
             <languageList>
               <iso639Id>cat</iso639Id>
