@@ -1,3 +1,10 @@
+xkeyboard-config (2.19-1.1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * Revert blacklisting of Indic layouts (Closes: #865316)
+
+ -- Pirate Praveen <praveen@debian.org>  Mon, 03 Jul 2017 13:33:36 +0530
+
 xkeyboard-config (2.19-1) unstable; urgency=medium
 
   * New upstream release.
