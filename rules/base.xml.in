@@ -6067,6 +6067,12 @@
       </option>
       <option>
         <configItem>
+          <name>grp:menu_switch</name>
+          <_description>Menu (while pressed), Shift+Menu for Menu</_description>
+        </configItem>
+      </option>
+      <option>
+        <configItem>
           <name>grp:caps_switch</name>
           <_description>Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action</_description>
         </configItem>
