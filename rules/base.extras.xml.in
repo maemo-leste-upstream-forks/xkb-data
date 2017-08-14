@@ -388,7 +388,7 @@
         <variant>
           <configItem>
             <name>carpalx-altgr-intl</name>
-            <_description>English (Carpalx, intl., with dead keys)</_description>
+            <_description>English (Carpalx, intl., with AltGr dead keys)</_description>
           </configItem>
         </variant>
         <variant>
@@ -406,7 +406,7 @@
         <variant>
           <configItem>
             <name>carpalx-full-altgr-intl</name>
-            <_description>English (Carpalx, full optimization, intl., with dead keys)</_description>
+            <_description>English (Carpalx, full optimization, intl., with AltGr dead keys)</_description>
           </configItem>
         </variant>
       </variantList>

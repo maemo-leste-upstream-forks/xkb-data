@@ -1426,7 +1426,7 @@
         <variant>
           <configItem>
             <name>altgr-intl</name>
-            <_description>English (intl., with dead keys)</_description>
+            <_description>English (intl., with AltGr dead keys)</_description>
             <languageList>
               <iso639Id>eng</iso639Id>
               <iso639Id>fra</iso639Id>
