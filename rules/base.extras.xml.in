@@ -192,6 +192,17 @@
             </languageList>
           </configItem>
         </variant>
+	<variant>
+          <configItem>
+            <name>lld</name>
+            <_description>German Ladin</_description>
+            <_shortDescription>de_lld</_shortDescription>
+            <languageList>
+              <iso639Id>ger</iso639Id>
+              <iso639Id>lld</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
@@ -755,6 +766,17 @@
             <_description>Friulian (Italy)</_description>
             <languageList>
               <iso639Id>fur</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+	<variant>
+          <configItem>
+            <name>lld</name>
+            <_description>Italian Ladin</_description>
+            <_shortDescription>it_lld</_shortDescription>
+            <languageList>
+              <iso639Id>it</iso639Id>
+              <iso639Id>lld</iso639Id>
             </languageList>
           </configItem>
         </variant>

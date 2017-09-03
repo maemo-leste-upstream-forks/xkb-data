@@ -1142,3 +1142,12 @@ xkb_symbols "neo_qwerty" {
     include "level5(lsgt_switch_lock)"
     include "level5(ralt_switch_lock)"
 };
+
+partial alphanumeric_keys
+    xkb_symbols "lld" {
+    include "de(basic)"
+    name[Group1] = "German Ladin";
+
+    key <AD10> { [ p, P, ediaeresis, Ediaeresis ] };
+
+};
