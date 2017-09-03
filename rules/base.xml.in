@@ -6001,7 +6001,7 @@
       <configItem>
         <name>my</name>
         <shortDescription>ms</shortDescription>
-        <description>Malay (Jawi)</description>
+        <description>Malay (Jawi, Arabic Keyboard)</description>
         <languageList>
           <iso639Id>ind</iso639Id>
           <iso639Id>msa</iso639Id>
@@ -6012,7 +6012,14 @@
           <iso639Id>mfa</iso639Id>
         </languageList>
       </configItem>
-      <variantList></variantList>
+      <variantList>
+       <variant>
+         <configItem>
+          <name>phonetic</name>
+            <description>Malay (Jawi, phonetic)</description>
+         </configItem>
+       </variant>
+      </variantList>
     </layout>
   </layoutList>
   <optionList>
