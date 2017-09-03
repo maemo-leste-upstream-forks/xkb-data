@@ -6513,7 +6513,7 @@
       <!-- Select a keypad KPDL variant -->
       <configItem>
         <name>kpdl</name>
-        <_description>Numeric keypad Delete behaviour</_description>
+        <_description>Numeric keypad Delete behavior</_description>
       </configItem>
       <option>
         <configItem>
