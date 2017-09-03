@@ -7095,19 +7095,19 @@
       <option>
         <configItem>
           <name>nbsp:level4</name>
-          <_description>Non-breaking space at the 4th lever</_description>
+          <_description>Non-breaking space at the 4th level</_description>
         </configItem>
       </option>
       <option>
         <configItem>
           <name>nbsp:level4n</name>
-          <_description>Non-breaking space at the 4th lever, thin non-breaking space at the 6th level</_description>
+          <_description>Non-breaking space at the 4th level, thin non-breaking space at the 6th level</_description>
         </configItem>
       </option>
       <option>
         <configItem>
           <name>nbsp:level4nl</name>
-          <_description>Non-breaking space at the 4th lever, thin non-breaking space at the 6th level (via Ctrl+Shift)</_description>
+          <_description>Non-breaking space at the 4th level, thin non-breaking space at the 6th level (via Ctrl+Shift)</_description>
         </configItem>
       </option>
       <option>
