@@ -4613,7 +4613,7 @@
         <variant>
           <configItem>
             <name>phonetic_fr</name>
-            <_description>Russian Russian (phonetic, French)</_description>
+            <_description>Russian (phonetic, French)</_description>
           </configItem>
         </variant>
       </variantList>

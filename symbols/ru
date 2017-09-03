@@ -626,7 +626,7 @@ xkb_symbols "phonetic_fr" {
     include "fr"
     include "ru(phonetic_azerty)"
 
-    name[Group1]= "Russian Russian (phonetic, French)";
+    name[Group1]= "Russian (phonetic, French)";
 };
 
 // Rulemak, Colemak based Russian phonetic layout
