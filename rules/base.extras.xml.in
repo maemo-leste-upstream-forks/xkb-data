@@ -698,6 +698,12 @@
             <_description>Finnish (Sun Type 6/7)</_description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>fidvorak</name>
+            <_description>Finnish Dvorak</_description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
