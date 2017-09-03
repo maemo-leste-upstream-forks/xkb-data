@@ -2234,7 +2234,7 @@
         <variant>
           <configItem>
             <name>alternatequotes</name>
-            <_description>Bosnian (with guillements)</_description>
+            <_description>Bosnian (with guillemets)</_description>
           </configItem>
         </variant>
         <variant>
@@ -2706,7 +2706,7 @@
         <variant>
           <configItem>
             <name>alternatequotes</name>
-            <_description>Croatian (with guillements)</_description>
+            <_description>Croatian (with guillemets)</_description>
           </configItem>
         </variant>
         <variant>
@@ -4696,7 +4696,7 @@
         <variant>
           <configItem>
             <name>alternatequotes</name>
-            <_description>Slovenian (with guillements)</_description>
+            <_description>Slovenian (with guillemets)</_description>
           </configItem>
         </variant>
         <variant>
