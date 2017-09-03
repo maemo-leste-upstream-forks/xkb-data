@@ -7149,7 +7149,7 @@
       <option>
         <configItem>
           <name>nbsp:zwnj2nb3nnb4</name>
-          <_description>Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breakable space at the 4th level</_description>
+          <_description>Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breaking space at the 4th level</_description>
         </configItem>
       </option>
       <option>
