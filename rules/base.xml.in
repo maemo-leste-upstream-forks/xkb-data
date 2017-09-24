@@ -2553,7 +2553,7 @@
         <variant>
           <configItem>
             <name>mmuock</name>
-            <description>Mmuock</description>
+            <_description>Mmuock</_description>
           </configItem>
         </variant>
       </variantList>
@@ -5989,8 +5989,8 @@
     <layout>
       <configItem>
         <name>id</name>
-        <shortDescription>id</shortDescription>
-        <description>Indonesian (Jawi)</description>
+        <_shortDescription>id</_shortDescription>
+        <_description>Indonesian (Jawi)</_description>
         <languageList>
           <iso639Id>ind</iso639Id>
           <iso639Id>msa</iso639Id>
@@ -6006,8 +6006,8 @@
     <layout>
       <configItem>
         <name>my</name>
-        <shortDescription>ms</shortDescription>
-        <description>Malay (Jawi, Arabic Keyboard)</description>
+        <_shortDescription>ms</_shortDescription>
+        <_description>Malay (Jawi, Arabic Keyboard)</_description>
         <languageList>
           <iso639Id>ind</iso639Id>
           <iso639Id>msa</iso639Id>
@@ -6022,7 +6022,7 @@
        <variant>
          <configItem>
           <name>phonetic</name>
-            <description>Malay (Jawi, phonetic)</description>
+            <_description>Malay (Jawi, phonetic)</_description>
          </configItem>
        </variant>
       </variantList>
