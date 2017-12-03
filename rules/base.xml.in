@@ -3777,6 +3777,32 @@
             <_description>Italian (IBM 142)</_description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>intl</name>
+            <_description>Italian (intl., with dead keys)</_description>
+            <languageList>
+              <iso639Id>ger</iso639Id>
+              <iso639Id>fra</iso639Id>
+              <iso639Id>ita</iso639Id>
+              <iso639Id>slo</iso639Id>
+              <iso639Id>srd</iso639Id>
+              <iso639Id>nap</iso639Id>
+              <iso639Id>scn</iso639Id>
+              <iso639Id>fur</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>scn</name>
+            <_description>Sicilian</_description>
+            <languageList>
+              <iso639Id>ita</iso639Id>
+              <iso639Id>scn</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>

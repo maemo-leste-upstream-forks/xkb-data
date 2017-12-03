@@ -435,6 +435,17 @@
             <_description>English (Carpalx, full optimization, intl., with AltGr dead keys)</_description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>scn</name>
+            <_description>Sicilian (US keyboard)</_description>
+            <languageList>
+              <iso639Id>eng</iso639Id>
+              <iso639Id>ita</iso639Id>
+              <iso639Id>scn</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
