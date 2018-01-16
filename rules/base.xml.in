@@ -1599,6 +1599,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>olpc</name>
+            <_description>Arabic (OLPC)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>mac</name>
             <_description>Arabic (Macintosh)</_description>
           </configItem>
