@@ -1147,6 +1147,14 @@
         </variant>
       </variantList>
     </layout>
+    <layout>
+      <configItem>
+        <name>trans</name>
+          <!-- Keyboard layouts for transcription and transliteration systems -->
+        <_description>International Phonetic Alphabet</_description>
+      </configItem>
+      <variantList/>
+    </layout>
   </layoutList>
   <optionList>
       <group allowMultipleSelection="true">
