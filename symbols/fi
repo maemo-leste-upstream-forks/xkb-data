@@ -157,7 +157,6 @@ xkb_symbols "fi" {
     include "nbsp(level4)"
     include "kpdl(comma)"
     include "level3(ralt_switch)"
-    include "compose(rwin)"
 };
 
 partial alphanumeric_keys
