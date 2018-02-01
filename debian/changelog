@@ -2,6 +2,7 @@ xkeyboard-config (2.23.1-1) UNRELEASED; urgency=medium
 
   * New upstream release. (Closes: #884822)
   * revert-indic-blacklist.diff: Dropped, upstream.
+  * fix-typo.diff: Fix a typo in pl layout.
 
  -- Timo Aaltonen <tjaalton@debian.org>  Thu, 01 Feb 2018 17:12:17 +0200
 
