@@ -1,10 +1,10 @@
-xkeyboard-config (2.23.1-1) UNRELEASED; urgency=medium
+xkeyboard-config (2.23.1-1) unstable; urgency=medium
 
   * New upstream release. (Closes: #884822)
   * revert-indic-blacklist.diff: Dropped, upstream.
   * fix-typo.diff: Fix a typo in pl layout.
 
- -- Timo Aaltonen <tjaalton@debian.org>  Thu, 01 Feb 2018 17:12:17 +0200
+ -- Timo Aaltonen <tjaalton@debian.org>  Thu, 01 Feb 2018 17:30:40 +0200
 
 xkeyboard-config (2.19-1.1) unstable; urgency=medium
 
