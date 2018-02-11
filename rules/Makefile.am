@@ -213,7 +213,7 @@ rules_files = base evdev xfree98
 lst_files = base.lst evdev.lst
 
 %.lst: %.xml
-	perl $(srcdir)/xml2lst.pl < $< > $@
+	perl $(srcdir)/xml2lst.pl < $? > $@
 
 base: $(base_parts)
 	HDR="$(srcdir)/HDR" $(srcdir)/merge.sh $@ $(base_parts)
@@ -229,10 +229,10 @@ xml_in_files = base.xml.in evdev.xml.in base.extras.xml.in evdev.extras.xml.in
 xml_DATA = $(xml_in_files:.xml.in=.xml) 
 
 $(srcdir)/evdev.xml.in: base.xml.in
-	cp $< $@
+	cp base.xml.in $@
 
 $(srcdir)/evdev.extras.xml.in: base.extras.xml.in
-	cp $< $@
+	cp base.extras.xml.in $@
 
 EXTRA_DIST= $(xml_in_files) xfree98 \
             $(all_parts_dist) \
