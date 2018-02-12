@@ -229,10 +229,10 @@ xml_in_files = base.xml.in evdev.xml.in base.extras.xml.in evdev.extras.xml.in
 xml_DATA = $(xml_in_files:.xml.in=.xml) 
 
 $(srcdir)/evdev.xml.in: base.xml.in
-	cp base.xml.in $@
+	cp $(srcdir)/base.xml.in $@
 
 $(srcdir)/evdev.extras.xml.in: base.extras.xml.in
-	cp base.extras.xml.in $@
+	cp $(srcdir)/base.extras.xml.in $@
 
 EXTRA_DIST= $(xml_in_files) xfree98 \
             $(all_parts_dist) \
