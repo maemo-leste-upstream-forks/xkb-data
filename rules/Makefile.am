@@ -212,8 +212,8 @@ rules_files = base evdev xfree98
 
 lst_files = base.lst evdev.lst
 
-%.lst: %.xml
-	perl $(srcdir)/xml2lst.pl < $? > $@
+.xml.lst:
+	perl $(srcdir)/xml2lst.pl < $< > $@
 
 base: $(base_parts)
 	HDR="$(srcdir)/HDR" $(srcdir)/merge.sh $@ $(base_parts)
