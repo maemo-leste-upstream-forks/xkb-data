@@ -212,6 +212,8 @@ rules_files = base evdev xfree98
 
 lst_files = base.lst evdev.lst
 
+SUFFIXES = .xml .lst
+
 .xml.lst:
 	perl $(srcdir)/xml2lst.pl < $< > $@
 
