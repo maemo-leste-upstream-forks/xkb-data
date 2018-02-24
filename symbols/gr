@@ -38,6 +38,7 @@ xkb_symbols "basic" {
 	key <AD01> { [       NoSymbol,       NoSymbol, periodcentered                 ] };
 	key <AD02> { [       NoSymbol,       NoSymbol,          U03DB,          U03DA ] };
 	key <AD04> { [       NoSymbol,       NoSymbol,     registered,          U03F1 ] };
+	key <AD06> { [       NoSymbol,       NoSymbol,          U03D2,          U03D2 ] };
 	key <AD07> { [       NoSymbol,       NoSymbol,          U03D1,          U03F4 ] };
 	key <AD08> { [       NoSymbol,       NoSymbol,          U037B,          U03FD ] };
 	key <AD10> { [       NoSymbol,       NoSymbol,          U03E1,          U03E0 ] };
@@ -47,8 +48,11 @@ xkb_symbols "basic" {
 	key <AE02> { [       NoSymbol,       NoSymbol,        onehalf,    twosuperior ] };
 	key <AE03> { [       NoSymbol,       NoSymbol,       sterling,  threesuperior ] };
 	key <AE04> { [       NoSymbol,       NoSymbol,     onequarter,  threequarters ] };
-	key <AE07> { [       NoSymbol,       NoSymbol,          U03F0                 ] };
+	key <AE06> { [       NoSymbol,       NoSymbol,          U03F0                 ] };
+	key <AE07> { [       NoSymbol,       NoSymbol,          U03D7,          U03CF ] };
+	key <AE08> { [       NoSymbol,       NoSymbol,          U20AF                 ] };
 	key <AE10> { [       NoSymbol,       NoSymbol,         degree                 ] };
+	key <AE11> { [       NoSymbol,       NoSymbol,      plusminus                 ] };
 };
 
 partial alphanumeric_keys alternate_group
@@ -212,7 +216,7 @@ xkb_symbols "colemak" {
     key <AD06> { [              Greek_xi,       Greek_XI,          U037C,      U03FE ] };
     key <AD07> { [           Greek_lamda,    Greek_LAMDA,          U03F2,      U03F9 ] };
     key <AD08> { [           Greek_theta,    Greek_THETA,          U03D1,      U03F4 ] };
-    key <AD09> { [         Greek_upsilon,  Greek_UPSILON                             ] };
+    key <AD09> { [         Greek_upsilon,  Greek_UPSILON,          U03D2,      U03D2 ] };
     key <AD10> { [            dead_acute, dead_diaeresis,     dead_acute, dead_psili ] };
 
     key <AC01> { [           Greek_alpha,    Greek_ALPHA                             ] };
