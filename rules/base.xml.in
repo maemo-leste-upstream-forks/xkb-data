@@ -2574,7 +2574,16 @@
           <iso639Id>mya</iso639Id>
         </languageList>
       </configItem>
-      <variantList/>
+      <variantList>
+        <variant>
+          <configItem>
+            <name>zawgyi</name>
+
+                <_shortDescription>zg</_shortDescription>
+            <_description>Burmse Zawgyi</_description>
+          </configItem>
+        </variant>
+      </variantList>
     </layout>
     <layout>
       <configItem>
