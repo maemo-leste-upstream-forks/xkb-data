@@ -2367,6 +2367,15 @@
             </languageList>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>altgr-pinyin</name>
+            <_description>Hanyu Pinyin (altgr)</_description>
+            <languageList>
+              <iso639Id>chi</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
