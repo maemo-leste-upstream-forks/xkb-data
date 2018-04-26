@@ -4931,6 +4931,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>us</name>
+            <_description>Swedish (US, with Swedish letters)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>swl</name>
             <_description>Swedish Sign Language</_description>
             <languageList>
