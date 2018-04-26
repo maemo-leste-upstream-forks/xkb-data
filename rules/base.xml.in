@@ -2587,9 +2587,8 @@
         <variant>
           <configItem>
             <name>zawgyi</name>
-
-                <_shortDescription>zg</_shortDescription>
-            <_description>Burmse Zawgyi</_description>
+            <_shortDescription>zg</_shortDescription>
+            <_description>Burmese Zawgyi</_description>
           </configItem>
         </variant>
       </variantList>
