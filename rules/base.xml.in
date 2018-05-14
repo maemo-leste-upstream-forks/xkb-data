@@ -12,7 +12,7 @@
     <model>
       <configItem>
         <name>pc102</name>
-        <_description>Generic 101-key PC (intl.)</_description>
+        <_description>Generic 102-key PC (intl.)</_description>
         <vendor>Generic</vendor>
       </configItem>
     </model>
