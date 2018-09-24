@@ -7257,12 +7257,6 @@
       </configItem>
       <option>
         <configItem>
-          <name>korean:hw_keys</name>
-          <_description>Hardware Hangul/Hanja keys</_description>
-        </configItem>
-      </option>
-      <option>
-        <configItem>
           <name>korean:ralt_rctrl</name>
           <_description>Right Alt as Hangul, right Ctrl as Hanja</_description>
         </configItem>
