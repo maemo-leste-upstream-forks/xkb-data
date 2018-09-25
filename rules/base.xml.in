@@ -3944,6 +3944,15 @@
             </languageList>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>latin</name>
+            <_description>Kazakh (Latin)</_description>
+            <languageList>
+              <iso639Id>kaz</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
