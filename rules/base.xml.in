@@ -7259,7 +7259,7 @@
        </configItem>
       </option>
     </group>
-    <group allowMultipleSelection="true">
+    <group allowMultipleSelection="false">
       <configItem>
         <name>korean</name>
         <_description>Korean Hangul/Hanja keys</_description>
