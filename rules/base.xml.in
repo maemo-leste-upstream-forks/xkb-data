@@ -5485,6 +5485,12 @@
             <_description>Vietnamese (US keyboard with Vietnamese letters)</_description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>fr</name>
+            <_description>Vietnamese (French, with Vietnamese letters)</_description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
@@ -5519,7 +5525,6 @@
           <iso639Id>jpn</iso639Id>
         </languageList>
       </configItem>
-      <variantList/>
     </layout>
     <layout>
       <configItem>
