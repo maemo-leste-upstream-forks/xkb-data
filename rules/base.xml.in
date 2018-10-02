@@ -3227,6 +3227,12 @@
             </languageList>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>us</name>
+            <_description>French (US keyboard with French letters)</_description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
