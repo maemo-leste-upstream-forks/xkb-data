@@ -1140,6 +1140,12 @@
             <_description>Vietnamese (AÐERTY)</_description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>qderty</name>
+            <_description>Vietnamese (QĐERTY)</_description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
