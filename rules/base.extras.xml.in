@@ -579,7 +579,7 @@
         <variant>
           <configItem>
             <name>unipunct</name>
-            <_description>Russian (with US punctuation and some 3rd-layer keys)</_description>
+            <_description>Russian (with US punctuation)</_description>
           </configItem>
         </variant>
         <variant>
@@ -859,6 +859,12 @@
           <configItem>
             <name>sun_type6</name>
             <_description>French (Sun Type 6/7)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>us-alt</name>
+            <_description>French (US, with French letters, with dead keys, alternative)</_description>
           </configItem>
         </variant>
       </variantList>

@@ -1104,3 +1104,30 @@ xkb_symbols "azerty" {
     key <AB09>	{ [ 	colon,		slash					] };
     key <AB10>	{ [	exclam,		section					] };
 };
+
+// US keyboard made French (with dead keys, alternative)
+//
+// Copyright (C) 2018, Florent Gallaire <f@gallai.re>
+
+partial alphanumeric_keys
+xkb_symbols "us-alt" {
+
+    include "us(euro)"
+    name[Group1]= "French (US, with French letters, with dead keys, alternative)";
+
+    key <AB03> { [         c,          C,      ccedilla,         Ccedilla ] }; // ç Ç
+
+    key <AC01> { [         a,          A,            ae,               AE ] }; // æ Æ
+    key <AC11> { [dead_diaeresis, quotedbl,  apostrophe ] };
+
+    key <AD03> { [         e,          E,        eacute,           Eacute ] }; // é É
+    key <AD09> { [         o,          O,            oe,               OE ] }; // œ Œ
+    key <AD11> { [ bracketleft,  braceleft,  guillemotleft,  leftdoublequotemark ] }; // « “
+    key <AD12> { [bracketright, braceright, guillemotright, rightdoublequotemark ] }; // » ”
+
+    key <TLDE> { [dead_grave, asciitilde,         grave ] };
+    key <AE06> { [dead_circumflex, asciicircum,       6 ] };
+    key <AE04> { [         4,     dollar,      EuroSign,         currency ] }; // € ¤
+
+};
+
