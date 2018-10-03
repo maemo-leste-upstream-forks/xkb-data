@@ -5488,7 +5488,7 @@
         <variant>
           <configItem>
             <name>us</name>
-            <_description>Vietnamese (US keyboard with Vietnamese letters)</_description>
+            <_description>Vietnamese (US, with Vietnamese letters)</_description>
           </configItem>
         </variant>
         <variant>

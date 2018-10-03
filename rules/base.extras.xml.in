@@ -1125,6 +1125,25 @@
     </layout>
     <layout>
       <configItem>
+        <name>vn</name>
+        <!-- Keyboard indicator for Vietnamese layouts -->
+        <_shortDescription>vi</_shortDescription>
+        <_description>Vietnamese</_description>
+        <languageList>
+          <iso639Id>vie</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList>
+        <variant>
+          <configItem>
+            <name>aderty</name>
+            <_description>Vietnamese (AÐERTY)</_description>
+          </configItem>
+        </variant>
+      </variantList>
+    </layout>
+    <layout>
+      <configItem>
         <name>eu</name>
         <!-- Keyboard indicator for European layouts -->
         <_shortDescription>eu</_shortDescription>
