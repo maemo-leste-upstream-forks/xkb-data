@@ -5772,8 +5772,20 @@
         </variant>
         <variant>
           <configItem>
+            <name>left_hand_invert</name>
+            <_description>Braille (left-handed inverted thumb)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>right_hand</name>
             <_description>Braille (right-handed)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>right_hand_invert</name>
+            <_description>Braille (right-handed inverted thumb)</_description>
           </configItem>
         </variant>
       </variantList>
