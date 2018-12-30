@@ -1316,6 +1316,13 @@
        <vendor>SteelSeries</vendor>
      </configItem>
     </model>
+    <model>
+      <configItem>
+       <name>chromebook</name>
+       <_description>Chromebook</_description>
+       <vendor>Google</vendor>
+     </configItem>
+    </model>
   </modelList>
   <layoutList>
     <layout>
