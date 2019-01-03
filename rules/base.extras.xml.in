@@ -867,6 +867,12 @@
             <_description>French (US, with French letters, with dead keys, alternative)</_description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>us-azerty</name>
+            <_description>French (US, AZERTY)</_description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
