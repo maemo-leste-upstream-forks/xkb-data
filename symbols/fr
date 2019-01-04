@@ -986,7 +986,11 @@ partial alphanumeric_keys
 xkb_symbols "us" {
 
     include "us(euro)"
-    name[Group1]= "French (US keyboard with French letters)";
+    name[Group1]= "French (US, with French letters)";
+
+
+    key <TLDE> { [     grave, asciitilde,    dead_grave                   ] };
+    key <AE06> { [         6,asciicircum,dead_circumflex                  ] };
 
     key <AB01> { [	   z,          Z,   acircumflex,      Acircumflex ] }; // â Â
     key <AB03> { [	   c,          C,      ccedilla,         Ccedilla ] }; // ç Ç
@@ -998,6 +1002,7 @@ xkb_symbols "us" {
     key <AC06> { [	   h,          H,    udiaeresis,       Udiaeresis ] }; // ü Ü
     key <AC07> { [	   j,          J,   ucircumflex,      Ucircumflex ] }; // û Û
     key <AC08> { [	   k,          K,   icircumflex,      Icircumflex ] }; // î Î
+    key <AC11> { [apostrophe,   quotedbl,dead_diaeresis                   ] };
 
     key <AD03> { [	   e,          E,        eacute,           Eacute ] }; // é É
     key <AD04> { [	   r,          R,        egrave,           Egrave ] }; // è È

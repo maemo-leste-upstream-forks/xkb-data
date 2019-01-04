@@ -3237,7 +3237,7 @@
         <variant>
           <configItem>
             <name>us</name>
-            <_description>French (US keyboard with French letters)</_description>
+            <_description>French (US, with French letters)</_description>
           </configItem>
         </variant>
       </variantList>
