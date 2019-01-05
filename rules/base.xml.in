@@ -5170,6 +5170,7 @@
         <variant>
           <configItem>
             <name>us</name>
+            <!-- Keyboard indicator for US layouts -->
             <_shortDescription>us</_shortDescription>
             <_description>Sinhala (US, with Sinhala letters)</_description>
           </configItem>
