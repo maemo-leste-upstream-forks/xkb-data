@@ -4048,6 +4048,18 @@
             <_description>Spanish (Latin American, Dvorak)</_description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>colemak</name>
+            <_description>Spanish (Latin American, Colemak)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>colemak-gaming</name>
+            <_description>Spanish (Latin American, Colemak for gaming)</_description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
