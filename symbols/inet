@@ -220,6 +220,7 @@ xkb_symbols "evdev" {
 
     key <I372>  {       [ XF86Favorites          ]       };
     key <I382>  {       [ XF86Keyboard           ]       };
+    key <I569>  {       [ XF86RotationLockToggle ]       };
 
     key <FK13>   {      [ XF86Tools         ]       };
     key <FK14>   {      [ XF86Launch5       ]       };
