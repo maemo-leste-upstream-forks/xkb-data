@@ -1,4 +1,4 @@
-xkeyboard-config (2.26-1) UNRELEASED; urgency=medium
+xkeyboard-config (2.26-1) unstable; urgency=medium
 
   * New upstream release.
     - Map evdev keycodes KEY_RFKILL and KEY_WWAN to XF86RFKill and
@@ -13,7 +13,7 @@ xkeyboard-config (2.26-1) UNRELEASED; urgency=medium
   * Set source format to 1.0.
   * Bump standards version to 4.3.0.
 
- -- Andreas Boll <aboll@debian.org>  Fri, 08 Feb 2019 21:20:35 +0100
+ -- Andreas Boll <aboll@debian.org>  Fri, 08 Feb 2019 22:27:41 +0100
 
 xkeyboard-config (2.23.1-1) unstable; urgency=medium
 
