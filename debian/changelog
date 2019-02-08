@@ -5,6 +5,7 @@ xkeyboard-config (2.26-1) UNRELEASED; urgency=medium
       XF86WWAN (Closes: #917157).
     - allowMultipleSelection is wrong in korean data (Closes: #902234).
   * Drop fix-typo.diff, upstreamed.
+  * Cherry-pick af6c0f29 (Fixed broken pt layout) from upstream.
 
  -- Andreas Boll <aboll@debian.org>  Fri, 08 Feb 2019 21:20:35 +0100
 
