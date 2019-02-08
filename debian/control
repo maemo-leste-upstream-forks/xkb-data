@@ -1,6 +1,6 @@
 Source: xkeyboard-config
 Section: x11
-Priority: extra
+Priority: optional
 Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
 Build-Depends:
  debhelper (>= 10),
