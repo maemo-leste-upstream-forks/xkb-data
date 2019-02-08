@@ -10,6 +10,7 @@ xkeyboard-config (2.26-1) UNRELEASED; urgency=medium
   * Update Vcs-* URLs to point to salsa.debian.org.
   * Bump debhelper compat to 10.
   * Raise Priority to optional.
+  * Set source format to 1.0.
 
  -- Andreas Boll <aboll@debian.org>  Fri, 08 Feb 2019 21:20:35 +0100
 
