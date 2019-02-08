@@ -12,7 +12,7 @@ Build-Depends-Indep:
  intltool,
  xsltproc,
  xutils-dev (>= 1:7.6+2),
-Standards-Version: 3.9.8
+Standards-Version: 4.3.0
 Vcs-Git: https://salsa.debian.org/xorg-team/data/xkb-data.git
 Vcs-Browser: https://salsa.debian.org/xorg-team/data/xkb-data
 Homepage: https://www.freedesktop.org/Software/XKeyboardConfig
