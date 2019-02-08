@@ -578,6 +578,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>unipunct</name>
+            <_description>Russian (with US punctuation)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>prxn</name>
             <_shortDescription>ru</_shortDescription>
             <_description>Russian (Polyglot and Reactionary)</_description>
@@ -855,6 +861,18 @@
             <_description>French (Sun Type 6/7)</_description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>us-alt</name>
+            <_description>French (US, with French letters, with dead keys, alternative)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>us-azerty</name>
+            <_description>French (US, AZERTY)</_description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
@@ -868,6 +886,12 @@
           <configItem>
             <name>sun_type6</name>
             <_description>Greek (Sun Type 6/7)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>colemak</name>
+            <_description>Greek (Colemak)</_description>
           </configItem>
         </variant>
       </variantList>
@@ -960,6 +984,21 @@
           <configItem>
             <name>sun_type6</name>
             <_description>Portuguese (Sun Type 6/7)</_description>
+          </configItem>
+        </variant>
+      </variantList>
+    </layout>
+    <layout>
+      <configItem>
+        <name>pt</name>
+        <_shortDescription>pt</_shortDescription>
+        <_description>Portuguese</_description>
+      </configItem>
+      <variantList>
+        <variant>
+          <configItem>
+            <name>colemak</name>
+            <_description>Portuguese (Colemak)</_description>
           </configItem>
         </variant>
       </variantList>
@@ -1107,10 +1146,35 @@
     </layout>
     <layout>
       <configItem>
+        <name>vn</name>
+        <!-- Keyboard indicator for Vietnamese layouts -->
+        <_shortDescription>vi</_shortDescription>
+        <_description>Vietnamese</_description>
+        <languageList>
+          <iso639Id>vie</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList>
+        <variant>
+          <configItem>
+            <name>aderty</name>
+            <_description>Vietnamese (AÐERTY)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>qderty</name>
+            <_description>Vietnamese (QĐERTY)</_description>
+          </configItem>
+        </variant>
+      </variantList>
+    </layout>
+    <layout>
+      <configItem>
         <name>eu</name>
         <!-- Keyboard indicator for European layouts -->
         <_shortDescription>eu</_shortDescription>
-        <_description>EurKEY (US based layout with european letters)</_description>
+        <_description>EurKEY (US based layout with European letters)</_description>
           <languageList>
             <iso639Id>cat</iso639Id>
             <iso639Id>dan</iso639Id>

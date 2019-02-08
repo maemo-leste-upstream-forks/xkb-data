@@ -12,7 +12,7 @@
     <model>
       <configItem>
         <name>pc102</name>
-        <_description>Generic 101-key PC (intl.)</_description>
+        <_description>Generic 102-key PC (intl.)</_description>
         <vendor>Generic</vendor>
       </configItem>
     </model>
@@ -1316,6 +1316,27 @@
        <vendor>SteelSeries</vendor>
      </configItem>
     </model>
+    <model>
+      <configItem>
+       <name>chromebook</name>
+       <_description>Chromebook</_description>
+       <vendor>Google</vendor>
+     </configItem>
+    </model>
+    <model>
+      <configItem>
+       <name>teck227</name>
+       <_description>Truly Ergonomic Computer Keyboard Model 227 (Wide Alt keys)</_description>
+       <vendor>Megawin Technology</vendor>
+     </configItem>
+    </model>
+    <model>
+      <configItem>
+       <name>teck229</name>
+       <_description>Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, additional Super and Menu key)</_description>
+       <vendor>Megawin Technology</vendor>
+     </configItem>
+    </model>
   </modelList>
   <layoutList>
     <layout>
@@ -1981,6 +2002,17 @@
         </variant>
         <variant>
           <configItem>
+            <name>kan-kagapa</name>
+            <!-- Keyboard indicator for Kannada layouts -->
+            <_shortDescription>kn</_shortDescription>
+            <_description>Kannada (KaGaPa phonetic)</_description>
+            <languageList>
+              <iso639Id>kan</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>mal</name>
             <!-- Keyboard indicator for Malayalam layouts -->
             <_shortDescription>ml</_shortDescription>
@@ -2039,10 +2071,10 @@
         </variant>
         <variant>
           <configItem>
-            <name>tam_unicode</name>
+            <name>tam_tamilnet</name>
             <!-- Keyboard indicator for Tamil layouts -->
             <_shortDescription>ta</_shortDescription>
-            <_description>Tamil (Unicode)</_description>
+            <_description>Tamil (TamilNet '99)</_description>
             <languageList>
               <iso639Id>tam</iso639Id>
             </languageList>
@@ -2050,10 +2082,10 @@
         </variant>
         <variant>
           <configItem>
-            <name>tam_keyboard_with_numerals</name>
+            <name>tam_tamilnet_with_tam_nums</name>
             <!-- Keyboard indicator for Tamil layouts -->
             <_shortDescription>ta</_shortDescription>
-            <_description>Tamil (keyboard with numerals)</_description>
+            <_description>Tamil (TamilNet '99 with Tamil numerals)</_description>
             <languageList>
               <iso639Id>tam</iso639Id>
             </languageList>
@@ -2061,10 +2093,10 @@
         </variant>
         <variant>
           <configItem>
-            <name>tam_TAB</name>
+            <name>tam_tamilnet_TAB</name>
             <!-- Keyboard indicator for Tamil layouts -->
             <_shortDescription>ta</_shortDescription>
-            <_description>Tamil (TAB typewriter)</_description>
+            <_description>Tamil (TamilNet '99, TAB encoding)</_description>
             <languageList>
               <iso639Id>tam</iso639Id>
             </languageList>
@@ -2072,10 +2104,10 @@
         </variant>
         <variant>
           <configItem>
-            <name>tam_TSCII</name>
+            <name>tam_tamilnet_TSCII</name>
             <!-- Keyboard indicator for Tamil layouts -->
             <_shortDescription>ta</_shortDescription>
-            <_description>Tamil (TSCII typewriter)</_description>
+            <_description>Tamil (TamilNet '99, TSCII encoding)</_description>
             <languageList>
               <iso639Id>tam</iso639Id>
             </languageList>
@@ -2086,7 +2118,7 @@
             <name>tam</name>
             <!-- Keyboard indicator for Tamil layouts -->
             <_shortDescription>ta</_shortDescription>
-            <_description>Tamil</_description>
+            <_description>Tamil (Inscript)</_description>
             <languageList>
               <iso639Id>tam</iso639Id>
             </languageList>
@@ -2120,6 +2152,17 @@
             <!-- Keyboard indicator for Telugu layouts -->
             <_shortDescription>te</_shortDescription>
             <_description>Telugu (Sarala)</_description>
+            <languageList>
+              <iso639Id>tel</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>tel-kagapa</name>
+            <!-- Keyboard indicator for Telugu layouts -->
+            <_shortDescription>te</_shortDescription>
+            <_description>Telugu (KaGaPa phonetic)</_description>
             <languageList>
               <iso639Id>tel</iso639Id>
             </languageList>
@@ -2574,7 +2617,15 @@
           <iso639Id>mya</iso639Id>
         </languageList>
       </configItem>
-      <variantList/>
+      <variantList>
+        <variant>
+          <configItem>
+            <name>zawgyi</name>
+            <_shortDescription>zg</_shortDescription>
+            <_description>Burmese Zawgyi</_description>
+          </configItem>
+        </variant>
+      </variantList>
     </layout>
     <layout>
       <configItem>
@@ -2693,6 +2744,15 @@
             <_description>Uyghur</_description>
             <languageList>
               <iso639Id>uig</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>altgr-pinyin</name>
+            <_description>Hanyu Pinyin (altgr)</_description>
+            <languageList>
+              <iso639Id>chi</iso639Id>
             </languageList>
           </configItem>
         </variant>
@@ -3208,6 +3268,12 @@
             <languageList>
               <iso639Id>geo</iso639Id>
             </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>us</name>
+            <_description>French (US, with French letters)</_description>
           </configItem>
         </variant>
       </variantList>
@@ -3927,6 +3993,15 @@
             </languageList>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>latin</name>
+            <_description>Kazakh (Latin)</_description>
+            <languageList>
+              <iso639Id>kaz</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
@@ -4007,6 +4082,18 @@
           <configItem>
             <name>dvorak</name>
             <_description>Spanish (Latin American, Dvorak)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>colemak</name>
+            <_description>Spanish (Latin American, Colemak)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>colemak-gaming</name>
+            <_description>Spanish (Latin American, Colemak for gaming)</_description>
           </configItem>
         </variant>
       </variantList>
@@ -4493,6 +4580,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>phonetic_yazherty</name>
+            <_description>Russian (phonetic yazherty)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>typewriter</name>
             <_description>Russian (typewriter)</_description>
           </configItem>
@@ -4913,6 +5006,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>us</name>
+            <_description>Swedish (US, with Swedish letters)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>swl</name>
             <_description>Swedish Sign Language</_description>
             <languageList>
@@ -5107,7 +5206,7 @@
             <name>tam_unicode</name>
             <!-- Keyboard indicator for Tamil layouts -->
             <_shortDescription>ta</_shortDescription>
-            <_description>Tamil (Sri Lanka, Unicode)</_description>
+            <_description>Tamil (Sri Lanka, TamilNet '99)</_description>
             <languageList>
               <iso639Id>tam</iso639Id>
             </languageList>
@@ -5116,7 +5215,7 @@
         <variant>
           <configItem>
             <name>tam_TAB</name>
-            <_description>Tamil (Sri Lanka, TAB Typewriter)</_description>
+            <_description>Tamil (Sri Lanka, TamilNet '99, TAB encoding)</_description>
             <languageList>
               <iso639Id>tam</iso639Id>
             </languageList>
@@ -5125,6 +5224,7 @@
         <variant>
           <configItem>
             <name>us</name>
+            <!-- Keyboard indicator for US layouts -->
             <_shortDescription>us</_shortDescription>
             <_description>Sinhala (US, with Sinhala letters)</_description>
           </configItem>
@@ -5415,6 +5515,17 @@
             <_description>English (UK, Colemak)</_description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>pl</name>
+            <!-- Keyboard indicator for Polish layouts -->
+            <_shortDescription>pl</_shortDescription>
+            <_description>Polish (British keyboard)</_description>
+            <languageList>
+              <iso639Id>pol</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
@@ -5446,7 +5557,20 @@
           <iso639Id>vie</iso639Id>
         </languageList>
       </configItem>
-      <variantList/>
+      <variantList>
+        <variant>
+          <configItem>
+            <name>us</name>
+            <_description>Vietnamese (US, with Vietnamese letters)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>fr</name>
+            <_description>Vietnamese (French, with Vietnamese letters)</_description>
+          </configItem>
+        </variant>
+      </variantList>
     </layout>
     <layout>
       <configItem>
@@ -5480,7 +5604,6 @@
           <iso639Id>jpn</iso639Id>
         </languageList>
       </configItem>
-      <variantList/>
     </layout>
     <layout>
       <configItem>
@@ -5715,8 +5838,20 @@
         </variant>
         <variant>
           <configItem>
+            <name>left_hand_invert</name>
+            <_description>Braille (left-handed inverted thumb)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>right_hand</name>
             <_description>Braille (right-handed)</_description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>right_hand_invert</name>
+            <_description>Braille (right-handed inverted thumb)</_description>
           </configItem>
         </variant>
       </variantList>
@@ -7227,17 +7362,11 @@
        </configItem>
       </option>
     </group>
-    <group allowMultipleSelection="true">
+    <group allowMultipleSelection="false">
       <configItem>
         <name>korean</name>
         <_description>Korean Hangul/Hanja keys</_description>
       </configItem>
-      <option>
-        <configItem>
-          <name>korean:hw_keys</name>
-          <_description>Hardware Hangul/Hanja keys</_description>
-        </configItem>
-      </option>
       <option>
         <configItem>
           <name>korean:ralt_rctrl</name>
