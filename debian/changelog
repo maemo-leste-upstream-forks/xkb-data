@@ -4,6 +4,7 @@ xkeyboard-config (2.26-1) UNRELEASED; urgency=medium
     - Map evdev keycodes KEY_RFKILL and KEY_WWAN to XF86RFKill and
       XF86WWAN (Closes: #917157).
     - allowMultipleSelection is wrong in korean data (Closes: #902234).
+  * Drop fix-typo.diff, upstreamed.
 
  -- Andreas Boll <aboll@debian.org>  Fri, 08 Feb 2019 21:20:35 +0100
 
