@@ -35,4 +35,4 @@ override_dh_quilt_unpatch:
 	touch rules/base.o_k.part
 
 %:
-	dh $@ --with quilt,autoreconf --builddirectory=build/
+	dh $@ --with quilt --builddirectory=build/
