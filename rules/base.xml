@@ -6588,6 +6588,12 @@
       </option>
       <option>
         <configItem>
+          <name>ctrl:swapcaps_hyper</name>
+          <_description>Caps Lock as Control, Control as Hyper</_description>
+        </configItem>
+      </option>
+      <option>
+        <configItem>
           <name>ctrl:ac_ctrl</name>
           <description>At left of 'A'</description>
         </configItem>
