@@ -3248,6 +3248,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>afnor</name>
+            <description>French (AFNOR standardized AZERTY)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>bre</name>
             <description>French (Breton)</description>
           </configItem>
