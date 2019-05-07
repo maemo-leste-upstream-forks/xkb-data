@@ -223,7 +223,7 @@ base: $(base_parts)
 evdev: $(evdev_parts)
 	HDR="$(srcdir)/HDR" $(srcdir)/merge.sh $@ $(evdev_parts)
 
-dist_files = xkb.dtd README
+dist_files = xkb.dtd xkb.its README
 
 rules_DATA = $(rules_files) $(lst_files) $(dist_files)
 
