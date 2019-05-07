@@ -235,12 +235,11 @@ $(srcdir)/evdev.xml: base.xml
 $(srcdir)/evdev.extras.xml: base.extras.xml
 	cp $(srcdir)/base.extras.xml $@
 
-EXTRA_DIST= xfree98 \
+EXTRA_DIST= $(xml_DATA) xfree98 \
             $(all_parts_dist) \
             xml2lst.pl merge.sh $(dist_files)
 
-CLEANFILES = base base.xml base.lst evdev evdev.xml evdev.lst base.extras.xml evdev.extras.xml
-MAINTAINERCLEANFILES = $(srcdir)/evdev.xml.in $(srcdir)/evdev.extras.xml.in
+CLEANFILES = base base.lst evdev evdev.lst
 
 rulesdir = $(xkb_base)/rules
 xmldir = $(rulesdir)
