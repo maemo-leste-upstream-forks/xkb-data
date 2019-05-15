@@ -786,6 +786,18 @@
             <description>Czech (Sun Type 6/7)</description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>prog</name>
+            <description>Czech (programming)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>typo</name>
+            <description>Czech (typographic)</description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
