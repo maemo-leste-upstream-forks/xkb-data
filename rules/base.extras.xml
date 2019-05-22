@@ -437,6 +437,18 @@
         </variant>
         <variant>
           <configItem>
+            <name>3l</name>
+            <description>English (3l)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>3l-cros</name>
+            <description>English (3l, chromebook)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>scn</name>
             <description>Sicilian (US keyboard)</description>
             <languageList>
