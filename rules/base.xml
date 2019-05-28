@@ -6965,6 +6965,12 @@
       </option>
       <option>
         <configItem>
+          <name>altwin:menu_win</name>
+          <description>Menu is mapped to Win</description>
+        </configItem>
+      </option>
+      <option>
+        <configItem>
           <name>altwin:meta_alt</name>
           <description>Alt and Meta are on Alt</description>
         </configItem>
