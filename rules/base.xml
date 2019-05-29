@@ -3875,6 +3875,15 @@
             </languageList>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>fur</name>
+            <description>Friulian (Italy)</description>
+            <languageList>
+              <iso639Id>fur</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
