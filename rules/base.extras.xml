@@ -1003,14 +1003,14 @@
     <layout>
       <configItem>
         <name>pt</name>
-        <_shortDescription>pt</_shortDescription>
-        <_description>Portuguese</_description>
+        <shortDescription>pt</shortDescription>
+        <description>Portuguese</description>
       </configItem>
       <variantList>
         <variant>
           <configItem>
             <name>colemak</name>
-            <_description>Portuguese (Colemak)</_description>
+            <description>Portuguese (Colemak)</description>
           </configItem>
         </variant>
       </variantList>

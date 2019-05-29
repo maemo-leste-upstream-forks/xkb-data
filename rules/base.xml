@@ -2004,8 +2004,8 @@
           <configItem>
             <name>kan-kagapa</name>
             <!-- Keyboard indicator for Kannada layouts -->
-            <_shortDescription>kn</_shortDescription>
-            <_description>Kannada (KaGaPa phonetic)</_description>
+            <shortDescription>kn</shortDescription>
+            <description>Kannada (KaGaPa phonetic)</description>
             <languageList>
               <iso639Id>kan</iso639Id>
             </languageList>
@@ -2161,8 +2161,8 @@
           <configItem>
             <name>tel-kagapa</name>
             <!-- Keyboard indicator for Telugu layouts -->
-            <_shortDescription>te</_shortDescription>
-            <_description>Telugu (KaGaPa phonetic)</_description>
+            <shortDescription>te</shortDescription>
+            <description>Telugu (KaGaPa phonetic)</description>
             <languageList>
               <iso639Id>tel</iso639Id>
             </languageList>
@@ -4581,7 +4581,7 @@
         <variant>
           <configItem>
             <name>phonetic_yazherty</name>
-            <_description>Russian (phonetic yazherty)</_description>
+            <description>Russian (phonetic yazherty)</description>
           </configItem>
         </variant>
         <variant>
@@ -5519,8 +5519,8 @@
           <configItem>
             <name>pl</name>
             <!-- Keyboard indicator for Polish layouts -->
-            <_shortDescription>pl</_shortDescription>
-            <_description>Polish (British keyboard)</_description>
+            <shortDescription>pl</shortDescription>
+            <description>Polish (British keyboard)</description>
             <languageList>
               <iso639Id>pol</iso639Id>
             </languageList>
