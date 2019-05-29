@@ -6826,6 +6826,12 @@
       </option>
       <option>
         <configItem>
+          <name>caps:escape_shifted_capslock</name>
+          <description>Make unmodified Caps Lock an additional Esc, but Shift + Caps Lock behaves like regular Caps Lock</description>
+        </configItem>
+      </option>
+      <option>
+        <configItem>
           <name>caps:backspace</name>
           <description>Make Caps Lock an additional Backspace</description>
         </configItem>
