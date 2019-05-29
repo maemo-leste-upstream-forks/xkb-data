@@ -4293,6 +4293,18 @@
             <description>Maltese (with US layout)</description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>alt-us</name>
+            <description>Maltese (US layout with AltGr overrides)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>alt-gb</name>
+            <description>Maltese (UK layout with AltGr overrides)</description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
