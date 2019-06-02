@@ -7279,6 +7279,18 @@
       </configItem>
       <option>
         <configItem>
+          <name>lv5:lsgt_switch</name>
+          <description>&lt;Less/Greater&gt; chooses 5th level</description>
+        </configItem>
+      </option>
+      <option>
+        <configItem>
+          <name>lv5:ralt_switch</name>
+          <description>Right Alt chooses 5th level</description>
+        </configItem>
+      </option>
+      <option>
+        <configItem>
           <name>lv5:lsgt_switch_lock</name>
           <description>&lt;Less/Greater&gt; chooses 5th level; acts as onetime lock when pressed together with another 5th level chooser</description>
         </configItem>
