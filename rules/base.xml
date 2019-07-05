@@ -2008,17 +2008,6 @@
         </variant>
         <variant>
           <configItem>
-            <name>kan-kagapa</name>
-            <!-- Keyboard indicator for Kannada layouts -->
-            <shortDescription>kn</shortDescription>
-            <description>Kannada (KaGaPa phonetic)</description>
-            <languageList>
-              <iso639Id>kan</iso639Id>
-            </languageList>
-          </configItem>
-        </variant>
-        <variant>
-          <configItem>
             <name>mal</name>
             <!-- Keyboard indicator for Malayalam layouts -->
             <shortDescription>ml</shortDescription>
