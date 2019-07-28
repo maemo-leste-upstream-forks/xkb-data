@@ -6321,7 +6321,7 @@
       <option>
         <configItem>
           <name>grp:rwin_switch</name>
-          <description>Left Win (while pressed)</description>
+          <description>Right Win (while pressed)</description>
         </configItem>
       </option>
       <option>
