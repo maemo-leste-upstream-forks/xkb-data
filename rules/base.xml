@@ -2719,6 +2719,71 @@
         </languageList>
       </configItem>
       <variantList>
+
+        <variant>
+          <configItem>
+            <name>mon_trad</name>
+            <description>Mongolian (Bichig)</description>
+            <languageList>
+              <iso639Id>mvf</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>mon_trad_todo</name>
+            <description>Mongolian Todo</description>
+            <languageList>
+              <iso639Id>mvf</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>mon_trad_xibe</name>
+            <description>Mongolian Xibe</description>
+            <languageList>
+              <iso639Id>sjo</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>mon_trad_manchu</name>
+            <description>Mongolian Manchu</description>
+            <languageList>
+              <iso639Id>mnc</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>mon_trad_galik</name>
+            <description>Mongolian Galik</description>
+            <languageList>
+              <iso639Id>mvf</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>mon_todo_galik</name>
+            <description>Mongolian Todo Galik</description>
+            <languageList>
+              <iso639Id>mvf</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>mon_manchu_galik</name>
+            <description>Mongolian Manchu Galik</description>
+            <languageList>
+              <iso639Id>mnc</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+
         <variant>
           <configItem>
             <name>tib</name>
