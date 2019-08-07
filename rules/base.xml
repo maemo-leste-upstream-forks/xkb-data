@@ -7478,21 +7478,33 @@
        </configItem>
       </option>
     </group>
-    <group allowMultipleSelection="false">
+    <group allowMultipleSelection="true">
       <configItem>
         <name>korean</name>
         <description>Korean Hangul/Hanja keys</description>
       </configItem>
       <option>
         <configItem>
-          <name>korean:ralt_rctrl</name>
-          <description>Right Alt as Hangul, right Ctrl as Hanja</description>
+          <name>korean:ralt_hangul</name>
+          <description>Make right Alt a Hangul key</description>
         </configItem>
       </option>
       <option>
         <configItem>
-          <name>korean:rctrl_ralt</name>
-          <description>Right Ctrl as Hangul, right Alt as Hanja</description>
+          <name>korean:rctrl_hangul</name>
+          <description>Make right Ctrl a Hangul key</description>
+        </configItem>
+      </option>
+      <option>
+        <configItem>
+          <name>korean:ralt_hanja</name>
+          <description>Make right Alt a Hanja key</description>
+        </configItem>
+      </option>
+      <option>
+        <configItem>
+          <name>korean:rctrl_hanja</name>
+          <description>Make right Ctrl a Hanja key</description>
         </configItem>
       </option>
     </group>
