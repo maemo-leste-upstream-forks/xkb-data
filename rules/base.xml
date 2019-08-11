@@ -3301,6 +3301,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>bepo_afnor</name>
+            <description>French (Bepo, ergonomic, Dvorak way, AFNOR)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>dvorak</name>
             <description>French (Dvorak)</description>
           </configItem>
