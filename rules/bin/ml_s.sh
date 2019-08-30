@@ -3,7 +3,7 @@
 INDIR=$1
 OUTFILE=base.ml_s.part
 
-> $OUTFILE
+echo "! model		layout				=	symbols" > $OUTFILE
 
 awk '{ 
   printf "  *		%s			=	pc+%s\n", $1, $2; 

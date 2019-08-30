@@ -1,7 +1,7 @@
 # vim: set expandtab shiftwidth=2 tabstop=8 textwidth=0:
 
 variables:
-  ARCH_PKGS: 'xorg-util-macros autoconf automake make gettext pkg-config gcc grep m4'
+  ARCH_PKGS: 'xorg-util-macros autoconf automake make gettext pkg-config gcc grep m4 python'
   BUILDDIR: '_build'
   INSTDIR: '$HOME/_inst'
   CONFIGURE_ARGS: ''

@@ -5,7 +5,7 @@ variant=$1
 INDIR=$2
 OUTFILE=base.ml${variant}_s.part
 
-> $OUTFILE
+echo "! model		layout[$variant]	=	symbols" > $OUTFILE
 
 awk '{
   if (index($2, "(") == 0) {

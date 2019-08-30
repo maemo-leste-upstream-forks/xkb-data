@@ -3,7 +3,7 @@
 INDIR=$1
 OUTFILE=base.ml1v1_s.part
 
-> $OUTFILE
+echo "! model		layout[1]	variant[1]	=	symbols" > $OUTFILE
 
 awk '{ 
   printf "  *		%s		%s		=	pc+%s(%s)\n", $1, $2, $3, $4; 

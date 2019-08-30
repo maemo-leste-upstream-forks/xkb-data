@@ -3,7 +3,7 @@
 INDIR=$1
 OUTFILE=base.ml1_s.part
 
-> $OUTFILE
+echo "! model		layout[1]			=	symbols" > $OUTFILE
 
 awk '{ 
   if (index($2, "(") == 0) {
