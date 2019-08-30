@@ -1476,6 +1476,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>norman</name>
+            <description>English (Norman)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>workman</name>
             <description>English (Workman)</description>
           </configItem>
