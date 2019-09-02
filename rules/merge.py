@@ -13,9 +13,9 @@ def merge(dest, files):
        ! model =  keycodes
     Where two sections have identical headers, the second header is skipped.
     '''
-    # section is the group that the next file will be added to, defined
-    # by the header of that file (e.g. ! model = keycodes)
-    section = None
+
+    sections = {}
+    section_names = []  # let's write out in the rough order of the Makefile.am
     for partsfile in files:
         # files may exist in srcdir or builddir, depending whether they're
         # generated
@@ -24,14 +24,24 @@ def merge(dest, files):
         with open(path) as fd:
             header = fd.readline()
             if header.startswith('! '):
-                if header != section:
-                    section = header
-                    dest.write('\n')
-                    dest.write(section)
+                # if we have a file that belongs to a section,
+                # keep it for later sorted writing
+                paths = sections.get(header, [])
+                paths.append(path)
+                sections[header] = paths
+                if header not in section_names:
+                    section_names.append(header)
             else:
-                section = None
                 dest.write(header)
-            dest.write(fd.read())
+                dest.write(fd.read())
+
+    for header in section_names:
+        dest.write('\n')
+        dest.write(header)
+        for f in sections[header]:
+            with open(f) as fd:
+                fd.readline()  # drop the header
+                dest.write(fd.read())
 
 
 if __name__ == '__main__':
