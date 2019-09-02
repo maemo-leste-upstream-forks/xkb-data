@@ -83,7 +83,6 @@ keycodes/Makefile
 keycodes/digital_vndr/Makefile
 keycodes/sgi_vndr/Makefile
 rules/Makefile
-rules/bin/Makefile
 rules/compat/Makefile
 symbols/Makefile
 symbols/digital_vndr/Makefile

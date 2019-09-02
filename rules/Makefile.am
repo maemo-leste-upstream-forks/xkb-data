@@ -1,4 +1,4 @@
-SUBDIRS = bin compat
+SUBDIRS = compat
 
 if CREATE_RULES_SYMLINK
 #  extra_rules_file = $(xkb_rules_symlink)
