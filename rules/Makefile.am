@@ -22,11 +22,11 @@ endif
 
 if USE_COMPAT_RULES
 
-base_parts = \
+parts = \
 	base.hdr.part base.lists.part \
-	base.lists.base.part \
+	RULESET.lists.base.part \
 	compat/base.lists.part \
-	base.m_k.part \
+	RULESET.m_k.part \
 	base.l1_k.part \
 	base.l_k.part \
 	base.o_k.part \
@@ -42,46 +42,8 @@ base_parts = \
 	compat/base.ml2v2_s.part  \
 	compat/base.ml3v3_s.part  \
 	compat/base.ml4v4_s.part  \
-	base.m_s.part \
-	base.ml_s1.part \
-	compat/base.lv_c.part   \
-	compat/base.l1v1_c.part \
-	compat/base.l2v2_c.part \
-	compat/base.l3v3_c.part \
-	compat/base.l4v4_c.part \
-	base.ml_c.part \
-	base.ml1_c.part \
-	base.m_t.part \
-	base.lo_s.part \
-	base.l1o_s.part \
-	base.l2o_s.part \
-	base.l3o_s.part \
-	base.l4o_s.part \
-	compat/base.o_s.part     base.o_s.part \
-	base.o_c.part \
-	base.o_t.part
-
-evdev_parts = \
-	base.hdr.part base.lists.part \
-	evdev.lists.part \
-	compat/base.lists.part \
-	evdev.m_k.part \
-	base.l1_k.part \
-	base.l_k.part \
-	base.o_k.part \
-	base.ml_g.part \
-	base.m_g.part \
-	compat/base.mlv_s.part   base.mlv_s.part \
-	compat/base.ml_s.part    base.ml_s.part  \
-	compat/base.ml1_s.part   base.ml1_s.part \
-	compat/base.ml1v1_s.part \
-	compat/base.ml2_s.part    base.ml2_s.part  \
-	compat/base.ml3_s.part    base.ml3_s.part  \
-	compat/base.ml4_s.part    base.ml4_s.part  \
-	compat/base.ml2v2_s.part  \
-	compat/base.ml3v3_s.part  \
-	compat/base.ml4v4_s.part  \
-	evdev.m_s.part \
+	RULESET.m_s.part \
+	RULESET.ml_s1.part \
 	compat/base.lv_c.part   \
 	compat/base.l1v1_c.part \
 	compat/base.l2v2_c.part \
@@ -101,10 +63,10 @@ evdev_parts = \
 
 else
 
-base_parts = \
+parts = \
 	base.hdr.part base.lists.part \
-	base.lists.base.part \
-	base.m_k.part \
+	RULESET.lists.base.part \
+	RULESET.m_k.part \
 	base.l1_k.part \
 	base.l_k.part \
 	base.ml_g.part \
@@ -115,34 +77,8 @@ base_parts = \
 	base.ml2_s.part  \
 	base.ml3_s.part  \
 	base.ml4_s.part  \
-	base.m_s.part \
-	base.ml_s1.part \
-	base.ml_c.part \
-	base.ml1_c.part \
-	base.m_t.part \
-	base.l1o_s.part \
-	base.l2o_s.part \
-	base.l3o_s.part \
-	base.l4o_s.part \
-	base.o_s.part \
-	base.o_c.part \
-	base.o_t.part
-
-evdev_parts = \
-	base.hdr.part base.lists.part \
-	evdev.lists.part \
-	evdev.m_k.part \
-	base.l1_k.part \
-	base.l_k.part  \
-	base.ml_g.part \
-	base.m_g.part \
-	base.mlv_s.part \
-	base.ml_s.part  \
-	base.ml1_s.part \
-	base.ml2_s.part  \
-	base.ml3_s.part  \
-	base.ml4_s.part  \
-	evdev.m_s.part \
+	RULESET.m_s.part \
+	RULESET.ml_s1.part \
 	base.ml_c.part \
 	base.ml1_c.part \
 	base.m_t.part \
@@ -159,7 +95,7 @@ endif
 all_parts_dist = base.hdr.part \
 	base.lists.part \
 	base.lists.base.part \
-	evdev.lists.part \
+	evdev.lists.base.part \
 	base.m_k.part \
 	base.l1_k.part \
 	base.l_k.part \
@@ -174,6 +110,7 @@ all_parts_dist = base.hdr.part \
 	base.ml4_s.part \
 	base.m_s.part \
 	base.ml_s1.part \
+	evdev.ml_s1.part \
 	base.ml_c.part \
 	base.ml1_c.part \
 	base.m_t.part \
@@ -197,10 +134,12 @@ SUFFIXES = .xml .lst
 .xml.lst:
 	perl $(srcdir)/xml2lst.pl < $< > $@
 
+base_parts=$(subst RULESET,base,$(parts))
 base: $(base_parts) merge.py
 	$(srcdir)/merge.py $@ $(srcdir) $(builddir) $(base_parts)
 
-evdev: $(evdev_parts) merge.py
+evdev_parts=$(subst RULESET,evdev,$(parts))
+evdev: $(evdev_sources) merge.py
 	$(srcdir)/merge.py $@ $(srcdir) $(builddir) $(evdev_parts)
 
 dist_files = xkb.dtd xkb.its README
