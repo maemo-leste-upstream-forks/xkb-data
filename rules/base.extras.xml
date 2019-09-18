@@ -798,6 +798,12 @@
             <description>Czech (typographic)</description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>coder</name>
+            <description>Czech (coder)</description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
