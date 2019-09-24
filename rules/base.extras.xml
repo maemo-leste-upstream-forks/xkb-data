@@ -798,6 +798,12 @@
             <description>Czech (coder)</description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>prog_typo</name>
+            <description>Czech (programming, typographic)</description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>

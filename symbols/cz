@@ -395,3 +395,21 @@ xkb_symbols "coder" {
 
     include "level3(ralt_switch)"
 };
+
+xkb_symbols "prog_typo" {
+    // cz-prog-typo 1.0 2019-06-17 by Viktor Grešák <vgresak@gmail.com> and Tomáš Hudec <Tommy.Hudec@gmail.com>
+    //
+    // Programmer + Typographic keyboard. Based on the US layout with accented Czech letters and dead keys.
+    // Using AltGr and a key from the 1st row generates original level 2 US key as level 3 except TLDE and AE12.
+    // Using AltGr+Shift on accented letters generates its uppercase variant.
+    // Using AltGr or AltGr+Shift on letters which have accent in Czech but are not on the 1st row directly accessible generate accented letters, 
+    // i.e. [d, D], [t, T], [n, N], [o, O] generate with AltGr and AltGr+Shift: [dcaron, Dcaron], [tcaron, Tcaron], [ncaron, Ncaron], [oacute, Oacute].
+    // Other Czech letters besides alphanumeric keys (like uacute, uring) are generated using AltGr.
+    //
+    // Contains typographic symbols in third and fourth level. 
+
+    name[group1]="Czech (programming, typographic)";
+
+    include "cz(prog)"
+    include "cz(typo)"
+};
