@@ -2886,6 +2886,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>qwerty-mac</name>
+            <description>Czech (QWERTY, Macintosh)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>ucw</name>
             <description>Czech (UCW, only accented letters)</description>
           </configItem>
