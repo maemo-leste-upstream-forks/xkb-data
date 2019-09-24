@@ -6250,7 +6250,7 @@
       <configItem>
         <name>id</name>
         <shortDescription>id</shortDescription>
-        <description>Indonesian (Jawi)</description>
+        <description>Indonesian (Arab Melayu, phonetic)</description>
         <languageList>
           <iso639Id>ind</iso639Id>
           <iso639Id>msa</iso639Id>
@@ -6261,7 +6261,14 @@
           <iso639Id>mfa</iso639Id>
         </languageList>
       </configItem>
-      <variantList></variantList>
+      <variantList>
+       <variant>
+         <configItem>
+          <name>phoneticx</name>
+            <description>Indonesian (Arab Melayu, ext. phonetic)</description>
+         </configItem>
+       </variant>
+      </variantList>
     </layout>
     <layout>
       <configItem>
