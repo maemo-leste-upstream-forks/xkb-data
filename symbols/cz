@@ -408,7 +408,7 @@ xkb_symbols "prog_typo" {
     //
     // Contains typographic symbols in third and fourth level. 
 
-    name[group1]="Czech (programming, typographic)";
+    name[Group1]="Czech (programming, typographic)";
 
     include "cz(prog)"
     include "cz(typo)"
