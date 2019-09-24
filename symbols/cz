@@ -264,7 +264,7 @@ xkb_symbols "prog" {
     // i.e. [d, D], [t, T], [n, N], [o, O] generate with AltGr and AltGr+Shift: [dcaron, Dcaron], [tcaron, Tcaron], [ncaron, Ncaron], [oacute, Oacute].
     // Other Czech letters besides alphanumeric keys (like uacute, uring) are generated using AltGr.
 
-    name[group1]="Czech (programming)";
+    name[Group1]="Czech (programming)";
 
     key <AB01> { [ z,	Z ] };
     key <AB02> { [ x,	X ] };
@@ -337,7 +337,7 @@ xkb_symbols "typo" {
     // Contains typographic symbols in third and fourth level. 
     // It is intended to be used in conjuction with other existing layout, e.g. setxkbmap -symbols "pc+cz(basic)+cz(typo)+inet(evdev)"
 
-    name[group1]="Czech (typographic)";
+    name[Group1]="Czech (typographic)";
 
     key <AB01> { [ NoSymbol,	NoSymbol,	degree,	U2300 ] };
     key <AB02> { [ NoSymbol,	NoSymbol,	multiply,	U22C5 ] };
