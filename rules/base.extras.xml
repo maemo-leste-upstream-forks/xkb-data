@@ -383,6 +383,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>drix</name>
+            <description>English (Drix)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>ibm238l</name>
             <description>English (US, IBM Arabic 238_L)</description>
           </configItem>
