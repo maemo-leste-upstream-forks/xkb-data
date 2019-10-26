@@ -85,6 +85,7 @@
   ctrl:lctrl_meta	=	+ctrl(lctrl_meta)
   ctrl:swapcaps		=	+ctrl(swapcaps)
   ctrl:swapcaps_hyper	=	+ctrl(swapcaps_hyper)
+  ctrl:swapcaps_and_switch_layout	=	+ctrl(swapcaps_and_switch_layout)
   ctrl:ac_ctrl		=	+ctrl(ac_ctrl)
   ctrl:aa_ctrl		=	+ctrl(aa_ctrl)
   ctrl:rctrl_ralt	=	+ctrl(rctrl_ralt)
