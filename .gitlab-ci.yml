@@ -3,7 +3,7 @@
 variables:
   ARCH_PKGS: 'xorg-util-macros autoconf automake make gettext pkg-config gcc grep m4 python'
   BUILDDIR: '_build'
-  INSTDIR: '$HOME/_inst'
+  INSTDIR: '$CI_PROJECT_DIR/_inst'
   CONFIGURE_ARGS: ''
   MAKE_EXTRA_ARG: ''
 
@@ -24,7 +24,7 @@ variables:
    - mkdir -p "$INSTDIR"
    - autoreconf -ivf
    - pushd "$BUILDDIR"
-   - ../configure --prefix="$PWD/../$INSTDIR" --disable-silent-rules --disable-runtime-deps "$CONFIGURE_ARGS"
+   - ../configure --prefix="$INSTDIR" --disable-silent-rules --disable-runtime-deps "$CONFIGURE_ARGS"
    - make
    - if test x"$MAKE_EXTRA_COMMAND" != "x"; then make $MAKE_EXTRA_COMMAND; fi
 
