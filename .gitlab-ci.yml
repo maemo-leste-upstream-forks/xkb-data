@@ -28,10 +28,6 @@ variables:
    - make
    - if test x"$MAKE_EXTRA_COMMAND" != "x"; then make $MAKE_EXTRA_COMMAND; fi
 
-make:
-  extends: .default_build
-  stage: build
-
 make_install:
   extends: .default_build
   stage: build
