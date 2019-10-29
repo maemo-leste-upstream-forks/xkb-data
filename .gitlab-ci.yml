@@ -32,6 +32,20 @@ make:
   extends: .default_build
   stage: build
 
+make_install:
+  extends: .default_build
+  stage: build
+  variables:
+      MAKE_EXTRA_COMMAND: "install"
+  after_script:
+    - pacman -S --noconfirm tree
+    - tree $INSTDIR
+  artifacts:
+    name: installed files
+    expire_in: 20 min
+    paths:
+      - $INSTDIR/
+
 make_check:
   extends: .default_build
   stage: build
@@ -43,3 +57,28 @@ make_distcheck:
   stage: build
   variables:
       MAKE_EXTRA_COMMAND: "distcheck"
+
+# download libxkbcommon and run its layout test program. This will
+# run a basic keymap compile test against every combination of
+# layout/variant/option. Syntax errors will fail the test, check the
+# archived file for details.
+layout_tests:
+  extends: .default_setup
+  stage: test
+  needs: ["make_install"]
+  script:
+    - pacman -S --noconfirm git meson bison gcc
+    - git clone https://github.com/xkbcommon/libxkbcommon
+    - pushd libxkbcommon > /dev/null
+    - meson builddir -Denable-wayland=false -Denable-x11=false -Denable-docs=false -Dxkb-config-root="$INSTDIR/share/X11/xkb"
+    - ninja -C builddir
+    - echo Running test script - this will take several minutes
+    - ./builddir/xkeyboard-config-test > $INSTDIR/xkeyboard-config-test.out
+    - popd > /dev/null
+  variables:
+    GIT_STRATEGY: none
+  artifacts:
+    name: xkeyboard-config test output
+    expire_in: 2 weeks
+    paths:
+    - $INSTDIR/xkeyboard-config-test.out
