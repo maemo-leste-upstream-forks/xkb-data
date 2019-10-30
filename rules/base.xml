@@ -1655,6 +1655,12 @@
             <description>Albanian (Plisi)</description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>veqilharxhi</name>
+            <description>Albanian (Veqilharxhi)</description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
