@@ -181,7 +181,7 @@
             </languageList>
           </configItem>
         </variant>
-	    <variant>
+        <variant>
           <configItem>
             <name>ru-translit</name>
             <!-- Keyboard indicator for Russian layouts -->
@@ -192,7 +192,7 @@
             </languageList>
           </configItem>
         </variant>
-	<variant>
+        <variant>
           <configItem>
             <name>lld</name>
             <description>German Ladin</description>
@@ -939,7 +939,7 @@
             <description>Italian (Sun Type 6/7)</description>
           </configItem>
         </variant>
-	<variant>
+        <variant>
           <configItem>
             <name>lld</name>
             <description>Italian Ladin</description>
@@ -1196,24 +1196,24 @@
         <!-- Keyboard indicator for European layouts -->
         <shortDescription>eu</shortDescription>
         <description>EurKEY (US based layout with European letters)</description>
-          <languageList>
-            <iso639Id>cat</iso639Id>
-            <iso639Id>dan</iso639Id>
-            <iso639Id>eng</iso639Id>
-            <iso639Id>est</iso639Id>
-            <iso639Id>fao</iso639Id>
-            <iso639Id>fin</iso639Id>
-            <iso639Id>ger</iso639Id>
-            <iso639Id>gre</iso639Id>
-            <iso639Id>gsw</iso639Id>
-            <iso639Id>ita</iso639Id>
-            <iso639Id>lav</iso639Id>
-            <iso639Id>lit</iso639Id>
-            <iso639Id>nld</iso639Id>
-            <iso639Id>nor</iso639Id>
-            <iso639Id>por</iso639Id>
-            <iso639Id>spa</iso639Id>
-            <iso639Id>swe</iso639Id>
+        <languageList>
+          <iso639Id>cat</iso639Id>
+          <iso639Id>dan</iso639Id>
+          <iso639Id>eng</iso639Id>
+          <iso639Id>est</iso639Id>
+          <iso639Id>fao</iso639Id>
+          <iso639Id>fin</iso639Id>
+          <iso639Id>ger</iso639Id>
+          <iso639Id>gre</iso639Id>
+          <iso639Id>gsw</iso639Id>
+          <iso639Id>ita</iso639Id>
+          <iso639Id>lav</iso639Id>
+          <iso639Id>lit</iso639Id>
+          <iso639Id>nld</iso639Id>
+          <iso639Id>nor</iso639Id>
+          <iso639Id>por</iso639Id>
+          <iso639Id>spa</iso639Id>
+          <iso639Id>swe</iso639Id>
         </languageList>
       </configItem>
     </layout>
@@ -1235,7 +1235,7 @@
     <layout>
       <configItem>
         <name>trans</name>
-          <!-- Keyboard layouts for transcription and transliteration systems -->
+        <!-- Keyboard layouts for transcription and transliteration systems -->
         <description>International Phonetic Alphabet</description>
       </configItem>
       <variantList/>
@@ -1262,18 +1262,18 @@
         </configItem>
       </option>
     </group>
-      <group allowMultipleSelection="true">
-          <!-- Tweaking the position of the "(" and ")" keys -->
-          <configItem>
-              <name>parens</name>
-              <description>Parentheses position</description>
-          </configItem>
-          <option>
-              <configItem>
-                  <name>parens:swap_brackets</name>
-                  <description>Swap with square brackets</description>
-              </configItem>
-          </option>
-      </group>
+    <group allowMultipleSelection="true">
+      <!-- Tweaking the position of the "(" and ")" keys -->
+      <configItem>
+        <name>parens</name>
+        <description>Parentheses position</description>
+      </configItem>
+      <option>
+        <configItem>
+          <name>parens:swap_brackets</name>
+          <description>Swap with square brackets</description>
+        </configItem>
+      </option>
+    </group>
   </optionList>
 </xkbConfigRegistry>
