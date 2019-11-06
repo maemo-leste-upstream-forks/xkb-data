@@ -142,7 +142,7 @@ evdev_parts=$(subst RULESET,evdev,$(parts))
 evdev: $(evdev_sources) merge.py
 	$(srcdir)/merge.py $@ $(srcdir) $(builddir) $(evdev_parts)
 
-dist_files = xkb.dtd xkb.its README
+dist_files = xkb.dtd README
 
 rules_DATA = $(rules_files) $(lst_files) $(dist_files)
 
@@ -156,7 +156,7 @@ $(srcdir)/evdev.extras.xml: base.extras.xml
 
 EXTRA_DIST= $(xml_DATA) xfree98 \
             $(all_parts_dist) \
-            xml2lst.pl merge.py $(dist_files)
+            xml2lst.pl merge.py xkb.its $(dist_files)
 
 CLEANFILES = base base.lst evdev evdev.lst
 
