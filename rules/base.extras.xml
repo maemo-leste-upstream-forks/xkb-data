@@ -389,6 +389,18 @@
         </variant>
         <variant>
           <configItem>
+            <name>de_se_fi</name>
+            <description>German, Swedish and Finnish (US)</description>
+            <languageList>
+              <iso639Id>eng</iso639Id>
+              <iso639Id>ger</iso639Id>
+              <iso639Id>swe</iso639Id>
+              <iso639Id>fin</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>ibm238l</name>
             <description>English (US, IBM Arabic 238_L)</description>
           </configItem>
