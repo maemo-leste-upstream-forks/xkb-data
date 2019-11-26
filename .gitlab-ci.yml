@@ -59,6 +59,18 @@ make_distcheck:
   variables:
       MAKE_EXTRA_COMMAND: "distcheck"
 
+xmllint:
+  image: archlinux/base
+  dependencies: ['make_install']
+  needs: ['make_install']
+  stage: test
+  before_script:
+    - pacman -S --refresh
+    - pacman -S --sysupgrade --noconfirm
+    - pacman -S --noconfirm libxml2
+  script:
+    - xmllint --dtdvalid "$INSTDIR/share/X11/xkb/rules/xkb.dtd" $INSTDIR/share/X11/xkb/rules/*.xml > /dev/null
+
 # download libxkbcommon and run its layout test program. This will
 # run a basic keymap compile test against every combination of
 # layout/variant/option. Syntax errors will fail the test, check the
