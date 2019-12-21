@@ -12,7 +12,7 @@
 ! $jollamodels = jollasbj
 
 // Microsoft models (using MS geometry)
-! $msmodels = microsoft microsoft4000 microsoft7000 microsoftpro microsoftprousb microsoftprose
+! $msmodels = microsoft microsoft4000 microsoft7000 microsoftpro microsoftprousb microsoftprose microsoftsurface
 
 // Nokia devices and keyboards
 ! $nokiamodels = nokiasu8w nokiarx44 nokiarx51

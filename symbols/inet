@@ -1426,6 +1426,16 @@ xkb_symbols "microsoftmult" {
     key <I80>   {       [ XF86Documents ]       };
 };
 
+// Microsoft Surface
+partial alphanumeric_keys
+xkb_symbols "microsoftsurface" {
+    include "inet(evdev)"
+    key <I88>   {       [ XF86Search            ]         };
+    key <I163>  {       [ XF86AudioPrev         ]         };
+    key <I164>  {       [ XF86AudioPlay, XF86AudioPause ] };
+    key <I165>  {       [ XF86AudioNext         ]         };
+};
+
 
 // Oretec
 
