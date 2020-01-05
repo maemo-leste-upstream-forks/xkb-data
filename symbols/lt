@@ -319,7 +319,7 @@ partial alphanumeric_keys
 };
 
 // Samogitian (žemaiťiu/žemaičių) layout based on Lithuanian standard layout.
-// Long vowels are made by composition. It means after pressing vowel press grave accent (`). Ex., a` -> ā̄̄ .
+// Long vowels are made by composition. It means after pressing vowel press grave accent (`).
 // This layout also supports special letters like ëůȧťď or Latvian ģŗļķ. These can be accessed by similar letter with holding AltGr.
 // Euro sign € is added on top e. Accessed by holding AltGr.
 // To enable layout use:
