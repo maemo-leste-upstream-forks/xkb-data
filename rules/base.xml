@@ -4232,6 +4232,15 @@
             <description>Lithuanian (LEKPa)</description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>sgs</name>
+            <description>Samogitian</description>
+            <languageList>
+              <iso639Id>sgs</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
     <layout>
