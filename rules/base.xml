@@ -863,6 +863,13 @@
     </model>
     <model>
       <configItem>
+        <name>microsoftsurface</name>
+        <description>Microsoft Surface</description>
+        <vendor>Microsoft</vendor>
+      </configItem>
+    </model>
+    <model>
+      <configItem>
         <name>microsoftelite</name>
         <description>Microsoft Natural Elite</description>
         <vendor>Microsoft</vendor>
