@@ -866,20 +866,20 @@
       <variantList>
         <variant>
           <configItem>
-            <name>das</name>
-            <description>Finnish (DAS)</description>
-          </configItem>
-        </variant>
-        <variant>
-          <configItem>
             <name>sun_type6</name>
             <description>Finnish (Sun Type 6/7)</description>
           </configItem>
         </variant>
         <variant>
           <configItem>
+            <name>das</name>
+            <description>Finnish (DAS)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>fidvorak</name>
-            <description>Finnish Dvorak</description>
+            <description>Finnish (Dvorak)</description>
           </configItem>
         </variant>
       </variantList>

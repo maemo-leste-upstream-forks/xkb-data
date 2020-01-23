@@ -3190,6 +3190,12 @@
       <variantList>
         <variant>
           <configItem>
+            <name>winkeys</name>
+            <description>Finnish (Winkeys)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>classic</name>
             <description>Finnish (classic)</description>
           </configItem>
@@ -3198,12 +3204,6 @@
           <configItem>
             <name>nodeadkeys</name>
             <description>Finnish (classic, no dead keys)</description>
-          </configItem>
-        </variant>
-        <variant>
-          <configItem>
-            <name>winkeys</name>
-            <description>Finnish (Winkeys)</description>
           </configItem>
         </variant>
         <variant>
