@@ -596,6 +596,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>phonetic_mac</name>
+            <description>Russian (phonetic Macintosh)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>sun_type6</name>
             <description>Russian (Sun Type 6/7)</description>
           </configItem>
