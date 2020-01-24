@@ -175,11 +175,6 @@ partial alphanumeric_keys
 };
 
 partial alphanumeric_keys
-	xkb_symbols "htcdream" {
-	include "us(htcdream)"
-};
-
-partial alphanumeric_keys
 	xkb_symbols "workman" {
 	include "us(workman)"
 };

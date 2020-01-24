@@ -449,13 +449,6 @@
     </model>
     <model>
       <configItem>
-        <name>htcdream</name>
-        <description>HTC Dream</description>
-        <vendor>HTC</vendor>
-      </configItem>
-    </model>
-    <model>
-      <configItem>
         <name>kinesis</name>
         <description>Kinesis</description>
         <vendor>Kinesis</vendor>
@@ -1294,13 +1287,6 @@
         <description>Creative Desktop Wireless 7000</description>
         <vendor>Creative</vendor>
       </configItem>
-    </model>
-    <model>
-      <configItem>
-       <name>htcdream</name>
-       <description>Htc Dream phone</description>
-       <vendor>htc</vendor>
-     </configItem>
     </model>
     <model>
       <configItem>
