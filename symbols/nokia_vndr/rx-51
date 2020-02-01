@@ -423,11 +423,8 @@ xkb_symbols "common_keys" {
 
     key <BKSP>	{ [	BackSpace	] };
     key <TAB>	{ [	Tab		] };
-
-    // broken UI spec.
-    key <RTRN>	{ [	KP_Enter	] };
-
-    key <KPEN>	{ [	Return		] };
+    key <RTRN>	{ [	Return		] };
+    key <KPEN>	{ [	KP_Enter	] };
     key <ESC>	{ [	Escape		] };
 
     key <FK01>	{ [	F1	] };
