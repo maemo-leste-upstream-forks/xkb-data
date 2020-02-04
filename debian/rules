@@ -3,6 +3,7 @@
 xkb_base := /usr/share/X11/xkb
 
 override_dh_autoreconf:
+	cp /usr/share/gettext/config.rpath config.rpath
 	intltoolize -c -f
 	AUTOPOINT=true dh_autoreconf autoreconf -- -vfi
 
