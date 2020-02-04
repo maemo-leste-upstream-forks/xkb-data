@@ -33,10 +33,3 @@ Description: X Keyboard Extension (XKB) configuration data
  designers have to send their layouts to several places.  The
  xkeyboard-config project has been launched at FreeDesktop in order
  to provide a central repository that could be used by all vendors.
-
-Package: xkb-data-udeb
-XC-Package-Type: udeb
-Section: debian-installer
-Architecture: all
-Description: X Keyboard Extension (XKB) configuration data
- This is a udeb, or a microdeb, for the debian-installer.
