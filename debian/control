@@ -6,6 +6,7 @@ Build-Depends:
  debhelper-compat (= 12),
  meson,
  quilt,
+ gettext,
 Build-Depends-Indep:
  gawk,
  gettext-base,
