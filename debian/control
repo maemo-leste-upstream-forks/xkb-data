@@ -5,6 +5,7 @@ Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
 Build-Depends:
  debhelper-compat (= 12),
  quilt,
+ gettext,
 Build-Depends-Indep:
  gettext-base,
  libxml-parser-perl,
