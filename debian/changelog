@@ -1,4 +1,4 @@
-xkeyboard-config (2.29-1) UNRELEASED; urgency=medium
+xkeyboard-config (2.29-1) unstable; urgency=medium
 
   * New upstream release.
   * control: Use debhelper-compat, bump to 12.
@@ -7,7 +7,7 @@ xkeyboard-config (2.29-1) UNRELEASED; urgency=medium
   * rules, control: Replace intltool with gettext.
   * control: Bump policy to 4.5.0.
 
- -- Timo Aaltonen <tjaalton@debian.org>  Thu, 27 Feb 2020 17:32:34 +0200
+ -- Timo Aaltonen <tjaalton@debian.org>  Thu, 27 Feb 2020 18:38:13 +0200
 
 xkeyboard-config (2.26-2) unstable; urgency=medium
 
