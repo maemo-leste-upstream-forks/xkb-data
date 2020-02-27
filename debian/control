@@ -6,10 +6,10 @@ Build-Depends:
  debhelper-compat (= 12),
  quilt,
 Build-Depends-Indep:
+ gettext-base,
  libxml-parser-perl,
  x11-xkb-utils,
  libglib2.0-dev,
- intltool,
  xsltproc,
  xutils-dev (>= 1:7.6+2),
 Standards-Version: 4.3.0
