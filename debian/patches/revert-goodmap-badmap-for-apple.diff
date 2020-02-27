@@ -39,7 +39,7 @@ Signed-off-by: Cyril Brulebois <kibi@debian.org>
      minimum= 8;
 --- a/rules/base.m_k.part
 +++ b/rules/base.m_k.part
-@@ -7,6 +7,7 @@
+@@ -8,6 +8,7 @@
   $applealu	=	macintosh(alukbd)
    macintosh_hhk	=	macintosh(hhk)
    macintosh_old	=	macintosh(old)
@@ -47,8 +47,9 @@ Signed-off-by: Cyril Brulebois <kibi@debian.org>
   $macs   	=	macintosh
    thinkpadz60	=	xfree86(thinkpadz60)
    *		=	xfree86
---- /dev/null
+--- a/rules/base.o_k.part
 +++ b/rules/base.o_k.part
-@@ -0,0 +1,2 @@
-+  apple:badmap		=	+macintosh(badmap)
-+  apple:goodmap		=	+macintosh(goodmap)
+@@ -1 +1,3 @@
+ ! option	=	keycodes
++  apple:badmap	=	+macintosh(badmap)
++  apple:goodmap	=	+macintosh(goodmap)

@@ -2,6 +2,8 @@ xkeyboard-config (2.29-1) UNRELEASED; urgency=medium
 
   * New upstream release.
   * control: Use debhelper-compat, bump to 12.
+  * patches: Drop reverts which have a fix upstream now, refresh revert-
+    goodmap-badmap-for-apple.diff.
 
  -- Timo Aaltonen <tjaalton@debian.org>  Thu, 27 Feb 2020 17:32:34 +0200
 
