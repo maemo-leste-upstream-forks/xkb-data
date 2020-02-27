@@ -5,6 +5,7 @@ xkeyboard-config (2.29-1) UNRELEASED; urgency=medium
   * patches: Drop reverts which have a fix upstream now, refresh revert-
     goodmap-badmap-for-apple.diff.
   * rules, control: Replace intltool with gettext.
+  * control: Bump policy to 4.5.0.
 
  -- Timo Aaltonen <tjaalton@debian.org>  Thu, 27 Feb 2020 17:32:34 +0200
 
