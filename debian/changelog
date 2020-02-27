@@ -1,3 +1,9 @@
+xkeyboard-config (2.29-1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Thu, 27 Feb 2020 17:32:34 +0200
+
 xkeyboard-config (2.26-2) unstable; urgency=medium
 
   * Revert following commits:
