@@ -1,3 +1,11 @@
+xkeyboard-config (2.29-2) UNRELEASED; urgency=medium
+
+  * Add Breaks on x11-xkb-utils (<< 7.7+5).
+    This ensures that xkbcomp won't fail for keycodes above 255, which this
+    package now uses (Closes: #952731)
+
+ -- Simon McVittie <smcv@debian.org>  Sat, 29 Feb 2020 10:44:05 +0000
+
 xkeyboard-config (2.29-1) unstable; urgency=medium
 
   * New upstream release.

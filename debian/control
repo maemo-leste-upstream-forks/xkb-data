@@ -19,7 +19,8 @@ Homepage: https://www.freedesktop.org/Software/XKeyboardConfig
 
 Package: xkb-data
 Depends: ${misc:Depends}
-Breaks: libx11-6 (<< 2:1.4.3)
+Breaks: libx11-6 (<< 2:1.4.3),
+        x11-xkb-utils (<< 7.7+5),
 Architecture: all
 Multi-Arch: foreign
 Description: X Keyboard Extension (XKB) configuration data
