@@ -1,4 +1,4 @@
-xkeyboard-config (2.29-2) UNRELEASED; urgency=medium
+xkeyboard-config (2.29-2) unstable; urgency=medium
 
   [ Simon McVittie ]
   * Add Breaks on x11-xkb-utils (<< 7.7+5).
@@ -8,7 +8,7 @@ xkeyboard-config (2.29-2) UNRELEASED; urgency=medium
   [ Timo Aaltonen ]
   * rules: Override dh_clean.
 
- -- Simon McVittie <smcv@debian.org>  Sat, 29 Feb 2020 10:44:05 +0000
+ -- Timo Aaltonen <tjaalton@debian.org>  Sat, 29 Feb 2020 13:32:57 +0200
 
 xkeyboard-config (2.29-1) unstable; urgency=medium
 
