@@ -6,7 +6,7 @@ geom_DATA = \
 amiga ataritt chicony \
 dell everex fujitsu \
 hhk hp keytronic kinesis \
-macintosh microsoft nec nokia \
+macintosh microsoft motorola nec nokia \
 northgate pc sanwa sony thinkpad \
 sun teck steelseries typematrix winbook README
 
