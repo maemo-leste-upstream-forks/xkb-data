@@ -1,3 +1,9 @@
+xkeyboard-config (2.26.1-1) unstable; urgency=medium
+
+  * Add Motorola Droid 4 keyboard
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Sun, 07 Jun 2020 14:10:06 +0200
+
 xkeyboard-config (2.26-2) unstable; urgency=medium
 
   * Revert following commits:
