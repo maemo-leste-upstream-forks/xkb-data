@@ -14,6 +14,9 @@
 // Microsoft models (using MS geometry)
 ! $msmodels = microsoft microsoft4000 microsoft7000 microsoftpro microsoftprousb microsoftprose microsoftsurface
 
+// Motorola devices and keyboards
+! $motorolamodels = motoroladroid4
+
 // Nokia devices and keyboards
 ! $nokiamodels = nokiasu8w nokiarx44 nokiarx51
 
