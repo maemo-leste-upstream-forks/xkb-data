@@ -1,0 +1,100 @@
+default xkb_geometry "droid4" { 
+	width = 303;
+	//width = 101;
+	height = 93;
+	//height = 31;
+	key.color = "grey80";
+	labelColor = "white";
+
+	//27 * 10 = 270
+        //25 * 2 + 22 * 10 = 258
+
+	shape "NUMS" { cornerRadius = 1, { [ 27,12 ] } };
+	//shape "NUMS" { cornerRadius = 1, { [ 9,4 ] } };
+	shape "QUOT" { cornerRadius = 1, { [ 25,15 ] } };
+	//shape "QUOT" { cornerRadius = 1, { [ 24,15 ] } };
+	//shape "QUOT" { cornerRadius = 1, { [ 8,5 ] } };
+	shape "NORM" { cornerRadius = 1, { [ 22,15 ] } };
+	//shape "NORM" { cornerRadius = 1, { [ 21,15 ] } };
+	//shape "NORM" { cornerRadius = 1, { [ 7,5 ] } };
+	shape "SORM" { cornerRadius = 1, { [ 21,15 ] } };
+	shape "BKSP" { cornerRadius = 1, { [ 24,15 ] } };
+	//shape "BKSP" { cornerRadius = 1, { [ 8,5 ] } };
+	shape "TAB"  { cornerRadius = 1, { [30,15 ] } };
+	//shape "TAB"  { cornerRadius = 1, { [9.5,5 ] } };
+	shape "ENTR" { cornerRadius = 1, { [42,15] } };
+	//shape "ENTR" { cornerRadius = 1, { [45,15] } };
+	//shape "ENTR" { cornerRadius = 1, { [15,5] } };
+	shape "CPLK" { cornerRadius = 1, { [32,15] } };
+	//shape "CPLK" { cornerRadius = 1, { [10.5,5] } };
+	shape "SPCE" { cornerRadius = 1, { [91,15] } };
+	//shape "SPCE" { cornerRadius = 1, { [96,15] } };
+	//shape "SPCE" { cornerRadius = 1, { [32,5] } };
+
+	solid "Background" {
+		shape = "BG";
+		left = 0;
+		top = 0;
+		color = "gray40";
+	};
+
+	section "Top row" {
+		top = 1;
+		left = 1;
+		key.gap = 1;
+		key.shape = "NUMS";
+
+		row {
+			keys {
+				<AE01>, <AE02>, <AE03>, <AE04>, <AE05>, <AE06>, <AE07>, <AE08>, <AE09>, <AE10>
+			};
+		};
+	};
+
+	section "Keys" {
+		key.shape = "NORM";
+		key.gap = 1;
+		top = 0;
+		left = 1;
+
+		row {
+			top = 18;
+			//top = 6;
+			keys {
+				{ <AC11>, "QUOT" },
+				<AD01>, <AD02>, <AD03>, <AD04>, <AD05>, <AD06>, <AD07>, <AD08>, <AD09>, <AD10>,
+				{ <BKSP>, "BKSP" }
+			};
+		};
+		row {
+			top = 36;
+			//top = 12;
+			keys {
+				{ <TAB>, "TAB" },
+				<AC01>, <AC02>, <AC03>, <AC04>, <AC05>, <AC06>, <AC07>, <AC08>, <AC09>, 
+				{ <RTRN>, "ENTR" }
+			};
+		};
+		row {
+			top = 54;
+			//top = 18;
+			keys {
+				{ <CAPS> , "CPLK" },
+				<AB01>, <AB02>, <AB03>, <AB04>, <AB05>, <AB06>, <AB07>,
+				{ <AB08>, "SORM" }, {<AB09>, "SORM"},
+				{ <UP>, "SORM"}, { <RALT>, "SORM"}
+			};
+		};
+		row {
+			top = 72;
+			//top = 24;
+			keys {
+				{ <LFSH> , "CPLK" },
+				<LALT>, <AE11>, <AE12>,
+				{ <SPCE> , "SPCE" },
+				{ <AB10>, "SORM"}, { <LEFT>, "SORM"},
+				{ <DOWN>, "SORM"}, { <RGHT>, "SORM"}
+			};
+		};
+	};
+};
