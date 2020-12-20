@@ -13,20 +13,20 @@ xkb_symbols "standardthirdlevel" {
     name[Group1]= "English (US)";
 
     key <TLDE> {	[     grave,	asciitilde	]	};
-    key <AE01> {	[	  1,	exclam 		]	};
-    key <AE02> {	[	  2,	at		]	};
-    key <AE03> {	[	  3,	numbersign	]	};
-    key <AE04> {	[	  4,	dollar		]	};
-    key <AE05> {	[	  5,	percent		]	};
-    key <AE06> {	[	  6,	asciicircum	]	};
-    key <AE07> {	[	  7,	ampersand	]	};
-    key <AE08> {	[	  8,	asterisk	]	};
-    key <AE09> {	[	  9,	parenleft	]	};
-    key <AE10> {	[	  0,	parenright	]	};
-    key <AE11> {	[     minus,	underscore	]	};
+    key <AE01> {	[	  1,	exclam, F1, F1 		]	};
+    key <AE02> {	[	  2,	at, F2, F2		]	};
+    key <AE03> {	[	  3,	numbersign, F3, F3	]	};
+    key <AE04> {	[	  4,	dollar, F4, F4		]	};
+    key <AE05> {	[	  5,	percent, F5, F5		]	};
+    key <AE06> {	[	  6,	asciicircum, F6, F6	]	};
+    key <AE07> {	[	  7,	ampersand, F7, F7	]	};
+    key <AE08> {	[	  8,	asterisk, F8, F8	]	};
+    key <AE09> {	[	  9,	parenleft, F9, F9	]	};
+    key <AE10> {	[	  0,	parenright, F10, F10	]	};
+    key <AE11> {	[     minus,	underscore, asciitilde, asciitilde 	]	};
     key <AE12> {	[     equal,	plus		]	};
 
-    key <AD01> {	[	  q,	Q 		]	};
+    key <AD01> {	[	  q,	Q, Escape, Escape 		]	};
     key <AD02> {	[	  w,	W		]	};
     key <AD03> {	[	  e,	E		]	};
     key <AD04> {	[	  r,	R		]	};
@@ -39,7 +39,7 @@ xkb_symbols "standardthirdlevel" {
     key <AD11> {	[ bracketleft,	braceleft	]	};
     key <AD12> {	[ bracketright,	braceright	]	};
 
-    key <AC01> {	[	  a,	A 		]	};
+    key <AC01> {	[	  a,	A, Page_Up, Page_Up 		]	};
     key <AC02> {	[	  s,	S		]	};
     key <AC03> {	[	  d,	D		]	};
     key <AC04> {	[	  f,	F		]	};
@@ -49,9 +49,9 @@ xkb_symbols "standardthirdlevel" {
     key <AC08> {	[	  k,	K, bracketleft, bracketleft		]	};
     key <AC09> {	[	  l,	L, bracketright, bracketright		]	};
     key <AC10> {	[ semicolon,	colon		]	};
-    key <AC11> {	[ apostrophe,	quotedbl, Escape, Escape	]	};
+    key <AC11> {	[ apostrophe,	quotedbl, grave, grave	]	};
 
-    key <AB01> {	[	  z,	Z 		]	};
+    key <AB01> {	[	  z,	Z, Page_Down, Page_Down 		]	};
     key <AB02> {	[	  x,	X		]	};
     key <AB03> {	[	  c,	C		]	};
     key <AB04> {	[	  v,	V		]	};
