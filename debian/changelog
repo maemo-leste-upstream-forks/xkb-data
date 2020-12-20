@@ -1,3 +1,10 @@
+xkeyboard-config (2.26.2-1) unstable; urgency=medium
+
+  * Motorola Droid 4 keyboard additions (move esc, add grave, add F1-F10,
+    Pageup and Pagedown)
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Sun, 20 Dec 2020 22:25:40 +0100
+
 xkeyboard-config (2.26.1-1) unstable; urgency=medium
 
   * Add Motorola Droid 4 keyboard
