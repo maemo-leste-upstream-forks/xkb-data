@@ -1,3 +1,9 @@
+xkeyboard-config (2.26.3-1) unstable; urgency=medium
+
+  * RX-51: fix broken UI spec.
+
+ -- Ivan J. <parazyd@dyne.org>  Mon, 19 Apr 2021 20:53:03 +0200
+
 xkeyboard-config (2.26.2-1) unstable; urgency=medium
 
   * Motorola Droid 4 keyboard additions (move esc, add grave, add F1-F10,
