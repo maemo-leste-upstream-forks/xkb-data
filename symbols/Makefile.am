@@ -1,11 +1,11 @@
-SUBDIRS = digital_vndr fujitsu_vndr hp_vndr jolla_vndr macintosh_vndr nec_vndr nokia_vndr sharp_vndr sgi_vndr sony_vndr sun_vndr xfree68_vndr
+SUBDIRS = digital_vndr fujitsu_vndr hp_vndr jolla_vndr macintosh_vndr motorola_vndr nec_vndr nokia_vndr sharp_vndr sgi_vndr sony_vndr sun_vndr xfree68_vndr
 
 symbolsdir = $(xkb_base)/symbols
 symbols_DATA = \
 af al am apl \
 ara at au az \
 ba bd be \
-bg bn br brai \
+bg br brai \
 bt bw by \
 ca cd ch \
 cm cn cz \
@@ -31,7 +31,7 @@ ro rs ru \
 se si sk sn \
 sy th \
 terminate tg \
-tj tm tr tw tz \
+tj tm tr trans tw tz \
 ua us uz vn \
 za \
 altwin capslock compose ctrl empty eurosign rupeesign group inet \

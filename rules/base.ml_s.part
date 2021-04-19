@@ -7,6 +7,8 @@
   *             empty                   =       empty(basic)
   jollasbj 	$nonlatin		=	jolla_vndr/sbj(common)+us+%l%(v):2
   jollasbj	*			=	jolla_vndr/sbj(common)+%l%(v)
+  motoroladroid4    $nonlatin		=	motorola_vndr/droid4(common)+us+%l%(v):2
+  motoroladroid4    *			=	motorola_vndr/droid4(common)+%l%(v)
  $sun		$sun_custom		=	pc+sun_vndr/%l%(v)
   pc98		nec_vndr/jp		=	nec_vndr/jp(pc98)
   macintosh_old	us			=	macintosh_vndr/us(oldmac)

@@ -1,8 +1,64 @@
-xkeyboard-config (2.19.1-1) unstable; urgency=medium
+xkeyboard-config (2.26.2-1) unstable; urgency=medium
+
+  * Motorola Droid 4 keyboard additions (move esc, add grave, add F1-F10,
+    Pageup and Pagedown)
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Sun, 20 Dec 2020 22:25:40 +0100
+
+xkeyboard-config (2.26.1-1) unstable; urgency=medium
+
+  * Add Motorola Droid 4 keyboard
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Sun, 07 Jun 2020 14:10:06 +0200
+
+xkeyboard-config (2.26-2) unstable; urgency=medium
+
+  * Revert following commits:
+    - ed67b29e (Map evdev keycode KEY_BRIGHTNESS_CYCLE to
+      XF86MonBrightnessCycle)
+    - d0e5e63c (Map evdev keycode KEY_KEYBOARD to XF86Keyboard)
+    - e6103610 (Map evdev keycode KEY_FAVORITES to XF86Favorites)
+    (Closes: #921867, #921940, #922020).
+
+ -- Andreas Boll <aboll@debian.org>  Mon, 11 Feb 2019 20:25:45 +0100
+
+xkeyboard-config (2.26-1) unstable; urgency=medium
+
+  * New upstream release.
+    - Map evdev keycodes KEY_RFKILL and KEY_WWAN to XF86RFKill and
+      XF86WWAN (Closes: #917157).
+    - allowMultipleSelection is wrong in korean data (Closes: #902234).
+  * Drop fix-typo.diff, upstreamed.
+  * Cherry-pick af6c0f29 (Fixed broken pt layout) from upstream.
+  * Let uscan check upstream tarball signatures.
+  * Update Vcs-* URLs to point to salsa.debian.org.
+  * Bump debhelper compat to 10.
+  * Raise Priority to optional.
+  * Set source format to 1.0.
+  * Bump standards version to 4.3.0.
+
+ -- Andreas Boll <aboll@debian.org>  Fri, 08 Feb 2019 22:27:41 +0100
+
+xkeyboard-config (2.23.1-1) unstable; urgency=medium
+
+  * New upstream release. (Closes: #884822)
+  * revert-indic-blacklist.diff: Dropped, upstream.
+  * fix-typo.diff: Fix a typo in pl layout.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Thu, 01 Feb 2018 17:30:40 +0200
+ 
+ xkeyboard-config (2.19.1-1) unstable; urgency=medium
 
   * RX-51: fix broken UI spec.
 
  -- Arthur Demchenkov <spinal.by@gmail.com>  Sat, 01 Feb 2020 20:53:28 +0300
+
+xkeyboard-config (2.19-1.1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * Revert blacklisting of Indic layouts (Closes: #865316)
+
+ -- Pirate Praveen <praveen@debian.org>  Tue, 18 Jul 2017 13:08:55 +0530
 
 xkeyboard-config (2.19-1) unstable; urgency=medium
 

@@ -6,8 +6,8 @@ geom_DATA = \
 amiga ataritt chicony \
 dell everex fujitsu \
 hhk hp keytronic kinesis \
-macintosh microsoft nec nokia \
+macintosh microsoft motorola nec nokia \
 northgate pc sanwa sony thinkpad \
-sun teck typematrix winbook README
+sun teck steelseries typematrix winbook README
 
 EXTRA_DIST = $(geom_DATA)

@@ -1,2 +1,5 @@
 docs.diff
 revert-goodmap-badmap-for-apple.diff
+revert-Map-evdev-keycode-KEY_BRIGHTNESS_CYCLE.diff
+revert-Map-evdev-keycode-KEY_KEYBOARD.diff
+revert-Map-evdev-keycode-KEY_FAVORITES.diff

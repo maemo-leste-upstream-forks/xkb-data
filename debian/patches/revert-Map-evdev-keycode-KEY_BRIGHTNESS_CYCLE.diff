@@ -1,0 +1,31 @@
+commit a77adbe8d56dcaf4a138aa4026134e2869aa61cb
+Author: Andreas Boll <aboll@debian.org>
+Date:   Mon Feb 11 14:00:49 2019 +0100
+
+    Revert "Map evdev keycode KEY_BRIGHTNESS_CYCLE to XF86MonBrightnessCycle"
+    
+    This reverts commit ed67b29ecc639f1bafa9530cb9307fee57241458.
+    
+    XF86MonBrightnessCycle currently depends on an unreleased xorgproto.
+    
+    See also
+    https://gitlab.freedesktop.org/xkeyboard-config/xkeyboard-config/issues/123
+    https://gitlab.freedesktop.org/xorg/proto/xorgproto/commit/4e9f4e6136a7c35b0b3d341424eb4e0585f2f0a7
+    
+    Fixes: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=921867
+    Fixes: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=921940
+    Fixes: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=922020
+
+diff --git a/symbols/inet b/symbols/inet
+index 8e65c5e5..4d774fac 100644
+--- a/symbols/inet
++++ b/symbols/inet
+@@ -212,7 +212,7 @@ xkb_symbols "evdev" {
+     key <I246>   {      [ XF86WLAN              ]       };
+ //  key <I249>   {      [ ]       }; // KEY_VIDEO_NEXT  --  drive next video source
+ //  key <I250>   {      [ ]       }; // KEY_VIDEO_PREV  --  drive previous video source
+-    key <I251>   {      [ XF86MonBrightnessCycle ]      }; // KEY_BRIGHTNESS_CYCLE  --  bright up, max++ == min
++//  key <I251>   {      [ ]       }; // KEY_BRIGHTNESS_CYCLE  --  bright up, max++ == min
+ //  key <I252>   {      [ ]       }; // KEY_BRIGHTNESS_ZERO  --  brightness off
+ //  key <I253>   {      [ ]       }; // KEY_DISPLAY_OFF  --  turn off display
+     key <I254>   {      [ XF86WWAN              ]       }; // KEY_WWAN
