@@ -1,4 +1,4 @@
-xkeyboard-config (2.33-1) UNRELEASED; urgency=medium
+xkeyboard-config (2.33-1) unstable; urgency=medium
 
   * New upstream release. (Closes: #980978)
   * revert-goodmap-badmap-for-apple.diff: Finally dropped, we've had
@@ -9,7 +9,7 @@ xkeyboard-config (2.33-1) UNRELEASED; urgency=medium
   * Set upstream metadata fields for Name and Repository. Drop old repo
     from watch.
 
- -- Timo Aaltonen <tjaalton@debian.org>  Wed, 18 Aug 2021 11:22:12 +0300
+ -- Timo Aaltonen <tjaalton@debian.org>  Wed, 18 Aug 2021 12:26:23 +0300
 
 xkeyboard-config (2.29-2) unstable; urgency=medium
 
