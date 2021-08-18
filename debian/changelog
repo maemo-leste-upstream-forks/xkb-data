@@ -3,6 +3,7 @@ xkeyboard-config (2.33-1) UNRELEASED; urgency=medium
   * New upstream release. (Closes: #980978)
   * revert-goodmap-badmap-for-apple.diff: Finally dropped, we've had
     kernel > 2.6.19 for a while now.
+  * control, rules: Build with meson.
 
  -- Timo Aaltonen <tjaalton@debian.org>  Wed, 18 Aug 2021 11:22:12 +0300
 

@@ -4,6 +4,7 @@ Priority: optional
 Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
 Build-Depends:
  debhelper-compat (= 12),
+ meson,
  quilt,
 Build-Depends-Indep:
  gettext-base,
