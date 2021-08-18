@@ -25,11 +25,6 @@ override_dh_auto_install:
 	find $(CURDIR)/debian/xkb-data-udeb/usr/share/X11 -type f -print0 \
 	  | xargs -0 perl -i -pe 's/[ \t]+/ /g'
 
-# Work around quilt's removing empty files:
-override_dh_quilt_unpatch:
-	dh_quilt_unpatch
-	touch rules/base.o_k.part
-
 override_dh_clean:
 	dh_clean
 	rm -f po/*.gmo po/*.pot rules/evdev*.xml
