@@ -19,7 +19,7 @@ xkb_symbols "basic" {
     key <AE12>	{ [     minus, underscore, dead_cedilla,  dead_ogonek ]	};
 
     key <AD01>	{ [         a,          A,           at,  Greek_OMEGA ]	};
-    key <AD02>	{ [         z,          Z,      lstroke,      Lstroke ]	};
+    key <AD02>	{ [         z,          Z,        U017F,      section ]	};
     key <AD03>	{ [         e,          E,     EuroSign,         cent ]	};
     key <AD09>  { [         o,          O,           oe,           OE ] }; // o O œ Œ
     key <AD11>	{ [dead_circumflex, dead_diaeresis,  bracketleft, dead_abovering ] };
@@ -33,7 +33,7 @@ xkb_symbols "basic" {
     key <BKSL>	{ [        mu,   sterling,   dead_grave,   dead_breve ]	};
     key <AB01>	{ [         w,          W, guillemotleft,        less ]	};
     key <AB07>	{ [     comma,   question, dead_cedilla,    masculine ]	};
-    key <AB08>	{ [ semicolon,     period, horizconnector,   multiply ]	};
+    key <AB08>	{ [ semicolon,     period,        U2022,     multiply ]	}; // bullet
     key <AB09>	{ [     colon,      slash, periodcentered,   division ]	};
     key <AB10>	{ [     equal,       plus,   dead_tilde, dead_abovedot]	};
     key <LSGT>  { [      less,    greater,    backslash,    backslash ]	};

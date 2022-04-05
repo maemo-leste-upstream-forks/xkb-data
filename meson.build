@@ -1,5 +1,5 @@
 project('xkeyboard-config',
-        version: '2.33', # change version in configure.ac as well
+        version: '2.35.1',
         license: 'MIT/Expat',
         meson_version: '>= 0.54.0')
 
