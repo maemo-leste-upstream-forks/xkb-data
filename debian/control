@@ -12,7 +12,7 @@ Build-Depends-Indep:
  x11-xkb-utils,
  libglib2.0-dev,
  xsltproc,
- xutils-dev (>= 1:7.6+2),
+ xutils-dev,
 Standards-Version: 4.5.0
 Vcs-Git: https://salsa.debian.org/xorg-team/data/xkeyboard-config.git
 Vcs-Browser: https://salsa.debian.org/xorg-team/data/xkeyboard-config
@@ -20,8 +20,7 @@ Homepage: https://www.freedesktop.org/Software/XKeyboardConfig
 
 Package: xkb-data
 Depends: ${misc:Depends}
-Breaks: libx11-6 (<< 2:1.4.3),
-        x11-xkb-utils (<< 7.7+5),
+Breaks: x11-xkb-utils (<< 7.7+5),
 Architecture: all
 Multi-Arch: foreign
 Description: X Keyboard Extension (XKB) configuration data
