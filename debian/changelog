@@ -1,3 +1,9 @@
+xkeyboard-config (2.29.1) unstable; urgency=medium
+
+  * Maemo Leste Chimaera version with droid 4 keyboard
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Thu, 22 Dec 2022 13:22:50 +0100
+
 xkeyboard-config (2.29-2) unstable; urgency=medium
 
   [ Simon McVittie ]
