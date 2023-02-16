@@ -1,8 +1,12 @@
-xkeyboard-config (2.35.1-2) UNRELEASED; urgency=medium
+xkeyboard-config (2.38-1) UNRELEASED; urgency=medium
 
+  [ Debian Janitor ]
   * Remove constraints unnecessary since buster (oldstable):
     + Build-Depends-Indep: Drop versioned constraint on xutils-dev.
     + xkb-data: Drop versioned constraint on libx11-6 in Breaks.
+
+  [ Timo Aaltonen ]
+  * New upstream release.
 
  -- Debian Janitor <janitor@jelmer.uk>  Mon, 24 Oct 2022 00:04:39 -0000
 
