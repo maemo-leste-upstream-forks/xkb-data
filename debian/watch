@@ -1,0 +1,4 @@
+version=3
+opts=pgpsigurlmangle=s/$/.sig/ \
+https://xorg.freedesktop.org/releases/individual/data/xkeyboard-config/ \
+	@PACKAGE@@ANY_VERSION@@ARCHIVE_EXT@
