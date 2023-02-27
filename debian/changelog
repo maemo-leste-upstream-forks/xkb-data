@@ -1,4 +1,4 @@
-xkeyboard-config (2.38-1) UNRELEASED; urgency=medium
+xkeyboard-config (2.38-1) experimental; urgency=medium
 
   [ Debian Janitor ]
   * Remove constraints unnecessary since buster (oldstable):
@@ -8,7 +8,7 @@ xkeyboard-config (2.38-1) UNRELEASED; urgency=medium
   [ Timo Aaltonen ]
   * New upstream release.
 
- -- Debian Janitor <janitor@jelmer.uk>  Mon, 24 Oct 2022 00:04:39 -0000
+ -- Timo Aaltonen <tjaalton@debian.org>  Mon, 27 Feb 2023 10:43:23 +0200
 
 xkeyboard-config (2.35.1-1) unstable; urgency=medium
 
