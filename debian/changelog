@@ -1,3 +1,13 @@
+xkeyboard-config (2.38-2) unstable; urgency=medium
+
+  * Non-maintainer upload
+  * Upload to unstable
+
+  [ Diederik de Haas ]
+  * patches: Rebase docs.diff onto 829b483a (MR 6, closes: 1027875)
+
+ -- Gunnar Hjalmarsson <gunnarhj@debian.org>  Mon, 19 Jun 2023 14:32:57 +0200
+
 xkeyboard-config (2.38-1) experimental; urgency=medium
 
   [ Debian Janitor ]
