@@ -1,10 +1,10 @@
-xkeyboard-config (2.41-1) UNRELEASED; urgency=medium
+xkeyboard-config (2.41-1) unstable; urgency=medium
 
   * New upstream release.
   * docs.diff: Dropped, upstream.
   * control: Add gawk to build-depends.
 
- -- Timo Aaltonen <tjaalton@debian.org>  Wed, 07 Feb 2024 15:48:06 +0200
+ -- Timo Aaltonen <tjaalton@debian.org>  Wed, 07 Feb 2024 18:05:59 +0200
 
 xkeyboard-config (2.38-2) unstable; urgency=medium
 
