@@ -10,4 +10,3 @@ acc=${2:-svu}
 
 scp "$file" ${acc}@www.x.org:/home/svu/public_html
 echo "Check on http://www.x.org/~${acc}"
-

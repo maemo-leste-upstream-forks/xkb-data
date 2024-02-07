@@ -1,3 +1,5 @@
+// Keyboard layouts for Bulgaria.
+
 //////////////////////////////////////////////////////////////////////////
 // Copyright (C) 1999, 2000, 2007, 2009 by Anton Zinoviev <anton@lml.bas.bg>
 //
@@ -44,9 +46,8 @@
 
 //////////////////////////////////////////////////////////////////////////
 
-// Describes Bulgarian keyboard "BDS" modified according to the
-// the new state standard BDS 5237:2006 and extended with symbols in
-// levels 3 and 4.
+// Describes Bulgarian keyboard "BDS" according to the new state standard
+// BDS 5237:2006 and extended with symbols in levels 3 and 4.
 default partial alphanumeric_keys
 xkb_symbols "bds" {
 
@@ -217,7 +218,7 @@ xkb_symbols "latin" {
   key <AE02> {[ 2,                 at,                twosuperior,       enfilledcircbullet  ]};
   key <AE03> {[ 3,                 numbersign,        threesuperior,     notequal            ]};
   key <AE04> {[ 4,                 dollar,            EuroSign,          sterling            ]};
-  key <AE05> {[ 5,                 percent,           U2030,             U2030               ]};
+  key <AE05> {[ 5,                 percent,           permille,          permille            ]};
   key <AE06> {[ 6,                 asciicircum,       logicaland,        logicalor           ]};
   key <AE07> {[ 7,                 ampersand,         section,           section             ]};
   key <AE08> {[ 8,                 asterisk,          infinity,          multiply            ]};

@@ -1,5 +1,14 @@
-default partial alphanumeric_keys
+// Keyboard layouts for New Zealand.
+
+default
 xkb_symbols "basic" {
+
+    include "us(basic)"
+
+    name[Group1]= "English (New Zealand)";
+};
+
+xkb_symbols "mao" {
 
     // Adds the macrons needed for the Maori language to
     // a simple US keyboard layout.

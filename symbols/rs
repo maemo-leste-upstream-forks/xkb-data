@@ -1,16 +1,11 @@
-// Bosnian, Croatian, Serbian and Slovenian XKB keyboard mappings.
-//
+// Keyboard layouts for Serbia.
+
 // Derived from "Danube" D.2 from 2003-05-12,
 // which is available at http://srpski.org/dunav/.
 //
 // Original authors:
-//  Danilo Segan (Данило Шеган) <danilo@kvota.net>
-//  Chusslove Illich (Часлав Илић) <caslav.ilic@gmx.net>
-//
-// Danilo Segan <danilo@kvota.net>:
-// - Modified for inclusion in XFree86.
-// - Further modifications on 2005-08-18 to support Bosnian,
-//   Croatian and Slovenian in xkeyboard-config.
+//   Danilo Segan (Данило Шеган) <danilo@kvota.net>
+//   Chusslove Illich (Часлав Илић) <caslav.ilic@gmx.net>
 
 default partial alphanumeric_keys
 xkb_symbols "basic" {
@@ -187,7 +182,7 @@ xkb_symbols "latlevel3" {
     key <AB03> { [ any, any,   cent,                copyright        ] }; // c
     key <AB04> { [ any, any,   at,                  grave            ] }; // v
     key <AB05> { [ any, any,   braceleft,           apostrophe       ] }; // b
-    key <AB06> { [ any, any,   braceright,          braceright       ] }; // n
+    key <AB06> { [ any, any,   braceright,          acute            ] }; // n
     key <AB07> { [ any, any,   section,             masculine        ] }; // m
     key <AB08> { [ any, any,   less,                multiply         ] }; // , <
     key <AB09> { [ any, any,   greater,             division         ] }; // . >
