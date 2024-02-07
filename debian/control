@@ -7,6 +7,7 @@ Build-Depends:
  meson,
  quilt,
 Build-Depends-Indep:
+ gawk,
  gettext-base,
  libxml-parser-perl,
  x11-xkb-utils,
