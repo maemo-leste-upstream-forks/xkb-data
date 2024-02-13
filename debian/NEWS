@@ -1,3 +1,13 @@
+xkeyboard-config (2.41-2) unstable; urgency=medium
+
+  * Several old remappings got removed between 2.38..2.41, so beware for
+    instance if you relied on "dvorak" variant with us layout. (#1063725)
+
+  * The extended variant for Greek was removed, as it was actually less
+    extended than the "basic" variant. (#1063702)
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Tue, 13 Feb 2024 09:57:30 +0200
+
 xkeyboard-config (1.7-1) unstable; urgency=low
 
   * The current defaults do not enable the traditional
