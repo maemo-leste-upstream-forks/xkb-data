@@ -1,3 +1,9 @@
+xkeyboard-config (2.42-1) UNRELEASED; urgency=medium
+
+  * New upstream release. (Closes: #1073540)
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Wed, 19 Jun 2024 09:43:11 +0300
+
 xkeyboard-config (2.41-2) unstable; urgency=medium
 
   * Update NEWS. (Closes: #1063725, #1063702)
