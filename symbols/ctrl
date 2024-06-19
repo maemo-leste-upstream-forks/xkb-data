@@ -30,6 +30,14 @@ xkb_symbols "hyper_capscontrol" {
     modifier_map Mod4    { <LCTL> };
 };
 
+// Swap the functions of the CapsLock key and the left Ctrl key.
+// Pressing the left Ctrl key switches to the next group.
+partial modifier_keys
+xkb_symbols "grouptoggle_capscontrol" {
+    include "ctrl(swapcaps)"
+    include "group(lctrl_toggle)"
+};
+
 // Move Ctrl to the leftmost key on the middle row and CapsLock to the
 // leftmost key on the bottom row.  Only works if the geometry or keycodes
 // file has defined appropriate aliases for the keys in question.

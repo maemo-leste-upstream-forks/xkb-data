@@ -1,0 +1,5233 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the xkeyboard-config package.
+# Danial Behzadi <dani.behzi@ubuntu.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xkeyboard-config-2.40.99\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-26 17:55+0000\n"
+"PO-Revision-Date: 2024-05-20 17:21+0330\n"
+"Last-Translator: Danial Behzadi <dani.behzi@ubuntu.com>\n"
+"Language-Team: Persian <translation-team-fa@lists.sourceforge.net>\n"
+"Language: fa\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: rules/base.xml:9
+msgid "Generic 86-key PC"
+msgstr "رایانه ۸۶ کلیدهٔ عادی"
+
+#: rules/base.xml:16
+msgid "Generic 101-key PC"
+msgstr "رایانه ۱۰۱ کلیدهٔ عادی"
+
+#: rules/base.xml:23
+msgid "Generic 102-key PC"
+msgstr "رایانه ۱۰۲ کلیدهٔ عادی"
+
+#: rules/base.xml:30
+msgid "Generic 104-key PC"
+msgstr "رایانه ۱۰۴ کلیدهٔ عادی"
+
+#: rules/base.xml:37
+msgid "Generic 104-key PC with L-shaped Enter key"
+msgstr "رایانه ۱۰۴ کلیدهٔ عادی با کلید ورود L شکل"
+
+#: rules/base.xml:44
+msgid "Generic 105-key PC"
+msgstr "رایانه ۱۰۵ کلیدهٔ عادی"
+
+#: rules/base.xml:51
+msgid "A4Tech KB-21"
+msgstr "A4Tech KB-21"
+
+#: rules/base.xml:58
+msgid "A4Tech KBS-8"
+msgstr "A4Tech KBS-8"
+
+#: rules/base.xml:65
+msgid "A4Tech Wireless Desktop RFKB-23"
+msgstr "A4Tech Wireless Desktop RFKB-23"
+
+#: rules/base.xml:72
+msgid "Acer AirKey V"
+msgstr "Acer AirKey V"
+
+#: rules/base.xml:79
+msgid "Acer C300"
+msgstr "Acer C300"
+
+#: rules/base.xml:86
+msgid "Acer Ferrari 4000"
+msgstr "Acer Ferrari 4000"
+
+#: rules/base.xml:93
+msgid "Acer laptop"
+msgstr "لپ‌تاپ Acer"
+
+#: rules/base.xml:100
+msgid "Advance Scorpius KI"
+msgstr "Advance Scorpius KI"
+
+#: rules/base.xml:107
+msgid "Apple"
+msgstr "اپل"
+
+#: rules/base.xml:114
+msgid "Apple Aluminium (ANSI)"
+msgstr "آلومینوم اپل (انسی)"
+
+#: rules/base.xml:121
+msgid "Apple Aluminium (ISO)"
+msgstr "آلومینوم اپل (ایزو)"
+
+#: rules/base.xml:128
+msgid "Apple Aluminium (JIS)"
+msgstr "آلومینوم اپل (JIS)"
+
+#: rules/base.xml:135
+msgid "Asus laptop"
+msgstr "لپ‌تاپ Asus"
+
+#: rules/base.xml:142
+msgid "Azona RF2300 Wireless Internet"
+msgstr "Azona RF2300 Wireless Internet"
+
+#: rules/base.xml:149
+msgid "BenQ X-Touch"
+msgstr "BenQ X-Touch"
+
+#: rules/base.xml:156
+msgid "BenQ X-Touch 730"
+msgstr "BenQ X-Touch 730"
+
+#: rules/base.xml:163
+msgid "BenQ X-Touch 800"
+msgstr "BenQ X-Touch 800"
+
+#: rules/base.xml:170
+msgid "Brother Internet"
+msgstr "Brother Internet"
+
+#: rules/base.xml:177
+msgid "BTC 5090"
+msgstr "BTC 5090"
+
+#: rules/base.xml:184
+msgid "BTC 5113RF Multimedia"
+msgstr "BTC 5113RF Multimedia"
+
+#: rules/base.xml:191
+msgid "BTC 5126T"
+msgstr "BTC 5126T"
+
+#: rules/base.xml:198
+msgid "BTC 6301URF"
+msgstr "BTC 6301URF"
+
+#: rules/base.xml:205
+msgid "BTC 9000"
+msgstr "BTC 9000"
+
+#: rules/base.xml:212
+msgid "BTC 9000A"
+msgstr "BTC 9000A"
+
+#: rules/base.xml:219
+msgid "BTC 9001AH"
+msgstr "BTC 9001AH"
+
+#: rules/base.xml:226
+msgid "BTC 9019U"
+msgstr "BTC 9019U"
+
+#: rules/base.xml:233
+msgid "BTC 9116U Mini Wireless Internet and Gaming"
+msgstr "BTC 9116U Mini Wireless Internet and Gaming"
+
+#: rules/base.xml:240
+msgid "Cherry Blue Line CyBo@rd"
+msgstr "Cherry Blue Line CyBo@rd"
+
+#: rules/base.xml:247
+msgid "Cherry Blue Line CyBo@rd (alt.)"
+msgstr "Cherry Blue Line CyBo@rd (alt.)"
+
+#: rules/base.xml:254
+msgid "Cherry B.UNLIMITED"
+msgstr "Cherry B.UNLIMITED"
+
+#: rules/base.xml:261
+msgid "Cherry CyBo@rd USB-Hub"
+msgstr "Cherry CyBo@rd USB-Hub"
+
+#: rules/base.xml:268
+msgid "Cherry CyMotion Expert"
+msgstr "Cherry CyMotion Expert"
+
+#: rules/base.xml:275
+msgid "Cherry CyMotion Master Linux"
+msgstr "Cherry CyMotion Master Linux"
+
+#: rules/base.xml:282
+msgid "Cherry CyMotion Master XPress"
+msgstr "Cherry CyMotion Master XPress"
+
+#: rules/base.xml:289
+msgid "Chicony Internet"
+msgstr "Chicony Internet"
+
+#: rules/base.xml:296
+msgid "Chicony KB-9885"
+msgstr "Chicony KB-9885"
+
+#: rules/base.xml:303
+msgid "Chicony KU-0108"
+msgstr "Chicony KU-0108"
+
+#: rules/base.xml:310
+msgid "Chicony KU-0420"
+msgstr "Chicony KU-0420"
+
+#: rules/base.xml:317
+msgid "Chromebook"
+msgstr "کروم‌بوک"
+
+#: rules/base.xml:324
+msgid "Classmate PC"
+msgstr "Classmate PC"
+
+#: rules/base.xml:331
+msgid "Compal FL90"
+msgstr "Compal FL90"
+
+#: rules/base.xml:338
+msgid "Compaq Armada laptop"
+msgstr "Compaq Armada laptop"
+
+#: rules/base.xml:345
+msgid "Compaq Easy Access"
+msgstr "Compaq Easy Access"
+
+#: rules/base.xml:352
+msgid "Compaq Internet (7 keys)"
+msgstr "Compaq Internet (‫۷ کلیده‬)"
+
+#: rules/base.xml:359
+msgid "Compaq Internet (13 keys)"
+msgstr "Compaq Internet (‫۱۳ کلیده‬)"
+
+#: rules/base.xml:366
+msgid "Compaq Internet (18 keys)"
+msgstr "Compaq Internet (‫۱۸ کلیده‬)"
+
+#: rules/base.xml:373
+msgid "Compaq iPaq"
+msgstr "Compaq iPaq"
+
+#: rules/base.xml:380
+msgid "Compaq Presario laptop"
+msgstr "Compaq Presario laptop"
+
+#: rules/base.xml:387
+msgid "Creative Desktop Wireless 7000"
+msgstr "Creative Desktop Wireless 7000"
+
+#: rules/base.xml:394
+msgid "Dell"
+msgstr "دل"
+
+#: rules/base.xml:401
+msgid "Dell 101-key PC"
+msgstr "رایانهٔ ۱۰۱ کلیدهٔ دل"
+
+#: rules/base.xml:408
+msgid "Dell Latitude laptop"
+msgstr "لپ‌تاپ Latitude دل"
+
+#: rules/base.xml:415
+msgid "Dell Inspiron 6000/8000 laptop"
+msgstr "لپ‌تاپ Inspiron 6000/8000 دل"
+
+#: rules/base.xml:422
+msgid "Dell Precision M laptop"
+msgstr "لپ‌تاپ Precision M دل"
+
+#: rules/base.xml:429
+msgid "Dell Precision M65 laptop"
+msgstr "لپ‌تاپ Precision M65 دل"
+
+#: rules/base.xml:436
+msgid "Dell SK-8125"
+msgstr "Dell SK-8125"
+
+#: rules/base.xml:443
+msgid "Dell SK-8135"
+msgstr "Dell SK-8135"
+
+#: rules/base.xml:450
+msgid "Dell USB Multimedia"
+msgstr "Dell USB Multimedia"
+
+#: rules/base.xml:457
+msgid "Dexxa Wireless Desktop"
+msgstr "Dexxa Wireless Desktop"
+
+#: rules/base.xml:464
+msgid "Diamond 9801/9802"
+msgstr "Diamond 9801/9802"
+
+#: rules/base.xml:471
+msgid "DTK2000"
+msgstr "DTK2000"
+
+#: rules/base.xml:478
+msgid "eMachines m6800 laptop"
+msgstr "eMachines m6800 laptop"
+
+#: rules/base.xml:485
+msgid "Ennyah DKB-1008"
+msgstr "Ennyah DKB-1008"
+
+#: rules/base.xml:492
+msgid "Everex STEPnote"
+msgstr "Everex STEPnote"
+
+#: rules/base.xml:499
+msgid "Fujitsu-Siemens Amilo laptop"
+msgstr "لپ‌تاپ Amilo فوجیتسو زیمنس"
+
+#: rules/base.xml:506
+msgid "Genius Comfy KB-16M/Multimedia KWD-910"
+msgstr "Genius Comfy KB-16M/Multimedia KWD-910"
+
+#: rules/base.xml:513
+msgid "Genius Comfy KB-12e"
+msgstr "Genius Comfy KB-12e"
+
+#: rules/base.xml:520
+msgid "Genius Comfy KB-21e-Scroll"
+msgstr "Genius Comfy KB-21e-Scroll"
+
+#: rules/base.xml:527
+msgid "Genius KB-19e NB"
+msgstr "Genius KB-19e NB"
+
+#: rules/base.xml:534
+msgid "Genius KKB-2050HS"
+msgstr "Genius KKB-2050HS"
+
+#: rules/base.xml:541
+msgid "Gyration"
+msgstr "Gyration"
+
+#: rules/base.xml:548
+msgid "Happy Hacking"
+msgstr "Happy Hacking"
+
+#: rules/base.xml:555
+msgid "Happy Hacking for Mac"
+msgstr "Happy Hacking برای مک"
+
+#: rules/base.xml:562
+msgid "Hewlett-Packard Internet"
+msgstr "Hewlett-Packard Internet"
+
+#: rules/base.xml:569
+msgid "Hewlett-Packard Mini 110 laptop"
+msgstr "Hewlett-Packard Mini 110 laptop"
+
+#: rules/base.xml:576
+msgid "Hewlett-Packard nx9020"
+msgstr "Hewlett-Packard nx9020"
+
+#: rules/base.xml:583
+msgid "Hewlett-Packard Omnibook 500"
+msgstr "Hewlett-Packard Omnibook 500"
+
+#: rules/base.xml:590
+msgid "Hewlett-Packard Omnibook 500 FA"
+msgstr "Hewlett-Packard Omnibook 500 FA"
+
+#: rules/base.xml:597
+msgid "Hewlett-Packard Omnibook 6000/6100"
+msgstr "Hewlett-Packard Omnibook 6000/6100"
+
+#: rules/base.xml:604
+msgid "Hewlett-Packard Omnibook XE3 GC"
+msgstr "Hewlett-Packard Omnibook XE3 GC"
+
+#: rules/base.xml:611
+msgid "Hewlett-Packard Omnibook XE3 GF"
+msgstr "Hewlett-Packard Omnibook XE3 GF"
+
+#: rules/base.xml:618
+msgid "Hewlett-Packard Omnibook XT1000"
+msgstr "Hewlett-Packard Omnibook XT1000"
+
+#: rules/base.xml:625
+msgid "Hewlett-Packard Pavilion dv5"
+msgstr "Hewlett-Packard Pavilion dv5"
+
+#: rules/base.xml:632
+msgid "Hewlett-Packard Pavilion ZT1100"
+msgstr "Hewlett-Packard Pavilion ZT1100"
+
+#: rules/base.xml:639
+msgid "Hewlett-Packard SK-2501 Multimedia"
+msgstr "Hewlett-Packard SK-2501 Multimedia"
+
+#: rules/base.xml:646
+msgid "Honeywell Euroboard"
+msgstr "Honeywell Euroboard"
+
+#: rules/base.xml:653
+msgid "IBM Rapid Access"
+msgstr "IBM Rapid Access"
+
+#: rules/base.xml:660
+msgid "IBM Rapid Access II"
+msgstr "IBM Rapid Access II"
+
+#: rules/base.xml:667
+msgid "IBM Space Saver"
+msgstr "IBM Space Saver"
+
+#: rules/base.xml:674
+msgid "IBM ThinkPad 560Z/600/600E/A22E"
+msgstr "IBM ThinkPad 560Z/600/600E/A22E"
+
+#: rules/base.xml:681
+msgid "IBM ThinkPad R60/T60/R61/T61"
+msgstr "IBM ThinkPad R60/T60/R61/T61"
+
+#: rules/base.xml:688
+msgid "IBM ThinkPad Z60m/Z60t/Z61m/Z61t"
+msgstr "IBM ThinkPad Z60m/Z60t/Z61m/Z61t"
+
+#: rules/base.xml:695
+msgid "Keytronic FlexPro"
+msgstr "Keytronic FlexPro"
+
+#: rules/base.xml:702
+msgid "Kinesis"
+msgstr "Kinesis"
+
+#: rules/base.xml:709
+msgid "Logitech"
+msgstr "Logitech"
+
+#: rules/base.xml:716
+msgid "Logitech Access"
+msgstr "Logitech Access"
+
+#: rules/base.xml:723
+msgid "Logitech Cordless Desktop"
+msgstr "Logitech Cordless Desktop"
+
+#: rules/base.xml:730
+msgid "Logitech Cordless Desktop (alt.)"
+msgstr "Logitech Cordless Desktop (alt.)"
+
+#: rules/base.xml:737
+msgid "Logitech Cordless Desktop EX110"
+msgstr "Logitech Cordless Desktop EX110"
+
+#: rules/base.xml:744
+msgid "Logitech Cordless Desktop iTouch"
+msgstr "Logitech Cordless Desktop iTouch"
+
+#: rules/base.xml:751
+msgid "Logitech Cordless Desktop LX-300"
+msgstr "Logitech Cordless Desktop LX-300"
+
+#: rules/base.xml:758
+msgid "Logitech Cordless Desktop Navigator"
+msgstr "Logitech Cordless Desktop Navigator"
+
+#: rules/base.xml:765
+msgid "Logitech Cordless Desktop Optical"
+msgstr "Logitech Cordless Desktop Optical"
+
+#: rules/base.xml:772
+msgid "Logitech diNovo"
+msgstr "Logitech diNovo"
+
+#: rules/base.xml:779
+msgid "Logitech diNovo Edge"
+msgstr "Logitech diNovo Edge"
+
+#: rules/base.xml:786
+msgid "Logitech G15 extra keys via G15daemon"
+msgstr "Logitech G15 extra keys via G15daemon"
+
+#: rules/base.xml:793
+msgid "Logitech Internet"
+msgstr "Logitech Internet"
+
+#: rules/base.xml:800 rules/base.xml:808
+msgid "Logitech Internet 350"
+msgstr "Logitech Internet 350"
+
+#: rules/base.xml:815
+msgid "Logitech Internet Navigator"
+msgstr "Logitech Internet Navigator"
+
+#: rules/base.xml:822
+msgid "Logitech iTouch"
+msgstr "Logitech iTouch"
+
+#: rules/base.xml:829
+msgid "Logitech iTouch Cordless Y-RB6"
+msgstr "Logitech iTouch Cordless Y-RB6"
+
+#: rules/base.xml:836
+msgid "Logitech iTouch Internet Navigator SE"
+msgstr "Logitech iTouch Internet Navigator SE"
+
+#: rules/base.xml:843
+msgid "Logitech iTouch Internet Navigator SE USB"
+msgstr "Logitech iTouch Internet Navigator SE USB"
+
+#: rules/base.xml:850
+msgid "Logitech Ultra-X"
+msgstr "Logitech Ultra-X"
+
+#: rules/base.xml:857
+msgid "Logitech Ultra-X Cordless Media Desktop"
+msgstr "Logitech Ultra-X Cordless Media Desktop"
+
+#: rules/base.xml:864
+msgid "MacBook/MacBook Pro"
+msgstr "مک‌بوک (پرو)"
+
+#: rules/base.xml:871
+msgid "MacBook/MacBook Pro (intl.)"
+msgstr "مک‌بوک (پرو) اینتل"
+
+#: rules/base.xml:878
+msgid "Macintosh"
+msgstr "مکینتاش"
+
+#: rules/base.xml:885
+msgid "Macintosh Old"
+msgstr "مکینتاش قدیمی"
+
+#: rules/base.xml:892
+msgid "Memorex MX1998"
+msgstr "Memorex MX1998"
+
+#: rules/base.xml:899
+msgid "Memorex MX2500 EZ-Access"
+msgstr "Memorex MX2500 EZ-Access"
+
+#: rules/base.xml:906
+msgid "Memorex MX2750"
+msgstr "Memorex MX2750"
+
+#: rules/base.xml:913
+msgid "Microsoft Comfort Curve 2000"
+msgstr "Microsoft Comfort Curve 2000"
+
+#: rules/base.xml:920
+msgid "Microsoft Internet"
+msgstr "Microsoft Internet"
+
+#: rules/base.xml:927
+msgid "Microsoft Internet Pro (Swedish)"
+msgstr "Microsoft Internet Pro (سوئدی)"
+
+#: rules/base.xml:934
+msgid "Microsoft Natural"
+msgstr "Microsoft Natural"
+
+#: rules/base.xml:941
+msgid "Microsoft Natural Elite"
+msgstr "Microsoft Natural Elite"
+
+#: rules/base.xml:948
+msgid "Microsoft Natural Ergonomic 4000"
+msgstr "Microsoft Natural Ergonomic 4000"
+
+#: rules/base.xml:955
+msgid "Microsoft Natural Wireless Ergonomic 7000"
+msgstr "Microsoft Natural Wireless Ergonomic 7000"
+
+#: rules/base.xml:962
+msgid "Microsoft Natural Pro/Internet Pro"
+msgstr "Microsoft Natural Pro/Internet Pro"
+
+#: rules/base.xml:969
+msgid "Microsoft Natural Pro USB/Internet Pro"
+msgstr "Microsoft Natural Pro USB/Internet Pro"
+
+#: rules/base.xml:976
+msgid "Microsoft Natural Pro OEM"
+msgstr "Microsoft Natural Pro OEM"
+
+#: rules/base.xml:983
+msgid "Microsoft Office Keyboard"
+msgstr "Microsoft Office Keyboard"
+
+#: rules/base.xml:990
+msgid "Microsoft Surface"
+msgstr "سرفیس مایکروسافت"
+
+#: rules/base.xml:997
+msgid "Microsoft Wireless Multimedia 1.0A"
+msgstr "Microsoft Wireless Multimedia 1.0A"
+
+#: rules/base.xml:1004
+msgid "NEC SK-1300"
+msgstr "NEC SK-1300"
+
+#: rules/base.xml:1011
+msgid "NEC SK-2500"
+msgstr "NEC SK-2500"
+
+#: rules/base.xml:1018
+msgid "NEC SK-6200"
+msgstr "NEC SK-6200"
+
+#: rules/base.xml:1025
+msgid "NEC SK-7100"
+msgstr "NEC SK-7100"
+
+#: rules/base.xml:1032
+msgid "Northgate OmniKey 101"
+msgstr "Northgate OmniKey 101"
+
+#: rules/base.xml:1039
+msgid "OLPC"
+msgstr "OLPC"
+
+#: rules/base.xml:1046
+msgid "Ortek Multimedia/Internet MCK-800"
+msgstr "Ortek Multimedia/Internet MCK-800"
+
+#: rules/base.xml:1053
+msgid "PC-98"
+msgstr "PC-98"
+
+#: rules/base.xml:1060
+msgid "PinePhone Keyboard"
+msgstr "صفحه‌کلید پاین‌فون"
+
+#: rules/base.xml:1067
+msgid "Propeller Voyager KTEZ-1000"
+msgstr "Propeller Voyager KTEZ-1000"
+
+#: rules/base.xml:1074
+msgid "QTronix Scorpius 98N+"
+msgstr "QTronix Scorpius 98N+"
+
+#: rules/base.xml:1081
+msgid "Samsung SDM 4500P"
+msgstr "Samsung SDM 4500P"
+
+#: rules/base.xml:1088
+msgid "Samsung SDM 4510P"
+msgstr "Samsung SDM 4510P"
+
+#: rules/base.xml:1095
+msgid "Sanwa Supply SKB-KG3"
+msgstr "Sanwa Supply SKB-KG3"
+
+#: rules/base.xml:1102
+msgid "Silvercrest Multimedia Wireless"
+msgstr "Silvercrest Multimedia Wireless"
+
+#: rules/base.xml:1109
+msgid "SteelSeries Apex 300 (Apex RAW)"
+msgstr "SteelSeries Apex 300 (Apex RAW)"
+
+#: rules/base.xml:1116
+msgid "Sun Type 6 (Japanese)"
+msgstr "Sun Type 6 (ژاپنی)"
+
+#: rules/base.xml:1123
+msgid "Sun Type 6 USB (Japanese)"
+msgstr "Sun Type 6 USB (ژاپنی)"
+
+#: rules/base.xml:1130
+msgid "Sun Type 6 USB (Unix)"
+msgstr "Sun Type 6 USB (یونیکس)"
+
+#: rules/base.xml:1137
+msgid "Sun Type 6/7 USB"
+msgstr "Sun Type 6/7 USB"
+
+#: rules/base.xml:1144
+msgid "Sun Type 6/7 USB (European)"
+msgstr "Sun Type 6/7 USB (اروپایی)"
+
+#: rules/base.xml:1151
+msgid "Sun Type 7 USB"
+msgstr "Sun Type 7 USB"
+
+#: rules/base.xml:1158
+msgid "Sun Type 7 USB (European)"
+msgstr "Sun Type 7 USB (اروپایی)"
+
+#: rules/base.xml:1165
+msgid "Sun Type 7 USB (Japanese)/Japanese 106-key"
+msgstr "Sun Type 7 USB ‫(ژاپنی)/ژاپنی ۱۰۶ کلیده"
+
+#: rules/base.xml:1172
+msgid "Sun Type 7 USB (Unix)"
+msgstr "Sun Type 7 USB (یونیکس)"
+
+#: rules/base.xml:1179
+msgid "Super Power Multimedia"
+msgstr "Super Power Multimedia"
+
+#: rules/base.xml:1186
+msgid "SVEN Ergonomic 2500"
+msgstr "SVEN Ergonomic 2500"
+
+#: rules/base.xml:1193
+msgid "SVEN Slim 303"
+msgstr "SVEN Slim 303"
+
+#: rules/base.xml:1200
+msgid "Symplon PaceBook tablet"
+msgstr "Symplon PaceBook tablet"
+
+#: rules/base.xml:1207
+msgid "Targa Visionary 811"
+msgstr "Targa Visionary 811"
+
+#: rules/base.xml:1214
+msgid "Toshiba Satellite S3000"
+msgstr "Toshiba Satellite S3000"
+
+#: rules/base.xml:1221
+msgid "Truly Ergonomic 227"
+msgstr "Truly Ergonomic 227"
+
+#: rules/base.xml:1228
+msgid "Truly Ergonomic 229"
+msgstr "Truly Ergonomic 229"
+
+#: rules/base.xml:1235
+msgid "Trust Direct Access"
+msgstr "Trust Direct Access"
+
+#: rules/base.xml:1242
+msgid "Trust Slimline"
+msgstr "Trust Slimline"
+
+#: rules/base.xml:1249
+msgid "Trust Wireless Classic"
+msgstr "Trust Wireless Classic"
+
+#: rules/base.xml:1256
+msgid "TypeMatrix EZ-Reach 2020"
+msgstr "TypeMatrix EZ-Reach 2020"
+
+#: rules/base.xml:1263
+msgid "TypeMatrix EZ-Reach 2030 PS2"
+msgstr "TypeMatrix EZ-Reach 2030 PS2"
+
+#: rules/base.xml:1270
+msgid "TypeMatrix EZ-Reach 2030 USB"
+msgstr "TypeMatrix EZ-Reach 2030 USB"
+
+#: rules/base.xml:1277
+msgid "TypeMatrix EZ-Reach 2030 USB (102/105:EU mode)"
+msgstr "TypeMatrix EZ-Reach 2030 USB (102/105:EU mode)"
+
+#: rules/base.xml:1284
+msgid "TypeMatrix EZ-Reach 2030 USB (106:JP mode)"
+msgstr "TypeMatrix EZ-Reach 2030 USB (106:JP mode)"
+
+#: rules/base.xml:1291
+msgid "Unitek KB-1925"
+msgstr "Unitek KB-1925"
+
+#: rules/base.xml:1298
+msgid "ViewSonic KU-306 Internet"
+msgstr "ViewSonic KU-306 Internet"
+
+#: rules/base.xml:1305
+msgid "Winbook Model XP5"
+msgstr "Winbook Model XP5"
+
+#: rules/base.xml:1312
+msgid "Yahoo! Internet"
+msgstr "Yahoo! Internet"
+
+#. Keyboard indicator for Albanian layouts
+#: rules/base.xml:1323
+msgid "sq"
+msgstr ""
+
+#: rules/base.xml:1324
+msgid "Albanian"
+msgstr ""
+
+#: rules/base.xml:1336
+msgid "Albanian (Plisi)"
+msgstr ""
+
+#: rules/base.xml:1342
+msgid "Albanian (Veqilharxhi)"
+msgstr ""
+
+#. Keyboard indicator for Amharic layouts
+#: rules/base.xml:1351
+msgid "am"
+msgstr ""
+
+#: rules/base.xml:1352
+msgid "Amharic"
+msgstr ""
+
+#. Keyboard indicator for Armenian layouts
+#: rules/base.xml:1366 rules/base.extras.xml:896
+msgid "hy"
+msgstr ""
+
+#: rules/base.xml:1367 rules/base.extras.xml:897
+msgid "Armenian"
+msgstr ""
+
+#: rules/base.xml:1379
+msgid "Armenian (phonetic)"
+msgstr ""
+
+#: rules/base.xml:1385
+msgid "Armenian (alt. phonetic)"
+msgstr ""
+
+#: rules/base.xml:1391
+msgid "Armenian (eastern)"
+msgstr ""
+
+#: rules/base.xml:1397
+msgid "Armenian (alt. eastern)"
+msgstr ""
+
+#: rules/base.xml:1403
+msgid "Armenian (western)"
+msgstr ""
+
+#. Keyboard indicator for Arabic layouts
+#: rules/base.xml:1412 rules/base.xml:1488 rules/base.xml:1503
+#: rules/base.xml:1563 rules/base.xml:1667 rules/base.xml:1979
+#: rules/base.xml:6812 rules/base.extras.xml:248 rules/base.extras.xml:941
+msgid "ar"
+msgstr "عر"
+
+#: rules/base.xml:1413 rules/base.extras.xml:942
+msgid "Arabic"
+msgstr "عربی"
+
+#: rules/base.xml:1443
+msgid "Arabic (Eastern Arabic numerals)"
+msgstr "عربی (رقم‌های عربی شرقی)"
+
+#: rules/base.xml:1449
+msgid "Arabic (AZERTY)"
+msgstr "عربی (ازرتی)"
+
+#: rules/base.xml:1455
+msgid "Arabic (AZERTY, Eastern Arabic numerals)"
+msgstr "عربی (ازرتی، رقم‌های عربی شرقی)"
+
+#: rules/base.xml:1461
+msgid "Arabic (Buckwalter)"
+msgstr "عربی (باک‌والتر)"
+
+#: rules/base.xml:1467
+msgid "Arabic (Macintosh)"
+msgstr "عربی (مکینتاش)"
+
+#: rules/base.xml:1473
+msgid "Arabic (Macintosh, phonetic)"
+msgstr "عربی (مکینتاش، شفاهی)"
+
+#: rules/base.xml:1479
+msgid "Arabic (OLPC)"
+msgstr "عربی (OLPC)"
+
+#: rules/base.xml:1489 rules/base.extras.xml:249
+msgid "Arabic (Egypt)"
+msgstr "عربی (مصر)"
+
+#: rules/base.xml:1504
+msgid "Arabic (Iraq)"
+msgstr "عربی (عراق)"
+
+#. Keyboard indicator for Kurdish layouts
+#: rules/base.xml:1517 rules/base.xml:1528 rules/base.xml:1539
+#: rules/base.xml:1550 rules/base.xml:1697 rules/base.xml:1708
+#: rules/base.xml:1719 rules/base.xml:5592 rules/base.xml:5603
+#: rules/base.xml:5614 rules/base.xml:5625 rules/base.xml:6666
+#: rules/base.xml:6677 rules/base.xml:6688
+msgid "ku"
+msgstr "کر"
+
+#: rules/base.xml:1518
+msgid "Kurdish (Iraq, Latin Q)"
+msgstr "کردی (عراق، لاتین Q)"
+
+#: rules/base.xml:1529
+msgid "Kurdish (Iraq, Latin Alt-Q)"
+msgstr "کردی (عراق، لاتین Alt-Q)"
+
+#: rules/base.xml:1540
+msgid "Kurdish (Iraq, F)"
+msgstr "کردی (عراق، F)"
+
+#: rules/base.xml:1551
+msgid "Kurdish (Iraq, Arabic-Latin)"
+msgstr "کردی (عراق، لاتین-عربی)"
+
+#: rules/base.xml:1564
+msgid "Arabic (Morocco)"
+msgstr "عربی (مراکش)"
+
+#. Keyboard indicator for Berber layouts
+#: rules/base.xml:1577 rules/base.xml:1588 rules/base.xml:1599
+#: rules/base.xml:1610 rules/base.xml:1621 rules/base.xml:1632
+msgid "ber"
+msgstr ""
+
+#: rules/base.xml:1578
+msgid "Berber (Morocco, Tifinagh)"
+msgstr ""
+
+#: rules/base.xml:1589
+msgid "Berber (Morocco, Tifinagh alt.)"
+msgstr ""
+
+#: rules/base.xml:1600
+msgid "Berber (Morocco, Tifinagh phonetic, alt.)"
+msgstr ""
+
+#: rules/base.xml:1611
+msgid "Berber (Morocco, Tifinagh extended)"
+msgstr ""
+
+#: rules/base.xml:1622
+msgid "Berber (Morocco, Tifinagh phonetic)"
+msgstr ""
+
+#: rules/base.xml:1633
+msgid "Berber (Morocco, Tifinagh extended phonetic)"
+msgstr ""
+
+#. Keyboard indicator for French layouts
+#: rules/base.xml:1643 rules/base.xml:1768 rules/base.xml:2608
+#: rules/base.xml:3456 rules/base.xml:3583 rules/base.xml:3597
+#: rules/base.xml:3605 rules/base.xml:3643 rules/base.xml:3658
+#: rules/base.xml:3952 rules/base.xml:3963 rules/base.xml:3974
+#: rules/base.extras.xml:114 rules/base.extras.xml:1183
+msgid "fr"
+msgstr ""
+
+#: rules/base.xml:1644
+msgid "French (Morocco)"
+msgstr ""
+
+#. Keyboard indicator for Tarifit layouts
+#: rules/base.xml:1654
+msgid "rif"
+msgstr ""
+
+#: rules/base.xml:1655
+msgid "Tarifit"
+msgstr ""
+
+#: rules/base.xml:1668
+msgid "Arabic (Syria)"
+msgstr ""
+
+#. Keyboard indicator for Syriac layouts
+#: rules/base.xml:1681 rules/base.xml:1689
+msgid "syc"
+msgstr ""
+
+#: rules/base.xml:1682
+msgid "Syriac"
+msgstr ""
+
+#: rules/base.xml:1690
+msgid "Syriac (phonetic)"
+msgstr ""
+
+#: rules/base.xml:1698
+msgid "Kurdish (Syria, Latin Q)"
+msgstr ""
+
+#: rules/base.xml:1709
+msgid "Kurdish (Syria, Latin Alt-Q)"
+msgstr ""
+
+#: rules/base.xml:1720
+msgid "Kurdish (Syria, F)"
+msgstr ""
+
+#. Keyboard indicator for Azerbaijani layouts
+#: rules/base.xml:1732
+msgid "az"
+msgstr "آذ"
+
+#: rules/base.xml:1733
+msgid "Azerbaijani"
+msgstr "آذربایجانی"
+
+#: rules/base.xml:1745
+msgid "Azerbaijani (Cyrillic)"
+msgstr "آذربایجانی (سریلیک)"
+
+#. Keyboard indicator for Bambara layouts
+#: rules/base.xml:1754
+msgid "bm"
+msgstr ""
+
+#: rules/base.xml:1755
+msgid "Bambara"
+msgstr ""
+
+#: rules/base.xml:1769
+msgid "French (Mali, alt.)"
+msgstr ""
+
+#. Keyboard indicator for English layouts
+#: rules/base.xml:1779 rules/base.xml:1790 rules/base.xml:2580
+#: rules/base.xml:2707 rules/base.xml:2801 rules/base.xml:2828
+#: rules/base.xml:2877 rules/base.xml:2891 rules/base.xml:2981
+#: rules/base.xml:3619 rules/base.xml:4383 rules/base.xml:5923
+#: rules/base.extras.xml:404 rules/base.extras.xml:1586
+msgid "en"
+msgstr ""
+
+#: rules/base.xml:1780
+msgid "English (Mali, US, Macintosh)"
+msgstr ""
+
+#: rules/base.xml:1791
+msgid "English (Mali, US, intl.)"
+msgstr ""
+
+#. Keyboard indicator for Bangla layouts
+#: rules/base.xml:1803 rules/base.xml:4303 rules/base.xml:4316
+msgid "bn"
+msgstr ""
+
+#: rules/base.xml:1804
+msgid "Bangla"
+msgstr ""
+
+#: rules/base.xml:1818
+msgid "Bangla (Probhat)"
+msgstr ""
+
+#. Keyboard indicator for Belarusian layouts
+#: rules/base.xml:1827
+msgid "by"
+msgstr ""
+
+#: rules/base.xml:1828
+msgid "Belarusian"
+msgstr ""
+
+#: rules/base.xml:1840
+msgid "Belarusian (legacy)"
+msgstr ""
+
+#: rules/base.xml:1846
+msgid "Belarusian (Latin)"
+msgstr ""
+
+#: rules/base.xml:1852
+msgid "Belarusian (intl.)"
+msgstr ""
+
+#: rules/base.xml:1858
+msgid "Belarusian (phonetic)"
+msgstr ""
+
+#: rules/base.xml:1864
+msgid "Russian (Belarus)"
+msgstr ""
+
+#. Keyboard indicator for Belgian layouts
+#: rules/base.xml:1876 rules/base.extras.xml:998
+msgid "be"
+msgstr ""
+
+#: rules/base.xml:1877 rules/base.extras.xml:999
+msgid "Belgian"
+msgstr ""
+
+#: rules/base.xml:1891
+msgid "Belgian (alt.)"
+msgstr ""
+
+#: rules/base.xml:1897
+msgid "Belgian (Latin-9 only, alt.)"
+msgstr ""
+
+#: rules/base.xml:1903
+msgid "Belgian (ISO, alt.)"
+msgstr ""
+
+#: rules/base.xml:1909
+msgid "Belgian (no dead keys)"
+msgstr ""
+
+#: rules/base.xml:1915
+msgid "Belgian (Wang 724 AZERTY)"
+msgstr ""
+
+#. Keyboard indicator for Kabyle layouts
+#: rules/base.xml:1924 rules/base.xml:1938 rules/base.xml:1948
+#: rules/base.xml:1958 rules/base.xml:1968
+msgid "kab"
+msgstr ""
+
+#: rules/base.xml:1925
+msgid "Berber (Algeria, Latin)"
+msgstr ""
+
+#: rules/base.xml:1939
+msgid "Berber (Algeria, Tifinagh)"
+msgstr ""
+
+#: rules/base.xml:1949
+msgid "Kabyle (AZERTY, with dead keys)"
+msgstr ""
+
+#: rules/base.xml:1959
+msgid "Kabyle (QWERTY, UK, with dead keys)"
+msgstr ""
+
+#: rules/base.xml:1969
+msgid "Kabyle (QWERTY, US, with dead keys)"
+msgstr ""
+
+#: rules/base.xml:1980
+msgid "Arabic (Algeria)"
+msgstr ""
+
+#. Keyboard indicator for Bosnian layouts
+#: rules/base.xml:1992
+msgid "bs"
+msgstr ""
+
+#: rules/base.xml:1993
+msgid "Bosnian"
+msgstr ""
+
+#: rules/base.xml:2005
+msgid "Bosnian (with guillemets)"
+msgstr ""
+
+#: rules/base.xml:2011
+msgid "Bosnian (with Bosnian digraphs)"
+msgstr ""
+
+#: rules/base.xml:2017
+msgid "Bosnian (US, with Bosnian digraphs)"
+msgstr ""
+
+#: rules/base.xml:2023
+msgid "Bosnian (US)"
+msgstr ""
+
+#. Keyboard indicator for Braille layouts
+#: rules/base.xml:2032
+msgid "brl"
+msgstr "بر"
+
+#: rules/base.xml:2033
+msgid "Braille"
+msgstr "بریل"
+
+#: rules/base.xml:2039
+msgid "Braille (left-handed)"
+msgstr "بریل (چپ دست)"
+
+#: rules/base.xml:2045
+msgid "Braille (left-handed inverted thumb)"
+msgstr "بریل (چپ دست با شست معکوس)"
+
+#: rules/base.xml:2051
+msgid "Braille (right-handed)"
+msgstr "بریل (راست دست)"
+
+#: rules/base.xml:2057
+msgid "Braille (right-handed inverted thumb)"
+msgstr "بریل (راست دست با شست معکوس)"
+
+#. Keyboard indicator for Bulgarian layouts
+#: rules/base.xml:2066
+msgid "bg"
+msgstr ""
+
+#: rules/base.xml:2067
+msgid "Bulgarian"
+msgstr ""
+
+#: rules/base.xml:2079
+msgid "Bulgarian (traditional phonetic)"
+msgstr ""
+
+#: rules/base.xml:2085
+msgid "Bulgarian (new phonetic)"
+msgstr ""
+
+#: rules/base.xml:2091
+msgid "Bulgarian (enhanced)"
+msgstr ""
+
+#. Keyboard indicator for Burmese layouts
+#: rules/base.xml:2100
+msgid "my"
+msgstr ""
+
+#: rules/base.xml:2101
+msgid "Burmese"
+msgstr ""
+
+#: rules/base.xml:2113
+msgid "my-zwg"
+msgstr ""
+
+#: rules/base.xml:2114
+msgid "Burmese (Zawgyi)"
+msgstr ""
+
+#. Keyboard indicator for Mon layouts
+#: rules/base.xml:2124 rules/base.xml:2136
+msgid "mnw"
+msgstr ""
+
+#: rules/base.xml:2125
+msgid "Mon"
+msgstr ""
+
+#: rules/base.xml:2137
+msgid "Mon (A1)"
+msgstr ""
+
+#. Keyboard indicator for Shan layouts
+#: rules/base.xml:2147
+msgid "shn"
+msgstr ""
+
+#: rules/base.xml:2148
+msgid "Shan"
+msgstr ""
+
+#: rules/base.xml:2158
+msgid "shn-zwg"
+msgstr ""
+
+#: rules/base.xml:2159
+msgid "Shan (Zawgyi)"
+msgstr ""
+
+#. Keyboard indicator for Chinese layouts
+#. Keyboard indicator for Taiwanese layouts
+#: rules/base.xml:2171 rules/base.xml:6490
+msgid "zh"
+msgstr ""
+
+#: rules/base.xml:2172
+msgid "Chinese"
+msgstr ""
+
+#: rules/base.xml:2184
+msgid "Hanyu Pinyin Letters (with AltGr dead keys)"
+msgstr ""
+
+#: rules/base.xml:2193
+msgid "Mongolian (Bichig)"
+msgstr ""
+
+#: rules/base.xml:2202
+msgid "Mongolian (Todo)"
+msgstr ""
+
+#: rules/base.xml:2211
+msgid "Mongolian (Xibe)"
+msgstr ""
+
+#: rules/base.xml:2220
+msgid "Mongolian (Manchu)"
+msgstr ""
+
+#: rules/base.xml:2229
+msgid "Mongolian (Galik)"
+msgstr ""
+
+#: rules/base.xml:2238
+msgid "Mongolian (Todo Galik)"
+msgstr ""
+
+#: rules/base.xml:2247
+msgid "Mongolian (Manchu Galik)"
+msgstr ""
+
+#: rules/base.xml:2256
+msgid "Tibetan"
+msgstr ""
+
+#: rules/base.xml:2265
+msgid "Tibetan (with ASCII numerals)"
+msgstr ""
+
+#. Keyboard indicator for Uigur layouts
+#: rules/base.xml:2275
+msgid "ug"
+msgstr ""
+
+#: rules/base.xml:2276
+msgid "Uyghur"
+msgstr ""
+
+#. Keyboard indicator for Croatian layouts
+#: rules/base.xml:2288
+msgid "hr"
+msgstr ""
+
+#: rules/base.xml:2289
+msgid "Croatian"
+msgstr ""
+
+#: rules/base.xml:2301
+msgid "Croatian (with guillemets)"
+msgstr ""
+
+#: rules/base.xml:2307
+msgid "Croatian (with Croatian digraphs)"
+msgstr ""
+
+#: rules/base.xml:2313
+msgid "Croatian (US, with Croatian digraphs)"
+msgstr ""
+
+#: rules/base.xml:2319
+msgid "Croatian (US)"
+msgstr ""
+
+#. Keyboard indicator for Czech layouts
+#: rules/base.xml:2328 rules/base.extras.xml:1042
+msgid "cs"
+msgstr ""
+
+#: rules/base.xml:2329 rules/base.extras.xml:1043
+msgid "Czech"
+msgstr ""
+
+#: rules/base.xml:2341
+msgid "Czech (extra backslash)"
+msgstr ""
+
+#: rules/base.xml:2347
+msgid "Czech (QWERTY)"
+msgstr ""
+
+#: rules/base.xml:2353
+msgid "Czech (QWERTY, extra backslash)"
+msgstr ""
+
+#: rules/base.xml:2359
+msgid "Czech (QWERTZ, Windows)"
+msgstr ""
+
+#: rules/base.xml:2365
+msgid "Czech (QWERTY, Windows)"
+msgstr ""
+
+#: rules/base.xml:2371
+msgid "Czech (QWERTY, Macintosh)"
+msgstr ""
+
+#: rules/base.xml:2377
+msgid "Czech (UCW, only accented letters)"
+msgstr ""
+
+#: rules/base.xml:2383
+msgid "Czech (US, Dvorak, UCW support)"
+msgstr ""
+
+#. Keyboard indicator for Russian layouts
+#: rules/base.xml:2390 rules/base.xml:3166 rules/base.xml:3724
+#: rules/base.xml:3865 rules/base.xml:5039 rules/base.xml:5706
+#: rules/base.xml:5827 rules/base.xml:5868 rules/base.xml:6477
+#: rules/base.extras.xml:225 rules/base.extras.xml:236
+#: rules/base.extras.xml:714 rules/base.extras.xml:736
+#: rules/base.extras.xml:784 rules/base.extras.xml:867
+#: rules/base.extras.xml:880
+msgid "ru"
+msgstr ""
+
+#: rules/base.xml:2391
+msgid "Russian (Czechia, phonetic)"
+msgstr ""
+
+#. Keyboard indicator for Danish layouts
+#: rules/base.xml:2403 rules/base.extras.xml:1087
+msgid "da"
+msgstr ""
+
+#: rules/base.xml:2404 rules/base.extras.xml:1088
+msgid "Danish"
+msgstr ""
+
+#: rules/base.xml:2416
+msgid "Danish (no dead keys)"
+msgstr ""
+
+#: rules/base.xml:2422
+msgid "Danish (Windows)"
+msgstr ""
+
+#: rules/base.xml:2428
+msgid "Danish (Macintosh)"
+msgstr ""
+
+#: rules/base.xml:2434
+msgid "Danish (Macintosh, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:2440
+msgid "Danish (Dvorak)"
+msgstr ""
+
+#. Keyboard indicator for Persian layouts
+#: rules/base.xml:2449 rules/base.xml:2485 rules/base.xml:5555
+msgid "fa"
+msgstr "فا"
+
+#: rules/base.xml:2450
+msgid "Dari"
+msgstr "دری"
+
+#. Keyboard indicator for Pashto layouts
+#: rules/base.xml:2463 rules/base.xml:2493
+msgid "ps"
+msgstr "پش"
+
+#: rules/base.xml:2464
+msgid "Pashto"
+msgstr "پشتو"
+
+#. Keyboard indicator for Uzbek layouts
+#: rules/base.xml:2474 rules/base.xml:2504 rules/base.xml:6836
+msgid "uz"
+msgstr "از"
+
+#: rules/base.xml:2475
+msgid "Uzbek (Afghanistan)"
+msgstr "ازبکی (افغانستان)"
+
+#: rules/base.xml:2486
+msgid "Dari (Afghanistan, OLPC)"
+msgstr "دری (افغانستان، OLPC)"
+
+#: rules/base.xml:2494
+msgid "Pashto (Afghanistan, OLPC)"
+msgstr "پشتو (افغانستان، OLPC)"
+
+#: rules/base.xml:2505
+msgid "Uzbek (Afghanistan, OLPC)"
+msgstr "ازبکی (افغانستان، OLPC)"
+
+#. Keyboard indicator for Dhivehi layouts
+#: rules/base.xml:2517
+msgid "dv"
+msgstr ""
+
+#: rules/base.xml:2518
+msgid "Dhivehi"
+msgstr ""
+
+#. Keyboard indicator for Dutch layouts
+#: rules/base.xml:2532 rules/base.extras.xml:1108
+msgid "nl"
+msgstr ""
+
+#: rules/base.xml:2533 rules/base.extras.xml:1109
+msgid "Dutch"
+msgstr ""
+
+#: rules/base.xml:2545
+msgid "Dutch (US)"
+msgstr ""
+
+#: rules/base.xml:2551
+msgid "Dutch (Macintosh)"
+msgstr ""
+
+#: rules/base.xml:2557
+msgid "Dutch (standard)"
+msgstr ""
+
+#. Keyboard indicator for Dzongkha layouts
+#: rules/base.xml:2566
+msgid "dz"
+msgstr ""
+
+#: rules/base.xml:2567
+msgid "Dzongkha"
+msgstr ""
+
+#: rules/base.xml:2581
+msgid "English (Australia)"
+msgstr ""
+
+#. Keyboard indicator for Cameroon layouts
+#: rules/base.xml:2594
+msgid "cm"
+msgstr ""
+
+#: rules/base.xml:2595
+msgid "English (Cameroon)"
+msgstr ""
+
+#: rules/base.xml:2609
+msgid "French (Cameroon)"
+msgstr ""
+
+#: rules/base.xml:2618
+msgid "Cameroon Multilingual (QWERTY, intl.)"
+msgstr ""
+
+#: rules/base.xml:2655
+msgid "Cameroon (AZERTY, intl.)"
+msgstr ""
+
+#: rules/base.xml:2692
+msgid "Cameroon (Dvorak, intl.)"
+msgstr ""
+
+#: rules/base.xml:2698
+msgid "Mmuock"
+msgstr ""
+
+#: rules/base.xml:2708
+msgid "English (Ghana)"
+msgstr ""
+
+#: rules/base.xml:2720
+msgid "English (Ghana, multilingual)"
+msgstr ""
+
+#: rules/base.xml:2726
+msgid "English (Ghana, GILLBT)"
+msgstr ""
+
+#. Keyboard indicator for Akan layouts
+#: rules/base.xml:2733
+msgid "ak"
+msgstr ""
+
+#: rules/base.xml:2734
+msgid "Akan"
+msgstr ""
+
+#. Keyboard indicator for Avatime layouts
+#: rules/base.xml:2744
+msgid "avn"
+msgstr ""
+
+#: rules/base.xml:2745
+msgid "Avatime"
+msgstr ""
+
+#. Keyboard indicator for Ewe layouts
+#: rules/base.xml:2755
+msgid "ee"
+msgstr ""
+
+#: rules/base.xml:2756
+msgid "Ewe"
+msgstr ""
+
+#. Keyboard indicator for Fula layouts
+#: rules/base.xml:2766
+msgid "ff"
+msgstr ""
+
+#: rules/base.xml:2767
+msgid "Fula"
+msgstr ""
+
+#. Keyboard indicator for Ga layouts
+#: rules/base.xml:2777
+msgid "gaa"
+msgstr ""
+
+#: rules/base.xml:2778
+msgid "Ga"
+msgstr ""
+
+#. Keyboard indicator for Hausa layouts
+#: rules/base.xml:2788 rules/base.xml:2842
+msgid "ha"
+msgstr ""
+
+#: rules/base.xml:2789
+msgid "Hausa (Ghana)"
+msgstr ""
+
+#: rules/base.xml:2802
+msgid "English (New Zealand)"
+msgstr ""
+
+#. Keyboard indicator for Maori layouts
+#: rules/base.xml:2815
+msgid "mi"
+msgstr ""
+
+#: rules/base.xml:2816
+msgid "Maori"
+msgstr ""
+
+#: rules/base.xml:2829
+msgid "English (Nigeria)"
+msgstr ""
+
+#: rules/base.xml:2843
+msgid "Hausa (Nigeria)"
+msgstr ""
+
+#. Keyboard indicator for Igbo layouts
+#: rules/base.xml:2853
+msgid "ig"
+msgstr ""
+
+#: rules/base.xml:2854
+msgid "Igbo"
+msgstr ""
+
+#. Keyboard indicator for Yoruba layouts
+#: rules/base.xml:2864
+msgid "yo"
+msgstr ""
+
+#: rules/base.xml:2865
+msgid "Yoruba"
+msgstr ""
+
+#: rules/base.xml:2878
+msgid "English (South Africa)"
+msgstr ""
+
+#: rules/base.xml:2892 rules/base.extras.xml:1587
+msgid "English (UK)"
+msgstr ""
+
+#: rules/base.xml:2904
+msgid "English (UK, extended, Windows)"
+msgstr ""
+
+#: rules/base.xml:2910
+msgid "English (UK, intl., with dead keys)"
+msgstr ""
+
+#: rules/base.xml:2916
+msgid "English (UK, Dvorak)"
+msgstr ""
+
+#: rules/base.xml:2922
+msgid "English (UK, Dvorak, with UK punctuation)"
+msgstr ""
+
+#: rules/base.xml:2928
+msgid "English (UK, Macintosh)"
+msgstr ""
+
+#: rules/base.xml:2934
+msgid "English (UK, Macintosh, intl.)"
+msgstr ""
+
+#: rules/base.xml:2940
+msgid "English (UK, Colemak)"
+msgstr ""
+
+#: rules/base.xml:2946
+msgid "English (UK, Colemak-DH)"
+msgstr ""
+
+#: rules/base.xml:2952
+msgid "gd"
+msgstr ""
+
+#: rules/base.xml:2953
+msgid "Scottish Gaelic"
+msgstr ""
+
+#. Keyboard indicator for Polish layouts
+#: rules/base.xml:2968 rules/base.xml:5638 rules/base.extras.xml:599
+msgid "pl"
+msgstr ""
+
+#: rules/base.xml:2969
+msgid "Polish (British keyboard)"
+msgstr ""
+
+#: rules/base.xml:2982 rules/base.extras.xml:405
+msgid "English (US)"
+msgstr ""
+
+#: rules/base.xml:2994
+msgid "English (US, euro on 5)"
+msgstr ""
+
+#: rules/base.xml:3000
+msgid "English (US, intl., with dead keys)"
+msgstr ""
+
+#: rules/base.xml:3006
+msgid "English (US, alt. intl.)"
+msgstr ""
+
+#: rules/base.xml:3012
+msgid "English (intl., with AltGr dead keys)"
+msgstr ""
+
+#: rules/base.xml:3023
+msgid "English (Macintosh)"
+msgstr ""
+
+#: rules/base.xml:3029
+msgid "English (Colemak)"
+msgstr ""
+
+#: rules/base.xml:3035
+msgid "English (Colemak-DH)"
+msgstr ""
+
+#: rules/base.xml:3041
+msgid "English (Colemak-DH Wide)"
+msgstr ""
+
+#: rules/base.xml:3047
+msgid "English (Colemak-DH Ortholinear)"
+msgstr ""
+
+#: rules/base.xml:3053
+msgid "English (Colemak-DH ISO)"
+msgstr ""
+
+#: rules/base.xml:3059
+msgid "English (Colemak-DH Wide ISO)"
+msgstr ""
+
+#: rules/base.xml:3065
+msgid "English (Dvorak)"
+msgstr ""
+
+#: rules/base.xml:3071
+msgid "English (Dvorak, intl., with dead keys)"
+msgstr ""
+
+#: rules/base.xml:3077
+msgid "English (Dvorak, alt. intl.)"
+msgstr ""
+
+#: rules/base.xml:3083
+msgid "English (Dvorak, left-handed)"
+msgstr ""
+
+#: rules/base.xml:3089
+msgid "English (Dvorak, right-handed)"
+msgstr ""
+
+#: rules/base.xml:3095
+msgid "English (classic Dvorak)"
+msgstr ""
+
+#: rules/base.xml:3101
+msgid "English (programmer Dvorak)"
+msgstr ""
+
+#: rules/base.xml:3107
+msgid "English (Dvorak, Macintosh)"
+msgstr ""
+
+#: rules/base.xml:3113
+msgid "English (Norman)"
+msgstr ""
+
+#: rules/base.xml:3119
+msgid "English (US, Symbolic)"
+msgstr ""
+
+#: rules/base.xml:3125
+msgid "English (Workman)"
+msgstr ""
+
+#: rules/base.xml:3131
+msgid "English (Workman, intl., with dead keys)"
+msgstr ""
+
+#: rules/base.xml:3137
+msgid "English (the divide/multiply toggle the layout)"
+msgstr ""
+
+#. Keyboard indicator for Cherokee layouts
+#: rules/base.xml:3144
+msgid "chr"
+msgstr ""
+
+#: rules/base.xml:3145
+msgid "Cherokee"
+msgstr ""
+
+#. Keyboard indicator for Hawaian layouts
+#: rules/base.xml:3155
+msgid "haw"
+msgstr ""
+
+#: rules/base.xml:3156
+msgid "Hawaiian"
+msgstr ""
+
+#: rules/base.xml:3167
+msgid "Russian (US, phonetic)"
+msgstr ""
+
+#: rules/base.xml:3176
+msgid "Serbo-Croatian (US)"
+msgstr ""
+
+#. Keyboard indicator for Esperanto layouts
+#: rules/base.xml:3192
+msgid "eo"
+msgstr ""
+
+#: rules/base.xml:3193
+msgid "Esperanto"
+msgstr ""
+
+#: rules/base.xml:3202
+msgid "Esperanto (legacy)"
+msgstr ""
+
+#. Keyboard indicator for Estonian layouts
+#: rules/base.xml:3211 rules/base.extras.xml:1129
+msgid "et"
+msgstr ""
+
+#: rules/base.xml:3212 rules/base.extras.xml:1130
+msgid "Estonian"
+msgstr ""
+
+#: rules/base.xml:3224
+msgid "Estonian (no dead keys)"
+msgstr ""
+
+#: rules/base.xml:3230
+msgid "Estonian (Dvorak)"
+msgstr ""
+
+#: rules/base.xml:3236
+msgid "Estonian (US)"
+msgstr ""
+
+#. Keyboard indicator for Faroese layouts
+#: rules/base.xml:3245
+msgid "fo"
+msgstr ""
+
+#: rules/base.xml:3246
+msgid "Faroese"
+msgstr ""
+
+#: rules/base.xml:3258
+msgid "Faroese (no dead keys)"
+msgstr ""
+
+#. Keyboard indicator for Filipino layouts
+#: rules/base.xml:3267
+msgid "ph"
+msgstr ""
+
+#: rules/base.xml:3268
+msgid "Filipino"
+msgstr ""
+
+#: rules/base.xml:3290
+msgid "Filipino (QWERTY, Baybayin)"
+msgstr ""
+
+#: rules/base.xml:3308
+msgid "Filipino (Capewell-Dvorak, Latin)"
+msgstr ""
+
+#: rules/base.xml:3314
+msgid "Filipino (Capewell-Dvorak, Baybayin)"
+msgstr ""
+
+#: rules/base.xml:3332
+msgid "Filipino (Capewell-QWERF 2006, Latin)"
+msgstr ""
+
+#: rules/base.xml:3338
+msgid "Filipino (Capewell-QWERF 2006, Baybayin)"
+msgstr ""
+
+#: rules/base.xml:3356
+msgid "Filipino (Colemak, Latin)"
+msgstr ""
+
+#: rules/base.xml:3362
+msgid "Filipino (Colemak, Baybayin)"
+msgstr ""
+
+#: rules/base.xml:3380
+msgid "Filipino (Dvorak, Latin)"
+msgstr ""
+
+#: rules/base.xml:3386
+msgid "Filipino (Dvorak, Baybayin)"
+msgstr ""
+
+#. Keyboard indicator for Finnish layouts
+#: rules/base.xml:3407 rules/base.extras.xml:1150
+msgid "fi"
+msgstr ""
+
+#: rules/base.xml:3408 rules/base.extras.xml:1151
+msgid "Finnish"
+msgstr ""
+
+#: rules/base.xml:3420
+msgid "Finnish (Windows)"
+msgstr ""
+
+#: rules/base.xml:3426
+msgid "Finnish (classic)"
+msgstr ""
+
+#: rules/base.xml:3432
+msgid "Finnish (classic, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:3438
+msgid "Finnish (Macintosh)"
+msgstr ""
+
+#: rules/base.xml:3444
+msgid "Northern Saami (Finland)"
+msgstr ""
+
+#: rules/base.xml:3457 rules/base.extras.xml:1184
+msgid "French"
+msgstr ""
+
+#: rules/base.xml:3469
+msgid "French (no dead keys)"
+msgstr ""
+
+#: rules/base.xml:3475
+msgid "French (alt.)"
+msgstr ""
+
+#: rules/base.xml:3481
+msgid "French (alt., no dead keys)"
+msgstr ""
+
+#: rules/base.xml:3487
+msgid "French (alt., Latin-9 only)"
+msgstr ""
+
+#: rules/base.xml:3493
+msgid "French (legacy, alt.)"
+msgstr ""
+
+#: rules/base.xml:3499
+msgid "French (legacy, alt., no dead keys)"
+msgstr ""
+
+#: rules/base.xml:3505
+msgid "French (AZERTY)"
+msgstr ""
+
+#: rules/base.xml:3511
+msgid "French (AZERTY, AFNOR)"
+msgstr ""
+
+#: rules/base.xml:3517
+msgid "French (BEPO)"
+msgstr ""
+
+#: rules/base.xml:3523
+msgid "French (BEPO, Latin-9 only)"
+msgstr ""
+
+#: rules/base.xml:3529
+msgid "French (BEPO, AFNOR)"
+msgstr ""
+
+#: rules/base.xml:3535
+msgid "French (Dvorak)"
+msgstr ""
+
+#: rules/base.xml:3541
+msgid "French (Macintosh)"
+msgstr ""
+
+#: rules/base.xml:3547
+msgid "French (US)"
+msgstr ""
+
+#: rules/base.xml:3553
+msgid "Breton (France)"
+msgstr ""
+
+#: rules/base.xml:3562
+msgid "Occitan"
+msgstr ""
+
+#: rules/base.xml:3571
+msgid "Georgian (France, AZERTY Tskapo)"
+msgstr ""
+
+#: rules/base.xml:3584 rules/base.extras.xml:115
+msgid "French (Canada)"
+msgstr ""
+
+#: rules/base.xml:3598
+msgid "French (Canada, Dvorak)"
+msgstr ""
+
+#: rules/base.xml:3606
+msgid "French (Canada, legacy)"
+msgstr ""
+
+#: rules/base.xml:3612
+msgid "Canadian (CSA)"
+msgstr ""
+
+#: rules/base.xml:3620
+msgid "English (Canada)"
+msgstr ""
+
+#. Keyboard indicator for Inuktikut layouts
+#: rules/base.xml:3630
+msgid "ike"
+msgstr ""
+
+#: rules/base.xml:3631
+msgid "Inuktitut"
+msgstr ""
+
+#: rules/base.xml:3644
+msgid "French (Democratic Republic of the Congo)"
+msgstr ""
+
+#: rules/base.xml:3659
+msgid "French (Togo)"
+msgstr ""
+
+#. Keyboard indicator for Georgian layouts
+#: rules/base.xml:3689
+msgid "ka"
+msgstr ""
+
+#: rules/base.xml:3690
+msgid "Georgian"
+msgstr ""
+
+#: rules/base.xml:3702
+msgid "Georgian (ergonomic)"
+msgstr ""
+
+#: rules/base.xml:3708
+msgid "Georgian (MESS)"
+msgstr ""
+
+#: rules/base.xml:3714
+msgid "Ossetian (Georgia)"
+msgstr ""
+
+#: rules/base.xml:3725
+msgid "Russian (Georgia)"
+msgstr ""
+
+#. Keyboard indicator for German layouts
+#: rules/base.xml:3737 rules/base.xml:3887 rules/base.xml:3915
+#: rules/base.xml:3930 rules/base.xml:3938 rules/base.extras.xml:149
+#: rules/base.extras.xml:1486
+msgid "de"
+msgstr ""
+
+#: rules/base.xml:3738 rules/base.extras.xml:150
+msgid "German"
+msgstr ""
+
+#: rules/base.xml:3750
+msgid "German (dead acute)"
+msgstr ""
+
+#: rules/base.xml:3756
+msgid "German (dead grave acute)"
+msgstr ""
+
+#: rules/base.xml:3762
+msgid "German (dead tilde)"
+msgstr ""
+
+#: rules/base.xml:3768
+msgid "German (no dead keys)"
+msgstr ""
+
+#: rules/base.xml:3774
+msgid "German (E1)"
+msgstr ""
+
+#: rules/base.xml:3780
+msgid "German (E2)"
+msgstr ""
+
+#: rules/base.xml:3786
+msgid "German (T3)"
+msgstr ""
+
+#: rules/base.xml:3792
+msgid "German (US)"
+msgstr ""
+
+#: rules/base.xml:3798
+msgid "German (Dvorak)"
+msgstr ""
+
+#: rules/base.xml:3804
+msgid "German (Macintosh)"
+msgstr ""
+
+#: rules/base.xml:3810
+msgid "German (Macintosh, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:3816
+msgid "German (Neo 2)"
+msgstr ""
+
+#: rules/base.xml:3822
+msgid "German (QWERTY)"
+msgstr ""
+
+#: rules/base.xml:3828
+msgid "Lower Sorbian"
+msgstr ""
+
+#: rules/base.xml:3837
+msgid "Lower Sorbian (QWERTZ)"
+msgstr ""
+
+#: rules/base.xml:3846
+msgid "Romanian (Germany)"
+msgstr ""
+
+#: rules/base.xml:3855
+msgid "Romanian (Germany, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:3866
+msgid "Russian (Germany, phonetic)"
+msgstr ""
+
+#: rules/base.xml:3875
+msgid "Turkish (Germany)"
+msgstr ""
+
+#: rules/base.xml:3888
+msgid "German (Austria)"
+msgstr ""
+
+#: rules/base.xml:3900
+msgid "German (Austria, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:3906
+msgid "German (Austria, Macintosh)"
+msgstr ""
+
+#: rules/base.xml:3916 rules/base.extras.xml:1487
+msgid "German (Switzerland)"
+msgstr ""
+
+#: rules/base.xml:3931
+msgid "German (Switzerland, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:3939
+msgid "German (Switzerland, Macintosh)"
+msgstr ""
+
+#: rules/base.xml:3945
+msgid "German (Switzerland, legacy)"
+msgstr ""
+
+#: rules/base.xml:3953
+msgid "French (Switzerland)"
+msgstr ""
+
+#: rules/base.xml:3964
+msgid "French (Switzerland, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:3975
+msgid "French (Switzerland, Macintosh)"
+msgstr ""
+
+#. Keyboard indicator for Greek layouts
+#: rules/base.xml:3987 rules/base.extras.xml:1216
+msgid "gr"
+msgstr ""
+
+#: rules/base.xml:3988 rules/base.extras.xml:1217
+msgid "Greek"
+msgstr ""
+
+#: rules/base.xml:4000
+msgid "Greek (simple)"
+msgstr ""
+
+#: rules/base.xml:4006
+msgid "Greek (no dead keys)"
+msgstr ""
+
+#: rules/base.xml:4012
+msgid "Greek (polytonic)"
+msgstr ""
+
+#. Keyboard indicator for Hebrew layouts
+#: rules/base.xml:4021 rules/base.extras.xml:917
+msgid "he"
+msgstr ""
+
+#: rules/base.xml:4022 rules/base.extras.xml:918
+msgid "Hebrew"
+msgstr ""
+
+#: rules/base.xml:4034
+msgid "Hebrew (SI-1452-2)"
+msgstr ""
+
+#: rules/base.xml:4040
+msgid "Hebrew (lyx)"
+msgstr ""
+
+#: rules/base.xml:4046
+msgid "Hebrew (phonetic)"
+msgstr ""
+
+#: rules/base.xml:4052
+msgid "Hebrew (Biblical, Tiro)"
+msgstr ""
+
+#. Keyboard indicator for Hungarian layouts
+#: rules/base.xml:4061 rules/base.extras.xml:273
+msgid "hu"
+msgstr ""
+
+#: rules/base.xml:4062 rules/base.extras.xml:274
+msgid "Hungarian"
+msgstr ""
+
+#: rules/base.xml:4074
+msgid "Hungarian (standard)"
+msgstr ""
+
+#: rules/base.xml:4080
+msgid "Hungarian (no dead keys)"
+msgstr ""
+
+#: rules/base.xml:4086
+msgid "Hungarian (QWERTY)"
+msgstr ""
+
+#: rules/base.xml:4092
+msgid "Hungarian (QWERTZ, 101-key, comma, dead keys)"
+msgstr ""
+
+#: rules/base.xml:4098
+msgid "Hungarian (QWERTZ, 101-key, comma, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:4104
+msgid "Hungarian (QWERTZ, 101-key, dot, dead keys)"
+msgstr ""
+
+#: rules/base.xml:4110
+msgid "Hungarian (QWERTZ, 101-key, dot, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:4116
+msgid "Hungarian (QWERTY, 101-key, comma, dead keys)"
+msgstr ""
+
+#: rules/base.xml:4122
+msgid "Hungarian (QWERTY, 101-key, comma, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:4128
+msgid "Hungarian (QWERTY, 101-key, dot, dead keys)"
+msgstr ""
+
+#: rules/base.xml:4134
+msgid "Hungarian (QWERTY, 101-key, dot, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:4140
+msgid "Hungarian (QWERTZ, 102-key, comma, dead keys)"
+msgstr ""
+
+#: rules/base.xml:4146
+msgid "Hungarian (QWERTZ, 102-key, comma, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:4152
+msgid "Hungarian (QWERTZ, 102-key, dot, dead keys)"
+msgstr ""
+
+#: rules/base.xml:4158
+msgid "Hungarian (QWERTZ, 102-key, dot, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:4164
+msgid "Hungarian (QWERTY, 102-key, comma, dead keys)"
+msgstr ""
+
+#: rules/base.xml:4170
+msgid "Hungarian (QWERTY, 102-key, comma, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:4176
+msgid "Hungarian (QWERTY, 102-key, dot, dead keys)"
+msgstr ""
+
+#: rules/base.xml:4182
+msgid "Hungarian (QWERTY, 102-key, dot, no dead keys)"
+msgstr ""
+
+#. Keyboard indicator for Icelandic layouts
+#: rules/base.xml:4191
+msgid "is"
+msgstr ""
+
+#: rules/base.xml:4192
+msgid "Icelandic"
+msgstr ""
+
+#: rules/base.xml:4204
+msgid "Icelandic (Macintosh, legacy)"
+msgstr ""
+
+#: rules/base.xml:4210
+msgid "Icelandic (Macintosh)"
+msgstr ""
+
+#: rules/base.xml:4216
+msgid "Icelandic (Dvorak)"
+msgstr ""
+
+#. Keyboard indicator for Indian layouts
+#: rules/base.xml:4225 rules/base.extras.xml:1703
+msgid "in"
+msgstr ""
+
+#: rules/base.xml:4226 rules/base.extras.xml:1704
+msgid "Indian"
+msgstr ""
+
+#. Keyboard indicator for Assamese layouts
+#: rules/base.xml:4292
+msgid "as"
+msgstr ""
+
+#: rules/base.xml:4293
+msgid "Assamese (KaGaPa, phonetic)"
+msgstr ""
+
+#: rules/base.xml:4304
+msgid "Bangla (India)"
+msgstr ""
+
+#: rules/base.xml:4317
+msgid "Bangla (India, Probhat)"
+msgstr ""
+
+#: rules/base.xml:4328
+msgid "Bangla (India, Baishakhi)"
+msgstr ""
+
+#: rules/base.xml:4339
+msgid "Bangla (India, Bornona)"
+msgstr ""
+
+#: rules/base.xml:4350
+msgid "Bangla (India, KaGaPa, phonetic)"
+msgstr ""
+
+#: rules/base.xml:4360
+msgid "Bangla (India, Gitanjali)"
+msgstr ""
+
+#: rules/base.xml:4371
+msgid "Bangla (India, Baishakhi InScript)"
+msgstr ""
+
+#: rules/base.xml:4384
+msgid "English (India, with rupee)"
+msgstr ""
+
+#. Keyboard indicator for Gujarati layouts
+#: rules/base.xml:4394 rules/base.xml:4405
+msgid "gu"
+msgstr ""
+
+#: rules/base.xml:4395
+msgid "Gujarati"
+msgstr ""
+
+#: rules/base.xml:4406
+msgid "Gujarati (KaGaPa, phonetic)"
+msgstr ""
+
+#. Keyboard indicator for Hindi layouts
+#: rules/base.xml:4416 rules/base.xml:4427 rules/base.xml:4438
+msgid "hi"
+msgstr ""
+
+#: rules/base.xml:4417
+msgid "Hindi (Bolnagri)"
+msgstr ""
+
+#: rules/base.xml:4428
+msgid "Hindi (Wx)"
+msgstr ""
+
+#: rules/base.xml:4439
+msgid "Hindi (KaGaPa, phonetic)"
+msgstr ""
+
+#. Keyboard indicator for Kannada layouts
+#: rules/base.xml:4449 rules/base.xml:4460
+msgid "kn"
+msgstr ""
+
+#: rules/base.xml:4450
+msgid "Kannada"
+msgstr ""
+
+#: rules/base.xml:4461
+msgid "Kannada (KaGaPa, phonetic)"
+msgstr ""
+
+#. Keyboard indicator for Malayalam layouts
+#: rules/base.xml:4471 rules/base.xml:4482 rules/base.xml:4493
+#: rules/base.xml:4504
+msgid "ml"
+msgstr ""
+
+#: rules/base.xml:4472
+msgid "Malayalam"
+msgstr ""
+
+#: rules/base.xml:4483
+msgid "Malayalam (Lalitha)"
+msgstr ""
+
+#: rules/base.xml:4494
+msgid "Malayalam (enhanced InScript, with rupee)"
+msgstr ""
+
+#: rules/base.xml:4505
+msgid "Malayalam (Poorna, extended InScript)"
+msgstr ""
+
+#: rules/base.xml:4514
+msgid "Manipuri (Meitei)"
+msgstr ""
+
+#. Keyboard indicator for Marathi layouts
+#: rules/base.xml:4524 rules/base.extras.xml:1769
+msgid "mr"
+msgstr ""
+
+#: rules/base.xml:4525
+msgid "Marathi (KaGaPa, phonetic)"
+msgstr ""
+
+#: rules/base.xml:4534
+msgid "Marathi (enhanced InScript)"
+msgstr ""
+
+#. Keyboard indicator for Oriya layouts
+#: rules/base.xml:4544 rules/base.xml:4557 rules/base.xml:4570
+msgid "or"
+msgstr ""
+
+#: rules/base.xml:4545
+msgid "Oriya"
+msgstr ""
+
+#: rules/base.xml:4558
+msgid "Oriya (Bolnagri)"
+msgstr ""
+
+#: rules/base.xml:4571
+msgid "Oriya (Wx)"
+msgstr ""
+
+#. Keyboard indicator for Punjabi layouts
+#: rules/base.xml:4583 rules/base.xml:4594
+msgid "pa"
+msgstr ""
+
+#: rules/base.xml:4584
+msgid "Punjabi (Gurmukhi)"
+msgstr ""
+
+#: rules/base.xml:4595
+msgid "Punjabi (Gurmukhi Jhelum)"
+msgstr ""
+
+#. Keyboard indicator for Sanskrit layouts
+#: rules/base.xml:4605
+msgid "sa"
+msgstr ""
+
+#: rules/base.xml:4606
+msgid "Sanskrit (KaGaPa, phonetic)"
+msgstr ""
+
+#. Keyboard indicator for Santali layouts
+#: rules/base.xml:4616
+msgid "sat"
+msgstr ""
+
+#: rules/base.xml:4617
+msgid "Santali (Ol Chiki)"
+msgstr ""
+
+#. Keyboard indicator for Tamil layouts
+#: rules/base.xml:4628 rules/base.xml:4639 rules/base.xml:4650
+#: rules/base.xml:4661 rules/base.xml:4672 rules/base.xml:4683
+#: rules/base.xml:6164
+msgid "ta"
+msgstr ""
+
+#: rules/base.xml:4629
+msgid "Tamil (TamilNet '99)"
+msgstr ""
+
+#: rules/base.xml:4640
+msgid "Tamil (TamilNet '99 with Tamil numerals)"
+msgstr ""
+
+#: rules/base.xml:4651
+msgid "Tamil (TamilNet '99, TAB encoding)"
+msgstr ""
+
+#: rules/base.xml:4662
+msgid "Tamil (TamilNet '99, TSCII encoding)"
+msgstr ""
+
+#: rules/base.xml:4673
+msgid "Tamil (InScript, with Arabic numerals)"
+msgstr ""
+
+#: rules/base.xml:4684
+msgid "Tamil (InScript, with Tamil numerals)"
+msgstr ""
+
+#. Keyboard indicator for Telugu layouts
+#: rules/base.xml:4694 rules/base.xml:4705 rules/base.xml:4716
+msgid "te"
+msgstr ""
+
+#: rules/base.xml:4695
+msgid "Telugu"
+msgstr ""
+
+#: rules/base.xml:4706
+msgid "Telugu (KaGaPa, phonetic)"
+msgstr ""
+
+#: rules/base.xml:4717
+msgid "Telugu (Sarala)"
+msgstr ""
+
+#. Keyboard indicator for Urdu layouts
+#: rules/base.xml:4727 rules/base.xml:4738 rules/base.xml:4749
+#: rules/base.xml:6786 rules/base.extras.xml:1351 rules/base.extras.xml:1789
+msgid "ur"
+msgstr "او"
+
+#: rules/base.xml:4728
+msgid "Urdu (phonetic)"
+msgstr "اوردو (شفاهی)"
+
+#: rules/base.xml:4739
+msgid "Urdu (alt. phonetic)"
+msgstr "اوردو (شفاهی جایکزین)"
+
+#: rules/base.xml:4750
+msgid "Urdu (Windows)"
+msgstr "اوردو (ویندوز)"
+
+#: rules/base.xml:4759
+msgid "Indic IPA"
+msgstr ""
+
+#. Keyboard indicator for Indonesian layouts
+#: rules/base.xml:4771
+msgid "id"
+msgstr ""
+
+#: rules/base.xml:4772
+msgid "Indonesian (Latin)"
+msgstr ""
+
+#: rules/base.xml:4801
+msgid "Indonesian (Arab Melayu, phonetic)"
+msgstr ""
+
+#: rules/base.xml:4807
+msgid "Indonesian (Arab Melayu, extended phonetic)"
+msgstr ""
+
+#: rules/base.xml:4813
+msgid "Indonesian (Arab Pegon, phonetic)"
+msgstr ""
+
+#: rules/base.xml:4819
+msgid "Javanese"
+msgstr ""
+
+#. Keyboard indicator for Irish layouts
+#: rules/base.xml:4828
+msgid "ie"
+msgstr ""
+
+#: rules/base.xml:4829
+msgid "Irish"
+msgstr ""
+
+#: rules/base.xml:4841
+msgid "Irish (UnicodeExpert)"
+msgstr ""
+
+#: rules/base.xml:4847
+msgid "CloGaelach"
+msgstr ""
+
+#: rules/base.xml:4856
+msgid "Ogham"
+msgstr ""
+
+#: rules/base.xml:4865
+msgid "Ogham (IS434)"
+msgstr ""
+
+#. Keyboard indicator for Italian layouts
+#: rules/base.xml:4877 rules/base.extras.xml:1243
+msgid "it"
+msgstr ""
+
+#: rules/base.xml:4878 rules/base.extras.xml:1244
+msgid "Italian"
+msgstr ""
+
+#: rules/base.xml:4890
+msgid "Italian (no dead keys)"
+msgstr ""
+
+#: rules/base.xml:4896
+msgid "Italian (Windows)"
+msgstr ""
+
+#: rules/base.xml:4902
+msgid "Italian (Macintosh)"
+msgstr ""
+
+#: rules/base.xml:4908
+msgid "Italian (US)"
+msgstr ""
+
+#: rules/base.xml:4914
+msgid "Italian (IBM 142)"
+msgstr ""
+
+#: rules/base.xml:4920
+msgid "Friulian (Italy)"
+msgstr ""
+
+#: rules/base.xml:4929
+msgid "Sicilian"
+msgstr ""
+
+#: rules/base.xml:4939
+msgid "Georgian (Italy)"
+msgstr ""
+
+#. Keyboard indicator for Japanese layouts
+#: rules/base.xml:4951 rules/base.extras.xml:1295
+msgid "ja"
+msgstr ""
+
+#: rules/base.xml:4952 rules/base.extras.xml:1296
+msgid "Japanese"
+msgstr ""
+
+#: rules/base.xml:4964
+msgid "Japanese (Kana)"
+msgstr ""
+
+#: rules/base.xml:4970
+msgid "Japanese (Kana 86)"
+msgstr ""
+
+#: rules/base.xml:4976
+msgid "Japanese (OADG 109A)"
+msgstr ""
+
+#: rules/base.xml:4982
+msgid "Japanese (Macintosh)"
+msgstr ""
+
+#: rules/base.xml:4988
+msgid "Japanese (Dvorak)"
+msgstr ""
+
+#. Keyboard indicator for Kazakh layouts
+#: rules/base.xml:4997
+msgid "kk"
+msgstr ""
+
+#: rules/base.xml:4998
+msgid "Kazakh"
+msgstr ""
+
+#: rules/base.xml:5010
+msgid "Kazakh (with Russian)"
+msgstr ""
+
+#: rules/base.xml:5020
+msgid "Kazakh (extended)"
+msgstr ""
+
+#: rules/base.xml:5029
+msgid "Kazakh (Latin)"
+msgstr ""
+
+#: rules/base.xml:5040
+msgid "Russian (Kazakhstan, with Kazakh)"
+msgstr ""
+
+#. Keyboard indicator for Khmer layouts
+#: rules/base.xml:5053
+msgid "km"
+msgstr ""
+
+#: rules/base.xml:5054
+msgid "Khmer (Cambodia)"
+msgstr ""
+
+#. Keyboard indicator for Korean layouts
+#: rules/base.xml:5068 rules/base.extras.xml:1607
+msgid "ko"
+msgstr ""
+
+#: rules/base.xml:5069 rules/base.extras.xml:1608
+msgid "Korean"
+msgstr ""
+
+#: rules/base.xml:5081
+msgid "Korean (101/104-key compatible)"
+msgstr ""
+
+#. Keyboard indicator for Kyrgyz layouts
+#. Keyboard indicator for Kikuyu layouts
+#: rules/base.xml:5090 rules/base.xml:6382
+msgid "ki"
+msgstr ""
+
+#: rules/base.xml:5091
+msgid "Kyrgyz"
+msgstr ""
+
+#: rules/base.xml:5103
+msgid "Kyrgyz (phonetic)"
+msgstr ""
+
+#. Keyboard indicator for Lao layouts
+#: rules/base.xml:5112
+msgid "lo"
+msgstr ""
+
+#: rules/base.xml:5113
+msgid "Lao"
+msgstr ""
+
+#: rules/base.xml:5125
+msgid "Lao (STEA)"
+msgstr ""
+
+#. Keyboard indicator for Latvian layouts
+#: rules/base.xml:5137 rules/base.extras.xml:329
+msgid "lv"
+msgstr ""
+
+#: rules/base.xml:5138 rules/base.extras.xml:330
+msgid "Latvian"
+msgstr ""
+
+#: rules/base.xml:5150
+msgid "Latvian (apostrophe)"
+msgstr ""
+
+#: rules/base.xml:5156
+msgid "Latvian (tilde)"
+msgstr ""
+
+#: rules/base.xml:5162
+msgid "Latvian (F)"
+msgstr ""
+
+#: rules/base.xml:5168
+msgid "Latvian (Modern Latin)"
+msgstr ""
+
+#: rules/base.xml:5174
+msgid "Latvian (Modern Cyrillic)"
+msgstr ""
+
+#: rules/base.xml:5180
+msgid "Latvian (ergonomic, ŪGJRMV)"
+msgstr ""
+
+#: rules/base.xml:5186
+msgid "Latvian (adapted)"
+msgstr ""
+
+#. Keyboard indicator for Lithuanian layouts
+#: rules/base.xml:5195 rules/base.extras.xml:302
+msgid "lt"
+msgstr ""
+
+#: rules/base.xml:5196 rules/base.extras.xml:303
+msgid "Lithuanian"
+msgstr ""
+
+#: rules/base.xml:5208
+msgid "Lithuanian (standard)"
+msgstr ""
+
+#: rules/base.xml:5214
+msgid "Lithuanian (US)"
+msgstr ""
+
+#: rules/base.xml:5220
+msgid "Lithuanian (IBM)"
+msgstr ""
+
+#: rules/base.xml:5226
+msgid "Lithuanian (LEKP)"
+msgstr ""
+
+#: rules/base.xml:5232
+msgid "Lithuanian (LEKPa)"
+msgstr ""
+
+#: rules/base.xml:5238
+msgid "Lithuanian (Ratise)"
+msgstr ""
+
+#: rules/base.xml:5244
+msgid "Samogitian"
+msgstr ""
+
+#. Keyboard indicator for Macedonian layouts
+#: rules/base.xml:5256
+msgid "mk"
+msgstr ""
+
+#: rules/base.xml:5257
+msgid "Macedonian"
+msgstr ""
+
+#: rules/base.xml:5269
+msgid "Macedonian (no dead keys)"
+msgstr ""
+
+#. Keyboard indicator for Malay layouts
+#: rules/base.xml:5278
+msgid "ms"
+msgstr ""
+
+#: rules/base.xml:5279
+msgid "Malay (Jawi, Arabic Keyboard)"
+msgstr ""
+
+#: rules/base.xml:5297
+msgid "Malay (Jawi, phonetic)"
+msgstr ""
+
+#. Keyboard indicator for Maltese layouts
+#: rules/base.xml:5306
+msgid "mt"
+msgstr ""
+
+#: rules/base.xml:5307
+msgid "Maltese"
+msgstr ""
+
+#: rules/base.xml:5319
+msgid "Maltese (US)"
+msgstr ""
+
+#: rules/base.xml:5325
+msgid "Maltese (US, with AltGr overrides)"
+msgstr ""
+
+#: rules/base.xml:5331
+msgid "Maltese (UK, with AltGr overrides)"
+msgstr ""
+
+#. Keyboard indicator for Moldavian layouts
+#. Keyboard indicator for Romanian layouts
+#: rules/base.xml:5340 rules/base.xml:5840 rules/base.extras.xml:656
+msgid "ro"
+msgstr ""
+
+#: rules/base.xml:5341
+msgid "Moldavian"
+msgstr ""
+
+#. Keyboard indicator for Gagauz layouts
+#: rules/base.xml:5354
+msgid "gag"
+msgstr ""
+
+#: rules/base.xml:5355
+msgid "Gagauz (Moldova)"
+msgstr ""
+
+#. Keyboard indicator for Mongolian layouts
+#: rules/base.xml:5367
+msgid "mn"
+msgstr ""
+
+#: rules/base.xml:5368
+msgid "Mongolian"
+msgstr ""
+
+#. Keyboard indicator for Montenegrin layouts
+#. Keyboard indicator for Serbian layouts
+#: rules/base.xml:5382 rules/base.xml:6075 rules/base.extras.xml:693
+msgid "sr"
+msgstr ""
+
+#: rules/base.xml:5383
+msgid "Montenegrin"
+msgstr ""
+
+#: rules/base.xml:5395
+msgid "Montenegrin (Cyrillic)"
+msgstr ""
+
+#: rules/base.xml:5401
+msgid "Montenegrin (Cyrillic, ZE and ZHE swapped)"
+msgstr ""
+
+#: rules/base.xml:5407
+msgid "Montenegrin (Cyrillic, with guillemets)"
+msgstr ""
+
+#: rules/base.xml:5413
+msgid "Montenegrin (Latin, Unicode)"
+msgstr ""
+
+#: rules/base.xml:5419
+msgid "Montenegrin (Latin, QWERTY)"
+msgstr ""
+
+#: rules/base.xml:5425
+msgid "Montenegrin (Latin, Unicode, QWERTY)"
+msgstr ""
+
+#: rules/base.xml:5431
+msgid "Montenegrin (Latin, with guillemets)"
+msgstr ""
+
+#. Keyboard indicator for Nepali layouts
+#: rules/base.xml:5440
+msgid "ne"
+msgstr ""
+
+#: rules/base.xml:5441
+msgid "Nepali"
+msgstr ""
+
+#. Keyboard indicator for N'Ko layouts
+#: rules/base.xml:5456
+msgid "nqo"
+msgstr ""
+
+#: rules/base.xml:5457
+msgid "N'Ko (AZERTY)"
+msgstr ""
+
+#. Keyboard indicator for Norwegian layouts
+#: rules/base.xml:5471 rules/base.extras.xml:1328
+msgid "no"
+msgstr ""
+
+#: rules/base.xml:5472 rules/base.extras.xml:1329
+msgid "Norwegian"
+msgstr ""
+
+#: rules/base.xml:5486
+msgid "Norwegian (no dead keys)"
+msgstr ""
+
+#: rules/base.xml:5492
+msgid "Norwegian (Windows)"
+msgstr ""
+
+#: rules/base.xml:5498
+msgid "Norwegian (Macintosh)"
+msgstr ""
+
+#: rules/base.xml:5504
+msgid "Norwegian (Macintosh, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:5510
+msgid "Norwegian (Colemak)"
+msgstr ""
+
+#: rules/base.xml:5516
+msgid "Norwegian (Colemak-DH)"
+msgstr ""
+
+#: rules/base.xml:5522
+msgid "Norwegian (Colemak-DH Wide)"
+msgstr ""
+
+#: rules/base.xml:5528
+msgid "Norwegian (Dvorak)"
+msgstr ""
+
+#: rules/base.xml:5534
+msgid "Northern Saami (Norway)"
+msgstr ""
+
+#: rules/base.xml:5543
+msgid "Northern Saami (Norway, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:5556
+msgid "Persian"
+msgstr "فارسی"
+
+#: rules/base.xml:5568
+msgid "Persian (with Persian keypad)"
+msgstr "فارسی (با صفحه‌رقم فارسی)"
+
+#: rules/base.xml:5574
+msgid "Persian (Windows)"
+msgstr "فارسی (ویندوز)"
+
+#. Keyboard indicator for South Azerbaijani layouts
+#: rules/base.xml:5581
+msgid "azb"
+msgstr "آذ"
+
+#: rules/base.xml:5582
+msgid "Azerbaijani (Iran)"
+msgstr "آذربایجانی (ایران)"
+
+#: rules/base.xml:5593
+msgid "Kurdish (Iran, Latin Q)"
+msgstr "کردی (ایران، لاتین Q)"
+
+#: rules/base.xml:5604
+msgid "Kurdish (Iran, Latin Alt-Q)"
+msgstr "کردی (ایران، لاتین Alt-Q)"
+
+#: rules/base.xml:5615
+msgid "Kurdish (Iran, F)"
+msgstr "کردی (ایران، F)"
+
+#: rules/base.xml:5626
+msgid "Kurdish (Iran, Arabic-Latin)"
+msgstr "کردی (ایران، لاتین-عربی)"
+
+#: rules/base.xml:5639 rules/base.extras.xml:600
+msgid "Polish"
+msgstr ""
+
+#: rules/base.xml:5651
+msgid "Polish (legacy)"
+msgstr ""
+
+#: rules/base.xml:5657
+msgid "Polish (QWERTZ)"
+msgstr ""
+
+#: rules/base.xml:5663
+msgid "Polish (Dvorak)"
+msgstr ""
+
+#: rules/base.xml:5669
+msgid "Polish (Dvorak, with Polish quotes on quotemark key)"
+msgstr ""
+
+#: rules/base.xml:5675
+msgid "Polish (Dvorak, with Polish quotes on key 1)"
+msgstr ""
+
+#: rules/base.xml:5681
+msgid "Polish (programmer Dvorak)"
+msgstr ""
+
+#: rules/base.xml:5687
+msgid "Kashubian"
+msgstr ""
+
+#: rules/base.xml:5696
+msgid "Silesian"
+msgstr ""
+
+#: rules/base.xml:5707
+msgid "Russian (Poland, phonetic Dvorak)"
+msgstr ""
+
+#. Keyboard indicator for Portuguese layouts
+#: rules/base.xml:5719 rules/base.xml:5774 rules/base.extras.xml:1021
+#: rules/base.extras.xml:1375
+msgid "pt"
+msgstr ""
+
+#: rules/base.xml:5720 rules/base.extras.xml:1376
+msgid "Portuguese"
+msgstr ""
+
+#: rules/base.xml:5732
+msgid "Portuguese (no dead keys)"
+msgstr ""
+
+#: rules/base.xml:5738
+msgid "Portuguese (Macintosh)"
+msgstr ""
+
+#: rules/base.xml:5744
+msgid "Portuguese (Macintosh, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:5750
+msgid "Portuguese (Nativo)"
+msgstr ""
+
+#: rules/base.xml:5756
+msgid "Portuguese (Nativo for US keyboards)"
+msgstr ""
+
+#: rules/base.xml:5762
+msgid "Esperanto (Portugal, Nativo)"
+msgstr ""
+
+#: rules/base.xml:5775 rules/base.extras.xml:1022
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: rules/base.xml:5787
+msgid "Portuguese (Brazil, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:5793
+msgid "Portuguese (Brazil, Dvorak)"
+msgstr ""
+
+#: rules/base.xml:5799
+msgid "Portuguese (Brazil, Nativo)"
+msgstr ""
+
+#: rules/base.xml:5805
+msgid "Portuguese (Brazil, Nativo for US keyboards)"
+msgstr ""
+
+#: rules/base.xml:5811
+msgid "Portuguese (Brazil, IBM/Lenovo ThinkPad)"
+msgstr ""
+
+#: rules/base.xml:5817
+msgid "Esperanto (Brazil, Nativo)"
+msgstr ""
+
+#: rules/base.xml:5828
+msgid "Russian (Brazil, phonetic)"
+msgstr ""
+
+#: rules/base.xml:5841 rules/base.extras.xml:657
+msgid "Romanian"
+msgstr ""
+
+#: rules/base.xml:5853
+msgid "Romanian (standard)"
+msgstr ""
+
+#: rules/base.xml:5859
+msgid "Romanian (Windows)"
+msgstr ""
+
+#: rules/base.xml:5869 rules/base.extras.xml:715
+msgid "Russian"
+msgstr ""
+
+#: rules/base.xml:5881
+msgid "Russian (phonetic)"
+msgstr ""
+
+#: rules/base.xml:5887
+msgid "Russian (phonetic, Windows)"
+msgstr ""
+
+#: rules/base.xml:5893
+msgid "Russian (phonetic, YAZHERTY)"
+msgstr ""
+
+#: rules/base.xml:5899
+msgid "Russian (phonetic, AZERTY)"
+msgstr ""
+
+#: rules/base.xml:5905
+msgid "Russian (phonetic, Dvorak)"
+msgstr ""
+
+#: rules/base.xml:5911
+msgid "Russian (typewriter)"
+msgstr ""
+
+#: rules/base.xml:5917
+msgid "Russian (engineering, RU)"
+msgstr ""
+
+#: rules/base.xml:5924
+msgid "Russian (engineering, EN)"
+msgstr ""
+
+#: rules/base.xml:5930
+msgid "Russian (legacy)"
+msgstr ""
+
+#: rules/base.xml:5936
+msgid "Russian (typewriter, legacy)"
+msgstr ""
+
+#: rules/base.xml:5942
+msgid "Russian (DOS)"
+msgstr ""
+
+#: rules/base.xml:5948
+msgid "Russian (Macintosh)"
+msgstr ""
+
+#: rules/base.xml:5954
+msgid "Abkhazian (Russia)"
+msgstr ""
+
+#: rules/base.xml:5963
+msgid "Bashkirian"
+msgstr ""
+
+#: rules/base.xml:5972
+msgid "Chuvash"
+msgstr ""
+
+#: rules/base.xml:5981
+msgid "Chuvash (Latin)"
+msgstr ""
+
+#: rules/base.xml:5990
+msgid "Kalmyk"
+msgstr ""
+
+#: rules/base.xml:5999
+msgid "Komi"
+msgstr ""
+
+#: rules/base.xml:6008
+msgid "Mari"
+msgstr ""
+
+#: rules/base.xml:6017
+msgid "Ossetian (legacy)"
+msgstr ""
+
+#: rules/base.xml:6026
+msgid "Ossetian (Windows)"
+msgstr ""
+
+#: rules/base.xml:6035
+msgid "Serbian (Russia)"
+msgstr ""
+
+#: rules/base.xml:6045
+msgid "Tatar"
+msgstr ""
+
+#: rules/base.xml:6054
+msgid "Udmurt"
+msgstr ""
+
+#: rules/base.xml:6063
+msgid "Yakut"
+msgstr ""
+
+#: rules/base.xml:6076 rules/base.extras.xml:694
+msgid "Serbian"
+msgstr ""
+
+#: rules/base.xml:6088
+msgid "Serbian (Cyrillic, with guillemets)"
+msgstr ""
+
+#: rules/base.xml:6094
+msgid "Serbian (Cyrillic, ZE and ZHE swapped)"
+msgstr ""
+
+#: rules/base.xml:6100
+msgid "Serbian (Latin)"
+msgstr ""
+
+#: rules/base.xml:6106
+msgid "Serbian (Latin, with guillemets)"
+msgstr ""
+
+#: rules/base.xml:6112
+msgid "Serbian (Latin, Unicode)"
+msgstr ""
+
+#: rules/base.xml:6118
+msgid "Serbian (Latin, QWERTY)"
+msgstr ""
+
+#: rules/base.xml:6124
+msgid "Serbian (Latin, Unicode, QWERTY)"
+msgstr ""
+
+#: rules/base.xml:6130
+msgid "Pannonian Rusyn"
+msgstr ""
+
+#. Keyboard indicator for Sinhala layouts
+#: rules/base.xml:6142 rules/base.xml:6156
+msgid "si"
+msgstr ""
+
+#: rules/base.xml:6143
+msgid "Sinhala (phonetic)"
+msgstr ""
+
+#: rules/base.xml:6157
+msgid "Sinhala (US)"
+msgstr ""
+
+#: rules/base.xml:6165
+msgid "Tamil (Sri Lanka, TamilNet '99)"
+msgstr ""
+
+#: rules/base.xml:6174
+msgid "Tamil (Sri Lanka, TamilNet '99, TAB encoding)"
+msgstr ""
+
+#. Keyboard indicator for Slovak layouts
+#: rules/base.xml:6186 rules/base.extras.xml:1402
+msgid "sk"
+msgstr ""
+
+#: rules/base.xml:6187 rules/base.extras.xml:1403
+msgid "Slovak"
+msgstr ""
+
+#: rules/base.xml:6199
+msgid "Slovak (extra backslash)"
+msgstr ""
+
+#: rules/base.xml:6205
+msgid "Slovak (QWERTY)"
+msgstr ""
+
+#: rules/base.xml:6211
+msgid "Slovak (QWERTY, extra backslash)"
+msgstr ""
+
+#. Keyboard indicator for Slovenian layouts
+#: rules/base.xml:6220
+msgid "sl"
+msgstr ""
+
+#: rules/base.xml:6221
+msgid "Slovenian"
+msgstr ""
+
+#: rules/base.xml:6233
+msgid "Slovenian (with guillemets)"
+msgstr ""
+
+#: rules/base.xml:6239
+msgid "Slovenian (US)"
+msgstr ""
+
+#. Keyboard indicator for Spanish layouts
+#: rules/base.xml:6248 rules/base.xml:6308 rules/base.extras.xml:1429
+msgid "es"
+msgstr ""
+
+#: rules/base.xml:6249 rules/base.extras.xml:1430
+msgid "Spanish"
+msgstr ""
+
+#: rules/base.xml:6261
+msgid "Spanish (no dead keys)"
+msgstr ""
+
+#: rules/base.xml:6267
+msgid "Spanish (dead tilde)"
+msgstr ""
+
+#: rules/base.xml:6273
+msgid "Spanish (Windows)"
+msgstr ""
+
+#: rules/base.xml:6279
+msgid "Spanish (Dvorak)"
+msgstr ""
+
+#: rules/base.xml:6285
+msgid "ast"
+msgstr ""
+
+#: rules/base.xml:6286
+msgid "Asturian (Spain, with bottom-dot H and L)"
+msgstr ""
+
+#: rules/base.xml:6295
+msgid "ca"
+msgstr ""
+
+#: rules/base.xml:6296
+msgid "Catalan (Spain, with middle-dot L)"
+msgstr ""
+
+#: rules/base.xml:6309
+msgid "Spanish (Latin American)"
+msgstr ""
+
+#: rules/base.xml:6341
+msgid "Spanish (Latin American, no dead keys)"
+msgstr ""
+
+#: rules/base.xml:6347
+msgid "Spanish (Latin American, dead tilde)"
+msgstr ""
+
+#: rules/base.xml:6353
+msgid "Spanish (Latin American, Dvorak)"
+msgstr ""
+
+#: rules/base.xml:6359
+msgid "Spanish (Latin American, Colemak)"
+msgstr ""
+
+#. Keyboard indicator for Swahili layouts
+#: rules/base.xml:6368 rules/base.xml:6395
+msgid "sw"
+msgstr ""
+
+#: rules/base.xml:6369
+msgid "Swahili (Kenya)"
+msgstr ""
+
+#: rules/base.xml:6383
+msgid "Kikuyu"
+msgstr ""
+
+#: rules/base.xml:6396
+msgid "Swahili (Tanzania)"
+msgstr ""
+
+#. Keyboard indicator for Swedish layouts
+#: rules/base.xml:6409 rules/base.extras.xml:1450
+msgid "sv"
+msgstr ""
+
+#: rules/base.xml:6410 rules/base.extras.xml:1451
+msgid "Swedish"
+msgstr ""
+
+#: rules/base.xml:6422
+msgid "Swedish (no dead keys)"
+msgstr ""
+
+#: rules/base.xml:6428
+msgid "Swedish (Dvorak)"
+msgstr ""
+
+#: rules/base.xml:6434
+msgid "Swedish (Dvorak, intl.)"
+msgstr ""
+
+#: rules/base.xml:6440
+msgid "Swedish (Svdvorak)"
+msgstr ""
+
+#: rules/base.xml:6446
+msgid "Swedish (Macintosh)"
+msgstr ""
+
+#: rules/base.xml:6452
+msgid "Swedish (US)"
+msgstr ""
+
+#: rules/base.xml:6458
+msgid "Swedish Sign Language"
+msgstr ""
+
+#: rules/base.xml:6467
+msgid "Northern Saami (Sweden)"
+msgstr ""
+
+#: rules/base.xml:6478
+msgid "Russian (Sweden, phonetic)"
+msgstr ""
+
+#: rules/base.xml:6491
+msgid "Taiwanese"
+msgstr ""
+
+#: rules/base.xml:6503
+msgid "Taiwanese (indigenous)"
+msgstr ""
+
+#. Keyboard indicator for Saisiyat layouts
+#: rules/base.xml:6529
+msgid "xsy"
+msgstr ""
+
+#: rules/base.xml:6530
+msgid "Saisiyat (Taiwan)"
+msgstr ""
+
+#. Keyboard indicator for Tajik layouts
+#: rules/base.xml:6542
+msgid "tg"
+msgstr ""
+
+#: rules/base.xml:6543
+msgid "Tajik"
+msgstr ""
+
+#: rules/base.xml:6555
+msgid "Tajik (legacy)"
+msgstr ""
+
+#. Keyboard indicator for Thai layouts
+#: rules/base.xml:6564
+msgid "th"
+msgstr ""
+
+#: rules/base.xml:6565
+msgid "Thai"
+msgstr ""
+
+#: rules/base.xml:6577
+msgid "Thai (TIS-820.2538)"
+msgstr ""
+
+#: rules/base.xml:6583
+msgid "Thai (Pattachote)"
+msgstr ""
+
+#. Keyboard indicator for Tswana layouts
+#: rules/base.xml:6592
+msgid "tn"
+msgstr ""
+
+#: rules/base.xml:6593
+msgid "Tswana"
+msgstr ""
+
+#. Keyboard indicator for Turkmen layouts
+#: rules/base.xml:6606
+msgid "tk"
+msgstr ""
+
+#: rules/base.xml:6607
+msgid "Turkmen"
+msgstr ""
+
+#: rules/base.xml:6619
+msgid "Turkmen (Alt-Q)"
+msgstr ""
+
+#. Keyboard indicator for Turkish layouts
+#: rules/base.xml:6628 rules/base.extras.xml:1514
+msgid "tr"
+msgstr ""
+
+#: rules/base.xml:6629 rules/base.extras.xml:1515
+msgid "Turkish"
+msgstr ""
+
+#: rules/base.xml:6641
+msgid "Turkish (F)"
+msgstr ""
+
+#: rules/base.xml:6647
+msgid "Turkish (E)"
+msgstr ""
+
+#: rules/base.xml:6653
+msgid "Turkish (Alt-Q)"
+msgstr ""
+
+#: rules/base.xml:6659
+msgid "Turkish (intl., with dead keys)"
+msgstr ""
+
+#: rules/base.xml:6667
+msgid "Kurdish (Turkey, Latin Q)"
+msgstr ""
+
+#: rules/base.xml:6678
+msgid "Kurdish (Turkey, F)"
+msgstr ""
+
+#: rules/base.xml:6689
+msgid "Kurdish (Turkey, Latin Alt-Q)"
+msgstr ""
+
+#. Keyboard indicator for Ukrainian layouts
+#: rules/base.xml:6701 rules/base.extras.xml:1565
+msgid "uk"
+msgstr ""
+
+#: rules/base.xml:6702 rules/base.extras.xml:1566
+msgid "Ukrainian"
+msgstr ""
+
+#: rules/base.xml:6714
+msgid "Ukrainian (phonetic)"
+msgstr ""
+
+#: rules/base.xml:6720
+msgid "Ukrainian (typewriter)"
+msgstr ""
+
+#: rules/base.xml:6726
+msgid "Ukrainian (Windows)"
+msgstr ""
+
+#: rules/base.xml:6732
+msgid "Ukrainian (macOS)"
+msgstr ""
+
+#: rules/base.xml:6738
+msgid "Ukrainian (legacy)"
+msgstr ""
+
+#: rules/base.xml:6744
+msgid "Ukrainian (homophonic)"
+msgstr ""
+
+#. Keyboard indicator for Crimean Tatar layouts
+#: rules/base.xml:6751 rules/base.xml:6762 rules/base.xml:6773
+#: rules/base.extras.xml:669
+msgid "crh"
+msgstr ""
+
+#: rules/base.xml:6752
+msgid "Crimean Tatar (Turkish Q)"
+msgstr ""
+
+#: rules/base.xml:6763
+msgid "Crimean Tatar (Turkish F)"
+msgstr ""
+
+#: rules/base.xml:6774
+msgid "Crimean Tatar (Turkish Alt-Q)"
+msgstr ""
+
+#: rules/base.xml:6787 rules/base.extras.xml:1352
+msgid "Urdu (Pakistan)"
+msgstr ""
+
+#: rules/base.xml:6799
+msgid "Urdu (Pakistan, CRULP)"
+msgstr ""
+
+#: rules/base.xml:6805
+msgid "Urdu (Pakistan, NLA)"
+msgstr ""
+
+#: rules/base.xml:6813
+msgid "Arabic (Pakistan)"
+msgstr ""
+
+#. Keyboard indicator for Sindhi layouts
+#: rules/base.xml:6823
+msgid "sd"
+msgstr ""
+
+#: rules/base.xml:6824
+msgid "Sindhi"
+msgstr ""
+
+#: rules/base.xml:6837
+msgid "Uzbek"
+msgstr ""
+
+#: rules/base.xml:6849
+msgid "Uzbek (Latin)"
+msgstr ""
+
+#. Keyboard indicator for Vietnamese layouts
+#: rules/base.xml:6858 rules/base.extras.xml:1629
+msgid "vi"
+msgstr ""
+
+#: rules/base.xml:6859 rules/base.extras.xml:1630
+msgid "Vietnamese"
+msgstr ""
+
+#: rules/base.xml:6871
+msgid "Vietnamese (US)"
+msgstr ""
+
+#: rules/base.xml:6880
+msgid "Vietnamese (France)"
+msgstr ""
+
+#. Keyboard indicator for Wolof layouts
+#: rules/base.xml:6892
+msgid "wo"
+msgstr ""
+
+#: rules/base.xml:6893
+msgid "Wolof"
+msgstr ""
+
+#: rules/base.xml:6906
+msgid "custom"
+msgstr "سفارشی"
+
+#: rules/base.xml:6907
+msgid "A user-defined custom Layout"
+msgstr "چینش سفارشی تعریف شده"
+
+#: rules/base.xml:6921
+msgid "Switching to another layout"
+msgstr "تعویض به چینشی دیگر"
+
+#: rules/base.xml:6926
+msgid "Right Alt (while pressed)"
+msgstr "دگرساز راست (هنگام فشردن)"
+
+#: rules/base.xml:6932
+msgid "Left Alt (while pressed)"
+msgstr "دگرساز چپ (هنگام فشردن)"
+
+#: rules/base.xml:6938
+msgid "Left Win (while pressed)"
+msgstr "سوپر چپ (هنگام فشردن)"
+
+#: rules/base.xml:6944
+msgid "Right Win (while pressed)"
+msgstr "سوپر راست (هنگام فشردن)"
+
+#: rules/base.xml:6950
+msgid "Any Win (while pressed)"
+msgstr "هر سوپری (هنگام فشردن)"
+
+#: rules/base.xml:6956
+msgid "Menu (while pressed), Shift+Menu for Menu"
+msgstr "فهرست (هنگام فشردن)، تبدیل+فهرست برای فهرست"
+
+#: rules/base.xml:6962
+msgid "Caps Lock (while pressed), Alt+Caps Lock for the original Caps Lock action"
+msgstr "قفل تبدیل (هنگام فشردن)، دگرساز+قفل تبدیل برای کنش اصلی قفل تبدیل"
+
+#: rules/base.xml:6968
+msgid "Right Ctrl (while pressed)"
+msgstr "مهار راست (هنگام فشردن)"
+
+#: rules/base.xml:6974 rules/base.xml:7229 rules/base.xml:7729
+msgid "Right Alt"
+msgstr "دگرساز راست"
+
+#: rules/base.xml:6980 rules/base.xml:7223
+msgid "Left Alt"
+msgstr "دگرساز چپ"
+
+#: rules/base.xml:6986 rules/base.xml:7253 rules/base.xml:7386
+#: rules/base.xml:7795
+msgid "Caps Lock"
+msgstr "قفل تبدیل"
+
+#: rules/base.xml:6992
+msgid "Shift+Caps Lock"
+msgstr "تبدیل+قفل تبدیل"
+
+#: rules/base.xml:6998
+msgid "Caps Lock to first layout; Shift+Caps Lock to second layout"
+msgstr "قفل تبدیل برای نخستین چینش؛ تبدیل+قفل تبدیل برای چینش دوم"
+
+#: rules/base.xml:7004
+msgid "Left Win to first layout; Right Win/Menu to second layout"
+msgstr "سوپر چپ برای نخستین چینش؛ سوپر راست یا فهرست برای چینش دوم"
+
+#: rules/base.xml:7010
+msgid "Left Ctrl to first layout; Right Ctrl to second layout"
+msgstr "مهار چپ برای نخستین چینش؛ مهار راست برای چینش دوم"
+
+#: rules/base.xml:7016
+msgid "Alt+Caps Lock"
+msgstr "دگرساز+قفل تبدیل"
+
+#: rules/base.xml:7022
+msgid "Both Shifts together"
+msgstr "هر دو تبدیل با هم"
+
+#: rules/base.xml:7028
+msgid "Both Alts together"
+msgstr "هر دو دگرساز با هم"
+
+#: rules/base.xml:7034
+msgid "Both Alts together; AltGr alone chooses third level"
+msgstr "هر دو دگرساز با هم؛ دگرساز راست خالی برای گزینش سطح سوم"
+
+#: rules/base.xml:7040
+msgid "Both Ctrls together"
+msgstr "هر دو مهار با هم"
+
+#: rules/base.xml:7046
+msgid "Ctrl+Shift"
+msgstr "مهار+تبدیل"
+
+#: rules/base.xml:7052
+msgid "Left Ctrl+Left Shift"
+msgstr "مهار چپ+تبدیل چپ"
+
+#: rules/base.xml:7058
+msgid "Right Ctrl+Right Shift"
+msgstr "مهار راست+تبدیل راست"
+
+#: rules/base.xml:7064
+msgid "Alt+Ctrl"
+msgstr "دگرساز+مهار"
+
+#: rules/base.xml:7070
+msgid "Alt+Shift"
+msgstr "دگرساز+تبدیل"
+
+#: rules/base.xml:7076
+msgid "Left Alt+Left Shift"
+msgstr "دگرساز چپ+تبدیل چپ"
+
+#: rules/base.xml:7082
+msgid "Right Alt+Right Shift"
+msgstr "دگرساز راست+تبدیل راست"
+
+#: rules/base.xml:7088 rules/base.xml:7193 rules/base.xml:7759
+msgid "Menu"
+msgstr "فهرست"
+
+#: rules/base.xml:7094 rules/base.xml:7205 rules/base.xml:7735
+msgid "Left Win"
+msgstr "سوپر چپ"
+
+#: rules/base.xml:7100
+msgid "Alt+Space"
+msgstr "دگرساز+فاصله"
+
+#: rules/base.xml:7106
+msgid "Win+Space"
+msgstr "سوپر+فاصله"
+
+#: rules/base.xml:7112
+msgid "Ctrl+Space"
+msgstr "مهار+فاصله"
+
+#: rules/base.xml:7118 rules/base.xml:7211 rules/base.xml:7747
+msgid "Right Win"
+msgstr "سوپر راست"
+
+#: rules/base.xml:7124
+msgid "Left Shift"
+msgstr "تبدیل چپ"
+
+#: rules/base.xml:7130
+msgid "Right Shift"
+msgstr "تبدیل راست"
+
+#: rules/base.xml:7136 rules/base.xml:7771
+msgid "Left Ctrl"
+msgstr "مهار چپ"
+
+#: rules/base.xml:7142 rules/base.xml:7187 rules/base.xml:7783
+msgid "Right Ctrl"
+msgstr "مهار راست"
+
+#: rules/base.xml:7148 rules/base.xml:7392 rules/base.xml:7837
+msgid "Scroll Lock"
+msgstr "قفل لغزش"
+
+#: rules/base.xml:7154
+msgid "Ctrl+Left Win to first layout; Ctrl+Menu to second layout"
+msgstr "مهار+سوپر چپ برای نخستین چینش؛ مهار+فهرست برای چینش دوم"
+
+#: rules/base.xml:7160
+msgid "Left Ctrl+Left Win"
+msgstr "مهار چپ+سوپر چپ"
+
+#: rules/base.xml:7168
+msgid "Key to choose the 2nd level"
+msgstr "کلید گزینش سطح دوم"
+
+#: rules/base.xml:7173 rules/base.xml:7265 rules/base.xml:7807
+msgid "The \"&lt; &gt;\" key"
+msgstr "کلید «&lt; &gt;»"
+
+#: rules/base.xml:7182 rules/base.extras.xml:1805
+msgid "Key to choose the 3rd level"
+msgstr "کلید گزینش سطح سوم"
+
+#: rules/base.xml:7199
+msgid "Any Win"
+msgstr "هر سوپری"
+
+#: rules/base.xml:7217
+msgid "Any Alt"
+msgstr "هر دگرسازی"
+
+#: rules/base.xml:7235
+msgid "Right Alt; Shift+Right Alt as Compose"
+msgstr "دگرساز راست؛ تبدیل+دگرساز راست به عنوان ایجاد"
+
+#: rules/base.xml:7241
+msgid "Right Alt never chooses 3rd level"
+msgstr "دگرساز راست هرگز سطح سوم را برنمی‌گزیند"
+
+#: rules/base.xml:7247
+msgid "Enter on keypad"
+msgstr "ورود روی صفحه‌رقم"
+
+#: rules/base.xml:7259
+msgid "Backslash"
+msgstr "خط مورب معکوس"
+
+#: rules/base.xml:7271
+msgid "Caps Lock; acts as onetime lock when pressed together with another 3rd-level chooser"
+msgstr ""
+
+#: rules/base.xml:7277
+msgid "Backslash; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr ""
+
+#: rules/base.xml:7283
+msgid "The \"&lt; &gt;\" key; acts as onetime lock when pressed together with another 3rd level chooser"
+msgstr ""
+
+#: rules/base.xml:7291
+msgid "Ctrl position"
+msgstr "موقعیت مهار"
+
+#: rules/base.xml:7296
+msgid "Caps Lock as Ctrl"
+msgstr "قفل تبدیل به عنوان مهار"
+
+#: rules/base.xml:7302
+msgid "Left Ctrl as Meta"
+msgstr "مهار چپ به عنوان فرا"
+
+#: rules/base.xml:7308
+msgid "Swap Ctrl and Caps Lock"
+msgstr "جابه‌جایی مهار و قفل تبدیل"
+
+#: rules/base.xml:7314
+msgid "Caps Lock as Ctrl, Ctrl as Hyper"
+msgstr ""
+
+#: rules/base.xml:7320
+msgid "To the left of \"A\""
+msgstr ""
+
+#: rules/base.xml:7326
+msgid "At the bottom left"
+msgstr ""
+
+#: rules/base.xml:7332
+msgid "Right Ctrl as Right Alt"
+msgstr ""
+
+#: rules/base.xml:7338
+msgid "Menu as Right Ctrl"
+msgstr ""
+
+#: rules/base.xml:7344
+msgid "Swap Left Alt with Left Ctrl"
+msgstr ""
+
+#: rules/base.xml:7350
+msgid "Swap Right Alt with Right Ctrl"
+msgstr ""
+
+#: rules/base.xml:7356
+msgid "Swap Left Win with Left Ctrl"
+msgstr ""
+
+#: rules/base.xml:7361
+msgid "Swap Right Win with Right Ctrl"
+msgstr ""
+
+#: rules/base.xml:7367
+msgid "Left Alt as Ctrl, Left Ctrl as Win, Left Win as Left Alt"
+msgstr ""
+
+#: rules/base.xml:7375
+msgid "Use keyboard LED to show alternative layout"
+msgstr "استفاده از چراغ صفحه‌کلید برای نمایش چینش جایگزین"
+
+#: rules/base.xml:7380
+msgid "Num Lock"
+msgstr "قفل عدد"
+
+#: rules/base.xml:7400
+msgid "Use keyboard LED to indicate modifiers"
+msgstr "استفاده از چراغ صفحه‌کلید برای نمایش تغییر دهنده‌ها"
+
+#: rules/base.xml:7405
+msgid "Compose"
+msgstr "ایجاد"
+
+#: rules/base.xml:7413
+msgid "Layout of numeric keypad"
+msgstr "چینش صفحهٔ رقمی"
+
+#: rules/base.xml:7418
+msgid "Legacy"
+msgstr "قدیمی"
+
+#: rules/base.xml:7424
+msgid "Unicode arrows and math operators"
+msgstr "پیکان‌های یونی‌کد و عملگرهای ریاضی"
+
+#: rules/base.xml:7430
+msgid "Unicode arrows and math operators on default level"
+msgstr "پیکان‌های یونی‌کد و عملگرهای ریاضی در سطح پیش‌گزیده"
+
+#: rules/base.xml:7436
+msgid "Legacy Wang 724"
+msgstr "وانگ ۷۲۴ قدیمی"
+
+#: rules/base.xml:7442
+msgid "Wang 724 keypad with Unicode arrows and math operators"
+msgstr ""
+
+#: rules/base.xml:7448
+msgid "Wang 724 keypad with Unicode arrows and math operators on default level"
+msgstr ""
+
+#: rules/base.xml:7454
+msgid "Hexadecimal"
+msgstr "شانزده‌شانزدهی"
+
+#: rules/base.xml:7460
+msgid "Phone and ATM style"
+msgstr "سبک تلفن و خودپرداز"
+
+#: rules/base.xml:7469
+msgid "Numeric keypad Delete behavior"
+msgstr "رفتار حذف صفحهٔ رقمی"
+
+#: rules/base.xml:7475
+msgid "Legacy key with dot"
+msgstr "کلید قدیمی با نقطه"
+
+#. Actually, with KP_SEPARATOR, as the old keypad(comma)
+#: rules/base.xml:7482
+msgid "Legacy key with comma"
+msgstr "کلید قدیمی با کاما"
+
+#: rules/base.xml:7488
+msgid "Four-level key with dot"
+msgstr "کلید سطح چهار با نقطه"
+
+#: rules/base.xml:7494
+msgid "Four-level key with dot, Latin-9 only"
+msgstr "کلید سطح چهار با نقطه، فقط Latin-9"
+
+#: rules/base.xml:7500
+msgid "Four-level key with comma"
+msgstr "کلید سطح چهار با کاما"
+
+#: rules/base.xml:7506
+msgid "Four-level key with momayyez"
+msgstr "کلید سطح چهار با ممیّز"
+
+#. This assumes the KP_ abstract symbols are actually useful for some apps
+#. The description needs to be rewritten
+#: rules/base.xml:7514
+msgid "Four-level key with abstract separators"
+msgstr "کلید سطح چهار با جداگرهای انتزاعی"
+
+#: rules/base.xml:7520
+msgid "Semicolon on third level"
+msgstr "سمی‌کالن در سطح سوم"
+
+#: rules/base.xml:7530 rules/base.extras.xml:1826
+msgid "Caps Lock behavior"
+msgstr "رفتار قفل تبدیل"
+
+#: rules/base.xml:7535
+msgid "Caps Lock uses internal capitalization; Shift \"pauses\" Caps Lock"
+msgstr ""
+
+#: rules/base.xml:7541
+msgid "Caps Lock uses internal capitalization; Shift does not affect Caps Lock"
+msgstr ""
+
+#: rules/base.xml:7547
+msgid "Caps Lock acts as Shift with locking; Shift \"pauses\" Caps Lock"
+msgstr ""
+
+#: rules/base.xml:7553
+msgid "Caps Lock acts as Shift with locking; Shift does not affect Caps Lock"
+msgstr ""
+
+#: rules/base.xml:7559
+msgid "Caps Lock toggles normal capitalization of alphabetic characters"
+msgstr ""
+
+#: rules/base.xml:7565
+msgid "Caps Lock toggles Shift Lock (affects all keys)"
+msgstr ""
+
+#: rules/base.xml:7571
+msgid "Swap Esc and Caps Lock"
+msgstr "جابه‌جایی گریز و قفل تبدیل"
+
+#: rules/base.xml:7577
+msgid "Make Caps Lock an additional Esc"
+msgstr ""
+
+#: rules/base.xml:7583
+msgid "Make Caps Lock an additional Esc, but Shift + Caps Lock is the regular Caps Lock"
+msgstr ""
+
+#: rules/base.xml:7589
+msgid "Make Caps Lock an additional Backspace"
+msgstr ""
+
+#: rules/base.xml:7595
+msgid "Make Caps Lock an additional Super"
+msgstr ""
+
+#: rules/base.xml:7601
+msgid "Make Caps Lock an additional Hyper"
+msgstr ""
+
+#: rules/base.xml:7607
+msgid "Make Caps Lock an additional Menu key"
+msgstr ""
+
+#: rules/base.xml:7613
+msgid "Make Caps Lock an additional Num Lock"
+msgstr ""
+
+#: rules/base.xml:7619
+msgid "Make Caps Lock an additional Ctrl"
+msgstr ""
+
+#: rules/base.xml:7625
+msgid "Caps Lock is disabled"
+msgstr "قفل تبدیل از کار افتاده"
+
+#: rules/base.xml:7633
+msgid "Alt and Win behavior"
+msgstr "رفتار دگرساز و سوپر"
+
+#: rules/base.xml:7638
+msgid "Add the standard behavior to Menu key"
+msgstr ""
+
+#: rules/base.xml:7644
+msgid "Menu is mapped to Win"
+msgstr "نگاشت فهرست به سوپر"
+
+#: rules/base.xml:7650
+msgid "Alt and Meta are on Alt"
+msgstr "دگرساز و فرا روی دگرسازند"
+
+#: rules/base.xml:7656
+msgid "Alt is mapped to Win and the usual Alt"
+msgstr "دگرساز به سوپر و دگرساز عادی نگاشت شده"
+
+#: rules/base.xml:7662
+msgid "Ctrl is mapped to Win and the usual Ctrl"
+msgstr "مهار به سوپر و مهار عادی نگاشت شده"
+
+#: rules/base.xml:7668
+msgid "Ctrl is mapped to Right Win and the usual Ctrl"
+msgstr "مهار به سوپر راست و مهار عادی نگاشت شده"
+
+#: rules/base.xml:7674
+msgid "Ctrl is mapped to Alt, Alt to Win"
+msgstr "مهار به دگرساز و دگرساز به سپور نگاشت شده"
+
+#: rules/base.xml:7680
+msgid "Meta is mapped to Win"
+msgstr "فرا به سوپر نگاشت شده"
+
+#: rules/base.xml:7686
+msgid "Meta is mapped to Left Win"
+msgstr "فرا به سوپر چپ نگاشت شده"
+
+#: rules/base.xml:7692
+msgid "Hyper is mapped to Win"
+msgstr ""
+
+#: rules/base.xml:7698
+msgid "Alt is mapped to Right Win, Super to Menu"
+msgstr "دگرساز به سوپر راست و سوپر به فهرست تگاشت شده"
+
+#: rules/base.xml:7704
+msgid "Left Alt is swapped with Left Win"
+msgstr "دگرساز چپ با سوپر چپ جابه‌جا شده"
+
+#: rules/base.xml:7710
+msgid "Alt is swapped with Win"
+msgstr "دگرساز با سوپر جابه‌جا شده"
+
+#: rules/base.xml:7716
+msgid "Win is mapped to PrtSc and the usual Win"
+msgstr "سوپر به نماگرفت و سوپر عادی نگاشت شده"
+
+#: rules/base.xml:7724
+msgid "Position of Compose key"
+msgstr "موقعیت کلید ایجاد"
+
+#: rules/base.xml:7741
+msgid "3rd level of Left Win"
+msgstr ""
+
+#: rules/base.xml:7753
+msgid "3rd level of Right Win"
+msgstr ""
+
+#: rules/base.xml:7765
+msgid "3rd level of Menu"
+msgstr "سطح سوم فهرست"
+
+#: rules/base.xml:7777
+msgid "3rd level of Left Ctrl"
+msgstr ""
+
+#: rules/base.xml:7789
+msgid "3rd level of Right Ctrl"
+msgstr ""
+
+#: rules/base.xml:7801
+msgid "3rd level of Caps Lock"
+msgstr ""
+
+#: rules/base.xml:7813
+msgid "3rd level of the \"&lt; &gt;\" key"
+msgstr ""
+
+#: rules/base.xml:7819
+msgid "Pause"
+msgstr "مکث"
+
+#: rules/base.xml:7825
+msgid "Insert"
+msgstr "درج"
+
+#: rules/base.xml:7831
+msgid "PrtSc"
+msgstr "نماگرفت"
+
+#: rules/base.xml:7844
+msgid "Compatibility options"
+msgstr "گزینه‌های سازگاری"
+
+#: rules/base.xml:7849
+msgid "Default numeric keypad keys"
+msgstr "کلید‌های صفحهٔ رقمی پیش‌گزیده"
+
+#: rules/base.xml:7855
+msgid "Numeric keypad always enters digits (as in macOS)"
+msgstr ""
+
+#: rules/base.xml:7861
+msgid "Num Lock on: digits; Shift for arrows. Num Lock off: arrows (as in Windows)"
+msgstr ""
+
+#: rules/base.xml:7867
+msgid "Shift does not cancel Num Lock, chooses 3rd level instead"
+msgstr ""
+
+#: rules/base.xml:7873
+msgid "Special keys (Ctrl+Alt+&lt;key&gt;) handled in a server"
+msgstr ""
+
+#: rules/base.xml:7879
+msgid "Apple Aluminium emulates Pause, PrtSc, Scroll Lock"
+msgstr ""
+
+#: rules/base.xml:7885
+msgid "Japanese Apple keyboards emulate OADG109A backslash"
+msgstr ""
+
+#: rules/base.xml:7891
+msgid "Japanese Apple keyboards emulate PC106 backslash"
+msgstr ""
+
+#: rules/base.xml:7897
+msgid "Shift cancels Caps Lock"
+msgstr ""
+
+#: rules/base.xml:7903
+msgid "Enable extra typographic characters"
+msgstr ""
+
+#: rules/base.xml:7909
+msgid "Enable APL overlay characters"
+msgstr ""
+
+#: rules/base.xml:7915
+msgid "Both Shifts together enable Caps Lock"
+msgstr ""
+
+#: rules/base.xml:7921
+msgid "Both Shifts together enable Caps Lock; one Shift key disables it"
+msgstr ""
+
+#: rules/base.xml:7927
+msgid "Both Shifts together enable Shift Lock"
+msgstr ""
+
+#: rules/base.xml:7933
+msgid "Shift + Num Lock enables PointerKeys"
+msgstr ""
+
+#: rules/base.xml:7939
+msgid "Allow breaking grabs with keyboard actions (warning: security risk)"
+msgstr ""
+
+#: rules/base.xml:7945
+msgid "Allow grab and window tree logging"
+msgstr ""
+
+#: rules/base.xml:7953
+msgid "Currency signs"
+msgstr "علامت ارزها"
+
+#: rules/base.xml:7958
+msgid "Euro on E"
+msgstr "یورو روی E"
+
+#: rules/base.xml:7964
+msgid "Euro on 2"
+msgstr "یورو روی ۲"
+
+#: rules/base.xml:7970
+msgid "Euro on 4"
+msgstr "یورو روی ۴"
+
+#: rules/base.xml:7976
+msgid "Euro on 5"
+msgstr "یورو روی ۵"
+
+#: rules/base.xml:7982
+msgid "Rupee on 4"
+msgstr "روپیه روی ۴"
+
+#: rules/base.xml:7989
+msgid "Key to choose the 5th level"
+msgstr "کلید گزینش سطح پنجم"
+
+#: rules/base.xml:7994
+msgid "Caps Lock chooses 5th level"
+msgstr ""
+
+#: rules/base.xml:8000
+msgid "The \"&lt; &gt;\" key chooses 5th level"
+msgstr ""
+
+#: rules/base.xml:8006
+msgid "Right Alt chooses 5th level"
+msgstr ""
+
+#: rules/base.xml:8012
+msgid "Menu chooses 5th level"
+msgstr ""
+
+#: rules/base.xml:8018
+msgid "Right Ctrl chooses 5th level"
+msgstr ""
+
+#: rules/base.xml:8024
+msgid "The \"&lt; &gt;\" key chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr ""
+
+#: rules/base.xml:8030
+msgid "Right Alt chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr ""
+
+#: rules/base.xml:8036
+msgid "Left Win chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr ""
+
+#: rules/base.xml:8042
+msgid "Right Win chooses 5th level and acts as a one-time lock if pressed with another 5th level chooser"
+msgstr ""
+
+#: rules/base.xml:8088
+msgid "Non-breaking space input"
+msgstr "فاصلهٔ نشکن روی ورودی فاصله"
+
+#: rules/base.xml:8093
+msgid "Usual space at any level"
+msgstr ""
+
+#: rules/base.xml:8099
+msgid "Non-breaking space at the 2nd level"
+msgstr "فاصلهٔ نشکن در سطح دوم"
+
+#: rules/base.xml:8105
+msgid "Non-breaking space at the 3rd level"
+msgstr "فاصلهٔ نشکن در سطح سوم"
+
+#: rules/base.xml:8111
+msgid "Non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr ""
+
+#: rules/base.xml:8117
+msgid "Non-breaking space at the 4th level"
+msgstr "فاصلهٔ نشکن در سطح چهارم"
+
+#: rules/base.xml:8123
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level"
+msgstr ""
+
+#: rules/base.xml:8129
+msgid "Non-breaking space at the 4th level, thin non-breaking space at the 6th level (via Ctrl+Shift)"
+msgstr ""
+
+#: rules/base.xml:8135
+msgid "Zero-width non-joiner at the 2nd level"
+msgstr ""
+
+#: rules/base.xml:8141
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level"
+msgstr ""
+
+#: rules/base.xml:8147
+msgid "Zero-width non-joiner at the 2nd level, zero-width joiner at the 3rd level, non-breaking space at the 4th level"
+msgstr ""
+
+#: rules/base.xml:8153
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level"
+msgstr ""
+
+#: rules/base.xml:8159
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, zero-width joiner at the 4th level"
+msgstr ""
+
+#: rules/base.xml:8165
+msgid "Zero-width non-joiner at the 2nd level, non-breaking space at the 3rd level, thin non-breaking space at the 4th level"
+msgstr ""
+
+#: rules/base.xml:8171
+msgid "Zero-width non-joiner at the 3rd level, zero-width joiner at the 4th level"
+msgstr ""
+
+#: rules/base.xml:8178
+msgid "Japanese keyboard options"
+msgstr "گزینه‌های صفحه‌کلید ژاپنی"
+
+#: rules/base.xml:8183
+msgid "Kana Lock key is locking"
+msgstr ""
+
+#: rules/base.xml:8189
+msgid "NICOLA-F style Backspace"
+msgstr ""
+
+#: rules/base.xml:8195
+msgid "Make Zenkaku Hankaku an additional Esc"
+msgstr ""
+
+#: rules/base.xml:8202
+msgid "Korean Hangul/Hanja keys"
+msgstr "کلیدهای هانگول و هانجای کره‌ای"
+
+#: rules/base.xml:8207
+msgid "Make right Alt a Hangul key"
+msgstr ""
+
+#: rules/base.xml:8213
+msgid "Make right Ctrl a Hangul key"
+msgstr ""
+
+#: rules/base.xml:8219
+msgid "Make right Alt a Hanja key"
+msgstr ""
+
+#: rules/base.xml:8225
+msgid "Make right Ctrl a Hanja key"
+msgstr ""
+
+#: rules/base.xml:8232
+msgid "Esperanto letters with superscripts"
+msgstr "حرف‌های اسپرانتو با پایین‌نویس‌ها"
+
+#: rules/base.xml:8237
+msgid "At the corresponding key in a QWERTY layout"
+msgstr ""
+
+#: rules/base.xml:8243
+msgid "At the corresponding key in a Dvorak layout"
+msgstr ""
+
+#: rules/base.xml:8249
+msgid "At the corresponding key in a Colemak layout"
+msgstr ""
+
+#: rules/base.xml:8256
+msgid "Old Solaris keycodes compatibility"
+msgstr "سازگاری کدکلیدهای سولاریس قدیمی"
+
+#: rules/base.xml:8261
+msgid "Sun key compatibility"
+msgstr "سازگاری کلید سان"
+
+#: rules/base.xml:8268
+msgid "Key sequence to kill the X server"
+msgstr "دنبالهٔ کلیدها برای کشتن کارساز اکس"
+
+#: rules/base.xml:8273
+msgid "Ctrl+Alt+Backspace"
+msgstr "مهار+دگرساز+پس‌بر"
+
+#: rules/base.xml:8280
+msgid "Miscellaneous options"
+msgstr "سایر گزینه‌ها"
+
+#: rules/base.xml:8285
+msgid "Use user-defined custom XKB types"
+msgstr "استفاده از گونه‌های XKB سفارشی تعریف شده"
+
+#: rules/base.extras.xml:9
+msgid "xx"
+msgstr ""
+
+#: rules/base.extras.xml:10
+msgid "Ancient"
+msgstr ""
+
+#: rules/base.extras.xml:21
+msgid "Gothic"
+msgstr ""
+
+#: rules/base.extras.xml:30
+msgid "Ugaritic"
+msgstr ""
+
+#: rules/base.extras.xml:39
+msgid "Avestan"
+msgstr ""
+
+#: rules/base.extras.xml:50
+msgid "apl"
+msgstr ""
+
+#: rules/base.extras.xml:51
+msgid "APL"
+msgstr ""
+
+#: rules/base.extras.xml:60
+msgid "dlg"
+msgstr ""
+
+#: rules/base.extras.xml:61
+msgid "APL symbols (Dyalog APL)"
+msgstr ""
+
+#: rules/base.extras.xml:67
+msgid "sax"
+msgstr ""
+
+#: rules/base.extras.xml:68
+msgid "APL symbols (SAX, Sharp APL for Unix)"
+msgstr ""
+
+#: rules/base.extras.xml:74
+msgid "ufd"
+msgstr ""
+
+#: rules/base.extras.xml:75
+msgid "APL symbols (unified)"
+msgstr "نمادهای APL (ادغام شده)"
+
+#: rules/base.extras.xml:81
+msgid "apl2"
+msgstr ""
+
+#: rules/base.extras.xml:82
+msgid "APL symbols (IBM APL2)"
+msgstr ""
+
+#: rules/base.extras.xml:88
+msgid "aplII"
+msgstr ""
+
+#: rules/base.extras.xml:89
+msgid "APL symbols (Manugistics APL*PLUS II)"
+msgstr ""
+
+#: rules/base.extras.xml:95
+msgid "aplx"
+msgstr ""
+
+#: rules/base.extras.xml:96
+msgid "APL symbols (APLX unified)"
+msgstr ""
+
+#: rules/base.extras.xml:104
+msgid "bqn"
+msgstr ""
+
+#: rules/base.extras.xml:105
+msgid "BQN"
+msgstr ""
+
+#: rules/base.extras.xml:127
+msgid "kut"
+msgstr ""
+
+#: rules/base.extras.xml:128
+msgid "Kutenai"
+msgstr ""
+
+#: rules/base.extras.xml:134
+msgid "shs"
+msgstr ""
+
+#: rules/base.extras.xml:135
+msgid "Secwepemctsin"
+msgstr ""
+
+#: rules/base.extras.xml:141
+msgid "Multilingual (Canada, Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:162
+msgid "German (with Hungarian letters, no dead keys)"
+msgstr ""
+
+#: rules/base.extras.xml:172
+msgid "Polish (Germany, no dead keys)"
+msgstr ""
+
+#: rules/base.extras.xml:182
+msgid "German (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:188
+msgid "German (Aus der Neo-Welt)"
+msgstr ""
+
+#: rules/base.extras.xml:194
+msgid "German (KOY)"
+msgstr ""
+
+#: rules/base.extras.xml:200
+msgid "German (Bone)"
+msgstr ""
+
+#: rules/base.extras.xml:206
+msgid "German (Bone, eszett in the home row)"
+msgstr ""
+
+#: rules/base.extras.xml:212
+msgid "German (Neo, QWERTZ)"
+msgstr ""
+
+#: rules/base.extras.xml:218
+msgid "German (Neo, QWERTY)"
+msgstr ""
+
+#: rules/base.extras.xml:226
+msgid "Russian (Germany, recommended)"
+msgstr ""
+
+#: rules/base.extras.xml:237
+msgid "Russian (Germany, transliteration)"
+msgstr ""
+
+#: rules/base.extras.xml:261
+msgid "cop"
+msgstr ""
+
+#: rules/base.extras.xml:262
+msgid "Coptic"
+msgstr ""
+
+#: rules/base.extras.xml:286
+msgid "oldhun(lig)"
+msgstr ""
+
+#: rules/base.extras.xml:287
+msgid "Old Hungarian (for ligatures)"
+msgstr ""
+
+#: rules/base.extras.xml:293
+msgid "us"
+msgstr ""
+
+#: rules/base.extras.xml:294
+msgid "Hungarian (US)"
+msgstr ""
+
+#: rules/base.extras.xml:315
+msgid "Lithuanian (Dvorak)"
+msgstr ""
+
+#: rules/base.extras.xml:321
+msgid "Lithuanian (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:342
+msgid "Latvian (Dvorak)"
+msgstr ""
+
+#: rules/base.extras.xml:348
+msgid "Latvian (Dvorak, with Y)"
+msgstr ""
+
+#: rules/base.extras.xml:354
+msgid "Latvian (Dvorak, with minus)"
+msgstr ""
+
+#: rules/base.extras.xml:360
+msgid "Latvian (programmer Dvorak)"
+msgstr ""
+
+#: rules/base.extras.xml:366
+msgid "Latvian (programmer Dvorak, with Y)"
+msgstr ""
+
+#: rules/base.extras.xml:372
+msgid "Latvian (programmer Dvorak, with minus)"
+msgstr ""
+
+#: rules/base.extras.xml:378
+msgid "Latvian (Colemak)"
+msgstr ""
+
+#: rules/base.extras.xml:384
+msgid "Latvian (Colemak, with apostrophe)"
+msgstr ""
+
+#: rules/base.extras.xml:390
+msgid "Latvian (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:396
+msgid "Latvian (apostrophe, dead quotes)"
+msgstr ""
+
+#: rules/base.extras.xml:417
+msgid "English (US, intl., AltGr Unicode combining)"
+msgstr ""
+
+#: rules/base.extras.xml:423
+msgid "English (US, intl., AltGr Unicode combining, alt.)"
+msgstr ""
+
+#: rules/base.extras.xml:429
+msgid "Atsina"
+msgstr ""
+
+#: rules/base.extras.xml:436
+msgid "Coeur d'Alene Salish"
+msgstr ""
+
+#: rules/base.extras.xml:445
+msgid "Czech, Slovak and German (US)"
+msgstr ""
+
+#: rules/base.extras.xml:457
+msgid "Czech, Slovak, Polish, Spanish, Finnish, Swedish and German (US)"
+msgstr ""
+
+#: rules/base.extras.xml:473
+msgid "English (Drix)"
+msgstr ""
+
+#: rules/base.extras.xml:479
+msgid "German, Swedish and Finnish (US)"
+msgstr ""
+
+#: rules/base.extras.xml:491
+msgid "English (US, IBM Arabic 238_L)"
+msgstr ""
+
+#: rules/base.extras.xml:497
+msgid "English (US, Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:503
+msgid "English (Carpalx)"
+msgstr ""
+
+#: rules/base.extras.xml:509
+msgid "English (Carpalx, intl., with dead keys)"
+msgstr ""
+
+#: rules/base.extras.xml:515
+msgid "English (Carpalx, intl., with AltGr dead keys)"
+msgstr ""
+
+#: rules/base.extras.xml:521
+msgid "English (Carpalx, full optimization)"
+msgstr ""
+
+#: rules/base.extras.xml:527
+msgid "English (Carpalx, full optimization, intl., with dead keys)"
+msgstr ""
+
+#: rules/base.extras.xml:533
+msgid "English (Carpalx, full optimization, intl., with AltGr dead keys)"
+msgstr ""
+
+#: rules/base.extras.xml:539
+msgid "English (3l)"
+msgstr ""
+
+#: rules/base.extras.xml:545
+msgid "English (3l, Chromebook)"
+msgstr ""
+
+#: rules/base.extras.xml:551
+msgid "English (3l, emacs)"
+msgstr ""
+
+#: rules/base.extras.xml:557
+msgid "workman-p"
+msgstr ""
+
+#: rules/base.extras.xml:558
+msgid "English (Workman-P)"
+msgstr ""
+
+#: rules/base.extras.xml:567
+msgid "Sicilian (US keyboard)"
+msgstr ""
+
+#: rules/base.extras.xml:578
+msgid "English (Western European AltGr dead keys)"
+msgstr ""
+
+#: rules/base.extras.xml:612
+msgid "Polish (intl., with dead keys)"
+msgstr ""
+
+#: rules/base.extras.xml:618
+msgid "Polish (Colemak)"
+msgstr ""
+
+#: rules/base.extras.xml:624
+msgid "Polish (Colemak-DH)"
+msgstr ""
+
+#: rules/base.extras.xml:630
+msgid "Polish (Colemak-DH ISO)"
+msgstr ""
+
+#: rules/base.extras.xml:636
+msgid "Polish (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:642
+msgid "Polish (Glagolica)"
+msgstr ""
+
+#: rules/base.extras.xml:648
+msgid "Polish (lefty)"
+msgstr ""
+
+#: rules/base.extras.xml:670
+msgid "Crimean Tatar (Dobruja Q)"
+msgstr ""
+
+#: rules/base.extras.xml:679
+msgid "Romanian (ergonomic Touchtype)"
+msgstr ""
+
+#: rules/base.extras.xml:685
+msgid "Romanian (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:706
+msgid "Serbian (combining accents instead of dead keys)"
+msgstr ""
+
+#: rules/base.extras.xml:727
+msgid "Church Slavonic"
+msgstr ""
+
+#: rules/base.extras.xml:737
+msgid "Russian (plus Ukrainian and Belarusian letters)"
+msgstr ""
+
+#: rules/base.extras.xml:748
+msgid "Russian (Rulemak, phonetic Colemak)"
+msgstr ""
+
+#: rules/base.extras.xml:754
+msgid "Russian (phonetic, Macintosh)"
+msgstr ""
+
+#: rules/base.extras.xml:760
+msgid "Russian (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:766
+msgid "Russian (with US punctuation)"
+msgstr ""
+
+#: rules/base.extras.xml:772
+msgid "Russian (GOST 6431-75)"
+msgstr ""
+
+#: rules/base.extras.xml:778
+msgid "Russian (GOST 14289-88)"
+msgstr ""
+
+#: rules/base.extras.xml:785
+msgid "Russian (Polyglot and Reactionary)"
+msgstr ""
+
+#: rules/base.extras.xml:857
+msgid "winkeys-p"
+msgstr ""
+
+#: rules/base.extras.xml:858
+msgid "Russian (Programmer)"
+msgstr ""
+
+#: rules/base.extras.xml:868
+msgid "Russian (plus typographic symbols)"
+msgstr ""
+
+#: rules/base.extras.xml:881
+msgid "Russian (plus Tatar letters)"
+msgstr ""
+
+#: rules/base.extras.xml:909
+msgid "Armenian (OLPC, phonetic)"
+msgstr ""
+
+#: rules/base.extras.xml:930
+msgid "Hebrew (Biblical, SIL phonetic)"
+msgstr ""
+
+#: rules/base.extras.xml:972
+msgid "Arabic (Sun Type 6/7)"
+msgstr "عربی (سان نوع ۶ و ۷)"
+
+#: rules/base.extras.xml:978
+msgid "Arabic (Arabic numerals, extensions in the 4th level)"
+msgstr "عربی (رقم‌های عربی با افزونه‌هایی در سطح ۴)"
+
+#: rules/base.extras.xml:984
+msgid "Arabic (Eastern Arabic numerals, extensions in the 4th level)"
+msgstr "عربی (رقم‌های عربی شرقی با افزونه‌هایی در سطح ۴)"
+
+#: rules/base.extras.xml:990
+msgid "Arabic (ErgoArabic)"
+msgstr "عربی (اگوعربی)"
+
+#: rules/base.extras.xml:1013
+msgid "Belgian (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1034
+msgid "Portuguese (Brazil, Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1055
+msgid "Czech (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1061
+msgid "Czech (programming)"
+msgstr ""
+
+#: rules/base.extras.xml:1067
+msgid "Czech (programming, typographic)"
+msgstr ""
+
+#: rules/base.extras.xml:1073
+msgid "Czech (coder)"
+msgstr ""
+
+#: rules/base.extras.xml:1079
+msgid "Czech (US, Colemak, UCW support)"
+msgstr ""
+
+#: rules/base.extras.xml:1100
+msgid "Danish (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1121
+msgid "Dutch (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1142
+msgid "Estonian (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1163
+msgid "Finnish (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1169
+msgid "Finnish (DAS)"
+msgstr ""
+
+#: rules/base.extras.xml:1175
+msgid "Finnish (Dvorak)"
+msgstr ""
+
+#: rules/base.extras.xml:1196
+msgid "French (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1202
+msgid "French (US with dead keys, alt.)"
+msgstr ""
+
+#: rules/base.extras.xml:1208
+msgid "French (US, AZERTY)"
+msgstr ""
+
+#: rules/base.extras.xml:1229
+msgid "Greek (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1235
+msgid "Greek (Colemak)"
+msgstr ""
+
+#: rules/base.extras.xml:1256
+msgid "Italian (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1262
+msgid "it_lld"
+msgstr ""
+
+#: rules/base.extras.xml:1263
+msgid "Ladin (Italian keyboard)"
+msgstr ""
+
+#: rules/base.extras.xml:1273
+msgid "de_lld"
+msgstr ""
+
+#: rules/base.extras.xml:1274
+msgid "Ladin (German keyboard)"
+msgstr ""
+
+#: rules/base.extras.xml:1284
+msgid "Italian (Dvorak)"
+msgstr ""
+
+#: rules/base.extras.xml:1308
+msgid "Japanese (Sun Type 6)"
+msgstr ""
+
+#: rules/base.extras.xml:1314
+msgid "Japanese (Sun Type 7, PC-compatible)"
+msgstr ""
+
+#: rules/base.extras.xml:1320
+msgid "Japanese (Sun Type 7, Sun-compatible)"
+msgstr ""
+
+#: rules/base.extras.xml:1343
+msgid "Norwegian (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1364
+msgid "Urdu (Pakistan, Navees)"
+msgstr ""
+
+#: rules/base.extras.xml:1388
+msgid "Portuguese (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1394
+msgid "Portuguese (Colemak)"
+msgstr ""
+
+#: rules/base.extras.xml:1415
+msgid "Slovak (ACC layout, only accented letters)"
+msgstr ""
+
+#: rules/base.extras.xml:1421
+msgid "Slovak (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1442
+msgid "Spanish (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1463
+msgid "Swedish (Dvorak A5)"
+msgstr ""
+
+#: rules/base.extras.xml:1469
+msgid "Swedish (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1475
+msgid "Elfdalian (Sweden, with combining ogonek)"
+msgstr ""
+
+#: rules/base.extras.xml:1500
+msgid "German (Switzerland, Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1506
+msgid "French (Switzerland, Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1527
+msgid "Turkish (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1533
+msgid "Turkish (i and ı swapped)"
+msgstr ""
+
+#: rules/base.extras.xml:1539
+msgid "Old Turkic"
+msgstr ""
+
+#: rules/base.extras.xml:1545
+msgid "Old Turkic (F)"
+msgstr ""
+
+#: rules/base.extras.xml:1551
+msgid "Ottoman (Q)"
+msgstr ""
+
+#: rules/base.extras.xml:1557
+msgid "Ottoman (F)"
+msgstr ""
+
+#: rules/base.extras.xml:1578
+msgid "Ukrainian (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1599
+msgid "English (UK, Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1620
+msgid "Korean (Sun Type 6/7)"
+msgstr ""
+
+#: rules/base.extras.xml:1642
+msgid "Vietnamese (AÐERTY)"
+msgstr ""
+
+#: rules/base.extras.xml:1648
+msgid "Vietnamese (QĐERTY)"
+msgstr ""
+
+#. Keyboard indicator for European layouts
+#: rules/base.extras.xml:1657
+msgid "eu"
+msgstr ""
+
+#: rules/base.extras.xml:1658
+msgid "EurKEY (US)"
+msgstr ""
+
+#. Keyboard layouts for transcription and transliteration systems
+#: rules/base.extras.xml:1687
+msgid "ipa"
+msgstr ""
+
+#: rules/base.extras.xml:1688
+msgid "International Phonetic Alphabet"
+msgstr ""
+
+#: rules/base.extras.xml:1694
+msgid "International Phonetic Alphabet (QWERTY)"
+msgstr ""
+
+#: rules/base.extras.xml:1770
+msgid "Modi (KaGaPa, phonetic)"
+msgstr ""
+
+#: rules/base.extras.xml:1779
+msgid "sas"
+msgstr ""
+
+#: rules/base.extras.xml:1780
+msgid "Sanskrit symbols"
+msgstr "نمادهای سانسکریت"
+
+#: rules/base.extras.xml:1790
+msgid "Urdu (Navees)"
+msgstr "اوردو (نویس)"
+
+#: rules/base.extras.xml:1810
+msgid "Number key 4 when pressed in isolation"
+msgstr "کلید رقمی ۴ هنگام فشردن تنها"
+
+#: rules/base.extras.xml:1816
+msgid "Number key 9 when pressed in isolation"
+msgstr "کلید رقمی ۹ هنگام فشردن تنها"
+
+#: rules/base.extras.xml:1831
+msgid "Make Caps Lock an additional Esc, and Shift + Caps Lock is the Compose"
+msgstr "تبدیل قفل تبدیل به گریزی اضافی. تبدیل + قفل تبدیل ایجاد است"
+
+#: rules/base.extras.xml:1839
+msgid "Parentheses position"
+msgstr "موقعیت پرانتزها"
+
+#: rules/base.extras.xml:1844
+msgid "Swap with square brackets"
+msgstr "جابه‌جایی با براکت"

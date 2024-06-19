@@ -289,6 +289,20 @@
         </variant>
         <variant>
           <configItem popularity="exotic">
+            <name>oldhun_sk_sh</name>
+            <shortDescription>oldhun(SK,Sh)</shortDescription>
+            <description>Old Hungarian (Carpathian Highlands, S as Sh)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem popularity="exotic">
+            <name>oldhun_sk_sz</name>
+            <shortDescription>oldhun(SK,Sz)</shortDescription>
+            <description>Old Hungarian (Carpathian Highlands, S as Sz)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem popularity="exotic">
             <name>us</name>
             <shortDescription>us</shortDescription>
             <description>Hungarian (US)</description>

@@ -1,7 +1,7 @@
 project('xkeyboard-config',
-        version: '2.41',
+        version: '2.42',
         license: 'MIT/Expat',
-        meson_version: '>= 0.54.0')
+        meson_version: '>= 0.56.0')
 
 dir_data        = join_paths(get_option('prefix'), get_option('datadir'))
 dir_xkb_base    = join_paths(dir_data, 'X11', 'xkb')
@@ -25,12 +25,27 @@ pkgconfig.generate(
     dataonly: true,
 )
 
-# KcGST only need to be installed as-is
-foreach dir: ['compat', 'geometry', 'keycodes', 'symbols', 'types']
+# KcG.T only need to be installed as-is
+foreach dir: ['compat', 'geometry', 'keycodes', 'types']
     install_subdir(dir,
-                   exclude_files: ['Makefile.am'],
+                   exclude_files: ['custom'],
                    install_dir: dir_xkb_base)
 endforeach
+
+# symbols have a few symlinks that we need to skip
+symlinks = [
+    'caps',
+    'esperanto',
+    'grp',
+    'japan',
+    'korean',
+    'lv2',
+    'lv3',
+    'lv5',
+]
+install_subdir('symbols',
+               exclude_files: symlinks,
+               install_dir: dir_xkb_base)
 
 # Rules are a bit more complicated
 subdir('rules')
@@ -84,7 +99,7 @@ if enable_pytest
     test('pytest', pytest,
          args: pytest_args,
          env: ['XKB_CONFIG_ROOT=@0@'.format(meson.build_root())],
-         workdir: meson.source_root(),
+         workdir: meson.project_source_root(),
          timeout: 60)
 endif
 
