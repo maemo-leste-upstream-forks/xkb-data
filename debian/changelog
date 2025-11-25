@@ -1,3 +1,9 @@
+xkeyboard-config (2.42.1) unstable; urgency=medium
+
+  * Maemo Leste version with Droid 4 keyboard
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Tue, 25 Nov 2025 17:36:56 +0100
+
 xkeyboard-config (2.42-1) unstable; urgency=medium
 
   * New upstream release. (Closes: #1073540)
