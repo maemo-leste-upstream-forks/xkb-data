@@ -15,6 +15,9 @@
   applealu_jis	*			=	macintosh_vndr/apple(alukbd)+%l%(v)+macintosh_vndr/jp(mac):2
  $applealu	$macvendorlayouts	=	macintosh_vndr/apple(alukbd)+macintosh_vndr/%l%(v)
  $applealu	*			=	macintosh_vndr/apple(alukbd)+%l%(v)
+  nokiarx51	cz(qwerty)		=	nokia_vndr/rx-51(common)+nokia_vndr/rx-51(cz_qwerty)
+  nokiarx51	*			=	nokia_vndr/rx-51(common)+nokia_vndr/rx-51(%l%_v)
+  nokiasu8w	*			=	nokia_vndr/su-8w(%l)
   olpc		$olpclayouts		=	olpc+%l%(m)
   olpc		*			=	olpc+%l%(v)
   olpcm		$olpclayouts		=	olpc+%l%(m)
