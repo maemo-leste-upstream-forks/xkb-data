@@ -7,5 +7,7 @@
   applealu_jis	us			=	macintosh_vndr/apple(alukbd)+macintosh_vndr/jp(usmac)
  $applealu	$macvendorlayouts	=	macintosh_vndr/apple(alukbd)+macintosh_vndr/%l[1]%(v[1])
  $applealu	*			=	macintosh_vndr/apple(alukbd)+%l[1]%(v[1])
+  nokiarx51	cz(qwerty)		=	nokia_vndr/rx-51(common)+nokia_vndr/rx-51(cz_qwerty)
+  nokiarx51	*			=	nokia_vndr/rx-51(common)+nokia_vndr/rx-51(%l[1]%_v[1])
  $thinkpads	br			=	pc+%l[1](thinkpad)
   *		*			=	pc+%l[1]%(v[1])
